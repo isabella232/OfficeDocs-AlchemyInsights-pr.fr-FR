@@ -1,0 +1,44 @@
+---
+title: Manque de flux de travail n’a pas pu activer
+ms.author: kirks
+author: Techwriter40
+ms.date: 12/3/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
+ms.openlocfilehash: 33b92c2cae1f641b0cd88c82fd4ae5e8632d76c2
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28288776"
+---
+# <a name="missing-workflow-failed-to-activate"></a>Manque de flux de travail n’a pas pu activer
+
+Dans une collection de sites Microsoft SharePoint, vous ne pouvez pas ajouter un flux de travail réutilisable globalement (par exemple, « approbation - SharePoint 2010 ») à une liste ou une bibliothèque.
+  
+Pour résoudre ce problème, procédez comme suit : 
+  
+1. Ouvrez le site Web racine de la collection de sites dans SharePoint Designer 2013.
+  
+2. **Objets du Site**, cliquez sur **flux de travail**. 
+  
+3. Dans la section **Nouveau** du ruban de **flux de travail** , sélectionnez le **Flux de travail réutilisable**. 
+  
+4. Dans le formulaire de **Flux de travail réutilisable** , entrez le nom ** *Repair2010* **. Pour **Type de plateforme**, cliquez sur **Flux de travail SharePoint 2010**, puis cliquez sur **OK**. 
+  
+1. Dans la section **Enregistrer** du ruban de **flux de travail** , sélectionnez **Publier**. 
+  
+2. Dans la section **Gérer** du ruban de **flux de travail** , sélectionnez **Publier globalement**. Dans la boîte de dialogue de confirmation qui s’affiche, sélectionnez **OK**. 
+  
+3. Dans un navigateur web, recherchez le site Web racine de la collection de sites, puis accéder aux **Paramètres du Site** \> **Fonctionnalités de Collection de sites**. Ensuite, activer/désactiver la fonctionnalité de **flux de travail** : 
+  
+· Si la fonctionnalité est *activé* , cliquez sur **désactiver** et puis cliquez sur **Activer**. 
+  
+· Si la fonctionnalité est *désactivé* , cliquez sur **Activer**. 
+  
+Pour plus d’informations, reportez-vous à l' [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)suivant.
+  
+
