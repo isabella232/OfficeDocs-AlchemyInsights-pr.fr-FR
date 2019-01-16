@@ -1,0 +1,34 @@
+---
+title: Limites de fichier
+ms.author: toresing
+author: tomresing
+ms.date: 5/21/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
+ms.openlocfilehash: f8f763b78134d1288f2fdad93b234f54df5e8d4b
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28288067"
+---
+# <a name="file-upload-limits-in-sharepoint-online"></a>Limites de téléchargement de fichier dans SharePoint Online
+
+- Une bibliothèque peut avoir jusqu'à 30 millions de fichiers et dossiers.
+    
+- La longueur totale de l’URL, y compris le nom de fichier ne peut pas dépasser 400 caractères.
+    
+- Chaque devez fichier être inférieure à 15 Go. Fichiers joints à des éléments de liste peuvent être jusqu'à 250 Mo.
+    
+- Pour obtenir des performances optimales la synchronisation avec le nouveau client de synchronisation OneDrive, nous vous recommandons de stockant pas plus de 100 000 fichiers dans une bibliothèque. 
+    
+[Les caractères qui ne peuvent pas être utilisés dans les noms de fichiers](https://go.microsoft.com/fwlink/?linkid=866430)
+  
+[Types de fichiers qui ne peuvent pas être ajoutés à une liste ou une bibliothèque](https://go.microsoft.com/fwlink/?linkid=273757)
+  
+[Plus d’informations sur les limites de SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
+  
+
