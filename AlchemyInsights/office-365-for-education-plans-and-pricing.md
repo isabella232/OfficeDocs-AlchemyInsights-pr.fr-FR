@@ -1,0 +1,31 @@
+---
+title: Office 365 pour les plans de formation et les prix
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 4/12/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
+ms.openlocfilehash: 253de69aacf7d8f8dea19f61c876976ecc374743
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28288401"
+---
+# <a name="get-office-365-free-for-your-entire-school"></a>Obtenir Office 365 gratuitement pour votre école entière
+
+Améliorer la collaboration de la classe et l’école avec les outils de productivité libre. Vous devez vérifier que vous êtes un établissement scolaire accrédité pour tirer parti de ces offres.
+  
+- [Passez en revue les plans de formation](https://products.office.com/en-us/academic/compare-office-365-education-plans)
+    
+- [Route avec Office 365 éducation](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
+    
+- [Comparer tous les plans Office 365](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans)
+    
+
