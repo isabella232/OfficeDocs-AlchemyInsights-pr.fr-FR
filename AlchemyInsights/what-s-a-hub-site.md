@@ -1,0 +1,25 @@
+---
+title: Qu’est un site hub ?
+ms.author: clake
+author: spowriter
+manager: scotv
+ms.date: 5/17/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
+ms.openlocfilehash: 5939650651921e930e2762a1c0b41392781e9586
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28288373"
+---
+# <a name="whats-a-hub-site"></a>Qu’est un site hub ?
+
+Un site hub vous aide à organiser des sites et leur donner une structure de navigation commune et de la personnalisation. Les administrateurs globaux ou SharePoint sera en mesure de créer des sites hub et de spécifier les utilisateurs peuvent associer leurs sites du site hub. Pour plus d’informations, voir [les sites SharePoint hub d’Office 365](https://go.microsoft.com/fwlink/?linkid=869388).
+  
+
