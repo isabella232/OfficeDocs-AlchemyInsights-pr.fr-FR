@@ -1,0 +1,32 @@
+---
+title: Synchroniser les images de profil d’un utilisateur
+ms.author: ponincev
+author: ponincev
+ms.date: 11/13/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
+ms.openlocfilehash: 88652b7d27ac13cacd9e07aaec5a4a1c38243c7f
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28287693"
+---
+# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="443bf-102">Synchroniser les images de profil d’un utilisateur</span><span class="sxs-lookup"><span data-stu-id="443bf-102">Sync a user's profile picture</span></span>
+
+<span data-ttu-id="443bf-p101">La synchronisation des profils image dans SharePoint Online requiert l’action d’un utilisateur pour lancer la synchronisation de leur photo. Il n’existe aucune synchronisation automatique de photos à SharePoint Online. SharePoint Online synchronise uniquement les photos à partir d’Exchange Online, pas Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="443bf-p101">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo. There is no automatic synchronization of photos to SharePoint Online. SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
+  
+<span data-ttu-id="443bf-106">Si un utilisateur n’a jamais effectué une action qui affiche une invite une synchronisation ou qu’ils ont mis à jour leur image de profil et le nouveau une n’apparaît pas dans SharePoint Online, l’utilisateur peut avoir besoin demander à synchroniser. Voici comment cela, ils peuvent :</span><span class="sxs-lookup"><span data-stu-id="443bf-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
+  
+1. <span data-ttu-id="443bf-107">Ouvrez un navigateur web dans une session en privé ou Incognito et [accédez à Office.com](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0).</span><span class="sxs-lookup"><span data-stu-id="443bf-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.office.com%2F&amp;data=02%7C01%7C%7Cbad62c504a36446096e108d614dec653%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636719344369977864&amp;sdata=Km7ZnN8FHSouZbxOiEpQAGIKsK82SHr25uYCh3Gc%2F3s%3D&amp;reserved=0).</span></span>
+  
+2. <span data-ttu-id="443bf-108">Connectez-vous à l’aide de leur compte professionnel ou de l’école, puis cliquez sur la vignette OneDrive ou SharePoint.</span><span class="sxs-lookup"><span data-stu-id="443bf-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
+  
+[<span data-ttu-id="443bf-109">Ajouter votre photo à Office 365</span><span class="sxs-lookup"><span data-stu-id="443bf-109">Add your profile photo to Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875585)
+  
+[<span data-ttu-id="443bf-110">Informations sur la synchronisation des profils image dans Office 365</span><span class="sxs-lookup"><span data-stu-id="443bf-110">Info about profile picture synchronization in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=875586)
+  
+
