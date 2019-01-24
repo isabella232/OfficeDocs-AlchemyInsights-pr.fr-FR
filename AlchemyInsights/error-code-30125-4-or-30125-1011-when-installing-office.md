@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
 ms.openlocfilehash: 85512ad5e40cb97e8af6d9bd83d8b21bb747028c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287636"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468521"
 ---
-# <a name="solutions-for-error-30125-4-or-30125-1011"></a><span data-ttu-id="eece5-102">Solutions d’erreur 30125-4 ou 30125-1011</span><span class="sxs-lookup"><span data-stu-id="eece5-102">Solutions for error 30125-4 or 30125-1011</span></span>
+# <a name="solutions-for-error-30125-4-or-30125-1011"></a><span data-ttu-id="b445a-102">Solutions d’erreur 30125-4 ou 30125-1011</span><span class="sxs-lookup"><span data-stu-id="b445a-102">Solutions for error 30125-4 or 30125-1011</span></span>
 
-<span data-ttu-id="eece5-p101">Cette erreur peut survenir si votre programme antivirus, pare-feu, paramètres de proxy ou connexion vous empêche d’installer Office. Voici quelques éléments que vous pouvez essayer de résoudre le problème :</span><span class="sxs-lookup"><span data-stu-id="eece5-p101">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office. Here are some things you can try to fix the problem:</span></span>
+<span data-ttu-id="b445a-p101">Cette erreur peut survenir si votre programme antivirus, pare-feu, paramètres de proxy ou connexion vous empêche d’installer Office. Voici quelques éléments que vous pouvez essayer de résoudre le problème :</span><span class="sxs-lookup"><span data-stu-id="b445a-p101">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office. Here are some things you can try to fix the problem:</span></span>
   
-- <span data-ttu-id="eece5-105">Redémarrez votre ordinateur et réinstaller Office</span><span class="sxs-lookup"><span data-stu-id="eece5-105">Restart your computer and reinstall Office</span></span>
+- <span data-ttu-id="b445a-105">Redémarrez votre ordinateur et réinstaller Office</span><span class="sxs-lookup"><span data-stu-id="b445a-105">Restart your computer and reinstall Office</span></span>
     
-- <span data-ttu-id="eece5-106">Installation d’Office à l’aide du [programme d’installation Office en mode hors connexion](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)</span><span class="sxs-lookup"><span data-stu-id="eece5-106">Install Office using the [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)</span></span>
+- <span data-ttu-id="b445a-106">Installation d’Office à l’aide du [programme d’installation Office en mode hors connexion](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)</span><span class="sxs-lookup"><span data-stu-id="b445a-106">Install Office using the [Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c.aspx)</span></span>
     
-- <span data-ttu-id="eece5-107">Désactiver temporairement les paramètres de proxy</span><span class="sxs-lookup"><span data-stu-id="eece5-107">Temporarily turn off proxy settings</span></span>
+- <span data-ttu-id="b445a-107">Désactiver temporairement les paramètres de proxy</span><span class="sxs-lookup"><span data-stu-id="b445a-107">Temporarily turn off proxy settings</span></span>
     
-- <span data-ttu-id="eece5-108">Désactiver temporairement un logiciel antivirus</span><span class="sxs-lookup"><span data-stu-id="eece5-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="b445a-108">Désactiver temporairement un logiciel antivirus</span><span class="sxs-lookup"><span data-stu-id="b445a-108">Temporarily turn off antivirus software</span></span>
     
-- <span data-ttu-id="eece5-109">Désactiver temporairement le pare-feu</span><span class="sxs-lookup"><span data-stu-id="eece5-109">Temporarily turn off firewall</span></span>
+- <span data-ttu-id="b445a-109">Désactiver temporairement le pare-feu</span><span class="sxs-lookup"><span data-stu-id="b445a-109">Temporarily turn off firewall</span></span>
     
-<span data-ttu-id="eece5-110">Pour plus d’informations, voir [code d’erreur 30125-4 ou 30125-1011 lors de l’installation d’Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)</span><span class="sxs-lookup"><span data-stu-id="eece5-110">For more information see [Error code 30125-4 or 30125-1011 when installing Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)</span></span>
+<span data-ttu-id="b445a-110">Pour plus d’informations, voir [code d’erreur 30125-4 ou 30125-1011 lors de l’installation d’Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)</span><span class="sxs-lookup"><span data-stu-id="b445a-110">For more information see [Error code 30125-4 or 30125-1011 when installing Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612.aspx)</span></span>
   
 
