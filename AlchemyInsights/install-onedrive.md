@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
 ms.openlocfilehash: 8ce77ab9c63dcdc9f0e67ce15b05ca45495847b5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288227"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468631"
 ---
-# <a name="install-onedrive"></a><span data-ttu-id="44485-102">Installer OneDrive</span><span class="sxs-lookup"><span data-stu-id="44485-102">Install OneDrive</span></span>
+# <a name="install-onedrive"></a><span data-ttu-id="ca3c3-102">Installer OneDrive</span><span class="sxs-lookup"><span data-stu-id="ca3c3-102">Install OneDrive</span></span>
 
-<span data-ttu-id="44485-p101">Le client de synchronisation OneDrive est préinstallé avec Windows 10. Pour installer OneDrive pour Windows 7 ou Mac, ou pour obtenir l’application mobile de votre téléphone ou votre tablette, accédez à [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="44485-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="ca3c3-p101">Le client de synchronisation OneDrive est préinstallé avec Windows 10. Pour installer OneDrive pour Windows 7 ou Mac, ou pour obtenir l’application mobile de votre téléphone ou votre tablette, accédez à [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="ca3c3-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
   
 

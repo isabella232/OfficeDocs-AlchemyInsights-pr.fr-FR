@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
 ms.openlocfilehash: ad16475e2f3515dc6a65f2bc1381d0bf580cdd94
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288083"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468458"
 ---
-# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="a91ed-102">Boîte aux lettres de l’utilisateur est en cours de création</span><span class="sxs-lookup"><span data-stu-id="a91ed-102">Your user's mailbox is being created</span></span>
+# <a name="your-users-mailbox-is-being-created"></a><span data-ttu-id="a3dbb-102">Boîte aux lettres de l’utilisateur est en cours de création</span><span class="sxs-lookup"><span data-stu-id="a3dbb-102">Your user's mailbox is being created</span></span>
 
-<span data-ttu-id="a91ed-103">Il peut prendre une heure avant une nouvelle boîte aux lettres est prête à utiliser.</span><span class="sxs-lookup"><span data-stu-id="a91ed-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
+<span data-ttu-id="a3dbb-103">Il peut prendre une heure avant une nouvelle boîte aux lettres est prête à utiliser.</span><span class="sxs-lookup"><span data-stu-id="a3dbb-103">It can take up to an hour before a new mailbox is ready to use.</span></span>
   
-<span data-ttu-id="a91ed-104">Si la boîte aux lettres d’un utilisateur a été « préparation » pour plus d’une heure, vous pouvez essayer de supprimer et de recréer l’utilisateur ou utiliser l’option « nous vous appeler » pour communiquer avec un ingénieur du support technique.</span><span class="sxs-lookup"><span data-stu-id="a91ed-104">If a user's mailbox has been "preparing" for more than an hour, you can try deleting and then re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="a3dbb-104">Si la boîte aux lettres d’un utilisateur a été « préparation » pour plus d’une heure, vous pouvez essayer de supprimer et de recréer l’utilisateur ou utiliser l’option « nous vous appeler » pour communiquer avec un ingénieur du support technique.</span><span class="sxs-lookup"><span data-stu-id="a3dbb-104">If a user's mailbox has been "preparing" for more than an hour, you can try deleting and then re-creating the user, or use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
