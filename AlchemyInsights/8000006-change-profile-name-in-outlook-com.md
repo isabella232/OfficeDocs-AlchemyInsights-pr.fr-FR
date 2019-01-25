@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
 ms.openlocfilehash: 70657ce4a54f2c3ab88761ef3b0a4151d4901aaf
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287986"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469122"
 ---
-# <a name="change-your-profile-name"></a><span data-ttu-id="1c7a8-102">Modifier le nom de votre profil</span><span class="sxs-lookup"><span data-stu-id="1c7a8-102">Change your profile name</span></span>
+# <a name="change-your-profile-name"></a><span data-ttu-id="7bb34-102">Modifier le nom de votre profil</span><span class="sxs-lookup"><span data-stu-id="7bb34-102">Change your profile name</span></span>
 
-1. <span data-ttu-id="1c7a8-103">Accédez à [votre Microsoft les informations de compte](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="1c7a8-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="7bb34-103">Accédez à [votre Microsoft les informations de compte](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="7bb34-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
     
-2. <span data-ttu-id="1c7a8-104">Sélectionnez **Modifier le nom**.</span><span class="sxs-lookup"><span data-stu-id="1c7a8-104">Select **Edit name**.</span></span> 
+2. <span data-ttu-id="7bb34-104">Sélectionnez **Modifier le nom**.</span><span class="sxs-lookup"><span data-stu-id="7bb34-104">Select **Edit name**.</span></span> 
     
-3. <span data-ttu-id="1c7a8-105">Entrez le nom et le nom de famille, puis sélectionnez **Enregistrer**.</span><span class="sxs-lookup"><span data-stu-id="1c7a8-105">Enter a first name and last name, and select **Save**.</span></span> 
+3. <span data-ttu-id="7bb34-105">Entrez le nom et le nom de famille, puis sélectionnez **Enregistrer**.</span><span class="sxs-lookup"><span data-stu-id="7bb34-105">Enter a first name and last name, and select **Save**.</span></span> 
     
-<span data-ttu-id="1c7a8-106">Patientez jusqu'à 24 heures pour que les modifications de votre nom de profil à prendre effet.</span><span class="sxs-lookup"><span data-stu-id="1c7a8-106">Please allow up to 24 hours for changes to your profile name to take effect.</span></span>
+<span data-ttu-id="7bb34-106">Patientez jusqu'à 24 heures pour que les modifications de votre nom de profil à prendre effet.</span><span class="sxs-lookup"><span data-stu-id="7bb34-106">Please allow up to 24 hours for changes to your profile name to take effect.</span></span>
   
-<span data-ttu-id="1c7a8-107">Pour plus d’informations, voir [modifier votre nom dans Outlook.com ou les photos de profil](https://go.microsoft.com/fwlink/?linkid=873110).</span><span class="sxs-lookup"><span data-stu-id="1c7a8-107">To learn more, see [Change your profile photo or name in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span></span>
+<span data-ttu-id="7bb34-107">Pour plus d’informations, voir [modifier votre nom dans Outlook.com ou les photos de profil](https://go.microsoft.com/fwlink/?linkid=873110).</span><span class="sxs-lookup"><span data-stu-id="7bb34-107">To learn more, see [Change your profile photo or name in Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).</span></span>
   
 

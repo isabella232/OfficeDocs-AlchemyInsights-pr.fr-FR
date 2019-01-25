@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
 ms.openlocfilehash: 3b9ac8ad29f1f2e864fe2570475cd79947c1ab66
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288831"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469124"
 ---
-[<span data-ttu-id="2671c-102">Libérer de formation pour Office 365</span><span class="sxs-lookup"><span data-stu-id="2671c-102">Office 365 Education for free</span></span>](https://products.office.com/en-us/student/office-in-education?ms.officeurl=students)
+[<span data-ttu-id="bb0e6-102">Libérer de formation pour Office 365</span><span class="sxs-lookup"><span data-stu-id="bb0e6-102">Office 365 Education for free</span></span>](https://products.office.com/en-us/student/office-in-education?ms.officeurl=students)
   
-<span data-ttu-id="2671c-p101">Il n’est pas une version d’évaluation ! Étudiants et enseignants sont éligibles pour Office 365 éducation, qui comprend Word, Excel, PowerPoint, OneNote et maintenant Microsoft Teams, ainsi que des outils supplémentaires de la classe.</span><span class="sxs-lookup"><span data-stu-id="2671c-p101">It's not a trial! Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
+<span data-ttu-id="bb0e6-p101">Il n’est pas une version d’évaluation ! Étudiants et enseignants sont éligibles pour Office 365 éducation, qui comprend Word, Excel, PowerPoint, OneNote et maintenant Microsoft Teams, ainsi que des outils supplémentaires de la classe.</span><span class="sxs-lookup"><span data-stu-id="bb0e6-p101">It's not a trial! Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
   
 
