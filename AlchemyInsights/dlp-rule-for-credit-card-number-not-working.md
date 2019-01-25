@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287956"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469327"
 ---
 Vous rencontrez des problèmes avec **Data Loss Prevention (DLP)** ne fonctionne ne pas pour le contenu contenant un **Numéro de carte de crédit** lors de l’utilisation d’un type d’informations sensibles DLP dans O365 ? Dans ce cas, assurez-vous que votre contenu contient les informations nécessaires pour déclencher le la stratégie DLP lorsqu’elle est évaluée. Par exemple, pour une **carte de crédit stratégie** configurée avec un niveau de confiance de 85 %, les éléments suivants sont évaluées et doivent être détectées pour déclencher la règle : 
   
@@ -32,11 +32,11 @@ Vous rencontrez des problèmes avec **Data Loss Prevention (DLP)** ne fonctionne
     
   - Un mot clé figurant dans la liste Keyword_cc_verification est trouvé.
     
-  - Un mot clé à partir de Keyword_cc_name est trouvé.
+  - Un mot clé figurant dans la liste Keyword_cc_name est trouvé.
     
   - La fonction Func_expiration_date trouve une date au format correct.
     
-  - Transmet la somme de contrôle
+  - La somme de contrôle est correcte.
     
     Par exemple, l’exemple suivant déclenche pour une stratégie de numéro de carte de crédit DLP :
     

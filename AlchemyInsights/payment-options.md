@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288833"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469237"
 ---
- **Options de paiement**
+ Options de paiement.
   
 Carte de crédit, le compte bancaire (débit direct) et facture (paiement par vérification ou transfert de fonds électronique)
   
@@ -32,12 +32,12 @@ Si votre abonnement des coûts via une certaine quantité d’argent (cette dur�
   
 Si vous payez par facture votre abonnement, vous obtiendrez un message électronique qui indique votre instruction facturation est prête à afficher. Ce message ne contient pas une copie de votre instruction facturation. Toutefois, vous pouvez également choisir à [recevoir une copie de votre instruction facturation dans le message électronique](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Votre instruction facturation inclut plus d’informations sur les options pour effectuer un paiement. Si vous entrez un numéro de bon de commande d’achat lorsque vous achetez un abonnement, celui-ci apparaît sur votre facture. Pour plus d’informations sur l’accès aux relevés de facturation, voir [Afficher la facture ou la facture](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Modifier le mode de paiement**
+ Modifier le mode de paiement.
   
 Si vous souhaitez modifier le mode de paiement pour un abonnement, suivez les instructions fournies [ici](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **Informations supplémentaires**
   
-[Salaire pour Office 365 pour l’abonnement de l’entreprise](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Régler votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 

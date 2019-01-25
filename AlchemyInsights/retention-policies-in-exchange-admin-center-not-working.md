@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: 0ceb1737040f0304bfe8b611241ce1deef487652
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287750"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469109"
 ---
  **Problème :** Nouvellement créé ou n’appliquent pas de stratégies de rétention mis à jour dans le centre d’administration Exchange pour les boîtes aux lettres ou les éléments ne sont pas déplacées vers la boîte aux lettres d’archive ou supprimés. 
   
@@ -30,7 +30,7 @@ ms.locfileid: "28287750"
 
 - Cela peut également survenir si **RetentionHold** a été **activé** dans la boîte aux lettres. Si la boîte aux lettres a été placé sur un RetentionHold, la stratégie de rétention sur la boîte aux lettres n’est pas traitée pendant ce temps. Pour plus d’informations sur le paramètre, consultez RetentionHold : [Blocage de rétention de boîte aux lettres](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
-    **Solution :**
+    **Solution**
     
   - Vérifier l’état du paramètre RetentionHold dans la boîte aux lettres spécifique dans [powershell EXO](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     

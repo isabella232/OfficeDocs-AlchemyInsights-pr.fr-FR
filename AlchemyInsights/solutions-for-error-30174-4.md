@@ -13,11 +13,11 @@ ms.custom: Adm_O365
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
 description: Cette erreur peut survenir si votre programme antivirus, pare-feu, paramètres de proxy ou connexion vous empêche d’installer Office. Voici quelques éléments que vous pouvez essayer de résoudre le problème.
 ms.openlocfilehash: 14ccd27264f357af9cd735bfceebb0bddca19eaf
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288573"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468900"
 ---
 Cette erreur peut survenir si votre programme antivirus, pare-feu, paramètres de proxy ou connexion vous empêche d’installer Office. Voici quelques éléments que vous pouvez essayer de résoudre le problème.
   

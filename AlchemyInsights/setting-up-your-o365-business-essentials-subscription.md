@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288830"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469196"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>La configuration de votre abonnement O365 Business Essentials
 
 Créer des comptes d’Office 365 et ajouter votre domaine
   
-- Dans cette étape, vous utilisez l’Assistant Installation pour créer des comptes d’Office 365 pour vos utilisateurs et ajouter votre propre domaine. L’Assistant vous permet de personnaliser les ID d’utilisateur et le courrier pour votre entreprise, comme [rob@contoso.com](mailto:rob@contoso.com)de tout le monde.
+- Dans cette étape, vous allez utiliser l'Assistant Configuration pour créer des comptes Office 365 pour vos utilisateurs et ajouter votre propre domaine. L'Assistant vous permet de personnaliser les ID et adresses de courrier de tous les utilisateurs de votre entreprise, par exemple, alexandre@contoso.com.
     
 - Accéder au [Centre d'administration Office 365](https://login.partner.microsoftonline.cn/).
     

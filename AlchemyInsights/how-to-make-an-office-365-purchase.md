@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 6a6fa89baabb5f952e90c3eed1017c7cbad5ffa0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288771"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469078"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Comment effectuer un achat d’Office 365
 
@@ -30,12 +30,12 @@ Achats dans Office 365 peuvent être effectuées dans le centre d’administrati
     
   - Choisissez ** Basculer plans ** pour afficher la liste des nouveaux plans qui sont disponibles. 
     
-  - Choisissez un plan pour afficher le nouveau coût total par mois. Veillez à lire les informations de clé, puis cliquez sur **suivant** pour extraire. 
+  - Choisissez une offre pour afficher le nouveau coût total par mois. N'oubliez pas de lire les **informations clés**, puis sélectionnez Suivant pour procéder à l'achat. 
     
  **Ressources supplémentaires**
   
 - [Attribuer des licences aux utilisateurs dans Office 365 pour les entreprises](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Annuler Office 365 pour entreprises](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Annuler votre abonnement Office 365 pour les entreprises](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

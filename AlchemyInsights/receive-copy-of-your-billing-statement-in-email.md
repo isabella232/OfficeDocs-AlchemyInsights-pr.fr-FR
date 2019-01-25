@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: f3cf1efa9c8e342a11b7cc0859347769d330fe46
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287755"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469039"
 ---
 Vous pouvez envoyer une copie de votre relevé de facturation par courrier électronique. Dans ce cas :
   
@@ -22,11 +22,11 @@ Vous pouvez envoyer une copie de votre relevé de facturation par courrier élec
     
 - Vous recevrez deux e-mails distinctes : une qui vous permet de savoir que votre facture est prêt, avec des instructions pour vous connecter au centre d’administration pour l’afficher, et une seconde de messagerie qui contient l’instruction facturation en tant que pièce jointe.
     
-Pour recevoir vos relevés dans le message électronique :
+Pour recevoir votre relevé de facturation par courrier électronique
   
-1. Dans le centre d’administration, accédez à la page [notifications de facturation](https://go.microsoft.com/fwlink/p/?linkid=853212) , ou choisissez **facturation** \> **facturation notifications**.
+1. Dans le Centre d'administration, accédez à la page [Notifications de facturation](https://go.microsoft.com/fwlink/p/?linkid=853212), ou choisissez **Facturation** \> **Notifications de facturation**.
     
-    Si vous utilisez Office 365 Allemagne, accédez à cette page [facturation notifications](https://go.microsoft.com/fwlink/p/?linkid=853213) . 
+    Si vous utilisez Office 365 Allemagne, accédez à cette page [Notifications](https://go.microsoft.com/fwlink/p/?linkid=853213). 
     
 2. Sous **vous souhaitez recevoir l’instruction facturation en tant que pièce jointe ?**, utiliser la bascule **sur**. Vous pouvez arrêter de recevoir les e-mails instruction facturation à tout moment en changeant la bascule à **désactiver**.
     

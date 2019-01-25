@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: e063892e3ba6e161e6b9f8e5ef4f02ad0b2084a4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288324"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469309"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Gérer votre stockage SharePoint ou OneDrive
 
- **SharePoint Online**
+ **SharePoint Online**
   
 La plupart des organisations, stockage SharePoint est automatiquement géré de sorte que vous n’avez pas besoin de définir des limites par collection de sites. Pour vérifier la quantité de stockage SharePoint, vous devez :
   

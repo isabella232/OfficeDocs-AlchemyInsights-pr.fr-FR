@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
 ms.openlocfilehash: 7b01f640b1c8d538e4209d7f905b1474b9ffabd7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287674"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29469258"
 ---
 # <a name="information-about-gdpr"></a>Plus d’informations sur PIBR
 
@@ -21,9 +21,9 @@ ms.locfileid: "28287674"
     
 - Pour une opération liée au **Contrat de traitement des données** (DPA), consultez : 
     
-  - [Ressources de protection des données](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - Ressources de protection des données
     
-  - [Rapports d’audit](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - Rapports d’audit
     
 - Pour plus d’informations sur les **Demandes d’objet de données** (DSR) - découvrir, accéder, corriger, restreindre, supprimer, exportation est [ici.](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365)
     
