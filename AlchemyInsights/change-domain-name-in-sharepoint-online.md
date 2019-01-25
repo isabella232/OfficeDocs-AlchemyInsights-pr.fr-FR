@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: ff7ed718299a88b21638ab1b73a6e9b631d8659b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288896"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499344"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Modifier le nom de domaine dans SharePoint Online
 
-Malheureusement, il n’est pas possible de modifier le nom de domaine SharePoint Online pour votre organisation dans Office 365. Par exemple, si le nom de votre organisation change de « Contoso » en « Fourth Coffee », vous ne pouvez pas modifier contoso.sharepoint.com à fourthcoffee.sharepoint.com.
+Malheureusement, il est impossible de modifier le nom de domaine SharePoint Online pour votre organisation dans Office 365. Par exemple, si le nom de votre organisation passe de « Contoso » à « Fourth Coffee », vous ne pouvez pas remplacer contoso.sharepoint.com par fourthcoffee.sharepoint.com.
   
 Pour utiliser le fourthcoffee.sharepoint.com de nom de domaine, vous devez acheter un abonnement Office 365 et déplacer tous les messages, les fichiers et toutes les autres données que vous souhaitez conserver au nouvel abonnement.
   

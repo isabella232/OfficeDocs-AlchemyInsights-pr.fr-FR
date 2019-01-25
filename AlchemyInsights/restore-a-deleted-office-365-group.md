@@ -1,5 +1,5 @@
 ---
-title: Restaurer un groupe d’Office 365 supprimé
+title: Restaurer un groupe Office 365 supprimé
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
 ms.openlocfilehash: 1255024a84d9610f71757ad7caccc36a1601704a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287882"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499416"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Restaurer un groupe d’Office 365 supprimé
+# <a name="restore-a-deleted-office-365-group"></a>Restaurer un groupe Office 365 supprimé
 
 Groupes supprimés sont conservés pendant 30 jours. Pour restaurer un groupe supprimé :
   
