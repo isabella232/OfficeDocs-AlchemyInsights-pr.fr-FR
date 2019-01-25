@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
 ms.openlocfilehash: 137438e503923ba24e47727a7c472022fc5994f4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288610"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500028"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="26f58-102">Mots de passe application</span><span class="sxs-lookup"><span data-stu-id="26f58-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="5955e-102">Mots de passe application</span><span class="sxs-lookup"><span data-stu-id="5955e-102">App passwords</span></span>
 
-<span data-ttu-id="26f58-p101">Un mot de passe d’application est un code qui fournit une autorisation d’application ou un périphérique pour accéder à votre bureau Office 365 ou école compte. Si votre compte requiert une authentification multifacteur (MFA) et l’application se connecte à votre compte, vous devez générer un mot de passe d’application afin que l’application peut se connecter à Office 365. Par exemple, 2016 Outlook et les versions antérieures Outlook d’exiger un mot de passe d’application.</span><span class="sxs-lookup"><span data-stu-id="26f58-p101">An app password is a code that gives an app or device permission to access your Office 365 work or school account. If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365. For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
+<span data-ttu-id="5955e-p101">Un mot de passe d’application est un code qui fournit une autorisation d’application ou un périphérique pour accéder à votre bureau Office 365 ou école compte. Si votre compte requiert une authentification multifacteur (MFA) et l’application se connecte à votre compte, vous devez générer un mot de passe d’application afin que l’application peut se connecter à Office 365. Par exemple, 2016 Outlook et les versions antérieures Outlook d’exiger un mot de passe d’application.</span><span class="sxs-lookup"><span data-stu-id="5955e-p101">An app password is a code that gives an app or device permission to access your Office 365 work or school account. If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365. For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
   
- <span data-ttu-id="26f58-p102">**Remarque**: avant d’essayer les étapes suivantes, vérifiez avec votre administrateur Office 365 que MFA est requis pour votre compte. Si elle n’est pas le cas, les options décrites dans les étapes ne sont pas être disponibles.</span><span class="sxs-lookup"><span data-stu-id="26f58-p102">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account. If it isn't, the options described in the steps won't be available to you.</span></span>
+ <span data-ttu-id="5955e-p102">**Remarque**: avant d’essayer les étapes suivantes, vérifiez avec votre administrateur Office 365 que MFA est requis pour votre compte. Si elle n’est pas le cas, les options décrites dans les étapes ne sont pas être disponibles.</span><span class="sxs-lookup"><span data-stu-id="5955e-p102">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account. If it isn't, the options described in the steps won't be available to you.</span></span>
   
-1. <span data-ttu-id="26f58-108">Connectez-vous à Office 365 avec votre travail ou l’établissement et votre mot de passe.</span><span class="sxs-lookup"><span data-stu-id="26f58-108">Sign in to Office 365 with your work or school account and your password.</span></span>
+1. <span data-ttu-id="5955e-108">Connectez-vous à Office 365 avec votre travail ou l’établissement et votre mot de passe.</span><span class="sxs-lookup"><span data-stu-id="5955e-108">Sign in to Office 365 with your work or school account and your password.</span></span>
     
-2. <span data-ttu-id="26f58-109">Cliquez sur **Installer maintenant**.</span><span class="sxs-lookup"><span data-stu-id="26f58-109">Choose **Set it up now**.</span></span>
+2. <span data-ttu-id="5955e-109">Cliquez sur **Installer maintenant**.</span><span class="sxs-lookup"><span data-stu-id="5955e-109">Choose **Set it up now**.</span></span>
     
-3. <span data-ttu-id="26f58-110">Sélectionnez votre méthode d’authentification, puis suivez les instructions.</span><span class="sxs-lookup"><span data-stu-id="26f58-110">Select your authentication method and follow the prompts.</span></span>
+3. <span data-ttu-id="5955e-110">Sélectionnez votre méthode d’authentification, puis suivez les instructions.</span><span class="sxs-lookup"><span data-stu-id="5955e-110">Select your authentication method and follow the prompts.</span></span>
     
-4. <span data-ttu-id="26f58-111">Après avoir vérifié votre méthode d’autre contact, cliquez sur **suivant**.</span><span class="sxs-lookup"><span data-stu-id="26f58-111">After you verify your alternate contact method, choose **Next**.</span></span>
+4. <span data-ttu-id="5955e-111">Après avoir vérifié votre méthode d’autre contact, cliquez sur **suivant**.</span><span class="sxs-lookup"><span data-stu-id="5955e-111">After you verify your alternate contact method, choose **Next**.</span></span>
     
-5. <span data-ttu-id="26f58-p103">Vous obtiendrez un mot de passe d’application que vous pouvez utiliser avec Outlook, Apple Mail et autres applications qui en ont besoin. Cliquez sur **Copier** pour copier le mot de passe afin de pouvoir la coller ailleurs (vous n’avez pas besoin de la mémoriser).</span><span class="sxs-lookup"><span data-stu-id="26f58-p103">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it. Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
+5. <span data-ttu-id="5955e-p103">Vous obtiendrez un mot de passe d’application que vous pouvez utiliser avec Outlook, Apple Mail et autres applications qui en ont besoin. Cliquez sur **Copier** pour copier le mot de passe afin de pouvoir la coller ailleurs (vous n’avez pas besoin de la mémoriser).</span><span class="sxs-lookup"><span data-stu-id="5955e-p103">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it. Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
     
 
