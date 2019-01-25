@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288724"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468608"
 ---
 Vous pouvez convertir une boîte aux lettres de l’utilisateur à une boîte aux lettres partagée uniquement si l’utilisateur possède une licence Exchange. Une fois que la boîte aux lettres est converti, il continuera à afficher dans la liste d’utilisateurs actifs, car cette liste inclut des boîtes aux lettres partagées. Toutefois, la boîte aux lettres convertie également apparaîtront dans la liste de la boîte aux lettres partagée. 
   

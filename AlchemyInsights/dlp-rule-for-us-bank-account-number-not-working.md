@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 6eae9146d33f5fc307085dbf931d57bdbb28b82e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288912"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468466"
 ---
 Vous rencontrez des problèmes avec **Data Loss Prevention (DLP)** ne fonctionne ne pas pour le contenu contenant un **Numéro de compte bancaire US** lors de l’utilisation d’un type d’informations sensibles DLP dans O365 ? Dans ce cas, assurez-vous que votre contenu contient les informations nécessaires pour que la stratégie DLP est recherchez lorsqu’elle est évaluée. 
   
@@ -28,7 +28,7 @@ Par exemple, pour une stratégie de **Numéro de compte bancaire US** configuré
     
 - **[Définition :](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)** Une stratégie DLP est convaincu que ce type d’informations sensibles a été détecté à 75 % if, au sein d’une proximité de 300 caractères : 
     
-  - L’expression régulière Regex_usa_bank_account_number recherche de contenu qui correspond au modèle
+  - L’expression régulière Regex_usa_bank_account_number trouve un contenu qui correspond au modèle.
     
   - Un mot clé figurant dans la liste Keyword_usa_Bank_Account est trouvé.
     

@@ -1,5 +1,5 @@
 ---
-title: Basculer vers un autre Office 365 pour le Plan d’entreprise
+title: Basculer vers une autre offre Office 365 pour les entreprises
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287983"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468329"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Basculer vers un autre Office 365 pour le Plan d’entreprise
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Basculer vers une autre offre Office 365 pour les entreprises
 
 []Quand votre activité évolue, ou lorsque vous avez besoin d'un éventail de fonctionnalités plus complet dans Office 365, vous pouvez changer d'offre.
   
@@ -26,7 +26,7 @@ ms.locfileid: "28287983"
     
 2. Choisissez **Changer d'offre** pour afficher la liste des nouvelles offres disponibles. 
     
-3. Choisissez un plan pour afficher le nouveau coût total par mois. Veillez à lire les informations de clé, puis cliquez sur **suivant** pour extraire. 
+3. Choisissez une offre pour afficher le nouveau coût total par mois. N'oubliez pas de lire les **informations clés**, puis sélectionnez Suivant pour procéder à l'achat. 
     
 Le bouton de plans de commutateur n’est pas pris en charge dans toutes les situations. Dans certains cas, vous pourrez passer manuellement des plans.
   

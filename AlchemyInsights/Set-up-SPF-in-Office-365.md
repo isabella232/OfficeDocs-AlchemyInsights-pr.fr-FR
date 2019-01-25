@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: fc45050a39de24422426ea1d9ff0bad47eb86264
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288357"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468690"
 ---
 Pour définir les mots de passe n’expire jamais, accédez à [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Cliquez sur **Modifier** en regard de la **Stratégie de mot de passe**et activer le curseur **activé**.
   

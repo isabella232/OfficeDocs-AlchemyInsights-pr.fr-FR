@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28287649"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468457"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Copier ou déplacer des éléments dans une bibliothèque de documents SharePoint
 
@@ -37,6 +37,6 @@ Vous pouvez copier et déplacer des fichiers, dossiers et des liens vers des emp
 3. Cliquez sur **Copier ici** ou **Déplacer ici**.
     
 > [!NOTE]
->  Vous pouvez copier jusqu'à 500 Mo de fichiers et dossiers en même temps. > Lorsque vous copiez des documents dont l’historique des versions, uniquement la version la plus récente est copiée. Lorsque vous déplacez des documents, leur historique est également déplacé. 
+>  Vous pouvez copier jusqu'à 500 Mo de fichiers et dossiers en même temps. Lorsque vous copiez les documents dont l’historique des versions, seule la dernière version de > est copié. Lorsque vous déplacez des documents, leur historique est également déplacé. 
   
 

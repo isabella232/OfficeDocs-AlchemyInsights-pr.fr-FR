@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.openlocfilehash: 24842e8cc5c6e47fb0eb637e6a3211637ede1ed8
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28288612"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29468795"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Résolution des problèmes d’info-bulle de sécurité pour la détection des fraudes vérifie
 
@@ -24,7 +24,7 @@ Pour plus d’informations, voir [résolution des problèmes d’info-bulle de s
   
 Voici quelques autres liens qui peuvent aider à :
   
-- [Comment Office 365 utilise le contrôle sender policy framework (SPF) pour empêcher l’usurpation d’identité](https://docs.microsoft.com/en-us/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- Comment Office 365 utilise SPF (Sender Policy Framework) pour éviter l’usurpation
     
 - [Configurer SPF dans Office 365 pour empêcher l’usurpation](https://docs.microsoft.com/en-us/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
