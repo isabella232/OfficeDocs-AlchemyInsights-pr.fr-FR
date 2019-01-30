@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454428"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -209,7 +201,7 @@ ms.locfileid: "29454428"
 | 1/10/2019 | [Accès refusé lors de l’affichage d’un flux de travail](/AlchemyInsights/access-denied-when-viewing-a-workflow) | ajouté |
 | 1/10/2019 | [Access Services](/AlchemyInsights/access-services) | ajouté |
 | 1/10/2019 | [Activer un nouvel abonnement avec une clé de produit](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | ajouté |
-| 1/10/2019 | Activer Office | ajouté |
+| 1/10/2019 | [Activer Office](/AlchemyInsights/activate-office) | ajouté |
 | 1/10/2019 | [Activation d’un abonnement de licence en Volume Microsoft Office 365](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | ajouté |
 | 1/10/2019 | [La résolution des problèmes d’activation](/AlchemyInsights/activation-troubleshooting) | ajouté |
 | 1/10/2019 | [Ajouter un groupe à un site SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | ajouté |
@@ -218,7 +210,7 @@ ms.locfileid: "29454428"
 | 1/10/2019 | [Ajouter ou supprimer un alias de messagerie pour un utilisateur](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | ajouté |
 | 1/10/2019 | [Ajout de sièges à un abonnement prépayé](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | ajouté |
 | 1/10/2019 | [Ajout de sièges à un abonnement prépayé](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | ajouté |
-| 1/10/2019 | Ajouter des utilisateurs à Office 365 | ajouté |
+| 1/10/2019 | [Ajouter des utilisateurs à Office 365](/AlchemyInsights/add-users-to-office-365) | ajouté |
 | 1/10/2019 | [Ajouter des utilisateurs externes pour un groupe de Distribution ?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | ajouté |
 | 1/10/2019 | [Ajouter des utilisateurs externes](/AlchemyInsights/adding-external-users) | ajouté |
 | 1/10/2019 | [Fédération ADFS expiration du certificat](/AlchemyInsights/adfs-federation-certificate-expiring) | ajouté |
@@ -272,11 +264,11 @@ ms.locfileid: "29454428"
 | 1/10/2019 | [Modifier le nom de domaine dans SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | ajouté |
 | 1/10/2019 | [Modifier la fréquence de paiement](/AlchemyInsights/change-how-often-you-pay) | ajouté |
 | 1/10/2019 | [Modifier l’autorité Mobile Device Manager](/AlchemyInsights/change-mdm-authority) | ajouté |
-| 1/10/2019 | Change nameservers | ajouté |
+| 1/10/2019 | [Modifier les serveurs de noms](/AlchemyInsights/change-nameservers) | ajouté |
 | 1/10/2019 | [OneDrive de modifier le quota de stockage](/AlchemyInsights/change-onedrive-for-business-storage-quota) | ajouté |
 | 1/10/2019 | [Changer votre mode de paiement](/AlchemyInsights/change-payment-method) | ajouté |
 | 1/10/2019 | [Modifier les autorisations pour une liste ou bibliothèque SharePoint](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | ajouté |
-| 1/10/2019 | Modifier l'adresse de messagerie de secours des notifications de facturation | ajouté |
+| 1/10/2019 | [Modifier l'adresse de messagerie de secours des notifications de facturation](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | ajouté |
 | 1/10/2019 | [Modification UPN](/AlchemyInsights/change-upn) | ajouté |
 | 1/10/2019 | [Modifications apportées à l’accès des utilisateurs externes](/AlchemyInsights/changes-to-external-user-access) | ajouté |
 | 1/10/2019 | [Modification de la taille de message ou une pièce jointe](/AlchemyInsights/changing-message-or-attachment-size) | ajouté |
@@ -303,7 +295,7 @@ ms.locfileid: "29454428"
 | 1/10/2019 | [Créer un flux](/AlchemyInsights/create-a-flow) | ajouté |
 | 1/10/2019 | [Créer un site d’équipe moderne](/AlchemyInsights/create-a-modern-team-site) | ajouté |
 | 1/10/2019 | [Créer une boîte aux lettres partagée](/AlchemyInsights/create-a-shared-mailbox) | ajouté |
-| 1/10/2019 | Créer un site SharePoint | ajouté |
+| 1/10/2019 | [Créer un site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | ajouté |
 | 1/10/2019 | [Créer un site dans SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | ajouté |
 | 1/10/2019 | [Créer et utiliser une boîte aux lettres partagée](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | ajouté |
 | 1/10/2019 | [Créer et utiliser une boîte aux lettres partagée](/AlchemyInsights/create-and-use-a-shared-mailbox) | ajouté |
@@ -321,7 +313,7 @@ ms.locfileid: "29454428"
 | 1/10/2019 | [Carte de crédit refusée](/AlchemyInsights/declined-credit-card) | ajouté |
 | 1/10/2019 | [Autorisations de boîte aux lettres déléguée dans un environnement hybride](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | ajouté |
 | 1/10/2019 | [Supprimer un site de communication](/AlchemyInsights/delete-a-communication-site) | ajouté |
-| 1/10/2019 | Supprimer une page | ajouté |
+| 1/10/2019 | [Supprimer une page](/AlchemyInsights/delete-a-page) | ajouté |
 | 1/11/2019 | [1047 AntiSpam\550 5.7.708 Service non disponible. Accès refusé, le trafic ne pas accepté à partir de cette adresse IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modifié |
 | 1/11/2019 | [1048 5.7.750 Service non disponible. Client bloqué à partir de l’envoi à partir de domaines non enregistrés](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | modifié |
 | 1/11/2019 | [AntiSpam\4.5.3 1049 trop grand nombre de destinataires (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | modifié |
@@ -506,7 +498,7 @@ ms.locfileid: "29454428"
 | 1/11/2019 | [Accès refusé lors de l’affichage d’un flux de travail](/AlchemyInsights/access-denied-when-viewing-a-workflow) | modifié |
 | 1/11/2019 | [Access Services](/AlchemyInsights/access-services) | modifié |
 | 1/11/2019 | [Activer un nouvel abonnement avec une clé de produit](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | modifié |
-| 1/11/2019 | Activer Office | modifié |
+| 1/11/2019 | [Activer Office](/AlchemyInsights/activate-office) | modifié |
 | 1/11/2019 | [Activation d’un abonnement de licence en Volume Microsoft Office 365](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | modifié |
 | 1/11/2019 | [La résolution des problèmes d’activation](/AlchemyInsights/activation-troubleshooting) | modifié |
 | 1/11/2019 | [Ajouter un groupe à un site SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | modifié |
@@ -515,7 +507,7 @@ ms.locfileid: "29454428"
 | 1/11/2019 | [Ajouter ou supprimer un alias de messagerie pour un utilisateur](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | modifié |
 | 1/11/2019 | [Ajout de sièges à un abonnement prépayé](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | modifié |
 | 1/11/2019 | [Ajout de sièges à un abonnement prépayé](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | modifié |
-| 1/11/2019 | Ajouter des utilisateurs à Office 365 | modifié |
+| 1/11/2019 | [Ajouter des utilisateurs à Office 365](/AlchemyInsights/add-users-to-office-365) | modifié |
 | 1/11/2019 | [Ajouter des utilisateurs externes pour un groupe de Distribution ?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | modifié |
 | 1/11/2019 | [Ajouter des utilisateurs externes](/AlchemyInsights/adding-external-users) | modifié |
 | 1/11/2019 | [Fédération ADFS expiration du certificat](/AlchemyInsights/adfs-federation-certificate-expiring) | modifié |
@@ -569,11 +561,11 @@ ms.locfileid: "29454428"
 | 1/11/2019 | [Modifier le nom de domaine dans SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | modifié |
 | 1/11/2019 | [Modifier la fréquence de paiement](/AlchemyInsights/change-how-often-you-pay) | modifié |
 | 1/11/2019 | [Modifier l’autorité Mobile Device Manager](/AlchemyInsights/change-mdm-authority) | modifié |
-| 1/11/2019 | Change nameservers | modifié |
+| 1/11/2019 | [Modifier les serveurs de noms](/AlchemyInsights/change-nameservers) | modifié |
 | 1/11/2019 | [OneDrive de modifier le quota de stockage](/AlchemyInsights/change-onedrive-for-business-storage-quota) | modifié |
 | 1/11/2019 | [Changer votre mode de paiement](/AlchemyInsights/change-payment-method) | modifié |
 | 1/11/2019 | [Modifier les autorisations pour une liste ou bibliothèque SharePoint](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | modifié |
-| 1/11/2019 | Modifier l'adresse de messagerie de secours des notifications de facturation | modifié |
+| 1/11/2019 | [Modifier l'adresse de messagerie de secours des notifications de facturation](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | modifié |
 | 1/11/2019 | [Modification UPN](/AlchemyInsights/change-upn) | modifié |
 | 1/11/2019 | [Modifications apportées à l’accès des utilisateurs externes](/AlchemyInsights/changes-to-external-user-access) | modifié |
 | 1/11/2019 | [Modification de la taille de message ou une pièce jointe](/AlchemyInsights/changing-message-or-attachment-size) | modifié |
@@ -600,7 +592,7 @@ ms.locfileid: "29454428"
 | 1/11/2019 | [Créer un flux](/AlchemyInsights/create-a-flow) | modifié |
 | 1/11/2019 | [Créer un site d’équipe moderne](/AlchemyInsights/create-a-modern-team-site) | modifié |
 | 1/11/2019 | [Créer une boîte aux lettres partagée](/AlchemyInsights/create-a-shared-mailbox) | modifié |
-| 1/11/2019 | Créer un site SharePoint | modifié |
+| 1/11/2019 | [Créer un site SharePoint](/AlchemyInsights/create-a-sharepoint-site) | modifié |
 | 1/11/2019 | [Créer un site dans SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | modifié |
 | 1/11/2019 | [Créer et utiliser une boîte aux lettres partagée](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | modifié |
 | 1/11/2019 | [Créer et utiliser une boîte aux lettres partagée](/AlchemyInsights/create-and-use-a-shared-mailbox) | modifié |
@@ -618,7 +610,7 @@ ms.locfileid: "29454428"
 | 1/11/2019 | [Carte de crédit refusée](/AlchemyInsights/declined-credit-card) | modifié |
 | 1/11/2019 | [Autorisations de boîte aux lettres déléguée dans un environnement hybride](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | modifié |
 | 1/11/2019 | [Supprimer un site de communication](/AlchemyInsights/delete-a-communication-site) | modifié |
-| 1/11/2019 | Supprimer une page | modifié |
+| 1/11/2019 | [Supprimer une page](/AlchemyInsights/delete-a-page) | modifié |
 | 1/11/2019 | [Supprimer un site SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | modifié |
 | 1/11/2019 | [Supprimer un site SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | modifié |
 | 1/11/2019 | [Supprimer le Site de Communication](/AlchemyInsights/delete-communication-site) | modifié |
@@ -626,7 +618,7 @@ ms.locfileid: "29454428"
 | 1/11/2019 | [Site de supprimer le groupe](/AlchemyInsights/delete-group-site) | modifié |
 | 1/11/2019 | [Supprimer des éléments dans SharePoint](/AlchemyInsights/delete-items-in-sharepoint) | modifié |
 | 1/11/2019 | [Supprimer la Page](/AlchemyInsights/delete-page) | modifié |
-| 1/11/2019 | [Supprimer une collection de sites](/AlchemyInsights/delete-site-collection) | modifié |
+| 1/11/2019 | [Supprimer la Collection de sites](/AlchemyInsights/delete-site-collection) | modifié |
 | 1/11/2019 | [Supprimer un sous-site ou Site d’équipe classique](/AlchemyInsights/delete-subsite-or-classic-team-site) | modifié |
 | 1/11/2019 | [Supprimer le Site d’équipe](/AlchemyInsights/delete-team-site) | modifié |
 | 1/11/2019 | [Suppression d’utilisateurs](/AlchemyInsights/deleting-users) | modifié |
@@ -639,7 +631,23 @@ ms.locfileid: "29454428"
 
 | Publié le |Titre de la rubrique | Modification |
 |------|------------|--------|
-| 14/1/2019 | Espace réservé Alchemy | Supprimé |
-| 14/1/2019 | Ajouter alchemy domaine | Supprimé |
+| 14/1/2019 | Espace réservé Alchemy | supprimé |
+| 14/1/2019 | Ajouter alchemy domaine | supprimé |
 | 14/1/2019 | [Alchemy Insights accueil](/AlchemyInsights/index) | modifié |
 | 1/17/2019 | [identique au nom de fichier est préférable [règle #-Description]](/AlchemyInsights/1-alchemy-insight-template) | ajouté |
+
+
+## <a name="week-of-january-21-2019"></a>Semaine du 21 janvier, 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 22/1/2019 | [Anti-spam 1047 550 5.7.708 Service non disponible. Accès refusé, le trafic ne pas accepté à partir de cette adresse IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | modifié |
+| 22/1/2019 | [1049 antiSpam 4.5.3 trop grand nombre de destinataires (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | modifié |
+| 22/1/2019 | [Serveur d’anti-spam 4.7.500 1050 occupé (e). Réessayez ultérieurement à partir de [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | modifié |
+| 22/1/2019 | [Anti-spam 1051 4.7.500 accès refusé, réessayez ultérieurement](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | modifié |
+| 22/1/2019 | [Relais les courriers électroniques via Office 365](/AlchemyInsights/relay-email-through-office-365) | modifié |
+| 1/24/2019 | [Contrôle la création des groupes](/AlchemyInsights/control-creation-of-groups) | modifié |
+| 1/24/2019 | [Problèmes d’Outlook avec Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | ajouté |
+| 1/24/2019 | [Restaurer un groupe Office 365 via le Centre d'administration Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | renommé |
+| 1/24/2019 | [Résoudre les problèmes liés à Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | renommé |
