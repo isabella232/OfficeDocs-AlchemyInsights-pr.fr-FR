@@ -3,18 +3,19 @@ title: Comment attribuer des licences Office pour les utilisateurs Macintosh
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: 23e680603bb120a3daadd0f5e912cae570d3b915
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d95601e868d7c31d99f8a151677d4a9acf7dd15e
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469224"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646309"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Comment attribuer des licences Office pour les utilisateurs Macintosh
 
@@ -24,10 +25,10 @@ ms.locfileid: "29469224"
     
 - Sur la droite, dans la ligne **Licences de produits**, sélectionnez **Modifier**.
     
-- Dans le volet **Licences de produits**, **activez** le bouton bascule correspondant à la licence que vous voulez attribuer à cet utilisateur. 
+- Dans le volet s de **licence de produit**, basculez la bascule vers la position **de** la licence que vous souhaitez attribuer à cet utilisateur. 
     
 - En bas du volet **Licences de produits**, choisissez **Enregistrer** \> **Fermer** \> **Fermer**.
     
-Pour plus d’informations : [attribuer des licences aux utilisateurs dans Office 365 pour entreprises](.md)
+Pour plus d’informations : [attribuer des licences aux utilisateurs dans Office 365 pour entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
 

@@ -2,18 +2,19 @@
 title: Questions relatives à Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 116be83a468fdab67f7c33cbbdf2dd952458b84a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8d4322163aed95ae77b935aa1dd2bbdbe2c50978
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468476"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646147"
 ---
 # <a name="about-office-2019"></a>À propos d’Office 2019
 
@@ -29,6 +30,6 @@ Pour plus d'informations, voir :
   
 [Le numéro de version majeure d’Office 2019 restent à 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Désignation d’année dans les applications clientes Office 2016 et Office 365 sera supprimée à partir des entrées du menu Démarrer](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907.aspx)
+[Désignation d’année dans les applications clientes Office 2016 et Office 365 sera supprimée à partir des entrées du menu Démarrer](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   
 

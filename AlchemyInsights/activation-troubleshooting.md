@@ -2,44 +2,28 @@
 title: La résolution des problèmes d’activation
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Démarrez votre article avec une très brève introduction (1 phrase). Vous-même mis en place le lecteur - pourquoi sont-elles ici ? Que doit faire ?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498264"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646957"
 ---
-Démarrez votre article avec une très brève introduction (1 phrase). Vous-même mis en place le lecteur - pourquoi sont-elles ici ? Que doit faire ? 
-  
-1. Obtenir le droit à une liste rapide des étapes à effectuer la tâche.
-    
-    Si vous avez besoin afin d’expliquer un concept, ou ils doivent effectuer les étapes préalables, ajoutez un résumé rapide sous l’étape où dont ils ont besoin et le [lien](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) vers le concept ou les étapes. 
-    
-2. Conservez les procédures courts - étapes de préférence 5 ou moins, pas plus de 8.
-    
-3. Utiliser le **style d’interface utilisateur** pour les éléments d’interface utilisateur ou de texte pour les utilisateurs doivent saisir. 
-    
-4. Utiliser les verbes choisissent, ou entrer en tant que des actions et sélectionnez le format menus **Menu** \> **commande**.
-    
-5. Si vous le souhaitez, ajoutez une capture d’écran de contexte (si l’interface utilisateur est difficile de localiser, ou il a besoin effectuer la tâche).
-    
-    Largeur maximale : 520 pixels. Utiliser un thème standard, ne pas afficher les informations personnelles et rogner pour afficher uniquement ce qui est pertinent. 
-    
-    ![Espace réservé - largeur maximale pour les images de l’article de sécurité sociale est 520 pixels](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Si vous souhaitez ajouter une vidéo ou une capture d’écran, utilisez une grille de deux colonnes et les étapes de la gauche et la vidéo ou la capture d’écran de la droite : voir [étapes et exemple de grille vidéo](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Cible : pas plus de 500 mots pour un article.
-  
-# <a name="example-article"></a>Article exemple
+# <a name="activation-troubleshooting"></a>La résolution des problèmes d’activation
 
-[Modifier ma photo](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+Dans **Le panneau de configuration** \> **programmes et fonctionnalités**, search for Office. Vous devez voir Microsoft Office 365 ProPlus ou entreprise de Microsoft Office 365. Si vous voyez plusieurs versions d’Office répertorié, désinstallez la version que vous n’utilisez pas. 
   
-
+Si vous ne pouvez pas désinstaller à l’aide du Panneau de configuration, utilisez l' [Assistant de récupération et de prise en charge](https://aka.ms/SARA-OfficeUninstall-Alchemy) pour désinstaller la version que vous n’utilisez pas. 
+  
+Si Office est toujours sans licence, revenez dans le **Panneau de configuration** \> **programmes et fonctionnalités**. Avec le bouton droit de l’installation Office restante, sélectionnez **Modifier** (ou modifier) et sélectionnez **Réparation en ligne**. La réparation en ligne peut prendre un certain temps. Ensuite, redémarrez Office et connectez-vous à l’aide de votre travail ou école compte, si vous y êtes invité.
+  
+Si Office est toujours sans licence, téléchargez et exécutez la [résolution des problèmes d’Activation](https://aka.ms/SARA-OfficeActivation-Alchemy) sur l’ordinateur concerné pour résoudre les problèmes d’activation. 
+  
+Pour plus d’informations, voir : [produit sans licence et les erreurs d’activation dans Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

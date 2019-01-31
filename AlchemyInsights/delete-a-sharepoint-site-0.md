@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469086"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646381"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Supprimer les sites qui appartiennent à un groupe d’Office 365 :
 
@@ -30,7 +30,7 @@ Lorsque les utilisateurs créer un nouveau site d’équipe à partir d’accuei
     
 Remarque : Lorsque vous supprimez un groupe, il peut y avoir un délai d’attente avant que le site soit supprimé à partir de SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Supprimer les sites de communication ou classique :
+**Supprimer les sites de communication ou classique :**
 
 1. Accédez au site.
   
@@ -38,7 +38,7 @@ Remarque : Lorsque vous supprimez un groupe, il peut y avoir un délai d’atte
   
 3. Cliquez sur **paramètres du Site**. Sous **Informations de Site** ou **d’Actions du Site**, cliquez sur **Supprimer ce site**, puis cliquez sur **Supprimer**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Supprimer une collection de sites SharePoint :
+**Supprimer une collection de sites SharePoint :**
 
 Pour supprimer une collection de sites classique :
   
@@ -46,7 +46,7 @@ Pour supprimer une collection de sites classique :
     
 2. Sous l’onglet Collections de sites, sélectionnez **Supprimer.**
     
-## <a name="deleted-a-site-by-accident"></a>Supprimer un site par accident ?
+**Supprimer un site par accident ?**
 
 Consultez la rubrique [restaurer une collection de sites supprimée](https://go.microsoft.com/fwlink/?linkid=867660).
   

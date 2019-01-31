@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
-ms.openlocfilehash: a04ec80551b93714214940c24e348c918c3235a4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8f10ab9dcb8ae637a94d264a13dbed78cdf85a1c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468497"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655377"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>Accès aux dossiers publics depuis des appareils mobiles
 
 Dossiers publics ne sont pas accessibles depuis des appareils mobiles.
   
-Si vous souhaitez disposent de fonctionnalités similaires aux dossiers publics et d’y accéder depuis des appareils mobiles, voir [en savoir plus sur les groupes d’Office 365](https://support.office.com/en-us/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) pour une meilleure solution. 
+Si vous souhaitez disposent de fonctionnalités similaires aux dossiers publics et d’y accéder depuis des appareils mobiles, voir [en savoir plus sur les groupes d’Office 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) pour une meilleure solution. 
   
 
