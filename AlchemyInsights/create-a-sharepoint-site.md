@@ -2,29 +2,25 @@
 title: Créer un site SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468822"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657501"
 ---
 # <a name="create-a-sharepoint-site"></a>Créer un site SharePoint
 
-Pour gérer des sites dans le nouveau centre d’administration de SharePoint, accédez au centre d’administration SharePoint en cours, cliquez sur « Essayer maintenant » dans le coin supérieur droit, puis sélectionnez sites Active. Pour plus d’informations sur le nouveau centre d’administration de SharePoint, voir [en route avec le nouveau centre d’administration de SharePoint.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)
+Pour les options de création de site, voir [Gérer les sites dans le nouveau centre d’administration de SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) . Sélectionnez cette option pour créer un [site d’équipe](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (qui crée un groupe d’Office 365) ou un [site de communication](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Pour créer un [site classique](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)ou un nouveau site d’équipe qui n’inclut pas un groupe d’Office 365, cliquez sur **autres options**. 
   
-1. Cliquez sur **Créer**. 
-    
-2. Sélectionnez cette option pour créer un site d’équipe (qui crée un groupe d’Office 365) ou un site de communication. Pour créer un site classique ou un nouveau site d’équipe qui n’inclut pas un groupe d’Office 365, cliquez sur **autres options**. Pour obtenir des informations sur les nouveaux modèles de site, voir [créer un site d’équipe dans SharePoint Online](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) et [créer un site de communication dans SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).
-  
- **Remarque :** Vous ne pouvez pas créer un nouveau site avec la même URL d’un site existant. Si vous supprimer un site et souhaitant de réutiliser l’URL, il est possible du site avec l’URL que vous souhaitez pour utiliser est encore présent dans **de sites supprimés.** Cliquez sur **sites supprimés**, sélectionnez le site à supprimer définitivement et sélectionnez le bouton **Supprimer** . 
-  
- **Remarque :** Pour gérer les qui peut créer des sites, voir [Gérer la création de sites dans SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).
-    
-
+Conseils :
+- *Vous ne pouvez pas créer un site avec la même URL d’un site existant. Si vous supprimer un site et souhaitant de réutiliser l’URL, il est possible du que site supprimé existe toujours sous **sites supprimés**. Pour gérer les supprimé [Supprimer un Site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site), voir sites. Pour supprimer complètement un site avec Powershell, voir l’exemple d’applet de commande [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
+- *Certains utilisateurs ne peuvent pas être en mesure de créer un site. Consultez la rubrique [Gérer la création de sites dans SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
+- *Il est possible que le site apparaît qui pose problème au niveau de la **Création** plus longtemps. Si plus de 24 heures se sont écoulées depuis vous tout d’abord constaté ce problème, connectez-vous à un ticket de support. Dans la plupart des cas, nous sommes déjà en train d’une solution. Faites-nous part de 24 heures au moins à une solution complète.*

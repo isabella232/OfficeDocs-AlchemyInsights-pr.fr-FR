@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 589820c945fb20f00431655f9f53196e740bb38f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468820"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655809"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Résoudre les problèmes de synchronisation de mot de passe
 
@@ -57,6 +57,6 @@ La tâche de résolution des problèmes des vérifications suivantes :
     
   - Valide le fait que les comptes de Services de domaine Active Directory (AD DS) utilisés par le connecteur Active Directory local possède le nom d’utilisateur correct, le mot de passe et les autorisations requises pour la synchronisation de mot de passe.
     
-Pour plus d’aide Résolution des problèmes de synchronisation de mot de passe, voir [Troubleshoot la synchronisation de mot de passe avec la synchronisation Azure Active Directory se connecter](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Pour plus d’aide Résolution des problèmes de synchronisation de mot de passe, voir [Troubleshoot la synchronisation de mot de passe avec la synchronisation Azure Active Directory se connecter](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Change nameservers
+title: Modifier les serveurs de noms
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: b296e76c3d39cad16f329215f0480ae260e77f2e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 901e0aaaa6550059318bfce35a2e97ad60a71360
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468482"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659733"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Mettre à jour les serveurs de noms de votre domaine vers Office 365
 
@@ -34,6 +34,6 @@ Pour configurer votre domaine dans Office 365, les serveurs de noms de votre bur
     
 3. Enregistrez les modifications.
     
-Vous trouverez également des instructions détaillées dans cet article : [Modifier les serveurs de noms de manière à configurer Office 365 avec n'importe quel bureau d'enregistrement de domaines](https://support.office.com/article/https://support.office.com/en-us/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Vous trouverez également des instructions détaillées dans cet article : [Modifier les serveurs de noms de manière à configurer Office 365 avec n'importe quel bureau d'enregistrement de domaines](https://support.office.com/article/https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

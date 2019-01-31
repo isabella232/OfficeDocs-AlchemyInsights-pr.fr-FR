@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
-ms.openlocfilehash: 43a12ea8c5007d77cc82b0a4f8678a1533f74a55
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c278f9f41b904a96812411842b925aa9ba6afd96
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469310"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661857"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Résoudre les problèmes de l’inscription des périphériques Mac OS dans Microsoft Intune
 
 Passez en revue les ressources répertoriées ci-dessous pour résoudre le problème maintenant. 
   
-1. Utiliser le [Portail de résolution des problèmes de Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d’inscription courantes. Passez en revue [ce document](https://docs.microsoft.com/en-us/intune/help-desk-operators) pour plus d’informations. 
+1. Utiliser le [Portail de résolution des problèmes de Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d’inscription courantes. Passez en revue [ce document](https://docs.microsoft.com/intune/help-desk-operators) pour plus d’informations. 
     
-2. Passez en revue [ce document](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) pour obtenir la liste des erreurs courantes qui empêchent l’inscription et les résolutions à chacun. 
+2. Passez en revue [ce document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) pour obtenir la liste des erreurs courantes qui empêchent l’inscription et les résolutions à chacun. 
     
-3. [Apprenez à inscrire des périphériques Microsoft Intune Mac OS](https://docs.microsoft.com/en-us/intune/macos-enroll).
+3. [Apprenez à inscrire des périphériques Microsoft Intune Mac OS](https://docs.microsoft.com/intune/macos-enroll).
     
-[Consultez la rubrique guide de l’utilisateur final pour inscrire le périphérique Mac OS dans Microsoft Intune](https://docs.microsoft.com/en-us/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Consultez la rubrique guide de l’utilisateur final pour inscrire le périphérique Mac OS dans Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
 

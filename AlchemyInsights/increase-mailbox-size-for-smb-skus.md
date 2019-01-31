@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469340"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660885"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Changer d'offre pour augmenter la taille des boîtes aux lettres
 
-Si la taille de boîte aux lettres est de 50 Go, vous pouvez augmenter la taille de boîte aux lettres à 100 Go par basculer vers [Office 365 entreprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) ou [Office 365 entreprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Voici les étapes pour basculer vers un autre plan Office 365 :
+Si la taille de boîte aux lettres est de 50 Go, vous pouvez augmenter la taille de boîte aux lettres à 100 Go par basculer vers [Office 365 entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou [Office 365 entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Voici les étapes pour basculer vers un autre plan Office 365 :
   
 1. Dans le centre d'administration Office 365, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) ou choisissez **Facturation** \> **Abonnements**.
     

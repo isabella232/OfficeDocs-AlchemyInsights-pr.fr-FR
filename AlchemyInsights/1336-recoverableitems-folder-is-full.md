@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468806"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655665"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Le dossier éléments récupérables est plein
 
@@ -36,7 +36,7 @@ Pour les boîtes aux lettres qui ne sont pas en attente, les administrateurs peu
     
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Pour les boîtes aux lettres qui sont en attente, administrateurs doivent retirer le blocage avant de pouvoir les éléments supprimés du dossier éléments récupérables. Pour plus d’informations, voir [Supprimer des éléments dans les éléments récupérables dossier de boîtes aux lettres en nuage sur contenir](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Pour les boîtes aux lettres qui sont en attente, administrateurs doivent retirer le blocage avant de pouvoir les éléments supprimés du dossier éléments récupérables. Pour plus d’informations, voir [Supprimer des éléments dans les éléments récupérables dossier de boîtes aux lettres en nuage sur contenir](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Pour vous aider à empêcher la saturation du dossier éléments récupérables, administrateurs peuvent augmenter la limite de stockage des éléments récupérables dossier pour les boîtes aux lettres sur Maintenez et définir une stratégie de rétention de boîte aux lettres qui déplace les éléments à partir du dossier éléments récupérables pour l’archivage de l’utilisateur boîte aux lettres. Voir [augmenter les éléments récupérables quota de boîtes aux lettres sur Maintenez](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

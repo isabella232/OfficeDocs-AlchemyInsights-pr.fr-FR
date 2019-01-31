@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469289"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661749"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Résoudre les problèmes ouvrir dans l’Explorateur de solutions
 
@@ -31,6 +31,6 @@ Résoudre les problèmes courants liés à l’ouverture d’une bibliothèque d
 > [!NOTE]
 > Ouverture d’une bibliothèque dans l’Explorateur de fichiers est utile si vous souhaitez copier ou déplacer plusieurs fichiers et dossiers une fois, mais si vous souhaitez travailler régulièrement dans la bibliothèque, nous vous recommandons de synchroniser. Pour résoudre les problèmes d’ouverture dans l’Explorateur de fichiers, voir [Ouvrir dans l’Explorateur](https://go.microsoft.com/fwlink/?linkid=871665). Pour obtenir des informations sur la configuration de synchronisation, consultez [les fichiers de synchronisation SharePoint avec le nouveau client de synchronisation OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Consultez l’article [comment utiliser la commande « Ouvrir avec l’Explorateur » pour résoudre les problèmes dans SharePoint Online](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) pour plus d’informations. 
+Consultez l’article [comment utiliser la commande « Ouvrir avec l’Explorateur » pour résoudre les problèmes dans SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) pour plus d’informations. 
   
 

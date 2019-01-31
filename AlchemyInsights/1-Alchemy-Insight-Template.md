@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454212"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662928"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Requis client confrontés H1, H2 ne fonctionne pas
 Exemple de texte bloquer, procédez comme suit :
 
-1. Fichiers dans le dossier **AlchemyInsights** doivent avoir des ID de la règle et le nom de la règle à partir du [portail partenaires Alchemy](https://alchemyportal.azurewebsites.net) dans le mane.
+1. Fichiers dans le dossier **AlchemyInsights** doivent avoir des ID de la règle et le nom de la règle à partir du [portail partenaires Alchemy](https://alchemyportal.azurewebsites.net) dans le nom de fichier.
     1. exemple : ***976-How-to-enable-litigation-hold***
 1. Utiliser les métadonnées en haut de ce fichier en tant que votre modèle. Rien d’autre n’est nécessaire.
 1. Dans le [portail partenaires Alchemy](https://alchemyportal.azurewebsites.net), naviguez jusqu'à la section **client Insight titre :** et l’utilisation qui en tant que le démarrage d’un point du titre H1 l’aperçu. 
@@ -34,3 +34,8 @@ Exemple de texte bloquer, procédez comme suit :
     1. Liens doivent toujours être **« des liens Web » / externe** OR **profond-des liens vers des éléments d’interface utilisateur**, les liens pas internes.
 
 Et c’est vraiment déjà un peu trop long. Meilleure pratique consiste à environ 400 caractères---
+
+Une fois votre contenu est prêt, l’extraction vers la branche live. Ensuite, accédez au [portail Alchemy](https://alchemyportal.azurewebsites.net) et entrez le nom de fichier dans le champ url. Assurez-vous que Insight révisé et publié indique « Oui », puis cliquez sur règle de mise à jour. (Cette recherche plus attrayants dans la nouvelle version du portail - libération bientôt.)
+
+![champ URL](media/for-content-team.PNG)
+

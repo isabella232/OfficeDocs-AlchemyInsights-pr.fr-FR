@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: ea9b108ae40126fa60679d84cd5969e2ecb629d9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1de3b2f04162388939809048259552277c4074fc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468517"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657410"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Panne Outlook étapes de dépannage
 
-Si vous rencontrez des problèmes de blocage du bureau Outlook, démarrer en suivant les 3 étapes ci-dessous, qui sont répertoriés en détail dans cet article : [comment résoudre les problèmes de provoquent le blocage Outlook ou raccrocher utilisés avec Office 365.](https://support.microsoft.com/en-us/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Si vous rencontrez des problèmes de blocage du bureau Outlook, démarrer en suivant les 3 étapes ci-dessous, qui sont répertoriés en détail dans cet article : [comment résoudre les problèmes de provoquent le blocage Outlook ou raccrocher utilisés avec Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
 Étape 1 : Examiner les problèmes possibles avec des compléments.
   
@@ -28,6 +28,6 @@ Si vous rencontrez des problèmes de blocage du bureau Outlook, démarrer en sui
   
 Étape 3 : Créer un nouveau profil Outlook, ou vous pouvez exécuter l' [outil de profil d’Outlook](https://aka.ms/SaRA-OutlookSetupProfile) sur l’ordinateur concerné. 
   
-Si le problème est survenu après une mise à jour et les étapes ci-dessus ne fonctionnent pas, vous devrez peut-être revenir à une version précédente. Découvrez [comment restaurer une version antérieure d’Office 2013 ou Office 2016 Click-to-Run](https://support.microsoft.com/EN-US/help/2770432).
+Si le problème est survenu après une mise à jour et les étapes ci-dessus ne fonctionnent pas, vous devrez peut-être revenir à une version précédente. Découvrez [comment restaurer une version antérieure d’Office 2013 ou Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   
 

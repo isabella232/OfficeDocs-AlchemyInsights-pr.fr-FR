@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 46b2489e86c018b3cbd6feb07a3a2e397de383b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c4610a133cf4202310bfd166a61ab84ca6ecdbb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499524"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661785"
 ---
 # <a name="file-open-read-only"></a>Fichier ouvert en lecture seule
 
@@ -30,7 +30,7 @@ Vous pouvez vérifier les propriétés de fichier, avec le bouton droit sur le f
   
  **Le contenu est en mode protégé**
   
-Les fichiers à partir d’Internet et d’autres emplacements potentiellement dangereuses peuvent contenir des virus, vers ou autres types de logiciels malveillants qui peuvent endommager votre ordinateur. Il s’agit également souvent le cas avec les pièces jointes ou les fichiers que vous avez téléchargé. Pour protéger votre ordinateur, les fichiers de ces emplacements potentiellement dangereuses sont ouverts en mode protégé. En utilisant le mode protégé, vous pouvez lire un fichier et tout en réduisant les risques de voir son contenu. Pour plus d’informations sur le mode protégé et comment modifier les paramètres, consultez cet article : [Quel est le mode protégé ?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Les fichiers à partir d’Internet et d’autres emplacements potentiellement dangereuses peuvent contenir des virus, vers ou autres types de logiciels malveillants qui peuvent endommager votre ordinateur. Il s’agit également souvent le cas avec les pièces jointes ou les fichiers que vous avez téléchargé. Pour protéger votre ordinateur, les fichiers de ces emplacements potentiellement dangereuses sont ouverts en mode protégé. En utilisant le mode protégé, vous pouvez lire un fichier et tout en réduisant les risques de voir son contenu. Pour plus d’informations sur le mode protégé et comment modifier les paramètres, consultez cet article : [Quel est le mode protégé ?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive est pleine ?**
   
@@ -38,7 +38,7 @@ Si le fichier est stocké sur OneDrive et l’espace de stockage OneDrive est co
   
  **Office est activée ?**
   
-Si Office n’est pas activé, ou si votre abonnement a expiré, vous pouvez être en Mode fonctionnalités réduites en lecture seule. Pour plus d’informations sur la façon d’activer Office, voir : [produit sans licence et les erreurs d’activation dans Office](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Si Office n’est pas activé, ou si votre abonnement a expiré, vous pouvez être en Mode fonctionnalités réduites en lecture seule. Pour plus d’informations sur la façon d’activer Office, voir : [produit sans licence et les erreurs d’activation dans Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Si le problème persiste...**
   

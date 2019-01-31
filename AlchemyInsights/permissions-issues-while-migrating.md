@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 0b375c3054d6ebd8638b167770fb73f12c7e95ef
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d85a9e37e30bf83b8990247c4a7d529b4d9ff305
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468498"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656457"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Synchronisation de profil utilisateur et Photo
 
@@ -25,6 +25,6 @@ Pour plus d’informations sur le processus de synchronisation de photos, voir [
   
 Pour plus d’informations sur le processus de synchronisation de profil, voir [plus d’informations sur la synchronisation des profils utilisateur dans SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Mettre à jour le profil dans Office étudier** - Delve utilisateurs peuvent gérer leur profil d’Office 365. Pour plus d’informations, voir [Afficher et mettre à jour votre profil dans Office étudier](https://support.office.com/en-us/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Mettre à jour le profil dans Office étudier** - Delve utilisateurs peuvent gérer leur profil d’Office 365. Pour plus d’informations, voir [Afficher et mettre à jour votre profil dans Office étudier](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 
