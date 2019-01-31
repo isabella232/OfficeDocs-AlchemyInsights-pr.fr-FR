@@ -2,44 +2,28 @@
 title: La résolution des problèmes d’activation
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Démarrez votre article avec une très brève introduction (1 phrase). Vous-même mis en place le lecteur - pourquoi sont-elles ici ? Que doit faire ?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498264"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646957"
 ---
-<span data-ttu-id="fec3f-p102">Démarrez votre article avec une très brève introduction (1 phrase). Vous-même mis en place le lecteur - pourquoi sont-elles ici ? Que doit faire ?</span><span class="sxs-lookup"><span data-stu-id="fec3f-p102">Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?</span></span> 
-  
-1. <span data-ttu-id="fec3f-108">Obtenir le droit à une liste rapide des étapes à effectuer la tâche.</span><span class="sxs-lookup"><span data-stu-id="fec3f-108">Get straight to a quick list of steps to accomplish the task.</span></span>
-    
-    <span data-ttu-id="fec3f-109">Si vous avez besoin afin d’expliquer un concept, ou ils doivent effectuer les étapes préalables, ajoutez un résumé rapide sous l’étape où dont ils ont besoin et le [lien](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) vers le concept ou les étapes.</span><span class="sxs-lookup"><span data-stu-id="fec3f-109">If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps.</span></span> 
-    
-2. <span data-ttu-id="fec3f-110">Conservez les procédures courts - étapes de préférence 5 ou moins, pas plus de 8.</span><span class="sxs-lookup"><span data-stu-id="fec3f-110">Keep procedures short - preferably 5 or fewer steps, no more than 8.</span></span>
-    
-3. <span data-ttu-id="fec3f-111">Utiliser le **style d’interface utilisateur** pour les éléments d’interface utilisateur ou de texte pour les utilisateurs doivent saisir.</span><span class="sxs-lookup"><span data-stu-id="fec3f-111">Use **Ui style** for user interface elements or for text people need to enter.</span></span> 
-    
-4. <span data-ttu-id="fec3f-112">Utiliser les verbes choisissent, ou entrer en tant que des actions et sélectionnez le format menus **Menu** \> **commande**.</span><span class="sxs-lookup"><span data-stu-id="fec3f-112">Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.</span></span>
-    
-5. <span data-ttu-id="fec3f-113">Si vous le souhaitez, ajoutez une capture d’écran de contexte (si l’interface utilisateur est difficile de localiser, ou il a besoin effectuer la tâche).</span><span class="sxs-lookup"><span data-stu-id="fec3f-113">Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).</span></span>
-    
-    <span data-ttu-id="fec3f-p103">Largeur maximale : 520 pixels. Utiliser un thème standard, ne pas afficher les informations personnelles et rogner pour afficher uniquement ce qui est pertinent.</span><span class="sxs-lookup"><span data-stu-id="fec3f-p103">Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant.</span></span> 
-    
-    ![Espace réservé - largeur maximale pour les images de l’article de sécurité sociale est 520 pixels](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-<span data-ttu-id="fec3f-117">Si vous souhaitez ajouter une vidéo ou une capture d’écran, utilisez une grille de deux colonnes et les étapes de la gauche et la vidéo ou la capture d’écran de la droite : voir [étapes et exemple de grille vidéo](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span><span class="sxs-lookup"><span data-stu-id="fec3f-117">If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span></span> 
-  
-<span data-ttu-id="fec3f-118">Cible : pas plus de 500 mots pour un article.</span><span class="sxs-lookup"><span data-stu-id="fec3f-118">Target no more than 500 words for an article.</span></span>
-  
-# <a name="example-article"></a><span data-ttu-id="fec3f-119">Article exemple</span><span class="sxs-lookup"><span data-stu-id="fec3f-119">Example article</span></span>
+# <a name="activation-troubleshooting"></a><span data-ttu-id="8c179-102">La résolution des problèmes d’activation</span><span class="sxs-lookup"><span data-stu-id="8c179-102">Activation troubleshooting</span></span>
 
-[<span data-ttu-id="fec3f-120">Modifier ma photo</span><span class="sxs-lookup"><span data-stu-id="fec3f-120">Change my photo</span></span>](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+<span data-ttu-id="8c179-p101">Dans **Le panneau de configuration** \> **programmes et fonctionnalités**, search for Office. Vous devez voir Microsoft Office 365 ProPlus ou entreprise de Microsoft Office 365. Si vous voyez plusieurs versions d’Office répertorié, désinstallez la version que vous n’utilisez pas.</span><span class="sxs-lookup"><span data-stu-id="8c179-p101">In **Control Panel** \> **Programs and Features**, search for Office. You should see Microsoft Office 365 ProPlus or Microsoft Office 365 Business. If you see more than one version of Office listed, uninstall the version you aren't using.</span></span> 
   
-
+<span data-ttu-id="8c179-106">Si vous ne pouvez pas désinstaller à l’aide du Panneau de configuration, utilisez l' [Assistant de récupération et de prise en charge](https://aka.ms/SARA-OfficeUninstall-Alchemy) pour désinstaller la version que vous n’utilisez pas.</span><span class="sxs-lookup"><span data-stu-id="8c179-106">If you can't uninstall successfully using the Control Panel, use the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) to uninstall the version you aren't using.</span></span> 
+  
+<span data-ttu-id="8c179-p102">Si Office est toujours sans licence, revenez dans le **Panneau de configuration** \> **programmes et fonctionnalités**. Avec le bouton droit de l’installation Office restante, sélectionnez **Modifier** (ou modifier) et sélectionnez **Réparation en ligne**. La réparation en ligne peut prendre un certain temps. Ensuite, redémarrez Office et connectez-vous à l’aide de votre travail ou école compte, si vous y êtes invité.</span><span class="sxs-lookup"><span data-stu-id="8c179-p102">If Office is still unlicensed, go back to the **Control Panel** \> **Programs and Features**. Right-click the remaining Office install, select **Modify** (or Change), and then select **Online Repair**. The online repair might take awhile. Then, restart Office and sign in using your work or school account, if prompted.</span></span>
+  
+<span data-ttu-id="8c179-111">Si Office est toujours sans licence, téléchargez et exécutez la [résolution des problèmes d’Activation](https://aka.ms/SARA-OfficeActivation-Alchemy) sur l’ordinateur concerné pour résoudre les problèmes d’activation.</span><span class="sxs-lookup"><span data-stu-id="8c179-111">If Office is still unlicensed, download and then run the [Activation troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) on the affected machine to fix the activation issues.</span></span> 
+  
+<span data-ttu-id="8c179-112">Pour plus d’informations, voir : [produit sans licence et les erreurs d’activation dans Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span><span class="sxs-lookup"><span data-stu-id="8c179-112">For more information, see: [Unlicensed Product and activation errors in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span></span>
