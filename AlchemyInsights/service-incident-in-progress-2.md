@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
-ms.openlocfilehash: 26aae0254516e28b5dd18b89fb81bb4d0215558e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5042f5410db78bcf0a364ad6816de6f03e675c64
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468721"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759674"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="29cd6-102">Service Incident en cours</span><span class="sxs-lookup"><span data-stu-id="29cd6-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="a3fea-102">Service Incident en cours</span><span class="sxs-lookup"><span data-stu-id="a3fea-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="29cd6-p101">Vous pouvez être affectés par un incident de service ou consultatif qui est actuellement en cours d’étude. Vous pouvez vérifier l’état le plus récent en accédant à la page [Intégrité du Service](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="29cd6-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
+<span data-ttu-id="a3fea-p101">Vous pouvez être affectés par un incident de service ou consultatif qui est actuellement en cours d’étude. Vous pouvez vérifier l’état le plus récent en accédant à la page [Intégrité du Service](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="a3fea-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="29cd6-105">Pour votre commodité, vous pouvez trouver un résumé de cet incident ci-dessous :</span><span class="sxs-lookup"><span data-stu-id="29cd6-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="a3fea-105">Pour votre commodité, vous pouvez trouver un résumé de cet incident ci-dessous :</span><span class="sxs-lookup"><span data-stu-id="a3fea-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="29cd6-106">**Numéro d’incident :** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="29cd6-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
+> <span data-ttu-id="a3fea-106">**Numéro d’incident :** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="a3fea-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="29cd6-107">Impact sur les description : {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="29cd6-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="a3fea-107">Impact sur les description : {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="a3fea-107">Impact description: {ImpactDescription}</span></span>
     
 
