@@ -9,21 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: d2320ec1d64e0c53d796814668c617a751e079c9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2b43997f391ee2a05d7cdd82bba47d4120dc2528
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469256"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770687"
 ---
-- <span data-ttu-id="b7445-102">Accédez à la page des [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , ou choisissez **abonnements** \> **facturation**.</span><span class="sxs-lookup"><span data-stu-id="b7445-102">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Subscriptions** \> **Billing**.</span></span>
+# <a name="how-to-add-or-edit-a-vatid"></a><span data-ttu-id="f66cb-102">Comment ajouter ou modifier un VatID</span><span class="sxs-lookup"><span data-stu-id="f66cb-102">How to add or edit a VatID</span></span>
+
+- <span data-ttu-id="f66cb-103">Accédez à la page des [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , ou choisissez **abonnements** \> **facturation**.</span><span class="sxs-lookup"><span data-stu-id="f66cb-103">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Subscriptions** \> **Billing**.</span></span>
     
-- <span data-ttu-id="b7445-103">Dans la page des **abonnements** , choisissez l’abonnement que vous souhaitez modifier, puis cliquez sur **Autres Actions** \> **numéro TVA modifier**.</span><span class="sxs-lookup"><span data-stu-id="b7445-103">On the **Subscriptions** page, choose the subscription you want to edit, then choose **More Actions** \> **Edit VAT number**.</span></span>
+- <span data-ttu-id="f66cb-104">Dans la page des **abonnements** , choisissez l’abonnement que vous souhaitez modifier, puis cliquez sur **Autres Actions** \> **numéro TVA modifier**.</span><span class="sxs-lookup"><span data-stu-id="f66cb-104">On the **Subscriptions** page, choose the subscription you want to edit, then choose **More Actions** \> **Edit VAT number**.</span></span>
     
-- <span data-ttu-id="b7445-104">En bas du volet **modifier votre adresse de l’utilisation du service** , entrez ou modifier votre numéro de TVA dans la zone **numéro de TVA** , puis cliquez sur **Envoyer**.</span><span class="sxs-lookup"><span data-stu-id="b7445-104">At the bottom of the **Edit your service usage address** pane, enter or edit your VAT ID in the **Vat number** box, and then choose **Submit**.</span></span>
+- <span data-ttu-id="f66cb-105">En bas du volet **modifier votre adresse de l’utilisation du service** , entrez ou modifier votre numéro de TVA dans la zone **numéro de TVA** , puis cliquez sur **Envoyer**.</span><span class="sxs-lookup"><span data-stu-id="f66cb-105">At the bottom of the **Edit your service usage address** pane, enter or edit your VAT ID in the **Vat number** box, and then choose **Submit**.</span></span>
     
-    <span data-ttu-id="b7445-105">Lorsque vous avez terminé, TVA ne sera pas percevoir sur votre prochaine facture.</span><span class="sxs-lookup"><span data-stu-id="b7445-105">When complete, VAT will not be charged on your next bill.</span></span>
+    <span data-ttu-id="f66cb-106">Lorsque vous avez terminé, TVA ne sera pas percevoir sur votre prochaine facture.</span><span class="sxs-lookup"><span data-stu-id="f66cb-106">When complete, VAT will not be charged on your next bill.</span></span>
     
-<span data-ttu-id="b7445-106">Pour plus d’informations, voir [les taxes sont-ils payants pour Office 365 ?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span><span class="sxs-lookup"><span data-stu-id="b7445-106">For more information, see [What tax will I be charged for Office 365?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span></span>
+<span data-ttu-id="f66cb-107">Pour plus d’informations, voir [les taxes sont-ils payants pour Office 365 ?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span><span class="sxs-lookup"><span data-stu-id="f66cb-107">For more information, see [What tax will I be charged for Office 365?](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)</span></span>
   
 
