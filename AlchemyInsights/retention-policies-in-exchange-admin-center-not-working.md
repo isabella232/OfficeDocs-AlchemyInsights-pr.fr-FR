@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 6c69511f6bcdad5793cd2473a20a2d168d2ac260
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 73e8db432afccb73b872ec7a3ce84c25f1ba7f25
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660705"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786768"
 ---
+# <a name="retention-policies-in-exchange-admin-center"></a>Stratégies de rétention dans le centre d’administration Exchange
+
  **Problème :** Nouvellement créé ou n’appliquent pas de stratégies de rétention mis à jour dans le centre d’administration Exchange pour les boîtes aux lettres ou les éléments ne sont pas déplacées vers la boîte aux lettres d’archive ou supprimés. 
   
  **Causes premières :**

@@ -11,20 +11,22 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 62947931a616297e74a32e035caea459c0043e39
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: e5b168d4fbbdaf1dea5128cac00f5eafadd2d4e4
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661029"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786624"
 ---
+# <a name="required-licenses-for-microsoft-todo"></a>Licences requises pour Microsoft ToDo
+
 [Licences requises pour Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
 Un utilisateur doit avoir un des certificats suivants à utiliser Microsoft ToDo :
   
-- Business Essentials
+- Business Essentials
     
-- Business Premium
+- Business Premium
     
 - Microsoft 365 Firstline F1
     
@@ -44,13 +46,13 @@ Un utilisateur doit avoir un des certificats suivants à utiliser Microsoft ToDo
     
 Outre une licence de produit valide, une des versions suivantes d’Exchange Online est nécessaire pour des tâches être en mesure de données de synchronisation utilisateur : 
   
-- Exchange Online Plan 1
+- Exchange Online (plan 1)
     
-- Exchange Online Plan 2
+- Exchange Online (plan 2)
     
 - Notions de base Exchange
     
-- Exchange Online Kiosk
+- Exchange Online Kiosk
     
 - Exchange Online POP
     
