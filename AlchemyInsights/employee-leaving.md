@@ -7,17 +7,17 @@ ms.date: 4/16/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: ''
-ms.openlocfilehash: c3ffcb36c9030204eba7fa89f97c93aebcb5f29b
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: d66d92afb22f65fe937316d6f799696dc481657a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29758482"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940570"
 ---
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Un employé quitter et devez bloquer l’accès aux données et au courrier électronique ?
   

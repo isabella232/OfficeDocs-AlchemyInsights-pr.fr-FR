@@ -7,22 +7,22 @@ ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: 12fe685feddf2e0698a1917200e8d1084501f8a8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6e4ce2a604ebee4d80a8625f45d6d4eab323d63d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469174"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29924658"
 ---
 # <a name="pay-by-invoice"></a>Paiement par facture
 
 Si le coût de votre abonnement Office 365 est supérieur à un certain montant (le montant varie selon l'emplacement du service), vous pouvez payer par facture via chèque ou transfert électronique de fonds (TEF). Une vérification de solvabilité sera peut-être requise pour les paiements par facture d'un montant élevé. Si une vérification de solvabilité doit être effectuée, vous recevrez une notification lors de l'achat de votre abonnement. De plus, si vous acceptez d'être contacté, vous recevrez un courrier qui inclut davantage d'informations sur la souscription au processus d'approbation de crédit. Deux jours ouvrables sont généralement nécessaires pour effectuer les vérifications de solvabilité.
   
-Si vous payez votre abonnement par facture, vous recevrez un courrier vous avertissant de la disponibilité de votre relevé de facturation. Ce courrier ne contient pas de copie de votre relevé de facturation. Toutefois, vous pouvez également choisir de [Envoyer une copie de votre relevé de facturation par courrier électronique](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). Votre relevé de facturation inclut des détails sur vos options de paiement. Si vous entrez une référence de commande fournisseur lorsque vous achetez un abonnement, cette référence s'affichera sur votre relevé de facturation. Pour plus d'informations sur l'accès à vos relevés de facturation, voir [Consulter votre facture pour Office 365 pour les entreprises](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218).
+Si vous payez par facture votre abonnement, vous obtiendrez un message électronique qui indique votre instruction facturation est prête à afficher. Ce message ne contient pas une copie de votre instruction facturation. Toutefois, vous pouvez également choisir de [recevoir une copie de votre instruction facturation dans le message électronique](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216). Votre instruction facturation inclut plus d’informations sur les options pour effectuer un paiement. Si vous entrez un numéro de bon de commande d’achat lorsque vous achetez un abonnement, celui-ci apparaît sur votre facture. Pour plus d’informations sur l’accès aux relevés de facturation, voir [Afficher la facture ou la facture pour Office 365 pour entreprises](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218).
   
 Pour en savoir plus sur le paiement par facture, voir [rémunération de votre abonnement à Office 365 entreprise](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
   
