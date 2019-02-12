@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cfd69bab102ac58343ce98db3fb02b594673ea63
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6e877493f44b4636e1293582b5baf6bf98d1d251
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469232"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905650"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Solutions pour les problèmes liés à l’installation d’office sur un serveur Terminal Server
 
@@ -24,13 +24,13 @@ Pour utiliser l’activation de l’ordinateur partagé, vous devez disposer d�
     
 - Vérifiez que l’activation d’Office 365 ProPlus a été effectuée
     
-- Passez en revue les messages d’erreur d’activation d’ordinateurs partagés
+- Passez en revue les messages d’erreur d’activation de l’ordinateur partagé :
     
-  - Les produits que nous avons trouvés dans votre compte ne peuvent pas être utilisés pour activer Office dans les scénarios d’ordinateur partagé.
+  - « Les produits que nous avons trouvé dans votre compte ne peut être utilisés pour activer Office dans les scénarios d’un ordinateur partagé »
   
 Cette erreur signifie que vous ne disposez pas un plan Office 365 qui inclut Office 365 ProPlus.
     
-  - Produit sans licence
+  - « Produit sans licence »
     
   - Vérifiez que l’utilisateur est attribué une licence pour Office 365 ProPlus.
     
