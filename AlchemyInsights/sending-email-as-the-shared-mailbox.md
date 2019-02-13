@@ -7,23 +7,23 @@ ms.date: 3/22/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 4bf11047e703aaaccbf709f1da003bec829c3722
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656205"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919690"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="5a6db-102">Envoi de courrier électronique en tant que la boîte aux lettres partagée</span><span class="sxs-lookup"><span data-stu-id="5a6db-102">Sending email as the shared mailbox</span></span>
+# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="0d8cb-102">Envoi de courrier électronique en tant que la boîte aux lettres partagée</span><span class="sxs-lookup"><span data-stu-id="0d8cb-102">Sending email as the shared mailbox</span></span>
 
-<span data-ttu-id="5a6db-p101">Une fois que vous avez créé une boîte aux lettres partagée, les utilisateurs qui sont membres de la boîte aux lettres sont en mesure d’envoyer un message électronique en tant que l’identité de la boîte aux lettres partagée (par exemple, *info@contoso.com* ). Pour plus d’informations, voir :</span><span class="sxs-lookup"><span data-stu-id="5a6db-p101">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ). For instructions, see:</span></span> 
+<span data-ttu-id="0d8cb-p101">Une fois que vous avez créé une boîte aux lettres partagée, les utilisateurs qui sont membres de la boîte aux lettres sont en mesure d’envoyer un message électronique en tant que l’identité de la boîte aux lettres partagée (par exemple, *info@contoso.com* ). Pour plus d’informations, voir :</span><span class="sxs-lookup"><span data-stu-id="0d8cb-p101">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ). For instructions, see:</span></span> 
   
-[<span data-ttu-id="5a6db-105">Ouvrir et utiliser une boîte aux lettres partagée dans Outlook 2016 et Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="5a6db-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+[<span data-ttu-id="0d8cb-105">Ouvrir et utiliser une boîte aux lettres partagée dans Outlook 2016 et Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="0d8cb-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[<span data-ttu-id="5a6db-106">Ajouter une boîte aux lettres partagée à Outlook sur le web</span><span class="sxs-lookup"><span data-stu-id="5a6db-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[<span data-ttu-id="0d8cb-106">Ajouter une boîte aux lettres partagée à Outlook sur le web</span><span class="sxs-lookup"><span data-stu-id="0d8cb-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
 
