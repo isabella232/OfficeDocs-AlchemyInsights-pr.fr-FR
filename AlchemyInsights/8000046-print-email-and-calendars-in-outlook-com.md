@@ -7,33 +7,33 @@ ms.date: 5/30/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
-ms.openlocfilehash: 5b35728e723d2eab2f648ffa4850335551e8edd3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 74d0708cb4f6b2d3785cf9fd4225c534ae7e9d52
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29468453"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936034"
 ---
-# <a name="print-email-and-calendars-in-outlookcom"></a><span data-ttu-id="efdf6-102">Imprimer le courrier électronique et les calendriers dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="efdf6-102">Print email and calendars in Outlook.com</span></span>
+# <a name="print-email-and-calendars-in-outlookcom"></a><span data-ttu-id="03e40-102">Imprimer le courrier électronique et les calendriers dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="03e40-102">Print email and calendars in Outlook.com</span></span>
 
-<span data-ttu-id="efdf6-103">Pour imprimer des messages électroniques :</span><span class="sxs-lookup"><span data-stu-id="efdf6-103">To print email messages:</span></span>
+<span data-ttu-id="03e40-103">Pour imprimer des messages électroniques :</span><span class="sxs-lookup"><span data-stu-id="03e40-103">To print email messages:</span></span>
   
-1. <span data-ttu-id="efdf6-104">Sélectionnez le message que vous voulez imprimer.</span><span class="sxs-lookup"><span data-stu-id="efdf6-104">Select the message you want to print.</span></span>
+1. <span data-ttu-id="03e40-104">Sélectionnez le message que vous voulez imprimer.</span><span class="sxs-lookup"><span data-stu-id="03e40-104">Select the message you want to print.</span></span>
     
-2. <span data-ttu-id="efdf6-105">En haut de la page, sélectionnez ![plusieurs actions](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Imprimer**.</span><span class="sxs-lookup"><span data-stu-id="efdf6-105">At the top of the page, select ![More actions](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Print**.</span></span> 
+2. <span data-ttu-id="03e40-105">En haut de la page, sélectionnez ![plusieurs actions](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Imprimer**.</span><span class="sxs-lookup"><span data-stu-id="03e40-105">At the top of the page, select ![More actions](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Print**.</span></span> 
     
-<span data-ttu-id="efdf6-p101">Pour imprimer votre calendrier, vous devrez utiliser Outlook.com classique. Impression de calendriers n’est pas disponible actuellement dans la version bêta Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="efdf6-p101">To print your calendar, you'll need to use classic Outlook.com. Calendar printing is not currently available in the Outlook.com beta.</span></span>
+<span data-ttu-id="03e40-p101">Pour imprimer votre calendrier, vous devrez utiliser Outlook.com classique. Impression de calendriers n’est pas disponible actuellement dans la version bêta Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="03e40-p101">To print your calendar, you'll need to use classic Outlook.com. Calendar printing is not currently available in the Outlook.com beta.</span></span>
   
-1. <span data-ttu-id="efdf6-108">En haut de la page, assurez-vous que la bascule bêta Outlook.com est définie sur désactivé.</span><span class="sxs-lookup"><span data-stu-id="efdf6-108">At the top of the page, make sure the Outlook.com beta toggle is set to off.</span></span>
+1. <span data-ttu-id="03e40-108">En haut de la page, assurez-vous que la bascule bêta Outlook.com est définie sur désactivé.</span><span class="sxs-lookup"><span data-stu-id="03e40-108">At the top of the page, make sure the Outlook.com beta toggle is set to off.</span></span>
     
-2. <span data-ttu-id="efdf6-109">En bas de la page, sélectionnez </span><span class="sxs-lookup"><span data-stu-id="efdf6-109">At the bottom of the page, select</span></span> ![Calendrier](media/9e1a821a-c32e-4851-a866-342a39ffdca0.png)<span data-ttu-id="efdf6-111">.</span><span class="sxs-lookup"><span data-stu-id="efdf6-111"></span></span>
+2. <span data-ttu-id="03e40-109">En bas de la page, sélectionnez </span><span class="sxs-lookup"><span data-stu-id="03e40-109">At the bottom of the page, select</span></span> ![Calendrier](media/9e1a821a-c32e-4851-a866-342a39ffdca0.png)<span data-ttu-id="03e40-111">.</span><span class="sxs-lookup"><span data-stu-id="03e40-111"></span></span>
     
-3. <span data-ttu-id="efdf6-112">Choisissez l’affichage du **jour**, **semaine de travail**, **semaine**ou **mois** en haut de la page.</span><span class="sxs-lookup"><span data-stu-id="efdf6-112">Choose the **Day**, **Work week**, **Week**, or **Month** view at the top of the page.</span></span> 
+3. <span data-ttu-id="03e40-112">Choisissez l’affichage du **jour**, **semaine de travail**, **semaine**ou **mois** en haut de la page.</span><span class="sxs-lookup"><span data-stu-id="03e40-112">Choose the **Day**, **Work week**, **Week**, or **Month** view at the top of the page.</span></span> 
     
-4. <span data-ttu-id="efdf6-113">En haut de la page, sélectionnez **Imprimer**.</span><span class="sxs-lookup"><span data-stu-id="efdf6-113">At the top of the page, select **Print**.</span></span> 
+4. <span data-ttu-id="03e40-113">En haut de la page, sélectionnez **Imprimer**.</span><span class="sxs-lookup"><span data-stu-id="03e40-113">At the top of the page, select **Print**.</span></span> 
     
-<span data-ttu-id="efdf6-114">Pour plus d’informations sur [l’impression e-mail et les calendriers dans Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="efdf6-114">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
+<span data-ttu-id="03e40-114">Pour plus d’informations sur [l’impression e-mail et les calendriers dans Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="03e40-114">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
   
 
