@@ -1,5 +1,5 @@
 ---
-title: La configuration de votre abonnement O365 Business Essentials
+title: Configuration de votre abonnement Office Essentials 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,30 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 4d375f6357539db79c870c5c32e7201bc93081b8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915298"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207863"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>La configuration de votre abonnement O365 Business Essentials
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Configuration de votre abonnement Office Essentials 365
 
-Créer des comptes d’Office 365 et ajouter votre domaine
+Créer des comptes Office 365 et ajouter votre domaine
   
-- Dans cette étape, vous utilisez l’Assistant Installation pour créer des comptes d’Office 365 pour vos utilisateurs et ajouter votre propre domaine. L’Assistant vous permet de personnaliser les ID d’utilisateur et le courrier pour votre entreprise, comme [rob@contoso.com](mailto:rob@contoso.com)de tout le monde.
+- Dans cette étape, vous allez utiliser l'Assistant Installation pour créer des comptes Office 365 pour vos utilisateurs et ajouter votre propre domaine. L'Assistant vous permet de personnaliser les ID d'utilisateur et le courrier de votre entreprise, par exemple [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Accéder au [Centre d'administration Office 365](https://login.partner.microsoftonline.cn/).
+- Accédez au [Centre d'administration Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Pour démarrer l’Assistant, cliquez sur **Atteindre le programme d’installation**. Pour plus d’informations, consultez [Ajouter des utilisateurs et domaine à Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Pour démarrer l'Assistant, choisissez **accéder à la configuration**. Pour en savoir plus, consultez la rubrique [Ajouter des utilisateurs et un domaine à Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
 Importer le courrier
   
-- Déplacer votre messagerie existante et des contacts à partir d’autres systèmes de messagerie électronique à votre boîte aux lettres Office 365 afin de voir tous dans un seul endroit. Pour les options de migration, [Migrate électroniques et des contacts vers Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Déplacez vos courriers et contacts existants à partir d'autres systèmes de courrier vers votre boîte aux lettres Office 365 de manière à ce qu'ils soient tous en un seul endroit. Pour les options de migration, migrez le [courrier électronique et les contacts vers Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
     
 - Connecter des comptes de messagerie
     
-  - En plus de gérer votre messagerie électronique Office 365 dans Outlook, vous pouvez connecter trop, autres comptes de messagerie dans Outlook, telles que vos comptes Gmail et Yahoo. Cela vous permet de gérer l’ensemble de votre courrier électronique à un seul endroit. Vous pouvez connecter jusqu'à 5 comptes de messagerie pour Outlook. Pour plus d’informations, voir [connexion des comptes de messagerie dans Outlook sur le web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - En plus de la gestion de votre courrier Office 365 dans Outlook, vous pouvez également connecter d'autres comptes de courrier à Outlook, tels que vos comptes Gmail et Yahoo. Cela vous permet de gérer tous vos courriers électroniques à un seul endroit. Vous pouvez connecter jusqu'à 5 comptes de courrier à Outlook. Pour plus d'informations, voir [connecter des comptes de messagerie dans Outlook sur le Web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 Installer Skype Entreprise
   
@@ -39,8 +39,8 @@ Installer Skype Entreprise
     
 Stocker des fichiers en ligne
   
-- Pour connaître les emplacements de stockage mieux à votre entreprise, voir [où vous pouvez stocker des fichiers dans Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Tout le monde Obtient un emplacement de stockage dans le nuage **OneDrive** automatiquement lorsque vous créez des comptes Office 365 pour eux. Avec OneDrive, vous pouvez accéder fichiers entre les ordinateurs, des téléphones et des tablettes. 
+- Pour savoir quels emplacements de stockage sont les plus adaptés à votre entreprise, reportez-vous à la rubrique [où vous pouvez stocker des fichiers dans Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Tout le monde obtient automatiquement un emplacement de stockage dans le Cloud **OneDrive** lorsque vous créez des comptes Office 365 pour ceux-ci. Avec OneDrive, vous pouvez accéder à des fichiers sur vos ordinateurs, téléphones et tablettes. 
     
-Vous trouverez des procédures détaillées pour le programme d’installation dans [cet article](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
+Vous trouverez des étapes détaillées pour la configuration dans [cet article](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
   
 

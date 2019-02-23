@@ -8,33 +8,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941110"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209843"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Autorisations utilisateur dans SharePoint et OneDrive
 
-Si un utilisateur de votre organisation n’est pas en mesure d’accéder à SharePoint ou OneDrive, assurez-vous qu’ils possèdent une licence qui inclut SharePoint et OneDrive. 
+Si un utilisateur de votre organisation ne parvient pas à accéder à SharePoint ou à OneDrive, vérifiez qu'il dispose d'une licence incluant SharePoint et OneDrive. 
   
-1. Accédez à la [page utilisateurs actifs dans le centre d’administration d’Office 365](https://portal.office.com/adminportal/home#/users) et sélectionnez l’utilisateur. 
+1. Accédez à la [page utilisateurs actifs dans le centre d'administration 365 de Microsoft](https://portal.office.com/adminportal/home#/users) et sélectionnez l'utilisateur. 
     
-2. Assurez-vous que sous **licences**, une licence est attribuée et **SharePoint Online** est sélectionnée. 
+2. Assurez-vous que sous **licences de produit**, une licence est attribuée et **SharePoint Online** est sélectionné. 
     
- Pour autoriser un utilisateur à accéder à un site SharePoint : 
+ Pour accorder à un utilisateur l'autorisation d'accéder à un site SharePoint: 
   
-1. Ouvrez le site dans un navigateur web.
+1. Ouvrez le site dans un navigateur Web.
     
-2. Si le site appartient à un groupe d’Office 365, cliquez sur l’icône Paramètres dans le coin supérieur droit, puis cliquez sur **autorisations de Site**. Cliquez sur **Inviter des personnes**, puis cliquez sur Ajouter des membres au groupe d’Office 365 ou partager seulement le site. 
+2. Si le site appartient à un groupe Office 365, cliquez sur l'icône des paramètres dans le coin supérieur droit, puis cliquez sur **autorisations de site**. Cliquez sur **inviter des personnes**, puis ajoutez des membres au groupe Office 365 ou partagez uniquement le site. 
     
-    Pour un site de communication, cliquez sur **site de partage** dans l’angle supérieur droit, entrez le nom de personne, puis sélectionnez le niveau d’autorisation (lecture, modification ou contrôle total). 
+    Pour un site de communication, cliquez sur **partager le site** dans le coin supérieur droit, entrez le nom de la personne, puis sélectionnez le niveau d'autorisation (lecture, modification ou contrôle total). 
     
-    Pour un site d’équipe classique, cliquez sur **partager** dans l’angle supérieur droit. Entrez le nom de la personne que vous souhaitez inviter ou tapez tout le monde pour partager avec tout le monde dans votre organisation. Cliquez sur **partager**.
+    Pour un site d'équipe classique, cliquez sur **partager** dans le coin supérieur droit. Entrez le nom de la personne que vous souhaitez inviter ou tapez tout le monde à partager avec tous les membres de votre organisation. Cliquez sur **partager**.
     
 > [!NOTE]
-> Si vous êtes un membre d’un site, mais n’est pas un propriétaire, vous pouvez inviter des personnes sur le site, mais votre invitation génère une demande d’accès qui peut être approuvée ou refusée par un propriétaire de site. 
+> Si vous êtes membre d'un site, mais pas d'un propriétaire, vous pouvez inviter des personnes sur le site, mais votre invitation générera une demande d'accès qui peut être approuvée ou refusée par un propriétaire de site. 
   
 [Découvrez comment partager un fichier ou un dossier avec un utilisateur](https://go.microsoft.com/fwlink/?linkid=533408)
   

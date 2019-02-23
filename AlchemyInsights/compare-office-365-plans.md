@@ -1,5 +1,5 @@
 ---
-title: Comparer les plans Office 365
+title: Comparaison des plans Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919438"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208081"
 ---
-# <a name="compare-office-365-plans"></a>Comparer les plans Office 365
+# <a name="compare-office-365-plans"></a>Comparaison des plans Office 365
 
-Comparer, commutateur ou achetez des plans Office 365
+Comparer, passer ou acheter des plans Office 365
   
-Plans Office 365 sont disponibles pour les [entreprises](https://products.office.com/compare-all-microsoft-office-products?tab=2)et les [entreprises de niveau entreprise](https://products.office.com/business/compare-more-office-365-for-business-plans). En outre, Office 365 est disponible pour [les établissements d’enseignement](https://products.office.com/academic/compare-office-365-education-plans), [administrations](https://products.office.com/government/compare-office-365-government-plans)et des [associations](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
+Les plans Office 365 sont disponibles [](https://products.office.com/compare-all-microsoft-office-products?tab=2)pour les entreprises et les [entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans). De plus, Office 365 est disponible pour les [établissements scolaires](https://products.office.com/academic/compare-office-365-education-plans), les [organisations gouvernementales](https://products.office.com/government/compare-office-365-government-plans)et les organisations à [but non lucratif](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
   
-Si votre organisation est intéressée par comparaison de tous les plans et les prix, passez en revue [comparer tous les plans Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Si votre organisation souhaite comparer tous les plans et tarifs, consultez la partie [comparer tous les plans Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Si votre organisation a déjà acheté un plan Office 365 et s’intéresse à basculer vers un autre plan faire donc à partir du centre d’administration Office 365, accédez à l' [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **facturation** \> **abonnements**. Choisissez les **plans de commutateur** pour afficher la liste des nouveaux plans qui sont disponibles. 
+si votre organisation a déjà acheté un plan Office 365 et souhaite passer à un autre plan, vous pouvez le faire à partir du centre d'administration de Microsoft 365, accéder [](https://go.microsoft.com/fwlink/p/?linkid=842054)aux abonnements ou choisir des abonnements de **facturation** \> ****. Choisissez **changer de plan** pour afficher la liste des nouveaux plans disponibles. 
   
-Votre organisation peut également combiner et aux plans Office 365 pour répondre aux besoins et exigences de fonctionnalité d’utilisateurs. À partir de l’administration d’Office 365, accédez à la page [Services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433) ou choisissez **facturation** \> **Services d’achat**.
+Votre organisation peut également combiner et faire correspondre les plans Office 365 pour répondre aux besoins et aux exigences des utilisateurs. à partir de l'administrateur Office 365, accédez à la page [acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433) ou choisissez **services d'achat**de **facturation** \> .
   
 

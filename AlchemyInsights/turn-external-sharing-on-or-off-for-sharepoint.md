@@ -1,5 +1,5 @@
 ---
-title: Activer externe ou désactiver le partage pour SharePoint
+title: Activer ou désactiver le partage externe pour SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
-ms.openlocfilehash: 4db09cced893480f842585268bf850dc49f0d20a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b915ff5514711e2ff27b07e35748d53689a486f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935944"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209339"
 ---
-# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Activer externe ou désactiver le partage pour SharePoint
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Activer ou désactiver le partage externe pour SharePoint
 
-1. Dans le centre d’administration Office 365, accédez à [les Services &amp; page compléments](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), cliquez sur **Sites**.
+1. Dans le centre d'administration Microsoft 365, accédez à [la &amp; page compléments de services](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), puis cliquez sur **sites**.
     
-2. Activer le paramètre activé ou désactivé, ou sélectionnez une option de partage s’il est activé.
+2. Activez ou désactivez le paramètre ou sélectionnez une option de partage si elle est activée.
     
 > [!NOTE]
-> Désactivation de partage pour SharePoint le désactive pour OneDrive. Pour autoriser externe sur un site de partage, le paramètre d’échelle de l’organisation doit se trouver sur. > pour autoriser externe partage pour OneDrive ou tous les sites SharePoint individuels, vous devez l’activer à l’échelle de l’organisation pour SharePoint. Vous pouvez puis le désactiver pour les collections de sites spécifique. Pour gérer les paramètres de partage externes pour les sites de communication et qui appartiennent à des groupes d’Office 365, vous devez utiliser le nouveau centre d’administration SharePoint (preview) ou PowerShell. Pour plus d’informations sur la gestion des paramètres de partage externes, voir [Activer externe ou désactiver le partage](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Désactiver le partage pour SharePoint le désactive pour OneDrive. Pour autoriser le partage externe sur un site, votre paramètre à l'échelle de votre organisation doit être activé. > pour autoriser le partage externe pour OneDrive ou tous les sites SharePoint individuels, vous devez l'activer à l'échelle de l'Organisation pour SharePoint. Vous pouvez ensuite la désactiver pour des collections de sites spécifiques. Pour gérer les paramètres de partage externe pour les sites de communication et les sites qui appartiennent à des groupes Office 365, vous devez utiliser le nouveau centre d'administration SharePoint (aperçu) ou PowerShell. Pour plus d'informations sur la gestion des paramètres de partage externe, voir [activer ou désactiver le partage externe](https://go.microsoft.com/fwlink/?linkid=866426). 
   
-[Pour plus d’informations sur le partage externe dans SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
+[En savoir plus sur le partage externe dans SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   
 

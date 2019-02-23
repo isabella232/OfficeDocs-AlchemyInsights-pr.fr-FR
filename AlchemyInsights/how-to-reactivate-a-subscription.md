@@ -1,5 +1,5 @@
 ---
-title: Comment le réactiver un abonnement
+title: Comment réactiver un abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c04ac62ab623a8a512b80257ec642167382f21aa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c04ed7dd2383edb8c82dba7d2547591ba2cff325
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900214"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208151"
 ---
-# <a name="how-to-reactivate-a-subscription"></a>Comment le réactiver un abonnement
+# <a name="how-to-reactivate-a-subscription"></a>Comment réactiver un abonnement
 
-Si votre abonnement a expiré, a été annulée ou désactivée par Microsoft, vous pouvez le réactiver dans le centre d’administration d’Office 365.
+Si votre abonnement a expiré, a été annulé ou désactivé par Microsoft, vous pouvez le réactiver dans le centre d'administration 365 de Microsoft.
   
 1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
-2. Choisissez l’abonnement que vous souhaitez réactiver.
+2. Choisissez l'abonnement que vous souhaitez réactiver.
     
-3. Cliquez sur le bouton **réactiver** sur la droite. 
+3. Cliquez sur **** le bouton réactiver à droite. 
     
-4. Vous devrez mettre à jour les détails de paiement. Lorsque toutes les informations sont correctes, cliquez sur **Envoyer**.
+4. Vous serez invité à mettre à jour les détails du paiement. Lorsque toutes les informations sont correctes, sélectionnez **Envoyer**.
     
-5. Au bas de l’écran affiche une confirmation. Cliquez sur **Fermer** pour revenir à la page des **abonnements** . 
+5. Une confirmation s'affiche en bas de l'écran. Cliquez sur **Fermer** pour revenir à la page **abonnements** . 
     
-6. Si l’abonnement n’apparaît pas Active après quelques minutes, actualisez la page.
+6. Si l'abonnement n'apparaît pas actif après quelques minutes, actualisez la page.
     
-Pour plus d’informations, voir : [renouveler Office 365 pour entreprises](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+Pour plus d'informations, reportez-vous à la rubrique: [renouvelle Office 365 for Business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
   
 

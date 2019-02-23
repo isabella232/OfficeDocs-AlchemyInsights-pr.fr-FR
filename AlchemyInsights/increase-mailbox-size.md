@@ -1,5 +1,5 @@
 ---
-title: Augmenter la taille de boîte aux lettres
+title: Augmenter la taille de la boîte aux lettres
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 892eff30359f71984cae2f4ae2448dad49e4d6bd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906766"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208295"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Changer d'offre pour augmenter la taille des boîtes aux lettres
 
-Si la taille de boîte aux lettres est déjà 100 Go, il est impossible pour l’augmenter. Dans ce cas, suivez [ces conseils](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
+Si la taille de la boîte aux lettres est déjà de 100 Go, il n'est pas possible de l'augmenter. Dans ce cas, suivez [ces conseils](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
   
-Si la taille de boîte aux lettres est de 50 Go, vous pouvez l’augmenter à 100 Go en passant à [Office 365 entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou [Office 365 entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Voici les étapes pour basculer vers un autre plan Office 365 :
+Si la taille de la boîte aux lettres est de 50 Go, vous pouvez l'augmenter à 100 Go en basculant vers [office 365 entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou [Office 365 entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Voici les étapes à suivre pour basculer vers un autre plan Office 365:
   
-1. Dans le centre d'administration Office 365, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) ou choisissez **Facturation** \> **Abonnements**.
+1. dans le centre d'administration Microsoft 365, accédez à [](https://go.microsoft.com/fwlink/p/?linkid=842054) la page abonnements, ou sélectionnez abonnements de **facturation** \> ****.
     
 2. Choisissez **Changer d'offre** pour afficher la liste des nouvelles offres disponibles. 
     

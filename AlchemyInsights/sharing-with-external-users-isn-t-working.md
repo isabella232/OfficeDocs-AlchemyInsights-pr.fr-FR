@@ -1,5 +1,5 @@
 ---
-title: Partage avec des utilisateurs externes ne fonctionne pas
+title: Le partage avec des utilisateurs externes ne fonctionne pas
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,32 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900866"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207683"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Résoudre les problèmes de partage de contenu SharePoint avec des utilisateurs externes
 
-Assurez-vous que le partage externe est activé pour votre organisation :
+Assurez-vous que le partage externe est activé pour votre organisation:
   
-1. Accédez à la [Services &amp; page des compléments dans le centre d’administration Office 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), cliquez sur **Sites**.
+1. Accédez à la [page &amp; compléments de services dans le centre d'administration 365 de Microsoft](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), puis cliquez sur **sites**.
     
-2. Assurez-vous que le paramètre est activé sur « On ». Si « Utilisateurs externes existants uniquement » sont sélectionnées, assurez-vous que l’utilisateur externe est répertorié dans le centre d’administration d’Office 365.
+2. Assurez-vous que le paramètre est activé. Si «uniquement les utilisateurs externes existants» est sélectionné, assurez-vous que l'utilisateur externe est affiché dans le centre d'administration 365 de Microsoft.
     
-Assurez-vous qu’externe partage activé pour le site. Pour une collection de sites classique :
+Assurez-vous que le partage externe est activé pour le site. Pour une collection de sites classique:
   
-1. Dans le centre d’administration SharePoint classique, dans le volet gauche, cliquez sur **des collections de sites**.
+1. Dans le volet de gauche du centre d'administration SharePoint classique, cliquez sur **collections de sites**.
     
-2. Sélectionnez l’ou les sites, dans le ruban, cliquez sur **partage**.
+2. Sélectionnez le ou les sites et, dans le ruban, cliquez sur **partage**.
     
-Pour un site d’équipe qui appartient à un groupe d’Office 365, ou un site de communication :
+Pour un site d'équipe appartenant à un groupe Office 365 ou à un site de communication:
   
-- Ces nouveaux types de sites ont le même paramètre partage en tant que paramètre de l’échelle de l’organisation, à moins que le paramètre d’échelle de l’organisation permet le partage de fichiers à l’aide de liens qui ne nécessitent pas de connexion. Dans ce cas, les sites autoriser le partage avec des utilisateurs externes qui se connectent à. Pour modifier le paramètre pour des sites spécifiques, utilisez le nouveau centre d’administration SharePoint (preview) ou PowerShell. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871863).
+- Ces nouveaux types de sites ont le même paramètre de partage que votre paramètre à l'échelle de votre organisation, sauf si le paramètre à l'échelle de l'organisation autorise le partage de fichiers à l'aide de liens ne nécessitant pas de connexion. Dans ce cas, les sites autorisent le partage avec des utilisateurs externes nouveaux et existants qui se connectent. Pour modifier le paramètre de sites spécifiques, utilisez le nouveau centre d'administration SharePoint (aperçu) ou PowerShell. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Le paramètre partage externe pour un site peut être plus restrictif que votre paramètre de l’organisation, mais pas plus permissif que le paramètre de l’organisation. 
+> Le paramètre de partage externe de n'importe quel site peut être plus restrictif que le paramètre à l'échelle de votre organisation, mais pas plus permissif que le paramètre à l'échelle de l'organisation. 
   
 

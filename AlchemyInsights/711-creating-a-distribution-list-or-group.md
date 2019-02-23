@@ -1,5 +1,5 @@
 ---
-title: 711 créer une liste de distribution ou un groupe
+title: 711 création d'une liste ou d'un groupe de distribution
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 21f7657b2aa9fd0b068729e856c727651576bf45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2efe0b69ecfb808d293fe01026b95784ed3f6515
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925198"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209663"
 ---
 # <a name="create-distribution-groups"></a>Créer des groupes de distribution
 
-Groupes de distribution (également appelées listes de distribution) vous permet de remettre le courrier électronique à des groupes de personnes à l’intérieur et à l’extérieur de votre organisation. Il est facile de leur création. Pour obtenir des instructions, consultez [les listes de distribution créer dans le centre d’administration d’Office 365](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
+Vous utilisez des groupes de distribution (également appelés listes de distribution) pour transmettre des messages électroniques à des groupes de personnes à l'intérieur et à l'extérieur de votre organisation. Il est facile de les créer. Pour obtenir des instructions, consultez [la rubrique créer des listes de distribution dans le centre d'administration 365 de Microsoft](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
   
- **Remarque**: un administrateur a besoin de gérer l’appartenance à un groupe de distribution. Si vous souhaitez que les utilisateurs pour gérer leur propre appartenance au groupe des listes, vous voudrez peut-être prendre en compte à la place des [Groupes d’Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) . 
+ **Remarque**: un administrateur doit gérer l'appartenance à un groupe de distribution. Si vous souhaitez que les utilisateurs puissent gérer leurs propres listes d'appartenance aux groupes, vous pouvez envisager d'utiliser des [groupes Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) à la place. 
   
 

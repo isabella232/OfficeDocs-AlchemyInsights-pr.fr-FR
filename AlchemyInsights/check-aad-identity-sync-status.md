@@ -1,5 +1,5 @@
 ---
-title: Vérifier l’état de synchronisation Identity DAS
+title: Vérifier l'état de synchronisation d'identité AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913396"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209699"
 ---
-# <a name="check-aad-identity-sync-status"></a>Vérifier l’état de synchronisation d’identité DAS
+# <a name="check-aad-identity-sync-status"></a>Vérifier l'état de synchronisation d'identité AAD
 
-État de la synchronisation vérification est simple : 
+Vérifier l'état de synchronisation est facile: 
   
-- Se connecter au centre d’administration Office 365 et choisissez ** état DirSync ** sur la page d’accueil. 
+- Connectez-vous au centre d'administration Microsoft 365 et choisissez * * État dirSync * * sur la page d'accueil. 
     
-- Sinon, vous pouvez accéder aux utilisateurs \> utilisateurs actifs et dans la page utilisateurs actifs, choisissez plus \> la synchronisation d’annuaires.
+- Vous pouvez également accéder à utilisateurs \> actifs, puis, sur la page utilisateurs actifs, sélectionner plus \> de synchronisation d'annuaires.
     
-- Dans le volet de la synchronisation d’annuaires, sélectionnez Aller à la gestion de la synchronisation d’annuaire. 
+- Dans le volet synchronisation d'annuaires, sélectionnez accéder à la gestion dirSync. 
     
-Cas de problème avec votre la synchronisation d’annuaires, les erreurs sont répertoriées sur cette page. Pour plus d’informations sur les différentes erreurs que vous pouvez rencontrer, voir [identifier des erreurs de synchronisation d’annuaire dans Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+S'il y a un problème avec la synchronisation d'annuaires, les erreurs sont répertoriées sur cette page. Pour plus d'informations sur les différentes erreurs que vous pouvez rencontrer, consultez la rubrique [identifier les erreurs de synchronisation d'annuaires dans Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
   
 

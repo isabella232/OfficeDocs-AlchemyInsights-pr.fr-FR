@@ -1,5 +1,5 @@
 ---
-title: Modification des autorisations de dossiers publics
+title: Modification des autorisations des dossiers publics
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: c735ecafc98d13d8ec38e87064a471f8da7c7be7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a46af76b0063536b83a94ec96ea73185c5f77f29
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926026"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207827"
 ---
-# <a name="changing-public-folder-permissions"></a>Modification des autorisations de dossiers publics
+# <a name="changing-public-folder-permissions"></a>Modification des autorisations des dossiers publics
 
-Vous et vos utilisateurs peuvent modifier des autorisations de dossiers publics dans Outlook. Voir [définir ou modifier les autorisations pour un dossier public](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). Administrateurs peuvent également modifier les autorisations dans le centre d’administration Exchange :
+Vous et vos utilisateurs pouvez modifier les autorisations des dossiers publics dans Outlook. Consultez [la rubrique définir ou modifier les autorisations pour un dossier public](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). Les administrateurs peuvent également modifier les autorisations dans le centre d'administration Exchange:
   
-- Dans le centre d’administration Office 365, accédez au **Centre d’administration** \> **Exchange**.
+- dans le centre d'administration Microsoft 365, accédez à la console d' **administration** \> **Exchange**.
     
-- Choisissez les **dossiers publics**.
+- Choisissez **dossiers publics**.
     
-À partir de là, vous pouvez modifier les autorisations des dossiers publics individuels en assignant des utilisateurs des groupes de sécurité pour les autorisations. Pour modifier les autorisations pour un dossier public, vous devez être propriétaire de celle-ci.
+À partir de là, vous pouvez modifier les autorisations pour des dossiers publics individuels en affectant des utilisateurs de groupes de sécurité à des autorisations. Pour modifier les autorisations d'un dossier public, vous devez être propriétaire.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Donner aux utilisateurs l’accès à SharePoint et OneDrive
+title: Donner aux utilisateurs l'accès à SharePoint et OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933838"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209735"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Donner aux utilisateurs l’accès à SharePoint et OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Donner aux utilisateurs l'accès à SharePoint et OneDrive
 
 > [!NOTE]
-> Si un site SharePoint ou de OneDrive n’est pas disponible pour plusieurs utilisateurs précédemment access, il peut être un problème temporaire de service. [Vérifier le tableau de bord de l’intégrité de service](https://portal.office.com/adminportal/home#/servicehealth)
+> Si un site OneDrive ou SharePoint n'est pas disponible pour plusieurs utilisateurs qui disposaient précédemment d'un accès, il peut y avoir un problème de service temporaire. [Vérifier le tableau de bord d'État du service](https://portal.office.com/adminportal/home#/servicehealth)
   
-Si vous souhaitez que les personnes dans votre organisation pour être en mesure de se connecter et d’utiliser OneDrive et SharePoint, vous devez ajouter des comptes pour les et vérifiez qu’ils disposent d’une licence qui leur donne accès à SharePoint et OneDrive. Il est le moyen le plus simple pour ajouter des utilisateurs dans le centre d’administration d’Office 365.
+Si vous souhaitez que les utilisateurs de votre organisation puissent se connecter et utiliser SharePoint et OneDrive, vous devez ajouter des comptes pour eux et vous assurer qu'ils disposent d'une licence leur permettant d'accéder à SharePoint et OneDrive. Le moyen le plus simple d'ajouter des utilisateurs se trouve dans le centre d'administration 365 de Microsoft.
   
-1. Accédez à la [page utilisateurs actifs dans le centre d’administration d’Office 365](https://portal.office.com/adminportal/home#/users), puis cliquez sur **Ajouter un utilisateur**.
+1. Accédez à la [page utilisateurs actifs dans le centre d'administration Microsoft 365](https://portal.office.com/adminportal/home#/users), puis cliquez sur **Ajouter un utilisateur**.
     
-2. Renseignez les informations de l’utilisateur et assurez-vous que sous **licences**, une licence est attribuée et **SharePoint Online** est sélectionnée. 
+2. Renseignez les informations de l'utilisateur et assurez-vous que sous **licences de produit**, une licence est attribuée et **SharePoint Online** est sélectionné. 
     
-Notez que si vous autorisez externe partage dans votre organisation, les utilisateurs peuvent partager le contenu SharePoint et OneDrive avec des personnes en dehors de l’organisation. Vous n’avez pas besoin de donner ces licences aux utilisateurs externes. Également inutile d’ajouter des comptes pour celles-ci, sauf si le partage est défini à « Uniquement existant des utilisateurs externes. » Dans ce cas, si les personnes ne figurent pas dans l’annuaire de votre organisation, vous devez les ajouter en tant qu’utilisateurs invité dans le centre d’administration Azure AD.
+Notez que si vous autorisez le partage externe dans votre organisation, les utilisateurs peuvent partager du contenu SharePoint et OneDrive avec des personnes extérieures à l'organisation. Vous n'avez pas besoin d'accorder ces licences aux utilisateurs externes. Vous n'avez pas non plus besoin d'ajouter des comptes pour ceux-ci, sauf si le partage est défini sur «uniquement les utilisateurs externes existants». Dans ce cas, si les personnes ne figurent pas dans l'annuaire de votre organisation, vous devez les ajouter en tant qu'utilisateurs invités dans le centre d'administration Azure AD.
   
 

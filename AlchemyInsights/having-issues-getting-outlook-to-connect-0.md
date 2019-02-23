@@ -1,5 +1,5 @@
 ---
-title: Des problèmes Outlook de se connecter ?
+title: Vous rencontrez des problèmes pour vous connecter à Outlook?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: cbd3893c439c2e1f24ac959374db51919e753f0c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a7522f25b2aa4e26e9686040de009bc83fc4a39
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918394"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209267"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Des problèmes Outlook de se connecter ?
+# <a name="having-issues-getting-outlook-to-connect"></a>Vous rencontrez des problèmes pour vous connecter à Outlook?
 
-Nous avons détecté que Outlook n’est pas configuré pour fonctionner correctement dans les domaines suivants :
+Nous avons détecté qu'Outlook n'est pas configuré pour fonctionner correctement sous les domaines suivants:
   
 {HealthCheckString}
   
-Les enregistrements NS ou CNAME des paramètres de domaine (DNS) n’est pas configurés correctement. Vous pouvez faire référence à [des enregistrements DNS de mise à jour dans Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) pour des instructions détaillées. 
+Les enregistrements NS ou CNAMe des paramètres de domaine (DNS) ne sont pas configurés correctement. Pour obtenir des instructions détaillées, reportez-vous à la rubrique [mise à jour des enregistrements DNS dans Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) . 
   
-Pour y remédier, reportez-vous à la page [domaines](https://admin.microsoft.com/adminportal/home#/Domains) dans le centre d’administration d’Office 365 et nous allons vous aider avec lui. 
+Pour résoudre ce problème, accédez à la page [domaines](https://admin.microsoft.com/adminportal/home#/Domains) dans le centre d'administration 365 de Microsoft et nous vous aiderons à le faire. 
   
-[Foire aux questions sur les domaines](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) d’autres solutions courantes. 
+[Consultez le Forum aux questions sur les domaines](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) pour d'autres solutions courantes. 
   
 
