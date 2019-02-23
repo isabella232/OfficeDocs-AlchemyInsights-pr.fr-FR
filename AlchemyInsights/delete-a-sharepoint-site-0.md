@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926278"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210023"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Supprimer les sites qui appartiennent à un groupe d’Office 365 :
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Supprimer des sites appartenant à un groupe Office 365:
 
-Lorsque les utilisateurs créer un nouveau site d’équipe à partir d’accueil SharePoint (ou vous créer un nouveau site d’équipe à partir de l’aperçu du centre d’administration SharePoint nouvelle), un groupe d’Office 365 correspondant est automatiquement créé. Office 365 équipe connectés au groupe de sites sont également créés lorsque vous créez un groupe d’Office 365 ou d’une équipe dans Microsoft Teams. Pour supprimer un site SharePoint qui appartient à un groupe d’Office 365, vous devez supprimer le groupe d’Office 365. 
+Lorsque les utilisateurs créent un site d'équipe à partir de la base de SharePoint (ou que vous créez un site d'équipe à partir de la nouvelle version d'évaluation du centre d'administration SharePoint), un groupe Office 365 correspondant est créé automatiquement. Les sites d'équipe connectés à un groupe Office 365 sont également créés lorsque vous créez un groupe Office 365 ou une équipe dans Microsoft Teams. Pour supprimer un site SharePoint qui appartient à un groupe Office 365, vous devez supprimer le groupe Office 365 lui-même. 
   
-1. Accédez à la [page groupes du centre d’administration Office 365](https://portal.office.com/adminportal/home#/groups).
+1. Accédez à la [page groupes du centre d'administration Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Activez la case à cocher en regard du groupe.
     
-3. Sélectionnez **Supprimer**.
+3. Sélectionnez **supprimer**.
     
-Remarque : Lorsque vous supprimez un groupe, il peut y avoir un délai d’attente avant que le site soit supprimé à partir de SharePoint.
+Remarque: lorsque vous supprimez un groupe, il peut y avoir un délai avant la suppression du site de SharePoint.
   
-**Supprimer les sites de communication ou classique :**
+**Supprimer des sites de communication ou des sites classiques:**
 
 1. Accédez au site.
   
-2. Cliquez sur le ** paramètres ** icône dans le coin supérieur droit. 
+2. Cliquez sur l'icône * * paramètres * * en haut à droite. 
   
-3. Cliquez sur **paramètres du Site**. Sous **Informations de Site** ou **d’Actions du Site**, cliquez sur **Supprimer ce site**, puis cliquez sur **Supprimer**.
+3. Cliquez sur **paramètres du site**. Sous **informations** sur le site ou **actions du site**, cliquez sur **supprimer ce site**, puis sur **supprimer**.
   
-**Supprimer une collection de sites SharePoint :**
+**Supprimer une collection de sites SharePoint:**
 
-Pour supprimer une collection de sites classique :
+Pour supprimer une collection de sites classique:
   
-1. Dans le centre d’administration SharePoint classique, dans la page de collections de sites, activez la **case à cocher** en regard de la collection de sites. 
+1. Dans le centre d'administration SharePoint classique, dans la page collections de sites, activez la **case** à cocher en regard de la collection de sites. 
     
-2. Sous l’onglet Collections de sites, sélectionnez **Supprimer.**
+2. Sous l'onglet collections de sites, sélectionnez **Supprimer.**
     
-**Supprimer un site par accident ?**
+**Suppression d'un site par accident?**
 
-Consultez la rubrique [restaurer une collection de sites supprimée](https://go.microsoft.com/fwlink/?linkid=867660).
+Consultez [la rubrique restaurer une collection de sites supprimée](https://go.microsoft.com/fwlink/?linkid=867660).
   
 
