@@ -1,5 +1,5 @@
 ---
-title: Lorsque l’instruction facturation est générée ?
+title: Quand la déclaration de facturation est-elle générée?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: e3b017322949aba67654c352b4e1d2c8e85af1b2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: dd4152d2942e93b1fa4d291fcead2266b9e31e91
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912454"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208331"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="d36a4-102">Lorsque l’instruction facturation est générée</span><span class="sxs-lookup"><span data-stu-id="d36a4-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="a9042-102">Quand le relevé de facturation est-il généré?</span><span class="sxs-lookup"><span data-stu-id="a9042-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="d36a4-p101">Chaque mois, vous recevrez un courrier électronique qui vous indique que votre nouvelle instruction facturation est disponible dans le centre d’administration d’Office 365. Votre facture contient deux pages. Page 1 est la facture de synthèse et contient des informations générales sur la facture, la commande, le montant d’échéance, comment effectuer un paiement et comment contacter le support technique. Page 2 contient plus d’informations sur l’activité de facturation pour chaque abonnement.</span><span class="sxs-lookup"><span data-stu-id="d36a4-p101">Each month you'll receive an email that tells you that your new billing statement is available in the Office 365 admin center. Your invoice contains two pages. Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support. Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="a9042-p101">Chaque mois, vous recevez un courrier électronique qui vous indique que votre nouvelle déclaration de facturation est disponible dans le centre d'administration 365 de Microsoft. Votre facture contient deux pages. La page 1 est le récapitulatif des factures et contient des informations générales sur la facture, la commande, le montant dû, la procédure d'obtention d'un paiement et la façon de contacter le support technique. La page 2 contient des détails sur l'activité de facturation pour chaque abonnement.</span><span class="sxs-lookup"><span data-stu-id="a9042-p101">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center. Your invoice contains two pages. Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support. Page 2 contains details about the billing activity for each subscription.</span></span>
   
-<span data-ttu-id="d36a4-107">Pour en savoir plus sur les concepts de facturation, voir [comprendre la facture](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span><span class="sxs-lookup"><span data-stu-id="d36a4-107">To learn more about billing concepts, see [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span></span>
+<span data-ttu-id="a9042-107">Pour en savoir plus sur les concepts de facturation, consultez [la rubrique comprendre votre facture](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span><span class="sxs-lookup"><span data-stu-id="a9042-107">To learn more about billing concepts, see [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507).</span></span>
   
 
