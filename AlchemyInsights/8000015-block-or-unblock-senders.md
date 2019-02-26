@@ -1,5 +1,5 @@
 ---
-title: 8000015 bloquer ou débloquer des expéditeurs
+title: 8000015 bloquer ou débloquer les expéditeurs
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 49750888b92a62058efe8f09ccb03930afae43f5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e4932e5d5cedcd98917ee6578a818284b8a93926
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941506"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243823"
 ---
-# <a name="block-or-unblock-senders"></a>Bloquer ou débloquer des expéditeurs
+# <a name="block-or-unblock-senders"></a>Bloquer ou débloquer les expéditeurs
 
-Ajoutez toute adresse de messagerie ou d’un domaine à votre liste des expéditeurs bloqués pour déplacer ces messages directement vers le dossier courrier indésirable. Courrier électronique est automatiquement supprimé du dossier courrier indésirable après 14 jours et n’est pas récupérable.
+Ajoutez une adresse de messagerie ou un domaine à votre liste des expéditeurs bloqués pour déplacer ces messages directement vers votre dossier courrier inDésirable. Le courrier électronique est automatiquement supprimé du dossier courrier inDésirable au bout de 14 jours et n'est pas récupérable.
   
-1. Accédez à **paramètres** \> **paramètres d’affichage complets**. 
+1. Accédez à **paramètres** \> **afficher les paramètres complets**. 
     
-2. Sélectionnez **courrier** \> **courrier indésirable**. 
+2. Sélectionnez courrier indésirable du **courrier** \> ****. 
     
-3. Pour bloquer un expéditeur, entrez l’adresse de messagerie ou le domaine que vous souhaitez bloquer et sélectionnez **Ajouter**. 
+3. Pour bloquer un expéditeur, entrez l'adresse de messagerie ou le domaine que vous voulez bloquer, puis sélectionnez **Ajouter**. 
     
-    Pour débloquer un expéditeur, sélectionnez l’élément dans la liste et sélectionnez **Supprimer**![supprimer](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+    Pour débloquer un expéditeur, sélectionnez-le dans la liste, puis sélectionnez **supprimer**.
     
 4. Sélectionnez **Enregistrer**. 
     
-Pour plus d’informations, voir [bloquer ou débloquer des expéditeurs dans Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873133).
+Pour plus d'informations, consultez la rubrique [bloquer des expéditeurs ou débloquer des expéditeurs dans Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873133).
   
 
