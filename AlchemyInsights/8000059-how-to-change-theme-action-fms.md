@@ -1,5 +1,5 @@
 ---
-title: 8000059 comment modifier l’action de thème (FMS)
+title: 8000059 comment modifier l'action du thème (FMS)
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: 0b1fc087d5c086469598e07cc0addd6a90ea6956
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a49d5ed1c29ce618feee4df1b8feb838524f328e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902194"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243931"
 ---
-# <a name="how-to-change-your-theme"></a><span data-ttu-id="f1c29-102">Comment faire pour modifier votre thème</span><span class="sxs-lookup"><span data-stu-id="f1c29-102">How to change your theme</span></span>
+# <a name="how-to-change-your-theme"></a><span data-ttu-id="8e61a-102">Comment modifier votre thème</span><span class="sxs-lookup"><span data-stu-id="8e61a-102">How to change your theme</span></span>
 
-<span data-ttu-id="f1c29-p101">Pour modifier votre thème dans Outlook.com ou Outlook sur le web, accédez à **paramètres**![paramètres](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) et choisir un thème sous **le thème**. Pour afficher tous les thèmes disponibles, sélectionnez **Afficher tout** sous **le thème**.</span><span class="sxs-lookup"><span data-stu-id="f1c29-p101">To change your theme in Outlook.com or Outlook on the web, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) and choose a theme under **Theme**. To see all available themes, select **View all** under **Theme**.</span></span> 
+<span data-ttu-id="8e61a-p101">Pour modifier votre thème dans Outlook.com ou Outlook sur le Web, accédez à **paramètres** et choisissez un thème sous **thème**. Pour afficher tous les thèmes disponibles, sélectionnez **Afficher tout** sous **thème**.</span><span class="sxs-lookup"><span data-stu-id="8e61a-p101">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**. To see all available themes, select **View all** under **Theme**.</span></span> 
   
 
