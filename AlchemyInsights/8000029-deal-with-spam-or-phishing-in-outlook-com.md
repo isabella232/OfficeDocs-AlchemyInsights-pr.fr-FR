@@ -1,5 +1,5 @@
 ---
-title: 8000029 face du courrier indésirable ou hameçonnage dans Outlook.com
+title: 8000029 traiter le courrier indésirable ou le hameçonnage dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 26e7ecf0d6c2fe5eb94fa2fc10015e45850f955e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920122"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244723"
 ---
-# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Gérer les escroqueries par hameçonnage ou de courrier indésirable dans votre boîte de réception
+# <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Gérer le courrier indésirable ou les escroqueries par hameçonnage dans votre boîte de réception
 
-Si vous recevez un message électronique qui ressemble à courrier indésirable ou un hameçonnage semblant, vous pouvez signaler en double-cliquant sur le message et sélectionner **Marquer comme courrier indésirable**. 
+Si vous recevez un message électronique qui ressemble à du courrier indésirable ou à une escroquerie de type hameçonnage, vous pouvez le signaler en cliquant dessus avec le bouton droit de la souris, puis en sélectionnant **marquer comme courrier**indésirable. 
   
-Les filtres de courrier indésirable dans Outlook.com améliorent lorsque vous marquez un message comme courrier indésirable. Vous pouvez également signaler comme un hameçonnage semblant ou bloquer les adresses de messagerie et les domaines que vous ne voulez pas recevoir des messages.
+Les filtres de courrier indésirable dans Outlook.com s'améliorent lorsque vous marquez un message comme indésirable. Vous pouvez également le signaler comme une escroquerie de type hameçonnage ou bloquer les adresses de messagerie et les domaines à partir desquels vous ne voulez pas recevoir de messages.
   
-Si vous pensez que vous avez reçu une phishing ou usurpation anti-spam, marquer le message comme courrier indésirable, ouvrez le dossier courrier indésirable et sélectionnez **pas de courrier indésirable** \> **hameçonnage** marquer comme un hameçonnage semblant. Pour plus d’informations sur la façon [d’abus, phishing ou l’usurpation d’identité](https://go.microsoft.com/fwlink/p/?linkid=873139).
+Si vous pensez que vous avez reçu une escroquerie de type hameçonnage ou usurpation d'identité, marquez le message comme courrier indésirable, accédez à votre dossier courrier indésirable et sélectionnez **ne pas** \> **** recevoir de courrier indésirable pour le marquer comme frauduleux de hameçonnage. En savoir plus sur la façon de [gérer les abus, le hameçonnage ou l'usurpation d'identité](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Pour bloquer les adresses de messagerie, accédez à **paramètres**![paramètres](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **expéditeurs bloqués**. Pour ajouter des adresses ou des domaines à votre liste des expéditeurs approuvés, sélectionnez **expéditeurs approuvés**. 
+Pour bloquer des adresses de messagerie, accédez à **options** \> des **paramètres** \> - **expéditeurs bloqués**. Pour ajouter des adresses ou des domaines à votre liste des expéditeurs approuvés, sélectionnez **expéditeurs approuvés**. 
   
-Si vous voyez une augmentation du courrier indésirable, consultez Comment [protéger le courrier indésirable et le courrier indésirable en dehors de votre boîte de réception](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Si vous constatez une augmentation du courrier indésirable, Découvrez comment conserver le courrier indésirable et le courrier indésirable dans [votre boîte de réception](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
 

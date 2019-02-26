@@ -1,5 +1,5 @@
 ---
-title: 8000046 e-mail imprimer et calendriers dans Outlook.com
+title: 8000046 imprimer le courrier électronique et les calendriers dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
-ms.openlocfilehash: 74d0708cb4f6b2d3785cf9fd4225c534ae7e9d52
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3bd27184cff5341363d3d11e194d64881df44fdd
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936034"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244543"
 ---
 # <a name="print-email-and-calendars-in-outlookcom"></a>Imprimer le courrier électronique et les calendriers dans Outlook.com
 
-Pour imprimer des messages électroniques :
+Pour imprimer des messages électroniques:
   
-1. Sélectionnez le message que vous voulez imprimer.
+1. Sélectionnez le message que vous souhaitez imprimer.
     
-2. En haut de la page, sélectionnez ![plusieurs actions](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **Imprimer**. 
+2. En haut de la page, sélectionnez «...» \> **Imprimer**. 
     
-Pour imprimer votre calendrier, vous devrez utiliser Outlook.com classique. Impression de calendriers n’est pas disponible actuellement dans la version bêta Outlook.com.
+Pour imprimer votre calendrier, vous devez utiliser un Outlook.com classique. L'impression du calendrier n'est pas disponible actuellement dans la version bêta d'Outlook.com.
   
-1. En haut de la page, assurez-vous que la bascule bêta Outlook.com est définie sur désactivé.
+1. En haut de la page, assurez-vous que le bouton bascule Outlook.com beta est désactivé.
     
-2. En bas de la page, sélectionnez  ![Calendrier](media/9e1a821a-c32e-4851-a866-342a39ffdca0.png).
+2. Au bas de la page, sélectionnez l'icône calendrier.
     
-3. Choisissez l’affichage du **jour**, **semaine de travail**, **semaine**ou **mois** en haut de la page. 
+3. Choisissez le **jour**, la **semaine de travail**, la **semaine**ou le **mois** affiché en haut de la page. 
     
 4. En haut de la page, sélectionnez **Imprimer**. 
     
-Pour plus d’informations sur [l’impression e-mail et les calendriers dans Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).
+En savoir plus sur l' [impression des courriers électroniques et des calendriers dans Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).
   
 

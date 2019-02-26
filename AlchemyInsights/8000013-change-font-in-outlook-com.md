@@ -1,5 +1,5 @@
 ---
-title: Modifier la police 8000013 dans Outlook.com
+title: 8000013 modifier la police dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 059944c6d5b95314a6eba48800458c926225d4ef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 05dee3deb71542cd2bbc7f3fe7be574a85c522d1
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29910186"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244003"
 ---
 # <a name="change-font-or-font-size-in-outlookcom"></a>Modifier la police ou la taille de police dans Outlook.com
 
-Lors de la lecture de courrier électronique, vous pouvez utiliser la fonction de zoom de votre navigateur pour mettre le texte à l’écran agrandit ou réduit.
+Lors de la lecture du courrier électronique, vous pouvez utiliser la fonction zoom de votre navigateur pour agrandir ou réduire la taille du texte à l'écran.
   
-Pour modifier la police ou la taille de police lors de la composition d’un message :
+Pour modifier la police ou la taille de police lors de la composition d'un message:
   
-1. En bas du volet de composition, sélectionnez la **police**![police](media/6d9372e0-cde5-49fc-a457-aafb62255163.png) ou **taille de police**![icône de taille de la police](media/9334f617-9593-4bd0-afb1-c53308ad7591.png).
+1. En bas du volet de composition, sélectionnez **police** ou taille de **police**.
     
 2. Choisissez la police ou la taille de police que vous souhaitez utiliser.
     
-Si vous ne voyez pas le menu options de mise en forme en bas du volet de composition, sélectionnez les **options de mise en forme**![icône des options de mise en forme du](media/13103798-e3ea-4069-a7a0-63f8903c8c3a.png).
+Si le menu options de mise en forme n'apparaît pas en bas du volet de composition, sélectionnez **options de mise en forme**.
   
-Pour plus d’informations, voir [Modifier la taille de police et l’apparence des courriers électroniques dans Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873130).
+Pour plus d'informations, consultez la rubrique [modifier la taille de police et l'apparence du courrier électronique dans Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873130).
   
 
