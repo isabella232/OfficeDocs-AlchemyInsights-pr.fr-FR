@@ -1,5 +1,5 @@
 ---
-title: Liens approuvés 8000057 dans Outlook.com
+title: 8000057 liens approuvés dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: ed03a5d4b005e4d6f7117e66f170427161363486
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0c875235dae8f8851cbce40201b6c35120d4d2fa
+ms.sourcegitcommit: 47bdacaa8fcfce06f159a7ddbc114f2d1a70bc2c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925810"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361635"
 ---
-# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Fonctions avancées de sécurité Outlook.com pour les abonnés à Office 365
+# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a>Sécurité Outlook.com avancée pour les abonnés Office 365
 
-Tous les utilisateurs Outlook.com bénéficient du courrier indésirable et le filtrage anti-programme malveillant. Pour les abonnés à Office 365 accueil et Office 365 personnel, Outlook.com effectue un filtrage supplémentaire des pièces jointes et des liens dans les messages que vous recevez.
+Tous les utilisateurs Outlook.com bénéficient d'un filtrage du courrier indésirable et des programmes malveillants. Pour les abonnés Office 365 maison et Office 365 personnels, Outlook.com effectue un filtrage supplémentaire des pièces jointes et des liens dans les messages que vous recevez.
   
-Lorsque vous recevez des messages avec des liens vers des pages web, Outlook.com vérifie si les liens associés à l’hameçonnage ou sont susceptibles de télécharger des virus ou des programmes malveillants sur votre ordinateur.
+Lorsque vous recevez des messages contenant des liens vers des pages Web, Outlook.com vérifie si les liens sont liés à des escroqueries par hameçonnage ou s'ils sont susceptibles de télécharger des virus ou programmes malveillants sur votre ordinateur.
   
-En savoir plus sur la [sécurité de Outlook.com avancée pour les abonnés à Office 365](https://go.microsoft.com/fwlink/p/?linkid=2006140), notamment comment supprimer des liens fiables de vos messages.
+Pour en savoir plus sur la [sécurité avancée des Outlook.com pour les abonnés Office 365](https://go.microsoft.com/fwlink/p/?linkid=2006140), notamment sur la façon de supprimer les liens fiables de vos messages.
   
-
+Remarque: les clients Premium et les abonnés Office 365 peuvent activer ou désactiver les liens fiables dans leurs [paramètres de sécurité](https://outlook.live.com/mail/options/premium/security)de niveau supérieur.
