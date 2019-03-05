@@ -1,5 +1,5 @@
 ---
-title: Difficultés à passer d’un fournisseur dans le portail Office 365
+title: Problèmes lors de l'exécution d'un achat dans le portail Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,19 +7,19 @@ ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 28278db6e2438732a1d175d27dcca5c744c1de3a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926602"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405141"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Difficultés à passer d’un fournisseur dans le portail Office 365
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Problèmes lors de l'exécution d'un achat dans le portail Office 365
 
-Lorsque vous essayez d’effectuer un achat, si vous avez été invité plusieurs fois pour vous connecter au portail Office 365, ou vous recevez un message qu’un problème a été détecté, la première étape consiste à essayer d’utiliser le mode inprivate/incognito de votre navigateur. Après avoir ouvert une fenêtre inprivate/incognito, accédez au site [portal.office.com](https://portal.office.com) et connectez-vous avec vos informations d’identification d’administration. Continuez à finaliser votre achat. 
+Lorsque vous tentez d'effectuer un achat, si vous avez été invité à vous connecter à plusieurs reprises au portail Office 365 ou si vous recevez un message indiquant qu'un problème a été détecté, la première étape consiste à essayer d'utiliser le mode InPrivate/incognito de votre navigateur. Après avoir ouvert une fenêtre InPrivate/incognito, accédez au site [Portal.Office.com](https://portal.office.com) et connectez-vous à l'aide de vos informations d'identification d'administrateur. Ensuite, passez à la fin de votre achat. 
   
 

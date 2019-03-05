@@ -8,39 +8,39 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: e895d6fd097df994bae8fff41f71225eb27ee853
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905434"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404745"
 ---
 # <a name="payment-options"></a>Options de paiement
 
  **Options de paiement**
   
-Carte de crédit, le compte bancaire (débit direct) et facture (paiement par vérification ou transfert de fonds électronique)
+Carte de crédit, compte bancaire (débit direct) et facture (paiement par chèque ou transfert de fonds électronique)
   
- **Payer par carte de crédit et de compte bancaire**
+ **Payez par carte de crédit et compte bancaire**
   
-Lorsque vous payez par carte de crédit ou de compte bancaire, vous allez automatiquement facturés pour votre abonnement le jour après la date de facturation, jusqu'à la fin de votre abonnement. Vous pouvez [mettre à jour votre carte de crédit ou les informations de compte bancaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) dès que vous souhaitez. Vous pouvez également choisir à [recevoir une copie de votre instruction facturation dans le message électronique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
+Lorsque vous payez par carte bancaire ou compte bancaire, vous serez automatiquement facturé pour votre abonnement le jour suivant la date de facturation, jusqu'à la fin de votre abonnement. Vous pouvez [mettre à jour vos informations de carte bancaire ou de compte bancaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) à tout moment. Vous pouvez également choisir de [recevoir une copie de votre relevé de facturation par courrier électronique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Si votre carte de crédit a été refusée ou ont une retard équilibrer vous pouvez choisir l’option **Payer maintenant** sur la **facturation** \> page des [abonnements](https://portal.office.com/adminportal/home#/subscriptions) . 
+Si votre carte de crédit a été refusée ou a un solde échu, vous pouvez choisir l'option **payer maintenant** sur la page abonnements de **facturation** \> [](https://portal.office.com/adminportal/home#/subscriptions) . 
   
- **Payer par facture (vérification ou transfert de fonds électronique)**
+ **Payer par facture (par chèque ou par virement électronique)**
   
-Si votre abonnement des coûts via une certaine quantité d’argent (cette durée varie en fonction d’emplacement du service), vous avez la possibilité de payer par facture à l’aide d’un contrôle ou un transfert de fonds électronique. Une vérification de crédit peut-être être nécessaire pour les paiements de facture supérieures. Si une vérification de crédit est requise, vous serez averti lorsque vous achetez votre abonnement. Et, si vous acceptez d’être contacté, vous obtiendrez un message électronique qui inclut plus d’informations sur l’application pour l’approbation de crédit. Les limites de crédit sont généralement effectuées dans les deux jours.
+Si votre abonnement coûte sur une certaine somme d'argent (ce montant varie en fonction du lieu de service), vous aurez la possibilité de payer en fonction de votre facture par chèque ou EFT. Une vérification de solvabilité peut être nécessaire pour les paiements de factures plus importants. Si une vérification de solvabilité est requise, vous serez averti lorsque vous achèterez votre abonnement. Si vous acceptez d'être contacté, vous recevrez un courrier électronique qui contient plus d'informations sur la demande d'approbation de crédit. Les vérifications de solvabilité sont généralement effectuées dans les deux jours ouvrés.
   
-Si vous payez par facture votre abonnement, vous obtiendrez un message électronique qui indique votre instruction facturation est prête à afficher. Ce message ne contient pas une copie de votre instruction facturation. Toutefois, vous pouvez également choisir à [recevoir une copie de votre instruction facturation dans le message électronique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Votre instruction facturation inclut plus d’informations sur les options pour effectuer un paiement. Si vous entrez un numéro de bon de commande d’achat lorsque vous achetez un abonnement, celui-ci apparaît sur votre facture. Pour plus d’informations sur l’accès aux relevés de facturation, voir [Afficher la facture ou la facture](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
+Si vous payez par facture pour votre abonnement, vous recevez un message indiquant que votre relevé de facturation est prêt à l'emploi. Ce message électronique ne contient pas de copie de votre relevé de facturation. Toutefois, vous pouvez également choisir de [recevoir une copie de votre relevé de facturation par courrier électronique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Votre relevé de facturation inclut des détails sur vos options de paiement. Si vous entrez un numéro de bon de commande lorsque vous achetez un abonnement, le numéro apparaît sur votre relevé de facturation. Pour plus d'informations sur l'accès aux relevés de facturation, reportez-vous à [la rubrique afficher votre](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide)facture.
   
  **Modifier le mode de paiement**
   
-Si vous souhaitez modifier le mode de paiement pour un abonnement, suivez les instructions fournies [ici](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
+Si vous souhaitez modifier le mode de paiement d'un abonnement actuel, suivez les instructions [ci-dessous](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **Informations supplémentaires**
   
-[Salaire pour Office 365 pour l’abonnement de l’entreprise](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Payez votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 

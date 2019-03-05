@@ -7,20 +7,20 @@ ms.date: 4/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 1b49321d3bcc066136080da09be6d534ec3c3bbb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912817"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405321"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Mettre à jour les serveurs de noms de votre domaine vers Office 365
 
-Remarque : Les modifications du serveur de noms peuvent parfois prendre jusqu'à 48 heures pour propager.
+Remarque: la propagation des modifications de serveur de noms peut prendre jusqu'à 48 heures.
   
 Pour configurer votre domaine dans Office 365, les serveurs de noms de votre bureau d'enregistrement doivent être mis à jour. Créez ou modifiez vos enregistrements de serveur de noms auprès de votre bureau d'enregistrement de domaine.
   
@@ -30,7 +30,7 @@ Pour configurer votre domaine dans Office 365, les serveurs de noms de votre bur
     
   - ns1.BDM.microsoftonline.com
     
-  - NS2.BDM.microsoftonline.com
+  - ns2.BDM.microsoftonline.com
     
 3. Enregistrez les modifications.
     
