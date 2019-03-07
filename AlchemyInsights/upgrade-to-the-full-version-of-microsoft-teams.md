@@ -1,5 +1,5 @@
 ---
-title: Mise à niveau vers la version complète de Microsoft Teams
+title: Effectuer une mise à niveau vers la version complète de Microsoft teams
 ms.author: pebaum
 author: pebaum
 ms.date: 6/6/2018
@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904858"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468985"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="b8ab7-102">Mise à niveau vers la version complète de Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="b8ab7-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="bc2ca-102">Effectuer une mise à niveau vers la version complète de Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="bc2ca-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="b8ab7-103">Vous pouvez mettre à niveau à partir de Microsoft Teams (gratuit) vers la version complète de Microsoft Teams chaque fois que vous êtes prêt.</span><span class="sxs-lookup"><span data-stu-id="b8ab7-103">You can upgrade from Microsoft Teams (free) to the full version of Microsoft Teams whenever you're ready.</span></span>
-  
-<span data-ttu-id="b8ab7-104">La meilleure façon de démarrer le processus de mise à niveau consiste à cliquer sur **nous vous appeler** ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="b8ab7-104">The best way to start the upgrade process is to click **Let us call you** below.</span></span> 
-  
-<span data-ttu-id="b8ab7-105">Un agent de support contactera vous aide et vous sélectionnez un plan Office 365, entrez vos informations de contact et de paiement, sélectionnez votre nom de domaine de l’organisation et mise à niveau de votre liste de membres.</span><span class="sxs-lookup"><span data-stu-id="b8ab7-105">A support agent will contact you and help you select an Office 365 plan, enter your contact and payment info, select your org domain name, and upgrade your member roster.</span></span>
-  
+<span data-ttu-id="bc2ca-103">Vous avez besoin d'effectuer une mise à niveau à partir de la version gratuite vers la version complète de Microsoft teams?</span><span class="sxs-lookup"><span data-stu-id="bc2ca-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="bc2ca-104">Consultez la rubrique [mettre à niveau gratuitement Microsoft teams vers la version d'abonnement à Office 365](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="bc2ca-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span></span>
+
+<span data-ttu-id="bc2ca-105">Vous devez respecter les conditions suivantes:</span><span class="sxs-lookup"><span data-stu-id="bc2ca-105">You’ll need to meet these requirements:</span></span>
+- <span data-ttu-id="bc2ca-106">Vous êtes la personne qui a souscrit à la version gratuite actuelle de teams.</span><span class="sxs-lookup"><span data-stu-id="bc2ca-106">You’re the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="bc2ca-107">Si vous avez votre propre domaine, il ne peut pas être associé à Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="bc2ca-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="bc2ca-108">Pour transférer des données lors de la mise à niveau, vous devez vous abonner pendant le processus de mise à niveau.</span><span class="sxs-lookup"><span data-stu-id="bc2ca-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="bc2ca-109">Si vous avez acheté Office 365 en dehors du processus de mise à niveau, vous ne pouvez pas transférer de données.</span><span class="sxs-lookup"><span data-stu-id="bc2ca-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+
 
