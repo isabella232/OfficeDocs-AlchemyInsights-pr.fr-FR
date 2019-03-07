@@ -1,5 +1,5 @@
 ---
-title: Équipes Microsoft - accès invité
+title: Microsoft teams-accès invité
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/18/2019
@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941578"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468481"
 ---
-# <a name="microsoft-teams---guest-access"></a>Équipes Microsoft - accès invité
+# <a name="microsoft-teams---guest-access"></a>Microsoft teams-accès invité
 
+Avez-vous besoin d'aide pour activer et configurer la fonctionnalité accès invité dans Microsoft teams?
 
-Si vous devez activer et configurer le rôle d’accès invité dans Microsoft Teams, nous avons un guide d’instructions pas à pas pour vous : [Liste de vérification de l’accès invité](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-Vous devrez peut-être attendre jusqu'à 24 heures pour que les modifications de configuration équipes prennent effet.
-  
+Voici ce que vous devez faire:
+
+1. Autoriser l'accès invité.
+1. Ajoutez des utilisateurs invités à votre équipe.
+1. ConFigurez les autorisations des utilisateurs invités.
+
+Pour plus d'informations, y compris des procédures, consultez la rubrique [accès invité dans Microsoft teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 

@@ -1,5 +1,5 @@
 ---
-title: Avez activé les équipes pour vos stagiaires ?
+title: Avez-vous activé teams pour vos élèves?
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -9,16 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 457bf53f2817b1e0a68b0647c84cb6b66ef0a43a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927754"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468553"
 ---
-# <a name="have-you-enabled-teams-for-your-students"></a>Avez activé les équipes pour vos stagiaires ?
+# <a name="have-you-enabled-teams-for-your-students"></a>Avez-vous activé teams pour vos élèves?
 
 
-Sont en mesure d’accéder aux équipes les enseignants et le personnel, mais non les stagiaires ? Les équipes doit être explicitement activées pour les stagiaires, ainsi que pour les enseignants et le personnel. Pour ce faire, voir la Figure 2 de l’étape 5 dans l’article trouvé [ici](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).
+Les enseignants et le personnel peuvent-ils accéder à Teams, mais cela n'est pas possible? Les équipes doivent être explicitement activées pour vos étudiants, ainsi que pour les enseignants et le personnel. Pour ce faire, reportez-vous à [la rubrique activer Microsoft teams pour votre établissement scolaire](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).
   
 

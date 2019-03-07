@@ -1,5 +1,5 @@
 ---
-title: Mise à niveau vers la version complète de Microsoft Teams
+title: Effectuer une mise à niveau vers la version complète de Microsoft teams
 ms.author: pebaum
 author: pebaum
 ms.date: 6/6/2018
@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904858"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468985"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Mise à niveau vers la version complète de Microsoft Teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Effectuer une mise à niveau vers la version complète de Microsoft teams
 
-Vous pouvez mettre à niveau à partir de Microsoft Teams (gratuit) vers la version complète de Microsoft Teams chaque fois que vous êtes prêt.
-  
-La meilleure façon de démarrer le processus de mise à niveau consiste à cliquer sur **nous vous appeler** ci-dessous. 
-  
-Un agent de support contactera vous aide et vous sélectionnez un plan Office 365, entrez vos informations de contact et de paiement, sélectionnez votre nom de domaine de l’organisation et mise à niveau de votre liste de membres.
-  
+Vous avez besoin d'effectuer une mise à niveau à partir de la version gratuite vers la version complète de Microsoft teams? Consultez la rubrique [mettre à niveau gratuitement Microsoft teams vers la version d'abonnement à Office 365](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+
+Vous devez respecter les conditions suivantes:
+- Vous êtes la personne qui a souscrit à la version gratuite actuelle de teams.
+- Si vous avez votre propre domaine, il ne peut pas être associé à Azure Active Directory.
+- Pour transférer des données lors de la mise à niveau, vous devez vous abonner pendant le processus de mise à niveau. Si vous avez acheté Office 365 en dehors du processus de mise à niveau, vous ne pouvez pas transférer de données.
+
 
