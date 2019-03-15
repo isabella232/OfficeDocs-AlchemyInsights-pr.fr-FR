@@ -1,5 +1,5 @@
 ---
-title: 'identique au nom de fichier est préférable [règle #-Description]'
+title: 'identique au nom de fichier: recommandé [règle #-Description]'
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,31 +11,31 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939286"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634502"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Requis Alchemy en-tête H1, H2 ne fonctionnent pas.
-Meilleures pratiques et recommandations pour la création de Alchemy :
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>En-tête Alchemy obligatoire H1, H2's ne fonctionne pas.
+Meilleures pratiques et instructions pour la création de Alchemy:
 
-1. **Ne pas imbriquer Alchemy Insights dans les dossiers**- cela interrompt la structure d’url. Nous cherchons à corriger ce.
-1. Fichiers dans le dossier **AlchemyInsights** doivent avoir des ID de la règle et le nom de la règle à partir du [portail partenaires Alchemy](https://alchemyportal.azurewebsites.net) dans le nom de fichier.
-    1. exemple : ***976-How-to-enable-litigation-hold***
-1. Utiliser les métadonnées en haut de ce fichier en tant que votre modèle. Rien d’autre n’est nécessaire.
-1. Dans le [portail partenaires Alchemy](https://alchemyportal.azurewebsites.net), naviguez jusqu'à la section **client Insight titre :** et l’utilisation qui en tant que le démarrage d’un point du titre H1 l’aperçu. 
+1. **Ne pas**imbriquer les informations Alchemy dans les dossiers: cette opération va rompre la structure de l'URL. Nous nous penchons sur cette correction.
+1. Les fichiers dans le dossier **AlchemyInsights** doivent avoir l'ID de règle et le nom de règle du [portail de partenaires Alchemy](https://alchemyportal.azurewebsites.net) dans le nom de fichier.
+    1. ex. ***976-activer-mettre en attente pour litige***
+1. Utilisez les métadonnées en haut de ce fichier comme modèle. Rien d'autre n'est requis.
+1. Dans le [portail du partenaire Alchemy](https://alchemyportal.azurewebsites.net), accédez à la section **titre du service client:** et utilisez-la comme point de départ pour votre titre H1 pour la vue d'analyse. 
     > [!NOTE]
-    > Alchemy Insights doit n'avoir qu’un seul H1 en haut ou erreurs en production. Utilisation de ce **gras** ou autres conventions pour indiquer des sections distinctes ne rendu de H2s.
-1. Ensuite, renseignez le corps du texte à l’aide de la matière brouillon dans la section Détails du client de la page Alchemy règle
-    1. Les listes à puces sont correctement
-    1. Trop de listes numérotées
-    1. **Gras** et *italique* sont a-ok
-    1. Liens doivent toujours être **« des liens Web » / externe** OR **profond-des liens vers des éléments d’interface utilisateur**, les liens pas internes.
+    > Alchemy Insights ne doit avoir qu'un seul H1 en haut ou ils seront interrompus en production. H2s ne pas afficher de manière à utiliser le **gras** ou d'autres conventions pour signifier des sections distinctes.
+1. Ensuite, renseignez le corps de texte à l'aide de l'élément brouillon dans la section informations client de la page de la règle Alchemy.
+    1. Les listes à puces conviennent parfaitement
+    1. Listes numérotées
+    1. **Gras** et *italique* sont un-OK
+    1. Les liens doivent toujours être **«liens vers le Web»/External** ou **des liens détaillés vers les éléments de l'interface utilisateur**, pas les liens internes.
 
-Et c’est vraiment déjà un peu trop long. Meilleure pratique consiste à environ 400 caractères---
+Et cela est déjà un peu trop long. La meilleure pratique est de 400 caractères---------------------------------
 
-Une fois votre contenu est prêt, l’extraction vers la branche live. Ensuite, accédez au [portail Alchemy](https://alchemyportal.azurewebsites.net) et entrez le nom de fichier dans le champ url. Assurez-vous que Insight révisé et publié indique « Oui », puis cliquez sur règle de mise à jour. **(Cette recherche plus attrayants dans la nouvelle version du portail - libération bientôt.)** 
- ![champ url](media/for-content-team.PNG)
+Une fois que votre contenu est prêt, tirez-le vers la branche Live. Ensuite, accédez au [portail du partenaire Alchemy](https://alchemyportal.azurewebsites.net) et entrez le nom du fichier dans le champ URL. Assurez-vous que l'option Aperçu révisé et publié indique «Oui», puis cliquez sur règle de mise à jour. **(Cette Prettier apparaîtra bientôt dans la nouvelle version du portail.)** 
+ ![champ URL](media/for-content-team.PNG)
 
