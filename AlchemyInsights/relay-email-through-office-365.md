@@ -1,5 +1,5 @@
 ---
-title: ReLayer le courrier électronique via Office 365
+title: Relayer le courrier via Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: ea852e315eaf7611d2d405dcfc9e85ab1ccca196
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468589"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574621"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Configurer une application ou un périphérique multifonction pour envoyer du courrier électronique à l'aide d'Office 365
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>Configurer une application ou un périphérique multi-fonction pour envoyer des courriers électroniques à l’aide d’Office 365
 
-Pour en savoir plus sur les options et les étapes à suivre, voir [Comment configurer un appareil ou une application multifonction pour envoyer du courrier électronique à l'aide d'Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
+Pour découvrir les options et les étapes, consultez l’article [Comment configurer un appareil ou une application multifonction pour envoyer du courrier électronique à l’aide d’Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
- ** *Remarque:* * * si vous avez un périphérique ou une application qui a cessé de fonctionner, [Notez que nous avons récemment apporté des améliorations](https://support.microsoft.com/help/4458479/) susceptibles de vous avoir affecté. Nous enregistrons maintenant les **messages dans le dossier sent** de la boîte aux lettres, ce qui pourrait **entraîner le rejet des messages si cette boîte aux lettres est pleine**. De plus, nous exigeons que les messages soient mis en forme conformément aux spécifications SMTP. Par exemple, l'appareil de soumission doit inclure des chevrons entourant l'adresse de messagerie, comme dans *Christine@contoso.com* . 
-  
+**Remarque :** si l’un de vos appareils ou l’une de vos applications a récemment cessé de fonctionner, sachez que nous venons de commencer [la désactivation du chiffrement 3DES](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption) comme prévu.  **Windows Server 2003 IIS SMTP va cesser de fonctionner : une version plus récente de Windows est nécessaire.** 
 
+Voici quelques erreurs courantes : échec/erreur d’authentification, échec/erreur TLS, erreur d’algorithme de chiffrement, incompatibilité de l’algorithme ou connexion interrompue.  Contactez votre fournisseur d’application ou d’appareil pour déterminer si un chiffrement moderne est pris en charge ou s’il existe une mise à jour.
