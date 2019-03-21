@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: cdac247b0a60af9d74481dfffba9b06c07c837e3
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 566a12c192e117401a9d49486b468b0f4af93d5c
+ms.sourcegitcommit: 53ac59b8afb80cac084eeeec9d2f65591ebcb232
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347549"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30701497"
 ---
 # <a name="action-confirmations"></a>Confirmations d'action
 
-La fonctionnalité de confirmation d'action dans Outlook.com vous permet d'annuler une opération de déplacement ou de suppression de message que vous venez d'effectuer par inadvertance. La boîte de dialogue annuler s'affiche en bas de l'écran pendant environ 5 secondes et inverse l'action de déplacement ou de suppression de message.
+La fonctionnalité de confirmations d'action dans Outlook.com vous permet d'annuler une suppression de déplacement ou de message que vous venez d'effectuer par inadvertance. La boîte de dialogue annuler s'affiche en bas de l'écran pendant environ 5 secondes et inverse l'action de déplacement ou de suppression.
 
-Vous pouvez désactiver cette option sous sous **paramètres** > de notifications**générales** > pour les**notifications** > **[](https://outlook.live.com/mail/options/general/notifications)**.
+Vous pouvez désactiver cette option dans la section confirmations d' [action](https://outlook.live.com/mail/options/general/notifications) (**paramètres** > **Afficher tous les paramètres** > Outlook notifications**générales** > ****).
 
-Remarque: vous ne pouvez pas annuler l'envoi des messages. Read [je souhaite rappeler un message dans Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a) pour plus d'informations.
+Remarque: vous ne pouvez pas annuler l'envoi des messages. Pour plus d'informations, consultez [la rubrique je souhaite rappeler un message dans Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
