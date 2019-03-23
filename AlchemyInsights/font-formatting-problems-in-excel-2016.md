@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: a5196941866287c5050b0b272279ae47a2a737f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 16fa7c045d4323f2f65d6ae219583affa9e27d37
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926890"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758500"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problèmes de mise en forme de police dans Excel
+# <a name="font-formatting-problems-in-excel"></a>Problèmes liés à la mise en forme des polices dans Excel
 
-Dans Excel, 2016, la mise en forme de police peut-être s’affichent pas correctement dans une cellule. Cela peut se produire si une cellule contient plusieurs types de mise en forme de la police. Par exemple, si certains caractères sont mis en gras et d’autres personnes ne sont pas en gras, vous pouvez voir pas le format gras apparaître. Ou, si vous avez des caractères de couleurs différents dans la même cellule, les couleurs peuvent voir pas s’affichent correctement. Notre équipe d’ingénierie est conscient de ce problème et travaille actuellement sur un correctif. En attendant, essayez d’utiliser une autre police. Ou, essayez d’éviter d’utiliser plusieurs types de mise en forme au sein de la même cellule jusqu'à ce que ce problème est résolu. 
+Dans Excel 2016, la mise en forme des caractères peut ne pas s'afficher correctement dans une cellule. Cela peut se produire si une cellule contient plusieurs types de mise en forme de caractères. Par exemple, si certains caractères sont en gras et que d'autres ne sont pas en gras, il se peut que le format gras apparaisse. Si la même cellule comporte des caractères de couleur différents, il se peut que les couleurs s'affichent correctement. Notre équipe technique est consciente de ce problème et travaille actuellement sur un correctif. En attendant, essayez d'utiliser une autre police. Ou essayez d'éviter d'utiliser plusieurs types de mise en forme dans la même cellule jusqu'à ce que ce problème soit résolu. 
   
 

@@ -9,32 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: fe2d5d9e78ad6f1e05d99d1e754b3ba990f28e58
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925306"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760012"
 ---
 # <a name="buy-additional-licenses"></a>Acheter des licences supplémentaires
 
 1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
-2. Sur la page des **abonnements** , sélectionnez l’abonnement que vous souhaitez ajouter des licences, puis **Ajouter ou supprimer des licences**.
+2. Sur la **** page abonnements, choisissez l'abonnement auquel vous souhaitez ajouter des licences, puis choisissez **Ajouter/supprimer des licences**.
     
-    [Que se passe-t-il si je ne vois le lien Ajouter/supprimer ?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
+    [Que se passe-t-il si je ne vois pas le lien ajouter/supprimer?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
     
-3. Dans la zone **nombre Total de licences** , entrez le nombre total de licences dont vous avez besoin pour cet abonnement, puis cliquez sur **Envoyer** \> **Fermer**. Par exemple, si vous avez 100 licences et vous devez ajouter plus de 5, entrez 105.
+3. Dans la zone nombre total de **licences** , entrez le nombre total de licences dont vous avez besoin pour cet abonnement, puis choisissez **Envoyer** \> ****. Par exemple, si vous avez 100 licences et que vous devez en ajouter 5, entrez 105.
     
     > [!NOTE]
-    > Si vous payez par carte de crédit ou de compte bancaire pour votre abonnement, les nouvelles licences que vous achetez sont disponibles immédiatement après avoir reçu une confirmation de commande. Si vous payez par facture, vous devrez peut-être attendre vos nouvelles licences sont disponibles à utiliser pour une vérification de crédit. 
+    > Si vous réglez le montant de votre abonnement par carte de crédit ou par compte bancaire, les nouvelles licences que vous achetez sont disponibles dès que vous recevez une confirmation de commande. Si vous payez par facture, il est possible que vous deviez attendre la vérification de votre solvabilité avant que les nouvelles licences ne soient disponibles et utilisables. 
   
  **Ressources supplémentaires**
   
-- [Acheter des licences pour Office 365](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [Acheter des licences pour votre Office 365](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
     
-- [Affecter des licences aux utilisateurs dans Office 365 pour entreprises](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Attribuer des licences aux utilisateurs dans Office 365 pour les entreprises](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
 

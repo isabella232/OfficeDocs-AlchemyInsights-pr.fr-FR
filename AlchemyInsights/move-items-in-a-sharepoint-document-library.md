@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: fc166470e0f40c9dea5f21bf2d89912459fc8142
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900250"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759976"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Déplacer des éléments dans une bibliothèque de documents SharePoint
 
-Vous pouvez déplacer des éléments à des emplacements différents dans une bibliothèque de documents. Si vous avez choisi de [configurer l’option de version cibles](https://go.microsoft.com/fwlink/?linkid=622980), vous pouvez également déplacer des éléments entre les sites. Lorsque vous déplacez des documents, leur historique est également déplacé.
+Vous pouvez déplacer des éléments vers d'autres emplacements au sein d'une bibliothèque de documents. Si vous avez [configuré l'option de publication ciblée](https://go.microsoft.com/fwlink/?linkid=622980), vous pouvez également déplacer des éléments entre les sites. Lorsque vous déplacez des documents, leur historique est également déplacé.
   
-1. Dans un navigateur web, accédez à des fichiers, des dossiers ou des liens que vous souhaitez déplacer, puis cliquez sur **déplacer vers**.
+1. Dans un navigateur Web, accédez aux fichiers, dossiers ou liens à déplacer, puis cliquez sur **déplacer vers**.
     
     > [!NOTE]
-    > **Déplacer vers** n’est pas disponible si vous utilisez l’expérience classique de SharePoint Online. 
+    > Le **déplacement vers** n'est pas disponible si vous utilisez l'expérience classique de SharePoint Online. 
   
-2. Sous **Choisir une destination**, sélectionnez l’emplacement auquel vous souhaitez déplacer les éléments. Si vous souhaitez déplacer vers un autre site ou sous-site et ne s’affiche, cliquez sur **Parcourir les sites** pour afficher la liste complète des sites que vous pouvez déplacer vers. 
+2. Sous **choisir une destination**, sélectionnez l'emplacement vers lequel vous souhaitez déplacer les éléments. Si vous passez à un autre site ou sous-site et qu'il ne figure pas dans la liste, cliquez sur **Parcourir les sites** pour afficher la liste complète des sites vers lesquels vous pouvez vous déplacer. 
     
-    Pour créer un nouveau dossier pour déplacer les fichiers, sélectionnez un emplacement dans la hiérarchie de dossiers, cliquez sur **Nouveau dossier**, entrez un nom pour le dossier, cliquez sur la case à cocher pour enregistrer le nom.
+    Pour créer un nouveau dossier vers lequel déplacer les fichiers, sélectionnez un emplacement dans la hiérarchie des dossiers, cliquez sur **nouveau dossier**, entrez un nom pour le dossier, puis cliquez sur la coche pour enregistrer le nom.
     
-3. Cliquez sur **Déplacer ici**.
+3. Cliquez sur **déplacer ici**.
     
 

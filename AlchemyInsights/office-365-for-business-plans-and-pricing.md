@@ -1,5 +1,5 @@
 ---
-title: Office 365 pour les plans et les prix
+title: Office 365 pour les offres et tarifs professionnels
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 04f6b524097c52543012192efdcb8ee00a4b98e0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 31d9f93c6eec94e9685c27ceec424ee3750d0c12
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918438"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763106"
 ---
-# <a name="compare-office-365-for-business"></a>Comparer Office 365 pour entreprises
+# <a name="compare-office-365-for-business"></a>Comparer Office 365 pour les entreprises
 
-Il existe trois différents plans avec Office 365 pour entreprises. [Comparer Office 365 pour les plans et les prix](https://products.office.com/compare-all-microsoft-office-products?tab=2).
+Il existe trois offres différentes disponibles avec Office 365 pour les entreprises. [Comparez les offres et les tarifs Office 365](https://products.office.com/compare-all-microsoft-office-products?tab=2).
   
 

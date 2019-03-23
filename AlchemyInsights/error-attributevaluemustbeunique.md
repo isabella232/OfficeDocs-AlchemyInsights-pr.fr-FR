@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 7b98b68fabff6c048f1bab6cf506355114d18658
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7fc1190fb7b93dce945e366cf8b90112a97a2f3f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916522"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766022"
 ---
-# <a name="error-attributevaluemustbeunique"></a>Erreur : AttributeValueMustBeUnique
+# <a name="error-attributevaluemustbeunique"></a>Erreur: AttributeValueMustBeUnique
 
-Le plus souvent pour l’erreur AttributeValueMustBeUnique est deux objets avec différente SourceAnchor (immutableId) ont la même valeur pour les attributs ProxyAddresses et/ou UserPrincipalName. Pour corriger l’erreur AttributeValueMustBeUnique :
+La raison la plus fréquente de l'erreur AttributeValueMustBeUnique est que deux objets avec des ancre source (immutableId) différents ont la même valeur pour les attributs ProxyAddresses et/ou UserPrincipalName. Pour corriger l'erreur AttributeValueMustBeUnique:
   
-1. Identifier les proxyAddresses dupliqué, userPrincipalName ou autre valeur d’attribut qui est à l’origine de l’erreur. Identifiez également les objets deux (ou plus) sont impliqués dans le conflit. Le rapport généré par Azure AD se connecter d’intégrité pour la synchronisation peut vous aider à identifier les deux objets.
+1. Identifiez la valeur d'attribut proxyAddresses, userPrincipalName ou autre qui est à l'origine de l'erreur. Identifiez également les deux (ou plusieurs) objets impliqués dans le conflit. Le rapport généré par Azure AD Connect Health for Sync peut vous aider à identifier les deux objets.
     
-2. Identifier l’objet puissent continuer à la valeur double et l’objet ne doit pas.
+2. Identifiez l'objet qui doit continuer à avoir la valeur dupliquée et l'objet ne doit pas l'être.
     
-3. Supprimez la valeur double de l’objet qui ne doit pas comporter de cette valeur. Notez que vous devez vous la modification dans le répertoire dans lequel l’objet est provenant de. Dans certains cas, vous devrez peut-être supprimer un des objets en conflit.
+3. Supprimez la valeur dupliquée de l'objet qui ne doit pas avoir cette valeur. Notez que vous devez procéder à la modification dans le répertoire à partir duquel l'objet est source. Dans certains cas, vous devrez peut-être supprimer l'un des objets en conflit.
     
-4. Si vous avez effectué la modification dans l’environnement local sur AD, laisser Azure AD Connect synchroniser la modification de l’erreur pour le résoudre.
+4. Si vous avez effectué la modification dans l'AD locale, laissez Azure AD Connect synchroniser la modification pour l'erreur afin d'obtenir des fixes.
     
 

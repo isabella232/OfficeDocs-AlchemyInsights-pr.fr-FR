@@ -1,5 +1,5 @@
 ---
-title: Activer externe ou désactiver le partage pour un site
+title: Activer ou désactiver le partage externe pour une collection de sites
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: fde0fd14432a44891106f152dbc8c91faf4d7b36
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: af9b6c50430814a356a08e661a0bc4e237f4616e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900610"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758464"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Activer externe ou désactiver le partage pour un site SharePoint
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Activer ou désactiver le partage externe pour un site SharePoint
 
-Pour une collection de sites classique :
+Pour une collection de sites classique:
   
-1. Dans le centre d’administration SharePoint classique, dans le volet gauche, cliquez sur **des collections de sites**.
+1. Dans le volet de gauche du centre d'administration SharePoint classique, cliquez sur **collections de sites**.
     
-2. Sélectionnez l’ou les sites, dans le ruban, cliquez sur **partage**.
+2. Sélectionnez le ou les sites et, dans le ruban, cliquez sur **partage**.
     
-Par défaut, de nouveaux sites créées par les utilisateurs à la fois (les sites d’équipe qui appartiennent à des groupes d’Office 365) et les sites de communication ont le même paramètre partage en tant que paramètre de l’échelle de l’organisation, sauf si le paramètre d’échelle de l’organisation permet le partage de fichiers à l’aide de liens qui ne exiger la connexion. Dans ce cas, les sites autoriser le partage avec des utilisateurs externes qui se connectent à. Pour modifier le paramètre pour des sites spécifiques, utilisez le nouveau centre d’administration de SharePoint (preview).
+Par défaut, les nouveaux sites créés par les utilisateurs (à la fois les sites d'équipe qui appartiennent à des sites de communication et des groupes Office 365) ont le même paramètre de partage que votre paramètre au sein de votre organisation, sauf si le paramètre à l'échelle de l'organisation autorise le partage de fichiers à l'aide de liens qui ne exiger une connexion. Dans ce cas, les sites autorisent le partage avec des utilisateurs externes nouveaux et existants qui se connectent. Pour modifier le paramètre de sites spécifiques, utilisez le nouveau centre d'administration SharePoint (aperçu).
   
 > [!NOTE]
-> Le paramètre partage externe pour un site peut être plus restrictif que votre paramètre de l’organisation, mais pas plus permissif que le paramètre de l’organisation. 
+> Le paramètre de partage externe de n'importe quel site peut être plus restrictif que le paramètre à l'échelle de votre organisation, mais pas plus permissif que le paramètre à l'échelle de l'organisation. 
   
 

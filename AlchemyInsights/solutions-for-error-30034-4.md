@@ -1,5 +1,5 @@
 ---
-title: Solutions d’erreur 30034-4
+title: Solutions pour l'erreur 30034-4
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 880d8df1713f1d9cfdf409f5e38af932c3594d46
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: acf11fd45402f587830253346c4f52983628300b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927718"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763430"
 ---
-# <a name="solutions-for-error-30034-4"></a>Solutions d’erreur 30034-4
+# <a name="solutions-for-error-30034-4"></a>Solutions pour l'erreur 30034-4
 
-Essayez les solutions suivantes pour résoudre l' erreur [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Essayez ces solutions pour corriger l'erreur [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
   
-- Redémarrez votre ordinateur et réessayez [d’installer Office](https://portal.office.com/OLS/MySoftware.aspx).
+- ReDémarrez votre ordinateur et essayez d' [installer Office](https://portal.office.com/OLS/MySoftware.aspx).
     
-- Téléchargez et installez l' [Assistant de récupération et de prise en charge](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Téléchargez et installez l' [Assistant support et récupération](https://aka.ms/SARA-OfficeUninstall-Alchemy).
     
-1. Lorsqu’il s’ouvre, à partir de **produits de désinstaller Office** , sélectionnez la version que vous souhaitez désinstaller, puis cliquez sur **suivant**. 
+1. À l'ouverture, dans la boîte de désInstallation des **produits Office** , sélectionnez la version que vous souhaitez désinstaller, puis sélectionnez **suivant**. 
     
-2. Continuer de passer par les écrans et redémarrez votre ordinateur lorsque vous y êtes invité.
+2. Continuez à parcourir les écrans et redémarrez votre ordinateur lorsque vous y êtes invité.
     
-    Après avoir redémarré, la prise en charge et la récupération Assistant Nouveau s’ouvre automatiquement pour terminer le processus de désinstallation.
+    Après le redémarrage, l'Assistant support et récupération s'ouvre automatiquement pour terminer le processus de désinstallation.
     
-3. Suivre des autres invites et [réinstaller Office](https://portal.office.com/OLS/MySoftware.aspx) ou fermer l’assistant. 
+3. Suivez les invites restantes, puis [réinstallez Office](https://portal.office.com/OLS/MySoftware.aspx) ou fermez l'Assistant. 
     
 

@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 738bc92c77eaab094e79d76b35f48cca6d23057a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 50dc376a86db07d80d7510671589be098e3d2391
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923577"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762350"
 ---
 # <a name="microsoft-flow"></a>Microsoft Flow
 
-Flow Microsoft vous aide à automatiser les tâches courantes. Il permet de configurer le flux de travail pour les listes et bibliothèques. Pour savoir comment ajouter un flux à une liste ou une bibliothèque dans SharePoint Online ou OneDrive, voir [créer un flux](https://go.microsoft.com/fwlink/?linkid=869408).
+Le flux Microsoft vous permet d'automatiser les tâches courantes. Utilisez-la pour configurer les flux de travail pour les listes et les bibliothèques. Pour en savoir plus sur l'ajout d'un flux à une liste ou à une bibliothèque dans SharePoint Online ou OneDrive, consultez la rubrique [Create a Flow](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Vidéos sur Microsoft flux](https://go.microsoft.com/fwlink/?linkid=864641)
+[Vidéos sur Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Site Web Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
+[Site Web de flux Microsoft](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

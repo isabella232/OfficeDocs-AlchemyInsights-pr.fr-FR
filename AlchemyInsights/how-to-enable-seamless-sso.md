@@ -1,5 +1,5 @@
 ---
-title: Comment faire pour activer l’authentification unique transparente
+title: Procédure d'activation de l'authentification unique transparente
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: a8cdcfbb753243669ce07b758731056aa55c739b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5a6d34c5dc5cca307cd085011a88cf7171d207ad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911734"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761451"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Comment faire pour activer l’authentification unique transparente
+# <a name="how-to-enable-seamless-sso"></a>Procédure d'activation de l'authentification unique transparente
 
-Activer l’authentification unique transparente par le biais de [connexion Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Activer l'authentification unique transparente via [Azure ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Si vous effectuez une nouvelle installation d’Azure AD se connecter, cliquez sur le [chemin d’installation personnalisé](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Dans la page de **connexion de l’utilisateur** , choisissez l’option **Activer l’authentification unique** . 
+Si vous effectuez une nouvelle installation d'Azure AD Connect, choisissez le [chemin d'installation personnalisé](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Sur la page **de connexion de l'utilisateur** , sélectionnez l'option **activer l'authentification unique** . 
   
-Pour vérifier que vous avez activé l’authentification unique transparente correctement :
+Pour vérifier que vous avez correctement activé l'authentification unique transparente, procédez comme suit:
   
-1. Se connecter au [Centre d’administration Azure Active Directory](https://aad.portal.azure.com) en tant qu’un administrateur global. 
+1. Connectez-vous au [Centre d'administration Azure Active Directory](https://aad.portal.azure.com) en tant qu'administrateur général. 
     
-2. Dans le volet gauche, sélectionnez **Azure Active Directory** . 
+2. Sélectionnez **Azure Active Directory** dans le volet de gauche. 
     
-3. Vérifiez que transparente de l’authentification unique est **activé**.
+3. Vérifiez que l'authentification unique transparente est **activée**.
     
-Pour plus d’informations, voir [Azure Active Directory transparente Single Sign-On : Guide de démarrage rapide](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Pour en savoir plus, consultez la rubrique [Azure Active Directory transparent Single Sign-On: Quick Start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
 

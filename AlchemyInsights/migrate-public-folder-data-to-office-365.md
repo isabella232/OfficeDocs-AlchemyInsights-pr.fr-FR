@@ -1,5 +1,5 @@
 ---
-title: Migrer des données de dossiers publics vers Office 365
+title: Migrer des données de dossier public vers Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2a9be935-d798-4b5f-a1b8-15b1f25d1451
-ms.openlocfilehash: ac949148ff0af6eeae61914420bf782a4110f562
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0b970917e53fce266e0a16100f3deb869f9f7007
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915082"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754720"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Migrer des données de dossiers publics vers Office 365
+# <a name="migrate-public-folder-data-to-office-365"></a>Migrer des données de dossier public vers Office 365
 
-Si vous avez uniquement certains dossiers publics à déplacer vers Office 365, la plus simple consiste à copier les données dans des fichiers PST et les importer dans Office 365. Pour une très petite quantité de données, un simple glisser -déplacer du dossier public dans un fichier PST peuvent utiliser. Si vous avez plus d’informations (jusqu'à 30 Go) nous avons [documenté un processus](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx#PSTMigrate) que vous pouvez utiliser pour exporter des dossiers pour les fichiers PST. 
+Si vous ne disposez que d'un petit nombre de dossiers publics à déplacer vers Office 365, la méthode la plus simple consiste à copier les données dans des fichiers PST, puis à les importer dans Office 365. Pour un très petit volume de données, une simple opération glisser-déplacer de dossier public dans un fichier PST peut fonctionner. Si vous disposez de plus d'informations (jusqu'à 30 Go), nous avons [documenté un processus](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx#PSTMigrate) que vous pouvez utiliser pour exporter des dossiers vers des fichiers PST. 
   
-Pour les grandes entreprises sont déplacement de dossiers publics dans Office 365, nous avons plusieurs guides disponibles :
+Pour les grandes organisations qui déplacent des dossiers publics dans Office 365, nous avons plusieurs guides disponibles:
   
-- [Migration de dossiers publics hérités (Exchange 2010 et versions antérieur)](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)
+- [Migrer des dossiers publics hérités (Exchange 2010 et versions antérieures)](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)
     
-- [Migration de dossiers publics Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [Migrer les dossiers publics Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     
-- [Migration de dossiers publics Exchange 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+- [Migrer les dossiers publics Exchange 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
     
-Vous avez également la possibilité de [migration des dossiers publics vers Office 365 groupes](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
+Vous avez également la possibilité de [migrer des dossiers publics vers des groupes Office 365](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Partager un fichier ou un dossier SharePoint ou de OneDrive
+title: Partager un fichier ou un dossier dans OneDrive ou SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b6d51993-c6dd-4721-a41f-5c4edcf7c3c7
-ms.openlocfilehash: cf1c78bcb47c416d83da9fb8344e1a01b68dd90d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7a4c54e158f0bdd08e6f0b216b298133ec05ebdb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905110"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764742"
 ---
-# <a name="share-a-file-or-folder-in-onedrive-or-sharepoint"></a>Partager un fichier ou un dossier SharePoint ou de OneDrive
+# <a name="share-a-file-or-folder-in-onedrive-or-sharepoint"></a>Partager un fichier ou un dossier dans OneDrive ou SharePoint
 
-1. Recherchez le fichier ou dossier que vous souhaitez partager, sélectionnez-le, puis cliquez sur **partager**.
+1. Accédez au fichier ou au dossier que vous souhaitez partager, sélectionnez-le, puis cliquez sur **partager**.
     
-2. (Facultatif) Dans la boîte de dialogue Envoyer le lien, cliquez sur la flèche vers le bas pour modifier le type de liaison. Sous **qui souhaite que ce lien pour**, modifiez qui peut accéder au lien. Si vous souhaitez que les utilisateurs puissent afficher mais pas modifier vos fichiers, désactivez la case **Autoriser la modification** . 
+2. Module Dans la boîte de dialogue lien d'envoi, cliquez sur la flèche vers le bas pour modifier le type de lien. Sous **qui voulez-vous que ce lien fonctionne**, modifiez qui peut accéder au lien. Si vous souhaitez que les utilisateurs puissent afficher, mais pas modifier vos fichiers, décochez la case **autoriser la modification** . 
     
     Cliquez sur **Appliquer**.
     
     > [!NOTE]
-    > Si vous souhaitez que l’option de partage n’est pas disponible, vous devez vous assurer qu’il est autorisé pour votre organisation et pour la collection de sites. Pour ce faire, consultez la rubrique [Activer externe ou désactiver le partage de SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426). 
+    > Si l'option de partage souhaitée n'est pas disponible, vous devez vous assurer qu'elle est autorisée pour votre organisation et pour la collection de sites. Pour ce faire, voir [activer ou désactiver le partage externe pour SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426). 
   
-3. Entrez les noms des personnes que vous voulez partager avec, puis cliquez sur **Envoyer**.
+3. Entrez les noms des personnes avec lesquelles vous souhaitez partager des contacts, puis cliquez sur **Envoyer**.
     
 

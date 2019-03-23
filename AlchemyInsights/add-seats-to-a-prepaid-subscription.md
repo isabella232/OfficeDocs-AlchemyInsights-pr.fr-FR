@@ -1,5 +1,5 @@
 ---
-title: Ajout de sièges à un abonnement prépayé
+title: Ajouter des sièges à un abonnement prépayé
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: d03ca96b0f9b0f49ee742e08c8a57683c805a0e8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 07161bf45fb99539e4c6d0b946a538f198db3553
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29903227"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763502"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Ajout de sièges à un abonnement prépayé
+# <a name="add-seats-to-a-prepaid-subscription"></a>Ajouter des sièges à un abonnement prépayé
 
 1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
-2. Choisissez l’abonnement prépayé que vous souhaitez ajouter des utilisateurs.
+2. Choisissez l'abonnement prépayé auquel vous souhaitez ajouter des utilisateurs.
     
-3. Dans le menu **action** , choisissez **renouveler ou ajouter la licence jeton**.
+3. Dans le menu **actions supplémentaires** , sélectionnez **renouveler ou ajouter une licence avec un jeton**.
     
-4. Sélectionnez l’option de **clé de produit de nouveaux et inutilisés** . (Si cet abonnement a été créé avec une clé de produit achetée à un emplacement de vente au détail, peut avoir la possibilité d’ajouter des utilisateurs avec d’autres méthodes de paiement.) 
+4. Sélectionnez l'option **clé de produit nouvelle et** inutilisée. (Si cet abonnement a été créé avec une clé de produit achetée auprès d'un lieu de vente au détail, vous pouvez avoir la possibilité d'ajouter des utilisateurs avec d'autres modes de paiement.) 
     
-5. Sélectionnez **Suivant**.
+5. Choisissez **Suivant**.
     
 6. Entrez la clé de produit, puis cliquez sur **suivant**.
     
-7. Choisissez l’option pour ajouter d’autres utilisateurs, cliquez sur **suivant**, puis choisissez **remboursement**.
+7. Choisissez l'option permettant d'ajouter d'autres utilisateurs, choisissez **suivant**, puis sélectionnez **échanger**.
     
 

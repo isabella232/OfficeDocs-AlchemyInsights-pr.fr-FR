@@ -1,5 +1,5 @@
 ---
-title: Office 365 pour les plans caritative et les prix
+title: Office 365 pour les offres et tarifs pour les associations
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 84a51e2bb3da804ac1bcc3c7cb8f0efb1fbf58fe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cfe62608a50d634616fc9f57461eda1b401110f1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920554"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757456"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 pour les plans caritative et les prix
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 pour les offres et tarifs pour les associations
 
-Organismes sans but lucratif complets peuvent recevoir Office 365 caritative en don ou mise à niveau vers des fonctionnalités avancées à un prix bien. Pour bénéficier d’un plan Office 365 caritative, vous devez maintenir [reconnu don état](https://go.microsoft.com/fwlink/p/?LinkID=330253) dans la stratégie de non-discrimination votre pays et connexion Microsoft. Microsoft réserve le droit pour vérifier l’octroi à tout moment et de suspendre le service pour les organisations incorrect. 
+Les organisations à but non lucratif qualifié peuvent recevoir l'organisme Office 365 d'un don ou effectuer une mise à niveau vers des fonctionnalités avancées à un prix réduit. Pour bénéficier d'un plan d'impatient Office 365, vous devez tenir compte de l' [État de bienfaisance reconnu](https://go.microsoft.com/fwlink/p/?LinkID=330253) dans votre pays et signer la stratégie de non-discrimination de Microsoft. Microsoft se réserve le droit de vérifier l'éligibilité à tout moment et de suspendre le service pour les organisations inéligibles. 
   
-Consultez le [Forum aux questions](https://products.office.com/nonprofit/office-365-nonprofit) pour des questions supplémentaires sur cette offre. 
+Consultez le [Forum aux](https://products.office.com/nonprofit/office-365-nonprofit) questions pour en savoir plus sur cette offre. 
   
-- [Passez en revue les plans caritative](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Examiner les plans pour les organismes à but non lucratif](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
     
-- [Comparer tous les plans Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Comparaison de tous les plans Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
     
 

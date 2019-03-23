@@ -1,5 +1,5 @@
 ---
-title: Un arrière-plan noir s’affiche, ou la mise en forme de cellule semble incorrecte
+title: Un arrière-plan noir s'affiche, ou la mise en forme de cellule ne semble pas correcte
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 7dda3aae2e692d9ecf1c83cfe598139a7aba3df4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ce476961ac8126b8de2f63dc52b9ff26d02711b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906442"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760192"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Un arrière-plan noir s’affiche, ou la mise en forme de cellule semble incorrecte
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Un arrière-plan noir s'affiche, ou la mise en forme de cellule ne semble pas correcte
 
-Dans Excel 2016, vous pouvez voir un arrière-plan noir inattendu, ou vous pouvez voir la mise en forme qui n’apparaît pas correctement. Cela peut se produire après l’ajout d’un en-tête ou un pied de page en mode Page et en appliquant un motif de remplissage à une cellule. Ce problème a été résolu dans la version 1708 (Build 8431.2094). Pour résoudre ce problème, mettez à jour vers la dernière version d’Office. Sélectionnez le **fichier** \> **compte** \> **mettre à jour les Options** \> **mettre à jour maintenant**.
+Dans Excel 2016, il se peut que vous rencontriez un arrière-plan noir inattendu ou que la mise en forme de cellule ne s'affiche pas correctement. Cela peut se produire après l'ajout d'un en-tête ou d'un pied de page en mode page et l'application d'un motif de remplissage à une cellule. Ce problème a été résolu dans la version 1708 (Build 8431,2094). Pour résoudre ce problème, mettez à jour la dernière version d'Office. Sélectionnez **mettre à jour**les options \> de **mise à jour** des **comptes** \> de **fichiers** \> .
   
 

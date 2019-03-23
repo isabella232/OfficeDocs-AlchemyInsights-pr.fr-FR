@@ -1,5 +1,5 @@
 ---
-title: Comment identifier une charge sur votre carte de crédit ou l’instruction banque
+title: Comment identifier les frais sur votre carte bancaire ou votre relevé bancaire
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: d349d107642ed042c8878d3703a1def89e2906d5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c698c085fc7d1d62eb5c615061198cd5395fbbab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936970"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758536"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Comment identifier une charge sur votre carte de crédit ou l’instruction banque
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Comment identifier les frais sur votre carte bancaire ou votre relevé bancaire
 
-La description des frais pour un abonnement à Office 365 ressemble à ceci :
+La description des frais pour un abonnement Office 365 se présente comme suit:
   
-MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
+MSFT \* E012345ABC 0000-MSBILL.info, WA
   
-La chaîne alphanumérique de 10 caractères suivant MSFT \* est le numéro de facture concerne les frais. Pour rechercher la facture, accédez à la page [opérations](https://go.microsoft.com/fwlink/p/?linkid=848039) , ou choisissez **facturation** \> **échéances** pour afficher vos factures récents. Le numéro de facture est dans l’angle droit du document de facture. 
+La chaîne alphanumérique à 10 caractères qui suit MSFT \* est le numéro de facture auquel la charge est liée. Pour trouver la facture, accédez à la page [factures](https://go.microsoft.com/fwlink/p/?linkid=848039) ou choisissez **facturation** \> : **factures** pour afficher vos factures récentes. Le numéro de facture est proche du coin droit du document de facture. 
   
 

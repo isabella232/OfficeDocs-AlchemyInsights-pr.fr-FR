@@ -1,5 +1,5 @@
 ---
-title: Gérer le renouvellement automatique.
+title: Gérer le renouvellement automatique
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: b23d82ead351e8ccdaaffe87d9393683791530b2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 753c8fee83aa318e184bf5ba3442848b9cb2d6fe
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913252"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761919"
 ---
 # <a name="manage-recurring-billing"></a>Gérer la facturation périodique
 
-Pour gérer les périodique de facturation, vous pouvez basculer **périodique facturation** activé ou désactivé. 
+Pour gérer la facturation périodique, vous pouvez activer ou désactiver la **facturation périodique** . 
   
-1. Dans le centre d’administration, accédez à la page des [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) ou accédez à la **facturation** \> **abonnements**.
+1. Dans le centre d'administration, accédez à [](https://go.microsoft.com/fwlink/p/?linkid=842054) la page abonnements ou accédez à abonnements de **facturation** \> ****.
     
-2. Choisissez l’abonnement pour lequel vous souhaitez gérer la facturation périodique.
+2. Choisissez l'abonnement pour lequel vous souhaitez gérer la facturation périodique.
     
-3. Basculer la **facturation périodique** bascule vers **activé** ou **désactivé**.
+3. Basculez le bouton de **facturation périodique** **sur activé** ou **désactivé**.
     
-Pour plus d’informations, voir : [Gérer périodique facturation pour votre abonnement](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+Pour plus d'informations, consultez la rubrique relative à [la gestion de la facturation périodique de votre abonnement](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
   
 
