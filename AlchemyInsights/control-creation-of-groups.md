@@ -1,5 +1,5 @@
 ---
-title: Contrôle la création des groupes
+title: Contrôler la création de groupes
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 29ccda0d9f24928adef47c7e5362ce94d7998070
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 134361cc92b86ab13a5cd3443b6fabe2df3b83bb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933550"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753316"
 ---
-# <a name="control-creation-of-o365-groups"></a>Contrôle la création des groupes O365
+# <a name="control-creation-of-o365-groups"></a>Contrôler la création de groupes O365
 
-Par défaut, tous les utilisateurs au sein de la société sont en mesure de créer des groupes O365. Si nécessaire, vous êtes en mesure de le modifier, puis d’affecter le droit créer des groupes O365 à un ensemble d’utilisateurs au sein de votre société. Notez que ceci auront une incidence sur la création des groupes à partir de n’importe quel service O365 (comme Outlook, équipes, planificateur et ainsi de suite).
+Par défaut, tous les utilisateurs au sein de la société peuvent créer des groupes O365. Si nécessaire, vous pouvez modifier ce paramètre et attribuer le droit de créer des groupes O365 à un ensemble de personnes au sein de votre entreprise. Notez que cela aura un impact sur la création de groupes à partir de n'importe quel service O365 (par exemple, Outlook, teams, Planner, etc.).
   
-Instructions : [gérer qui peut créer des groupes d’Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Instructions: [gérer les personnes autorisées à créer des groupes Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
