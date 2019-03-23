@@ -1,5 +1,5 @@
 ---
-title: Utilisez les conditions ou les formules avancées dans un flux
+title: Utiliser des conditions ou des formules avancées dans un flux
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: 431f7880aaea816affba747ee068758eef7079b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ce25e410a590fdf9739aa072e73270c2824f45b4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915982"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756556"
 ---
-# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a><span data-ttu-id="6cf34-102">Utilisez les conditions ou les formules avancées dans un flux</span><span class="sxs-lookup"><span data-stu-id="6cf34-102">Use conditions or advanced formulas in a flow</span></span>
+# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a><span data-ttu-id="378c8-102">Utiliser des conditions ou des formules avancées dans un flux</span><span class="sxs-lookup"><span data-stu-id="378c8-102">Use conditions or advanced formulas in a flow</span></span>
 
-<span data-ttu-id="6cf34-p101">Vous pouvez personnaliser un flux de sorte qu’il effectue des tâches uniquement si une condition est true. Pour obtenir des informations, voir [Ajouter une condition à un flux](https://go.microsoft.com/fwlink/?linkid=872112).</span><span class="sxs-lookup"><span data-stu-id="6cf34-p101">You can customize a flow so that it performs tasks only if a condition is true. For info, see [Add a condition to a flow](https://go.microsoft.com/fwlink/?linkid=872112).</span></span>
+<span data-ttu-id="378c8-103">Vous pouvez personnaliser un flux de sorte qu'il effectue des tâches uniquement si une condition a la valeur true.</span><span class="sxs-lookup"><span data-stu-id="378c8-103">You can customize a flow so that it performs tasks only if a condition is true.</span></span> <span data-ttu-id="378c8-104">Pour plus d'informations, consultez [la rubrique ajouter une condition à un flux](https://go.microsoft.com/fwlink/?linkid=872112).</span><span class="sxs-lookup"><span data-stu-id="378c8-104">For info, see [Add a condition to a flow](https://go.microsoft.com/fwlink/?linkid=872112).</span></span>
   
-<span data-ttu-id="6cf34-105">Pour créer une formule avancée, voir [schéma langage de définition du flux de travail pour les applications Azure logique](https://aka.ms/logicexpressions).</span><span class="sxs-lookup"><span data-stu-id="6cf34-105">To create an advanced formula, see [Workflow definition language schema for Azure logic apps](https://aka.ms/logicexpressions).</span></span>
+<span data-ttu-id="378c8-105">Pour créer une formule avancée, reportez-vous à [schéma de langage de définition de flux de travail pour Azure Logic Apps](https://aka.ms/logicexpressions).</span><span class="sxs-lookup"><span data-stu-id="378c8-105">To create an advanced formula, see [Workflow definition language schema for Azure logic apps](https://aka.ms/logicexpressions).</span></span>
   
 

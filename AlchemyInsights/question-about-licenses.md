@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: a2d5a988ac0eb01bb15a57a2a018c21b8861f147
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938338"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760300"
 ---
-# <a name="question-about-licenses"></a><span data-ttu-id="457bf-102">Question sur les licences</span><span class="sxs-lookup"><span data-stu-id="457bf-102">Question about licenses</span></span>
+# <a name="question-about-licenses"></a><span data-ttu-id="c5d30-102">Question sur les licences</span><span class="sxs-lookup"><span data-stu-id="c5d30-102">Question about licenses</span></span>
 
-<span data-ttu-id="457bf-103">Si vous souhaitez connaître le nombre de licences que vous avez acheté, ou le nombre de licences est affecté à partir d’un abonnement :</span><span class="sxs-lookup"><span data-stu-id="457bf-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="c5d30-103">Si vous souhaitez connaître le nombre de licences que vous avez achetées, ou le nombre de licences affectées à partir d'un abonnement:</span><span class="sxs-lookup"><span data-stu-id="c5d30-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="457bf-104">Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.</span><span class="sxs-lookup"><span data-stu-id="457bf-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="c5d30-104">Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.</span><span class="sxs-lookup"><span data-stu-id="c5d30-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="457bf-105">Choisissez l’abonnement que vous souhaitez en savoir plus.</span><span class="sxs-lookup"><span data-stu-id="457bf-105">Choose the subscription you want to know more about.</span></span>
+2. <span data-ttu-id="c5d30-105">Choisissez l'abonnement sur lequel vous souhaitez en savoir plus.</span><span class="sxs-lookup"><span data-stu-id="c5d30-105">Choose the subscription you want to know more about.</span></span>
     
-3. <span data-ttu-id="457bf-106">Sur le côté gauche de la carte d’abonnement est plus d’informations sur vos licences :</span><span class="sxs-lookup"><span data-stu-id="457bf-106">On the left side of the subscription card is information about your licenses:</span></span>
+3. <span data-ttu-id="c5d30-106">Sur le côté gauche de la carte d'abonnement se trouvent les informations relatives à vos licences:</span><span class="sxs-lookup"><span data-stu-id="c5d30-106">On the left side of the subscription card is information about your licenses:</span></span>
     
-  - <span data-ttu-id="457bf-107">Le nombre de **acheté** est le nombre de licences que vous payez.</span><span class="sxs-lookup"><span data-stu-id="457bf-107">The **Purchased** number is the number of licenses you are paying for.</span></span> 
+  - <span data-ttu-id="c5d30-107">Le numéro d' **achat** est le nombre de licences que vous payez.</span><span class="sxs-lookup"><span data-stu-id="c5d30-107">The **Purchased** number is the number of licenses you are paying for.</span></span> 
     
-  - <span data-ttu-id="457bf-108">Le numéro **attribué** est le nombre de licences attribuées à un utilisateur.</span><span class="sxs-lookup"><span data-stu-id="457bf-108">The **Assigned** number is the number of licenses assigned to a user.</span></span> 
+  - <span data-ttu-id="c5d30-108">Le numéro **attribué** est le nombre de licences attribuées à un utilisateur.</span><span class="sxs-lookup"><span data-stu-id="c5d30-108">The **Assigned** number is the number of licenses assigned to a user.</span></span> 
     
-4. <span data-ttu-id="457bf-109">Si vous souhaitez ajouter davantage de licences, ou si vous avez trop nombreuses, choisissez **Ajouter/supprimer des licences** pour régler le volume acheté.</span><span class="sxs-lookup"><span data-stu-id="457bf-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span> 
+4. <span data-ttu-id="c5d30-109">Si vous souhaitez ajouter des licences supplémentaires, ou si vous en avez trop, choisissez **Ajouter/supprimer des licences** pour ajuster le montant acheté.</span><span class="sxs-lookup"><span data-stu-id="c5d30-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span> 
     
 

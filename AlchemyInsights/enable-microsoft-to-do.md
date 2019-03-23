@@ -1,5 +1,5 @@
 ---
-title: Activer des tâches de Microsoft
+title: Activer la tâche Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: aa852f37c365ce1df8527438938e0dbcd95cbd19
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 39bd4634d31b8ff33081c10e566e05f7e1561404
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928042"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759904"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a><span data-ttu-id="4b48c-102">Comment activer Microsoft To-Do</span><span class="sxs-lookup"><span data-stu-id="4b48c-102">How to enable Microsoft To-Do</span></span>
+# <a name="how-to-enable-microsoft-to-do"></a><span data-ttu-id="3315a-102">Procédure d'activation de Microsoft to-do</span><span class="sxs-lookup"><span data-stu-id="3315a-102">How to enable Microsoft To-Do</span></span>
 
-<span data-ttu-id="4b48c-p101">Pour pouvoir utiliser Microsoft To-Do, un administrateur doit activer l’application sur chaque compte d’utilisateur. Accédez à la [Services &amp; page compléments](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) de la page de paramètres d’administration Office 365 pour activer des tâches pour chaque utilisateur.</span><span class="sxs-lookup"><span data-stu-id="4b48c-p101">In order to use Microsoft To-Do, an admin must enable the app on each user's account. Go to the [Services &amp; Add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) of the Office 365 admin settings page to enable To-Do for each user.</span></span> 
+<span data-ttu-id="3315a-103">Pour pouvoir utiliser l'action Microsoft, un administrateur doit activer l'application sur chaque compte d'utilisateur.</span><span class="sxs-lookup"><span data-stu-id="3315a-103">In order to use Microsoft To-Do, an admin must enable the app on each user's account.</span></span> <span data-ttu-id="3315a-104">Accédez à la [page &amp; compléments de services](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) de la page Paramètres d'administration d'Office 365 pour activer la tâche pour chaque utilisateur.</span><span class="sxs-lookup"><span data-stu-id="3315a-104">Go to the [Services &amp; Add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) of the Office 365 admin settings page to enable To-Do for each user.</span></span> 
   
-<span data-ttu-id="4b48c-p102">To-Do Microsoft utilise les fonctionnalités dans Exchange Online pour synchroniser et stocker les éléments de tâches des utilisateurs. Pour pouvoir utiliser Microsoft To-Do, un utilisateur a besoin d’une boîte aux lettres Exchange Online valide.</span><span class="sxs-lookup"><span data-stu-id="4b48c-p102">Microsoft To-Do uses features in Exchange Online to sync and store users' to-do items. In order to use Microsoft To-Do, a user needs a valid Exchange Online mailbox.</span></span>
+<span data-ttu-id="3315a-105">Microsoft to-do utilise des fonctionnalités dans Exchange Online pour synchroniser et stocker les éléments à faire des utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="3315a-105">Microsoft To-Do uses features in Exchange Online to sync and store users' to-do items.</span></span> <span data-ttu-id="3315a-106">Pour pouvoir utiliser l'action Microsoft, un utilisateur doit disposer d'une boîte aux lettres Exchange Online valide.</span><span class="sxs-lookup"><span data-stu-id="3315a-106">In order to use Microsoft To-Do, a user needs a valid Exchange Online mailbox.</span></span>
   
-<span data-ttu-id="4b48c-107">Pour plus d’informations, voir [administration de l’aperçu des tâches de Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span><span class="sxs-lookup"><span data-stu-id="4b48c-107">For additional information, see [Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span></span>
+<span data-ttu-id="3315a-107">Pour plus d'informations, consultez la rubrique [Microsoft to-do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span><span class="sxs-lookup"><span data-stu-id="3315a-107">For additional information, see [Microsoft To-Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).</span></span>
   
- <span data-ttu-id="4b48c-108">**Remarque**: Si vous recevez une erreur 501 lors de la tentative pour vous connecter à [http://todo.microsoft.com](http://todo.microsoft.com), essayez [https://to-do.microsoft.com](https://to-do.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="4b48c-108">**Note**: If you receive a 501 error when trying to log into [http://todo.microsoft.com](http://todo.microsoft.com), try [https://to-do.microsoft.com](https://to-do.microsoft.com).</span></span>
+ <span data-ttu-id="3315a-108">**Remarque**: Si vous recevez une erreur 501 lorsque vous essayez de vous [http://todo.microsoft.com](http://todo.microsoft.com)connecter à [https://to-do.microsoft.com](https://to-do.microsoft.com), essayez.</span><span class="sxs-lookup"><span data-stu-id="3315a-108">**Note**: If you receive a 501 error when trying to log into [http://todo.microsoft.com](http://todo.microsoft.com), try [https://to-do.microsoft.com](https://to-do.microsoft.com).</span></span>
   
 

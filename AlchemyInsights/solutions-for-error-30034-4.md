@@ -1,5 +1,5 @@
 ---
-title: Solutions d’erreur 30034-4
+title: Solutions pour l'erreur 30034-4
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 880d8df1713f1d9cfdf409f5e38af932c3594d46
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: acf11fd45402f587830253346c4f52983628300b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927718"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763430"
 ---
-# <a name="solutions-for-error-30034-4"></a><span data-ttu-id="f7191-102">Solutions d’erreur 30034-4</span><span class="sxs-lookup"><span data-stu-id="f7191-102">Solutions for error 30034-4</span></span>
+# <a name="solutions-for-error-30034-4"></a><span data-ttu-id="ac2dc-102">Solutions pour l'erreur 30034-4</span><span class="sxs-lookup"><span data-stu-id="ac2dc-102">Solutions for error 30034-4</span></span>
 
-<span data-ttu-id="f7191-103">Essayez les solutions suivantes pour résoudre l' erreur [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="f7191-103">Try these solutions to fix error [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="ac2dc-103">Essayez ces solutions pour corriger l'erreur [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="ac2dc-103">Try these solutions to fix error [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="f7191-104">Redémarrez votre ordinateur et réessayez [d’installer Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="f7191-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="ac2dc-104">ReDémarrez votre ordinateur et essayez d' [installer Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="ac2dc-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
     
-- <span data-ttu-id="f7191-105">Téléchargez et installez l' [Assistant de récupération et de prise en charge](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f7191-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="ac2dc-105">Téléchargez et installez l' [Assistant support et récupération](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ac2dc-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-1. <span data-ttu-id="f7191-106">Lorsqu’il s’ouvre, à partir de **produits de désinstaller Office** , sélectionnez la version que vous souhaitez désinstaller, puis cliquez sur **suivant**.</span><span class="sxs-lookup"><span data-stu-id="f7191-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="ac2dc-106">À l'ouverture, dans la boîte de désInstallation des **produits Office** , sélectionnez la version que vous souhaitez désinstaller, puis sélectionnez **suivant**.</span><span class="sxs-lookup"><span data-stu-id="ac2dc-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="f7191-107">Continuer de passer par les écrans et redémarrez votre ordinateur lorsque vous y êtes invité.</span><span class="sxs-lookup"><span data-stu-id="f7191-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="ac2dc-107">Continuez à parcourir les écrans et redémarrez votre ordinateur lorsque vous y êtes invité.</span><span class="sxs-lookup"><span data-stu-id="ac2dc-107">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="f7191-108">Après avoir redémarré, la prise en charge et la récupération Assistant Nouveau s’ouvre automatiquement pour terminer le processus de désinstallation.</span><span class="sxs-lookup"><span data-stu-id="f7191-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="ac2dc-108">Après le redémarrage, l'Assistant support et récupération s'ouvre automatiquement pour terminer le processus de désinstallation.</span><span class="sxs-lookup"><span data-stu-id="ac2dc-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="f7191-109">Suivre des autres invites et [réinstaller Office](https://portal.office.com/OLS/MySoftware.aspx) ou fermer l’assistant.</span><span class="sxs-lookup"><span data-stu-id="f7191-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="ac2dc-109">Suivez les invites restantes, puis [réinstallez Office](https://portal.office.com/OLS/MySoftware.aspx) ou fermez l'Assistant.</span><span class="sxs-lookup"><span data-stu-id="ac2dc-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
 

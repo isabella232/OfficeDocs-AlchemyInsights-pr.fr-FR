@@ -1,5 +1,5 @@
 ---
-title: Noms de fichiers non valide dans OneDrive
+title: Noms de fichiers non valides dans OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 2a447bcdabbf5661115861701eadb905d9dbc629
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: ab04deaeea52f2105b67d89fdc3f230efe2fdeed
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968379"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755980"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a><span data-ttu-id="ed2e9-102">Noms de fichiers et de dossiers non valides dans OneDrive et SharePoint</span><span class="sxs-lookup"><span data-stu-id="ed2e9-102">Invalid file and folder names in OneDrive and SharePoint</span></span>
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a><span data-ttu-id="74b38-102">Noms de fichiers et de dossiers non valides dans OneDrive et SharePoint</span><span class="sxs-lookup"><span data-stu-id="74b38-102">Invalid file and folder names in OneDrive and SharePoint</span></span>
 
-<span data-ttu-id="ed2e9-p101">Ces caractères ne sont pas autorisés dans les noms de fichiers et de dossiers » \* : \< \> ? / \ |</span><span class="sxs-lookup"><span data-stu-id="ed2e9-p101">These characters aren't allowed in file and folder names " \* : \< \> ? / \ |</span></span> 
+<span data-ttu-id="74b38-103">Ces caractères ne sont pas autorisés dans les noms de \* fichier \< \> et de dossier «:?</span><span class="sxs-lookup"><span data-stu-id="74b38-103">These characters aren't allowed in file and folder names " \* : \< \> ?</span></span> <span data-ttu-id="74b38-104">/ \ |</span><span class="sxs-lookup"><span data-stu-id="74b38-104"></span></span> 
   
-<span data-ttu-id="ed2e9-p102">Certaines organisations n’ont pas encore prise en charge des # et % activée. Pour savoir comment autoriser ces caractères dans votre organisation, voir [activation # et % prise en charge](https://go.microsoft.com/fwlink/?linkid=862611).</span><span class="sxs-lookup"><span data-stu-id="ed2e9-p102">Some organizations don't yet have support for # and % turned on. To learn how to allow these characters in your organization, see [Enabling # and % Support](https://go.microsoft.com/fwlink/?linkid=862611).</span></span> 
+<span data-ttu-id="74b38-105">Certaines organisations n'ont pas encore pris en charge les services # et% activés.</span><span class="sxs-lookup"><span data-stu-id="74b38-105">Some organizations don't yet have support for # and % turned on.</span></span> <span data-ttu-id="74b38-106">Pour savoir comment autoriser ces caractères au sein de votre organisation, consultez la rubrique activation de la [prise en charge de # et%](https://go.microsoft.com/fwlink/?linkid=862611).</span><span class="sxs-lookup"><span data-stu-id="74b38-106">To learn how to allow these characters in your organization, see [Enabling # and % Support](https://go.microsoft.com/fwlink/?linkid=862611).</span></span> 
   
-[<span data-ttu-id="ed2e9-107">Plus d’informations sur les restrictions de nom de fichier et de dossier</span><span class="sxs-lookup"><span data-stu-id="ed2e9-107">More info about file and folder name restrictions</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
+[<span data-ttu-id="74b38-107">Plus d'informations sur les restrictions de nom de fichier et de dossier</span><span class="sxs-lookup"><span data-stu-id="74b38-107">More info about file and folder name restrictions</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

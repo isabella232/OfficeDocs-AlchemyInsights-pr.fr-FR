@@ -1,5 +1,5 @@
 ---
-title: Un arrière-plan noir s’affiche, ou la mise en forme de cellule semble incorrecte
+title: Un arrière-plan noir s'affiche, ou la mise en forme de cellule ne semble pas correcte
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 7dda3aae2e692d9ecf1c83cfe598139a7aba3df4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ce476961ac8126b8de2f63dc52b9ff26d02711b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906442"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760192"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="fc533-102">Un arrière-plan noir s’affiche, ou la mise en forme de cellule semble incorrecte</span><span class="sxs-lookup"><span data-stu-id="fc533-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="cd808-102">Un arrière-plan noir s'affiche, ou la mise en forme de cellule ne semble pas correcte</span><span class="sxs-lookup"><span data-stu-id="cd808-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="fc533-p101">Dans Excel 2016, vous pouvez voir un arrière-plan noir inattendu, ou vous pouvez voir la mise en forme qui n’apparaît pas correctement. Cela peut se produire après l’ajout d’un en-tête ou un pied de page en mode Page et en appliquant un motif de remplissage à une cellule. Ce problème a été résolu dans la version 1708 (Build 8431.2094). Pour résoudre ce problème, mettez à jour vers la dernière version d’Office. Sélectionnez le **fichier** \> **compte** \> **mettre à jour les Options** \> **mettre à jour maintenant**.</span><span class="sxs-lookup"><span data-stu-id="fc533-p101">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly. This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell. This problem was fixed in version 1708 (Build 8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="cd808-103">Dans Excel 2016, il se peut que vous rencontriez un arrière-plan noir inattendu ou que la mise en forme de cellule ne s'affiche pas correctement.</span><span class="sxs-lookup"><span data-stu-id="cd808-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="cd808-104">Cela peut se produire après l'ajout d'un en-tête ou d'un pied de page en mode page et l'application d'un motif de remplissage à une cellule.</span><span class="sxs-lookup"><span data-stu-id="cd808-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="cd808-105">Ce problème a été résolu dans la version 1708 (Build 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="cd808-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="cd808-106">Pour résoudre ce problème, mettez à jour la dernière version d'Office.</span><span class="sxs-lookup"><span data-stu-id="cd808-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="cd808-107">Sélectionnez **mettre à jour**les options \> de **mise à jour** des **comptes** \> de **fichiers** \> .</span><span class="sxs-lookup"><span data-stu-id="cd808-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
