@@ -9,39 +9,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 5b98e72644e1fd0fd71095a9a664bb93af110537
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 51e010dd19419f21c67d589b9833821b1e5075c0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902518"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764402"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Impossible d’installer ou d’exécuter l’outil d’exportation de découverte électronique ?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Vous ne parVenez pas à installer ou exécuter l'outil d'exportation de découverte électronique?
 
-Si vous ne pouvez pas installer ou exécuter l’outil d’exportation pour télécharger les résultats de la recherche de découverte Office 365, vérifiez les éléments suivants :
+Si vous ne pouvez pas installer ou exécuter l'outil d'exportation de découverte électronique Office 365 pour télécharger les résultats de la recherche, vérifiez les points suivants:
   
-- L’ordinateur que vous utilisez répond à ces conditions préalables :
+- L'ordinateur que vous utilisez répond aux conditions préalables suivantes:
     
-  - versions 32 ou 64 bits de Windows 7 et versions ultérieures
+  - versions 32 ou 64 bits de Windows 7 et versions ultérieures
     
-  - Microsoft .NET Framework 4.7
+  - Microsoft .NET Framework 4,7
     
-  - un navigateur pris en charge :
+  - un navigateur pris en charge :
     
   - Microsoft Edge
     
     Ou
     
-  - Internet Explorer 10 et versions ultérieures
+  - Internet Explorer 10 et versions ultérieures
     
-    Autres navigateurs, tels que Google Chrome et Mozilla Firefox ne sont pas pris en charge.
+    D'autres navigateurs, tels que Google Chrome et Mozilla Firefox ne sont pas pris en charge.
     
-- Votre organisation peut se connecter au point de terminaison dans Azure, qui est ** \*. blob.core.windows.net** (le caractère générique représente un identificateur unique pour votre tâche d’exportation). 
+- votre organisation peut se connecter au point de terminaison dans Azure, c'est-à-dire ** \*. blob.core.windows.net** (le caractère générique représente un identificateur unique pour votre tâche d'exportation). 
     
-- Vous êtes du rôle d’exportation de sécurité Office 365 &amp; centre de conformité. Par défaut, ce rôle est attribué à un groupe de rôles de gestionnaire eDiscovery. Voir [attribuer des autorisations de découverte électronique](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Vous avez reçu le rôle d'exportation dans le centre de &amp; sécurité conformité Office 365. Par défaut, ce rôle est uniquement attribué au groupe de rôles gestionnaire eDiscovery. Consultez la rubrique [attribution d'autorisations eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
     
-Pour plus d’informations, voir [les résultats de recherche de contenu à exporter](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Pour plus d'informations, consultez la rubrique [exporter des résultats de recherche de contenu](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
   
 

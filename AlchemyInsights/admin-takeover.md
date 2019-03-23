@@ -1,5 +1,5 @@
 ---
-title: Prise en charge d’administration
+title: Prise en compte des administrateurs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: fe57eacf1137b8ef26fbd4721eb35a443a80dd8c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 445ad25eacf5a873473bebd0e9c62fb1f81003d3
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932794"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764150"
 ---
-# <a name="become-an-admin"></a>Devenir un administrateur
+# <a name="become-an-admin"></a>Devenir administrateur
 
-À assumer le rôle d’administration pour cette organisation, vous devez prendre. Suivez les instructions de ce guide pour obtenir des instructions détaillées : [comment effectuer un leur prise en charge d’administration informatique avec O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
+Pour assumer le rôle d'administrateur pour cette organisation, vous avez besoin de prendre le relais. Suivez les instructions de ce guide pour obtenir des instructions détaillées: [Comment effectuer un rachat de l'administrateur informatique avec O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
 

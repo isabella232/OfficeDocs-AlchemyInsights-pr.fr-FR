@@ -1,5 +1,5 @@
 ---
-title: Modifier les autorisations pour une liste ou bibliothèque SharePoint
+title: Modifier les autorisations d'une liste ou d'une bibliothèque SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 03e3802c325bdf07b79329e1247ee9fd4a6b75e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 46bdb15733fa3673c6487c7a0316752b9ae757f4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905470"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753136"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Modifier les autorisations pour une liste ou bibliothèque SharePoint
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Modifier les autorisations d'une liste ou d'une bibliothèque SharePoint
 
-1. Accédez au site SharePoint dans un navigateur web et ouvrez la liste ou bibliothèque.
+1. Accédez au site SharePoint dans un navigateur Web et ouvrez la liste ou la bibliothèque.
     
-2. Cliquez sur l’icône Paramètres dans le coin supérieur droit, puis cliquez sur **paramètres de la bibliothèque** ou **paramètres de la liste**. (Si vous ne voyez pas la commande, sélectionnez l’onglet **bibliothèque** ou une **liste** pour ouvrir le ruban, puis cliquez sur **Paramètres de la bibliothèque** ou **Paramètres de la liste** dans le ruban.) 
+2. Cliquez sur l'icône des paramètres dans le coin supérieur droit, puis cliquez sur paramètres de la **bibliothèque** ou paramètres de la **liste**. (Si vous ne voyez pas la commande, cliquez sur l'onglet **bibliothèque** ou **liste** pour ouvrir le ruban, puis cliquez sur paramètres de la **bibliothèque** ou paramètres de la **liste** dans le ruban.) 
     
-3. Sous **autorisations et gestion**, cliquez sur **autorisations pour cette liste** ou **cette bibliothèque de documents**.
+3. Sous **autorisations et gestion**, cliquez sur **autorisations pour cette liste** ou sur **autorisations pour cette bibliothèque de documents**.
     
-Notez que par défaut, les listes SharePoint et les bibliothèques héritent leurs autorisations du site. Si vous interrompez l’héritage des autorisations, les autorisations seront copiées à la liste ou bibliothèque et tout ce qu’il contient. Si les autorisations pour le site sont modifiées ultérieurement, les modifications ne seront pas appliquées à la liste ou bibliothèque et les éléments qu’il contient.
+Notez que, par défaut, les listes et les bibliothèques SharePoint héritent de leurs autorisations du site. Si vous interrompez l'héritage des autorisations, les autorisations actuelles seront copiées dans la liste ou la bibliothèque et dans tout le contenu. Si les autorisations du site sont modifiées par la suite, les modifications ne seront pas appliquées à la liste ou à la bibliothèque, ainsi qu'aux éléments qu'elle contient.
   
 

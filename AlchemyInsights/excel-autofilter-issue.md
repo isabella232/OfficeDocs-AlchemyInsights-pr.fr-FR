@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: d19c2bbe96ae8c291876ff8b9537ddfda484e11a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 63f6ef815751b9cb0d5eebab006e374c61426733
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905506"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752920"
 ---
 # <a name="excel-autofilter-issue"></a>Problème de filtre automatique Excel
 
-Lorsque vous utilisez Excel 2016, si votre liste déroulante n’affiche pas toutes les cases à cocher disponibles ou les cases à cocher ne sont pas interactifs, il peut être en raison d’un problème connu dans les versions antérieures d’Excel. 
+Lors de l'utilisation d'Excel 2016, si votre liste déroulante de filtre automatique n'affiche pas toutes les cases à cocher disponibles, ou si les cases à cocher ne sont pas accessibles, cela peut être dû à un problème connu dans les versions antérieures d'Excel. 
   
-Ce problème est maintenant résolu dans la **Version 1707 (8326.2073)** ou version ultérieure. Pour obtenir la mise à jour immédiatement, ouvrez Excel, choisissez **fichier** \> **compte** \> **Options de mise à jour** \> **Mettre à jour maintenant**.
+Ce problème est désormais résolu dans la **Version 1707 (8326,2073)** ou version ultérieure. Pour obtenir la mise à jour immédiatement, ouvrez Excel **** \> et sélectionnez **mettre à**jour les \> options de **mise à jour** des **comptes** \> de fichiers.
   
 

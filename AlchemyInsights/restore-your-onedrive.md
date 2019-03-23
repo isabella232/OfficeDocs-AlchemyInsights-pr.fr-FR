@@ -1,5 +1,5 @@
 ---
-title: Restaurer votre OneDrive
+title: Restaurer votre espace OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: ec6f47f32e47c2e75544e36b8c1cd6f165f5f890
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: aa8fce9a3666e875efe0260f3604e13292dd4a26
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969891"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763934"
 ---
-# <a name="restore-your-onedrive"></a>Restaurer votre OneDrive
+# <a name="restore-your-onedrive"></a>Restaurer votre espace OneDrive
 
-Si beaucoup de vos fichiers OneDrive obtenir supprimés, overwritted, endommagé ou infecté par un programme malveillant, vous pouvez restaurer votre OneDrive entière à une heure antérieure dans au cours des 30 derniers jours.
+Si de nombreux fichiers OneDrive sont supprimés, overwritted, endommagés ou infectés par des programmes malveillants, vous pouvez restaurer votre OneDrive tout entier au cours des 30 derniers jours.
   
-1. Accédez à votre OneDrive dans votre navigateur web.
+1. Accédez à votre espace OneDrive dans votre navigateur Web.
     
-2. Cliquez sur l’icône Paramètres dans le coin supérieur droit, puis sélectionnez **restaurer votre OneDrive**.
+2. Cliquez sur l'icône des paramètres dans le coin supérieur droit, puis sélectionnez **restaurer votre espace OneDrive**.
     
-3. Sélectionnez une date dans la liste, ou choisissez **personnalisé date et heure**.
+3. Sélectionnez une date dans la liste ou choisissez **date et heure personnalisées**.
     
-4. Cliquez sur **restaurer** pour annuler toutes les activités après la date que vous avez sélectionné. 
+4. Cliquez sur **restaurer** pour annuler toutes les activités postérieures à la date que vous avez sélectionnée. 
     
-[Utilisation de la restauration de fichiers d’une assistance supplémentaire](https://go.microsoft.com/fwlink/?linkid=872874)
+[Aide supplémentaire sur l'utilisation de la restauration des fichiers](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

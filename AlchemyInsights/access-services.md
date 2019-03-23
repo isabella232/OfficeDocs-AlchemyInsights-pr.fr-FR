@@ -1,5 +1,5 @@
 ---
-title: Services d'accès
+title: Access Services
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c68bb4cf7f4fde185839cf3f29ac596781b81ec4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2d3d05214e6217568125f8b426aa952176f74fa1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941362"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752776"
 ---
-# <a name="access-services"></a>Services d'accès
+# <a name="access-services"></a>Access Services
 
-La fonctionnalité d’Access Services dans SharePoint Online a été retirée. Nouvelles applications web basées sur Access et les bases de données web ne peuvent plus être créés et les applications web existantes et bases de données web seront arrêtera en avril, 2018. Bases de données du bureau Access (.accdb) ne sont pas affectées par cette modification. Nous vous recommandons de que powerapps Microsoft en tant qu’alternative à l’accès web applications et des bases de données web. 
+La fonctionnalité Access services dans SharePoint Online est en cours de retrait. Les nouvelles applications Web Access et les bases de données Web ne peuvent plus être créées, et les applications Web et les bases de données Web existantes seront arrêtés par avril, le 2018. Les bases de données de bureau Access (. accdb) ne sont pas affectées par cette modification. Nous vous conseillons d'utiliser Microsoft PowerApp pour accéder à des applications Web et des bases de données Web. 
   
-[En savoir plus sur Microsoft PowerApps](https://powerapps.microsoft.com/)
+[En savoir plus sur les Microsoft PowerApp](https://powerapps.microsoft.com/)
   
 

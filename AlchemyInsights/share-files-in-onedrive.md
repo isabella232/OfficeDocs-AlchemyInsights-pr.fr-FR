@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: ac5dd3476c49a930763cc29478b61072d79616a3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913498"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764618"
 ---
-# <a name="how-to-share-in-onedrive"></a>Le partage de OneDrive
+# <a name="how-to-share-in-onedrive"></a>Procédure de partage dans OneDrive
 
-1. Utilisez le lancement d’application pour accéder à OneDrive dans votre navigateur web. 
+1. Utilisez le lanceur d'applications pour accéder à OneDrive dans votre navigateur Web. 
     
-2. Sélectionnez le fichier ou dossier que vous voulez partager, puis sélectionnez **partager**.
+2. Sélectionnez le fichier ou le dossier que vous souhaitez partager, puis sélectionnez **partager**.
     
-3. (Facultatif) Si le type de lien n’est pas celui que vous souhaitez, cliquez sur la flèche vers le bas pour sélectionner un type différent :
+3. Module Si le type de lien n'est pas celui dont vous avez besoin, cliquez sur la flèche vers le bas pour sélectionner un autre type:
     
-  - **N’importe qui** donne accès à toute personne qui reçoit ce lien, qu’ils reçoivent directement à partir de vous ou transféré à partir d’une autre personne. Il peut s’agir des personnes extérieures à votre organisation. 
+  - **Tout** le monde peut accéder à quiconque reçoit ce lien, qu'il le reçoive directement de votre part ou qu'il soit transféré depuis une autre personne. Cela peut inclure des personnes en dehors de votre organisation. 
     
-  - **De personnes dans \<Your Organization\> ** permet de tout le monde dans votre organisation un accès à la liaison, si sa réception directement à partir de vous ou transféré à partir d’une autre personne. 
+  - Les **membres \<de votre\> organisation** donnent à tous les membres de votre organisation l'accès au lien, qu'ils soient reçus directement de vous ou transférés d'une autre personne. 
     
-  - **Des personnes spécifiques** donne accès uniquement aux personnes que vous spécifiez, bien que les autres personnes aient déjà accès. Si les personnes transférer l’invitation de partage, seules les personnes ayant déjà accès à l’élément sera en mesure d’utiliser le lien. 
+  - **Des personnes spécifiques** donnent accès uniquement aux personnes que vous spécifiez, bien que d'autres personnes puissent avoir accès. Si les utilisateurs transfèrent l'invitation de partage, seules les personnes ayant déjà accès à l'élément pourront utiliser le lien. 
     
     > [!NOTE]
-    > Si une de ces options n’est pas disponible, ou si vous souhaitez un type de liaison différentes s’affiche par défaut, vous pouvez modifier vos paramètres de l’organisation en accédant au centre d’administration OneDrive et en cliquant sur **partage** dans le volet gauche. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Si l'une de ces options n'est pas disponible, ou si vous souhaitez qu'un autre type de lien apparaisse par défaut, vous pouvez modifier les paramètres à l'échelle de votre organisation en accédant au centre d'administration OneDrive et en cliquant sur **partage** dans le volet de gauche. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Par défaut, **Autoriser la modification** est activée. Si vous souhaitez que les utilisateurs puissent afficher uniquement vos fichiers, désactivez la case à cocher. 
+4. Par défaut, l'option **autoriser la modification** est activée. Si vous souhaitez que les utilisateurs puissent uniquement afficher vos fichiers, désactivez la case à cocher. 
     
-5. Entrez les noms des personnes que vous voulez partager avec, puis cliquez sur **Envoyer**.
+5. Entrez les noms des personnes avec lesquelles vous souhaitez partager des contacts, puis cliquez sur **Envoyer**.
     
 [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871861)
   
