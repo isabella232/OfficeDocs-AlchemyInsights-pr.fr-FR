@@ -1,5 +1,5 @@
 ---
-title: Annuler l’abonnement à Office 365
+title: Annuler l'abonnement Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 1118757c5c8f738dd63883116e82d60b883cd11d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 545d39d9ea83acfc2e5def49ac3877edbc8275de
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927642"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753172"
 ---
-# <a name="cancelling-your-office-365-subscription"></a><span data-ttu-id="49650-102">Annuler votre abonnement à Office 365 ?</span><span class="sxs-lookup"><span data-stu-id="49650-102">Cancelling your Office 365 subscription?</span></span>
+# <a name="cancelling-your-office-365-subscription"></a><span data-ttu-id="7cfc1-102">Vous annulez votre abonnement Office 365?</span><span class="sxs-lookup"><span data-stu-id="7cfc1-102">Cancelling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="49650-103">Nous sommes désolés de vous voir, mais Voici vos options pour annuler votre abonnement :</span><span class="sxs-lookup"><span data-stu-id="49650-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
+<span data-ttu-id="7cfc1-103">Nous sommes désolés, mais voici les options d'annulation de votre abonnement:</span><span class="sxs-lookup"><span data-stu-id="7cfc1-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
   
-- <span data-ttu-id="49650-p101">Si vous êtes un client d’évaluation, il n’est rien à annuler. Abonnements d’évaluation expirent automatiquement sauf si vous fournissez une méthode de paiement.</span><span class="sxs-lookup"><span data-stu-id="49650-p101">If you are a trial customer, there is nothing to cancel. Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="7cfc1-104">Si vous êtes un client d'évaluation, il n'y a rien à annuler.</span><span class="sxs-lookup"><span data-stu-id="7cfc1-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="7cfc1-105">Les abonnements à la version d'évaluation expirent automatiquement sauf si vous fournissez un mode de paiement.</span><span class="sxs-lookup"><span data-stu-id="7cfc1-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
     
-- <span data-ttu-id="49650-p102">Si vous avez moins de 25 licences attribuées, vous pouvez annuler votre abonnement en ligne. Accédez à la [facturation](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **abonnements**, puis cliquez sur **plus d’actions** \> **Annuler l’abonnement**.</span><span class="sxs-lookup"><span data-stu-id="49650-p102">If you have fewer than 25 assigned licenses, you can cancel your subscription online. Go to [Billing](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **Subscriptions**, and then choose **More actions** \> **Cancel subscription**.</span></span>
+- <span data-ttu-id="7cfc1-106">Si vous avez moins de 25 licences attribuées, vous pouvez annuler votre abonnement en ligne.</span><span class="sxs-lookup"><span data-stu-id="7cfc1-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="7cfc1-107">Accédez à [](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **abonnements**de facturation, puis sélectionnez **autres actions** \> **Annuler l'abonnement**.</span><span class="sxs-lookup"><span data-stu-id="7cfc1-107">Go to [Billing](https://admin.microsoft.com/adminportal/home#/subscriptions) \> **Subscriptions**, and then choose **More actions** \> **Cancel subscription**.</span></span>
     
-- <span data-ttu-id="49650-108">Si vous avez plus de 25 licences attribuées, vous pouvez soit supprimer les utilisateurs jusqu'à ce que vous avez moins de 25 ou utilisez l’option « nous vous appeler » pour communiquer avec un ingénieur du support technique.</span><span class="sxs-lookup"><span data-stu-id="49650-108">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
+- <span data-ttu-id="7cfc1-108">Si vous avez plus de 25 licences attribuées, vous pouvez supprimer des utilisateurs jusqu'à 25 ou utiliser l'option «laissez-nous vous appeler» pour contacter un ingénieur du support technique.</span><span class="sxs-lookup"><span data-stu-id="7cfc1-108">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
     
-- <span data-ttu-id="49650-109">Pour en savoir plus sur l’annulation d’un abonnement, ou pour obtenir des instructions pas à pas, consultez la rubrique [Annuler Office 365 pour entreprises](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).</span><span class="sxs-lookup"><span data-stu-id="49650-109">To learn more about canceling a subscription, or for step-by-step instructions, see [Cancel Office 365 for business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).</span></span>
+- <span data-ttu-id="7cfc1-109">Pour en savoir plus sur l'annulation d'un abonnement ou pour obtenir des instructions détaillées, reportez-vous à la rubrique [Annuler Office 365 pour les entreprises](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).</span><span class="sxs-lookup"><span data-stu-id="7cfc1-109">To learn more about canceling a subscription, or for step-by-step instructions, see [Cancel Office 365 for business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx).</span></span>
     
 
