@@ -1,5 +1,5 @@
 ---
-title: Comment ajouter une carte de crédit?
+title: Comment ajouter une carte bancaire ?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404601"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762854"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Comment ajouter une carte de crédit?
+# <a name="how-do-i-add-a-credit-card"></a>Comment ajouter une carte bancaire ?
 
-1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
-2. Sélectionnez l'abonnement à payer avec la nouvelle carte bancaire ou le nouveau compte bancaire, puis sélectionnez **Mettre à jour les détails du paiement**.
+2. Sélectionnez l’abonnement à payer avec la nouvelle carte bancaire ou le nouveau compte bancaire, puis sélectionnez **Mettre à jour les détails du paiement**.
     
 3. Cliquez sur la flèche déroulante sous **Ajouter ou sélectionner un moyen de paiement**, puis sélectionnez **Nouvelle carte bancaire** ou **Nouveau compte bancaire**.
     
