@@ -1,5 +1,5 @@
 ---
-title: Mettre à jour les détails du paiement
+title: Mettre à jour les détails de paiement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404673"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755620"
 ---
-# <a name="update-payment-details"></a>Mettre à jour les détails du paiement
+# <a name="update-payment-details"></a>Mettre à jour les détails de paiement
 
-1. Dans le centre d'administration, accédez à la page [modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806) ou sélectionnez **modes de paiement**de **facturation** \> .
+1. Dans le centre d’administration, accédez à la page de[deux modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806)ou sélectionnez **facturation** \> **deux modes de paiement**.
     
     > [!NOTE]
-    > Si vous rencontrez une boucle qui vous renvoie à la page d'accueil de l'administrateur avant que vos mises à jour ne soient terminées, essayez le mode InPrivate ou incognito. 
+    > Si vous êtes renvoyé en boucle vers la page d’accueil Administrateur avant la finalisation de vos mises à jour, essayez la navigation Inprivate ou le mode Incognito. 
   
-2. Choisissez la carte de crédit que vous souhaitez mettre à jour.
+2. Sélectionnez la carte de crédit que vous souhaitez mettre à jour.
     
     > [!NOTE]
-    > Si un autre administrateur a ajouté le mode de paiement, vous ne pourrez pas mettre à jour les informations sur la carte bancaire ou le compte bancaire. Si la carte de crédit arrive à expiration et que l'autre administrateur ne parvient pas à la mettre à jour, vous pouvez empêcher l'interruption du service en ajoutant une autre carte de crédit ou un nouveau compte bancaire pour l'abonnement en choisissant **Ajouter un mode de paiement**. 
+    > Si un autre administrateur a ajouté la méthode de paiement, vous ne serez pas en mesure de mettre à jour les informations de carte bancaire ou de compte bancaire pour cet abonnement. Si cette carte est sur le point d'expirer et que l'autre administrateur n'est pas en mesure de mettre à jour les informations qui lui sont associées, vous pouvez éviter une interruption du service en ajoutant une autre carte bancaire ou un autre compte bancaire pour l'abonnement en sélectionnant **Ajouter une méthode de paiement**. 
   
-3. Sur la page **Détails du paiement** , sélectionnez Modifier les **Détails**du paiement.
+3. Sur la page **Modifier les détails du paiement**, sélectionnez **Modifier les informations de carte de crédit**.
     
-4. Effectuez les mises à jour, puis choisissez **Enregistrer**.
+4. Vérifiez les mises à jour, puis **enregistrer**.
     
 5. Pour supprimer ce mode de paiement, sélectionnez **supprimer**.
     
-Pour plus d'informations, consultez [la rubrique ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) et dépannage des cartes de [crédit et des comptes bancaires](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Pour plus d’informations, voir [Ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)et[Résolution des problèmes liés aux cartes bancaires et aux comptes bancaires](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
