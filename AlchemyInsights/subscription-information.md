@@ -1,5 +1,5 @@
 ---
-title: Informations d’abonnement
+title: Informations sur les abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: e8ce1a06ba230b6907e1e3cc7dfdc829ab8b49cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a90c9b76d5ad80508d1e38fabe21eb944fe9681e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905182"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766670"
 ---
-# <a name="subscription-information"></a><span data-ttu-id="2dd0b-102">Informations d’abonnement</span><span class="sxs-lookup"><span data-stu-id="2dd0b-102">Subscription information</span></span>
+# <a name="subscription-information"></a><span data-ttu-id="c5381-102">Informations sur les abonnements</span><span class="sxs-lookup"><span data-stu-id="c5381-102">Subscription information</span></span>
 
-<span data-ttu-id="2dd0b-103">Pour plus d’informations sur les abonnements vous possédez, accédez à la page des [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) ou choisissez **facturation** \> **abonnements**.</span><span class="sxs-lookup"><span data-stu-id="2dd0b-103">For information about the subscriptions you own, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+<span data-ttu-id="c5381-103">Pour plus d'informations sur les abonnements que vous possédez [](https://go.microsoft.com/fwlink/p/?linkid=842054) , accédez à la page abonnements ou sélectionnez abonnements de **facturation** \> \*\*\*\*.</span><span class="sxs-lookup"><span data-stu-id="c5381-103">For information about the subscriptions you own, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
   
-<span data-ttu-id="2dd0b-104">Informations essentielles concernant chaque abonnement :</span><span class="sxs-lookup"><span data-stu-id="2dd0b-104">Key information about each subscription:</span></span>
+<span data-ttu-id="c5381-104">Informations clés sur chaque abonnement:</span><span class="sxs-lookup"><span data-stu-id="c5381-104">Key information about each subscription:</span></span>
   
-- <span data-ttu-id="2dd0b-105">État de chacun</span><span class="sxs-lookup"><span data-stu-id="2dd0b-105">Status of each</span></span>
+- <span data-ttu-id="c5381-105">État de chaque</span><span class="sxs-lookup"><span data-stu-id="c5381-105">Status of each</span></span>
     
-- <span data-ttu-id="2dd0b-106">Licences achetés</span><span class="sxs-lookup"><span data-stu-id="2dd0b-106">Licenses purchased</span></span>
+- <span data-ttu-id="c5381-106">Licences achetées</span><span class="sxs-lookup"><span data-stu-id="c5381-106">Licenses purchased</span></span>
     
-- <span data-ttu-id="2dd0b-107">L’attribution des licences</span><span class="sxs-lookup"><span data-stu-id="2dd0b-107">Licenses assigned</span></span>
+- <span data-ttu-id="c5381-107">L’attribution des licences</span><span class="sxs-lookup"><span data-stu-id="c5381-107">Licenses assigned</span></span>
     
-- <span data-ttu-id="2dd0b-108">Statut de la facturation périodique</span><span class="sxs-lookup"><span data-stu-id="2dd0b-108">Recurring billing status</span></span>
+- <span data-ttu-id="c5381-108">État de facturation périodique</span><span class="sxs-lookup"><span data-stu-id="c5381-108">Recurring billing status</span></span>
     
-- <span data-ttu-id="2dd0b-109">Équilibrer</span><span class="sxs-lookup"><span data-stu-id="2dd0b-109">Balance</span></span>
+- <span data-ttu-id="c5381-109">Pense</span><span class="sxs-lookup"><span data-stu-id="c5381-109">Balance</span></span>
     
-- <span data-ttu-id="2dd0b-110">Mode de paiement</span><span class="sxs-lookup"><span data-stu-id="2dd0b-110">Payment method</span></span>
+- <span data-ttu-id="c5381-110">Mode de paiement</span><span class="sxs-lookup"><span data-stu-id="c5381-110">Payment method</span></span>
     
-- <span data-ttu-id="2dd0b-111">Prochaine date de facturation ou d’expiration</span><span class="sxs-lookup"><span data-stu-id="2dd0b-111">Next billing or expiration date</span></span>
+- <span data-ttu-id="c5381-111">Prochaine date de facturation ou d'expiration</span><span class="sxs-lookup"><span data-stu-id="c5381-111">Next billing or expiration date</span></span>
     
 

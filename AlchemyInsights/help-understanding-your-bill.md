@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 0408477b17e7eda5691a580769ec79e20d9498a4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 301aedd5ba64561eda33a6bd2f2e89253d63a854
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922766"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766562"
 ---
-# <a name="help-understanding-your-bill"></a><span data-ttu-id="eb285-102">Comprendre votre facture</span><span class="sxs-lookup"><span data-stu-id="eb285-102">Help understanding your bill</span></span>
+# <a name="help-understanding-your-bill"></a><span data-ttu-id="52818-102">Comprendre votre facture</span><span class="sxs-lookup"><span data-stu-id="52818-102">Help understanding your bill</span></span>
 
-<span data-ttu-id="eb285-103">Le montant des économies reflète le prix de la licence multiplié par le nombre de licences achetés et les taxes/frais requis.</span><span class="sxs-lookup"><span data-stu-id="eb285-103">The amount billed reflects the license price multiplied by the number of licenses purchased and any required taxes/fees.</span></span>
+<span data-ttu-id="52818-103">Le montant facturé reflète le prix de la licence multiplié par le nombre de licences achetées et les taxes/frais requises.</span><span class="sxs-lookup"><span data-stu-id="52818-103">The amount billed reflects the license price multiplied by the number of licenses purchased and any required taxes/fees.</span></span>
   
-<span data-ttu-id="eb285-104">Si le montant des économies est différent puis prévu quelques raisons que cela peut se produire :</span><span class="sxs-lookup"><span data-stu-id="eb285-104">If the amount billed is different then expected there are a few reasons this may happen:</span></span>
+<span data-ttu-id="52818-104">Si le montant facturé est différent, cela peut se produire pour plusieurs raisons:</span><span class="sxs-lookup"><span data-stu-id="52818-104">If the amount billed is different then expected there are a few reasons this may happen:</span></span>
   
-- <span data-ttu-id="eb285-p101">Licences ajouté ou supprimé de votre abonnement. Lorsque des licences sont modifiées à moyen terme, il est indiqué sur la facture suivante. Vous pouvez voir un crédit et nouveau bill pour la période précédente de service pour prendre en compte pour que cette modification.</span><span class="sxs-lookup"><span data-stu-id="eb285-p101">Licenses added or removed from your subscription. When licenses are changed mid-term, this is reflected on the following invoice. You may see a credit and re-bill for the previous service period to account for this change.</span></span>
+- <span data-ttu-id="52818-105">Licences ajoutées ou supprimées de votre abonnement.</span><span class="sxs-lookup"><span data-stu-id="52818-105">Licenses added or removed from your subscription.</span></span> <span data-ttu-id="52818-106">Lorsque des licences sont modifiées à mi-parcours, ce phénomène est reflété sur la facture suivante.</span><span class="sxs-lookup"><span data-stu-id="52818-106">When licenses are changed mid-term, this is reflected on the following invoice.</span></span> <span data-ttu-id="52818-107">Il se peut que vous receviez un crédit et une nouvelle facture pour la période de service précédente afin de tenir compte de cette modification.</span><span class="sxs-lookup"><span data-stu-id="52818-107">You may see a credit and re-bill for the previous service period to account for this change.</span></span>
     
-- <span data-ttu-id="eb285-p102">L’abonnement a été annulée. Vous recevrez une facture après annulation avec n’importe quel équilibrer moins tous les crédits en attente.</span><span class="sxs-lookup"><span data-stu-id="eb285-p102">The subscription was cancelled. You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
+- <span data-ttu-id="52818-108">L'abonnement a été annulé.</span><span class="sxs-lookup"><span data-stu-id="52818-108">The subscription was cancelled.</span></span> <span data-ttu-id="52818-109">Vous recevrez une facture après l'annulation avec un solde impayé moins tous les crédits.</span><span class="sxs-lookup"><span data-stu-id="52818-109">You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
     
-- <span data-ttu-id="eb285-110">Votre abonnement pour un nouveau terme et modifié de prix de la licence.</span><span class="sxs-lookup"><span data-stu-id="eb285-110">Your subscription renewed for a new term and the license price changed.</span></span>
+- <span data-ttu-id="52818-110">Votre abonnement a été renouvelé pour une nouvelle période et le prix de la licence a changé.</span><span class="sxs-lookup"><span data-stu-id="52818-110">Your subscription renewed for a new term and the license price changed.</span></span>
     
-<span data-ttu-id="eb285-111">Pour plus d’informations sur la facture, voir : [comprendre la facture](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)</span><span class="sxs-lookup"><span data-stu-id="eb285-111">For more information about the invoice, see: [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)</span></span>
+<span data-ttu-id="52818-111">Pour plus d'informations sur la facture, voir: [comprendre votre facture](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)</span><span class="sxs-lookup"><span data-stu-id="52818-111">For more information about the invoice, see: [Understand your invoice](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)</span></span>
   
 
