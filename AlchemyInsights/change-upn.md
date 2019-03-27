@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208439"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767030"
 ---
 # <a name="change-a-users-email-address"></a>Modifier l'adresse de courrier de courrier d'un utilisateur
 
-Il est facile de modifier l'adresse de messagerie d'un utilisateur. Procédez simplement comme suit:
+Il est facile de modifier l'adresse de messagerie d'un utilisateur. Procédez simplement comme suit :
   
 1. dans le centre d'administration Microsoft 365, accédez à la page [utilisateurs](https://go.microsoft.com/fwlink/p/?linkid=834822) ou choisissez **** \> utilisateurs **actifs**.
     
@@ -30,11 +30,11 @@ Il est facile de modifier l'adresse de messagerie d'un utilisateur. Procédez si
     
 4. Dans la zone **alias** , tapez un nouveau message électronique, puis choisissez **Ajouter**.
     
-    **Important**: Si vous obtenez le message d'erreur « **Impossible de trouver un paramètre qui correspond au nom de paramètre «EmailAddresses**», cela signifie qu'il prend un peu plus de temps à Office 365 pour terminer la configuration de votre client ou votre domaine personnalisé si vous avez récemment ajouté un. . Le processus de configuration peut prendre jusqu'à 4 heures. Patientez quelques instants pour que le processus de configuration ait le temps de se terminer, puis réessayez. Si le problème persiste, appelez le support technique pour effectuer une synchronisation complète.
+    **IMPORTANT**: si le message d'erreur « **Impossible de trouver un paramètre correspondant au nom "EmailAddresses"** » s'affiche, cela signifie qu'Office 365 a besoin d'un peu plus de temps pour configurer votre client, ou votre domaine personnalisé si vous venez d'en ajouter un. Le processus de configuration peut prendre jusqu'à 4 heures. Patientez le temps que le processus de configuration ait le temps de terminer, puis réessayez. Si le problème persiste, appelez le support technique qui se chargera d'effectuer une synchronisation complète pour vous.
     
     Si vous obtenez le message d'erreur « **nous sommes désolés, l'utilisateur n'a pas pu être modifié. Passez en revue les informations utilisateur et réessayez**» cela signifie que vous n'êtes pas un administrateur général Office 365 et que vous ne disposez pas des autorisations nécessaires pour modifier le nom de l'utilisateur.
     
-5. Sélectionnez **définir comme principale** pour l'adresse de messagerie que vous voulez définir comme adresse de messagerie principale pour cette personne. Si vous avez acheté votre abonnement auprès de GoDaddy, vous devez vous connecter à sa console de gestion pour définir l'adresse de messagerie principale. 
+5. Sélectionnez **Définir comme principale** pour l'adresse e-mail que vous souhaitez définir comme adresse principale pour cette personne. Si vous avez acheté votre abonnement auprès de GoDaddy, vous devez vous connecter à sa console de gestion pour définir l'adresse de messagerie principale. 
     
 6. Cliquez sur **Enregistrer**, puis sur **Fermer**.
     

@@ -1,5 +1,5 @@
 ---
-title: Employé et laisser
+title: Départ d'un employé
 ms.author: dianef
 author: dianef77
 manager: scotv
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: ''
-ms.openlocfilehash: d66d92afb22f65fe937316d6f799696dc481657a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3d7a1399cb1378cd6960d308d2df440310408b9d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940570"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767462"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Un employé quitter et devez bloquer l’accès aux données et au courrier électronique ?
+# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Un employé quitte-t-il et doit-il bloquer l'accès aux données et à la messagerie?
   
-1. Accédez à des [utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. Accédez à [utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
     
-2. Sélectionnez l’utilisateur que vous souhaitez bloquer. 
+2. Sélectionnez l'utilisateur que vous souhaitez bloquer. 
     
-3. En regard de l’état de connexion, cliquez **sur Modifier**. 
+3. En regard de l'état de connexion, sélectionnez **modifier**. 
     
-4. Sélectionnez **l’utilisateur de se connecter** \> **Enregistrer**. 
+4. Choisissez **empêcher l'utilisateur de se connecter** \> ****. 
     
- **Remarque**: déconnexion pour certaines applications peuvent ne pas être immédiates. Renseignez-vous auprès de plusieurs actions dans cet article : [Supprimer un ancien employé à partir d’Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **Remarque**: la déconnexion de certaines applications risque de ne pas être immédiate. Suivi d'autres actions dans cet article: [supprimer un ancien employé d'Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 

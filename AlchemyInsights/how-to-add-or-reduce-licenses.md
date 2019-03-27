@@ -1,5 +1,5 @@
 ---
-title: Comment ajouter ou réduire les licences
+title: Comment ajouter ou réduire des licences
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29922894"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767426"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Comment ajouter ou réduire les licences
+# <a name="how-to-add-or-reduce-licenses"></a>Comment ajouter ou réduire des licences
 
-Voici la procédure supprimer ou acheter davantage de licences.
+Voici comment supprimer ou acheter d'autres licences.
   
-1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
-2. Sur la gauche, choisissez l’abonnement à partir de laquelle vous souhaitez ajouter/supprimer des licences
+2. Sur la gauche, sélectionnez l'abonnement à partir duquel vous souhaitez ajouter/supprimer des licences.
     
 3. Sélectionnez **Ajouter/supprimer des licences**.
     
-4. Entrez le nombre total d’utilisateurs nécessaires.
+4. Entrez le nombre total d'utilisateurs nécessaires.
     
-    Par exemple, si vous avez actuellement 25 licences et vous souhaitez supprimer 5, entrez 20 dans ce champ.
+    Par exemple, si vous avez actuellement 25 licences et que vous souhaitez supprimer 5, entrez 20 dans ce champ.
     
-5. Choisissez **Submit (Envoyer)**.
+5. Choose **Submit**.
     
 > [!NOTE]
-> Des frais (licence augmentation) ni crédit (licence diminuer) s’afficheront sur votre prochaine facture. 
+> Toute nouvelle facture (augmentation de licence) ou crédit (diminution de la licence) s'affichera sur votre facture suivante. 
   
  **Resources**
   

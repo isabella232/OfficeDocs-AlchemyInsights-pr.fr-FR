@@ -1,5 +1,5 @@
 ---
-title: Office 365 pour les plans de formation et les prix
+title: Office 365 pour les plans et les tarifs d'éducation
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 8f9ddaf5d572a563555962ec79e7c35cc4ae4b23
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 540fe0e8f9edd6949229e90e256aa2626584dd3b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905254"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767217"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a>Obtenir Office 365 gratuitement pour votre école entière
+# <a name="get-office-365-free-for-your-entire-school"></a>Obtenir Office 365 gratuitement pour l'ensemble de votre école
 
-Améliorer la collaboration de la classe et l’école avec les outils de productivité libre. Vous devez vérifier que vous êtes un établissement scolaire accrédité pour tirer parti de ces offres.
+Améliorer la collaboration entre les cours et les écoles avec des outils de productivité gratuits. Vous devez vérifier que vous êtes un établissement agréé pour bénéficier de ces offres.
   
-- [Passez en revue les plans de formation](https://products.office.com/academic/compare-office-365-education-plans)
+- [Examiner les plans de formation](https://products.office.com/academic/compare-office-365-education-plans)
     
-- [Route avec Office 365 éducation](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
+- [Prise en main d'Office 365 éducation](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
     
-- [Comparer tous les plans Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Comparaison de tous les plans Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
     
 

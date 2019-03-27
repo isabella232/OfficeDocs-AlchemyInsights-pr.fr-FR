@@ -1,5 +1,5 @@
 ---
-title: Groupe de distribution s’affichent ne pas dans la liste des groupes
+title: Le groupe de distribution n'apparaît pas dans la liste de groupes
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: a2acc5a3adfbbfebc48e35d54226111f913dc207
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 46885b31ba73e23ab10e8ba794b9b3823cc7a394
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29903119"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767606"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Groupe de distribution s’affichent ne pas dans la liste des groupes
+# <a name="distribution-group-not-showing-in-groups-list"></a>Le groupe de distribution n'apparaît pas dans la liste de groupes
 
-Cela peut prendre jusqu'à 60 minutes avant que la nouvelle liste de Distribution apparaît dans le centre d’administration.
+L'affichage de votre nouvelle liste de distribution dans le centre d'administration peut prendre jusqu'à 60 minutes.
   
-Si vous souhaitez ajouter des membres ou maintenant apporter d’autres modifications, utilisez la fonctionnalité des groupes dans le [Centre d’administration Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
+Si vous souhaitez ajouter des membres ou effectuer d'autres modifications immédiatement, utilisez la fonctionnalité de groupes dans le [Centre d'administration Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
   
 

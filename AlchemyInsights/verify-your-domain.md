@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911230"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766346"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **L’enregistrement n’a pas probablement mis à jour sur Internet.**
+ **L'enregistrement n'a probablement pas été mis à jour sur Internet.**
   
-En règle générale ne prend quelques minutes pour nous être en mesure de voir le nouvel enregistrement, mais peut parfois prendre que quelques heures. 
+En règle générale, il ne prend que quelques minutes pour pouvoir voir le nouvel enregistrement, mais il peut arriver que quelques heures se soient nécessaires. 
   
-- Si vous avez attendu qui long déjà, vérifiez que vous avez copié et collé la valeur exacte dans l’enregistrement de vérification TXT à votre hôte DNS. Un problème courant n’inclut pas la « MS = » fait partie de l’enregistrement. Nous avons besoin que trop !
+- Si vous avez attendu une fois déjà, vérifiez que vous avez copié et collé la valeur exacte dans l'enregistrement de vérification TXT au niveau de votre hôte DNS. Le problème vient souvent de l'omission de la portion « MS= » de l'enregistrement. Celle-ci est indispensable.
     
-- Vous devez effectuer une étape supplémentaire pour enregistrer le fichier de zone (où est stocké l’enregistrement DNS) à certains hôtes DNS, afin qu’il met à jour sur Internet. Assurez-vous que vous avez enregistré vos modifications Office 365 peuvent se voir et vérifier l’enregistrement.
+- Pour certains hôtes DNS, une étape supplémentaire est nécessaire pour enregistrer le fichier de zone (emplacement de stockage de l'enregistrement DNS) de façon à ce qu'il soit mis à jour sur Internet. Vérifiez que vous avez enregistré vos modifications, pour permettre à Office 365 de consulter et vérifier l'enregistrement.
     
 
