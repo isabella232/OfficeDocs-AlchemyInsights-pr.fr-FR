@@ -1,5 +1,5 @@
 ---
-title: Soumettre des demandes de prise en charge de Dynamics 365
+title: Envoyer des demandes de support Dynamics 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404709"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767138"
 ---
-# <a name="submit-dynamics-365-support-requests"></a>Soumettre des demandes de prise en charge de Dynamics 365
+# <a name="submit-dynamics-365-support-requests"></a>Envoyer des demandes de support Dynamics 365
 
-Si vous êtes un client de l' **engagement client Microsoft Dynamics** , envoyez votre ticket via le nouveau [Centre d'administration Power Platform](https://admin.powerplatform.microsoft.com/?ref=officemodern).
+Si vous êtes un client**Engagement Client Microsoft Dynamics** Veuillez envoyer votre ticket via le nouveau [Centre d’Administration Plateforme Power](https://admin.powerplatform.microsoft.com/?ref=officemodern).
   
-Le nouveau portail fournit un chemin plus direct vers le support assisté qui est optimisé pour l'engagement client Dynamics et d'autres produits Power Platform.
+Le nouveau portail fournit un chemin d’accès plus direct au support assisté qui est optimisé pour l’engagement client Dynamics et d’autres produits de plateforme Power.
   
 
