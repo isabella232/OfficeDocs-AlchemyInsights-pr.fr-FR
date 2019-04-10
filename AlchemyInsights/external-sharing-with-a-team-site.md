@@ -1,5 +1,5 @@
 ---
-title: Externe partage avec un Site d’équipe
+title: Partage externe avec un site d'équipe
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -8,27 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 8753cb5595607a7ea63e1861affcd16d61e7827e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cc5f917522f31349c48c8232496dc862d6769539
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936281"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747488"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Externe partage avec un Site d’équipe
+# <a name="external-sharing-with-a-team-site"></a>Partage externe avec un site d'équipe
 
-Pour activer des utilisateurs externes de partage pour les Sites d’équipe, procédez comme suit : 
+Pour activer le partage d'utilisateurs externes pour les sites d'équipe, procédez comme suit: 
   
-1. Ouvrir le **Centre d’administration moderne** - si vous êtes dans le centre d’administration classique **maintenant** ou **Essayez l’aperçu** le bouton apparaît en haut à droite. Vous dirige vers le centre d’administration moderne. 
+1. Dans le nouveau centre d'administration SharePoint, cliquez sur **sites actifs**.
   
-2. Sélectionnez **Sites actifs**. 
+2. Sélectionnez un site qui possède un modèle de **site d'équipe** . 
   
-3. Sélectionnez un site qui comporte un modèle de **Site d’équipe** . 
+3. Sélectionnez le bouton **partage** dans le menu supérieur. 
   
-4. Sélectionnez le bouton **partage** dans le menu du haut. 
+ **Remarque**: par défaut, lorsqu'un site d'équipe moderne est créé, l'option de partage externe est définie sur utilisateurs externes nouveaux et existants. 
   
- **Remarque**: par défaut, lorsqu’un nouveau Site d’équipe est créé, option de partage externe sera définie à nouveau et existant des utilisateurs externes. 
-  
- **Remarque :** Si vous avez plusieurs sites sélectionné, le bouton **partage** apparaîtra désactivé. Sélectionnez un seul site. 
+ **Remarque:** Si plusieurs sites sont sélectionnés, le bouton de **partage** apparaît désactivé. Sélectionnez un seul site. 
   
 

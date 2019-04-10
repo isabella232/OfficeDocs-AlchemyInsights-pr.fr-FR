@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 81f966e1c759003765a6a6a82988a5fbb456e3c0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759760"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747920"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Gérer votre espace de stockage SharePoint Online
 
 Pour la plupart des organisations, le stockage SharePoint est géré automatiquement de sorte que vous n'avez pas besoin de définir des limites par collection de sites. Pour vérifier la capacité de stockage SharePoint, procédez comme suit:
   
-- Dans le centre d'administration SharePoint classique, dans le coin supérieur droit de la page collections de sites, recherchez votre espace de stockage disponible et total.
+- Dans le nouveau centre d'administration SharePoint, dans la partie supérieure droite de la page sites, recherchez votre espace de stockage disponible et total.
     
 Pour plus d'informations sur le mode de calcul de votre limite, voir [limites de SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Pour acheter de l'espace de stockage supplémentaire, consultez [la rubrique modifier l'espace de stockage pour votre abonnement](https://go.microsoft.com/fwlink/?linkid=866428).
   

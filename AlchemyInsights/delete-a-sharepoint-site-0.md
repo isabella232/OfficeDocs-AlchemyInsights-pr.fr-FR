@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754648"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747992"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Supprimer des sites appartenant à un groupe Office 365:
 
-Lorsque les utilisateurs créent un site d'équipe à partir de la base de SharePoint (ou que vous créez un site d'équipe à partir de la nouvelle version d'évaluation du centre d'administration SharePoint), un groupe Office 365 correspondant est créé automatiquement. Les sites d'équipe connectés à un groupe Office 365 sont également créés lorsque vous créez un groupe Office 365 ou une équipe dans Microsoft Teams. Pour supprimer un site SharePoint qui appartient à un groupe Office 365, vous devez supprimer le groupe Office 365 lui-même. 
+Lorsque les utilisateurs créent un site d'équipe à partir de SharePoint Home ou que vous créez un site d'équipe à partir du nouveau centre d'administration SharePoint, un groupe Office 365 correspondant est créé automatiquement. Les sites d'équipe connectés à un groupe Office 365 sont également créés lorsque vous créez un groupe Office 365 ou une équipe dans Microsoft Teams. Pour supprimer un site SharePoint qui appartient à un groupe Office 365, vous devez supprimer le groupe Office 365 lui-même. 
   
 1. Accédez à la [page groupes du centre d'administration Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Remarque: lorsque vous supprimez un groupe, il peut y avoir un délai avant la s
   
 **Supprimer une collection de sites SharePoint:**
 
-Pour supprimer une collection de sites classique:
+Pour supprimer un site:
   
-1. Dans le centre d'administration SharePoint classique, dans la page collections de sites, activez la **case** à cocher en regard de la collection de sites. 
+1. Dans le nouveau centre d'administration SharePoint, sur la page sites, activez **** la case à cocher en regard du site que vous souhaitez supprimer. 
     
-2. Sous l'onglet collections de sites, sélectionnez **Supprimer.**
+2. Dans la barre d'outils du ruban, cliquez sur **Supprimer.**
     
 **Suppression d'un site par accident?**
 

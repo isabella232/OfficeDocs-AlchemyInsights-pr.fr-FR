@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 700e6d24e49cf11bf91780895f5a796cc1d8349d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 69e290e5a13f40ad045086791189a7d0af88240b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753424"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747596"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Résoudre les problèmes de partage de contenu SharePoint avec des utilisateurs externes
 
@@ -28,13 +28,13 @@ Assurez-vous que le partage externe est activé pour votre organisation:
     
 Assurez-vous que le partage externe est activé pour le site. Pour une collection de sites classique:
   
-1. Dans le volet de gauche du centre d'administration SharePoint classique, cliquez sur **collections de sites**.
+1. Dans le nouveau centre d'administration SharePoint, dans le volet de gauche, cliquez sur **sites**.
     
 2. Sélectionnez le ou les sites et, dans le ruban, cliquez sur **partage**.
     
 Pour un site d'équipe appartenant à un groupe Office 365 ou à un site de communication:
   
-- Ces nouveaux types de sites ont le même paramètre de partage que votre paramètre à l'échelle de votre organisation, sauf si le paramètre à l'échelle de l'organisation autorise le partage de fichiers à l'aide de liens ne nécessitant pas de connexion. Dans ce cas, les sites autorisent le partage avec des utilisateurs externes nouveaux et existants qui se connectent. Pour modifier le paramètre de sites spécifiques, utilisez le nouveau centre d'administration SharePoint (aperçu) ou PowerShell. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871863).
+- Ces nouveaux types de sites ont le même paramètre de partage que votre paramètre à l'échelle de votre organisation, sauf si le paramètre à l'échelle de l'organisation autorise le partage de fichiers à l'aide de liens ne nécessitant pas de connexion. Dans ce cas, les sites autorisent le partage avec des utilisateurs externes nouveaux et existants qui se connectent. Pour modifier le paramètre de sites spécifiques, utilisez le nouveau centre d'administration SharePoint ou PowerShell. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
 > Le paramètre de partage externe de n'importe quel site peut être plus restrictif que le paramètre à l'échelle de votre organisation, mais pas plus permissif que le paramètre à l'échelle de l'organisation. 
