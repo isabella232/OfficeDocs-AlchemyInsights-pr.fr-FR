@@ -11,19 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 763
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: b8e17e586c5e7ad909ff56481cc08d20b03cb798
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 0923f9144a9bbc7c73c9b7d0c61d310fd1935ba1
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787350"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858778"
 ---
-<span data-ttu-id="cd748-102">En tant qu'administrateur, vous avez la possibilité de bloquer l'accès à Exchange Online PowerShell pour vos utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="cd748-102">As an admin, you have the ability to block access to Exchange Online PowerShell for your users.</span></span> <span data-ttu-id="cd748-103">Pour plus d'informations, voir les rubriques suivantes :</span><span class="sxs-lookup"><span data-stu-id="cd748-103">For more information, see these topics:</span></span>
-  
-- [<span data-ttu-id="cd748-104">Activer ou désactiver l'accès à Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="cd748-104">Enable or disable access to Exchange Online PowerShell</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
-    
-- <span data-ttu-id="cd748-105">[Règles d'accès client dans Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (recherchez le protocole **RemotePowerShell** )</span><span class="sxs-lookup"><span data-stu-id="cd748-105">[Client Access Rules in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (look for the **RemotePowerShell** protocol)</span></span> 
-    
-    <span data-ttu-id="cd748-106">**Remarque**: comme décrit dans la rubrique, veillez à ne pas bloquer l'accès à Exchange Online PowerShell pour les administrateurs.</span><span class="sxs-lookup"><span data-stu-id="cd748-106">**Note**: As the described in the topic, be careful not to block access to Exchange Online PowerShell for admins.</span></span>
-    
+<span data-ttu-id="07b86-102">En tant qu'administrateur, vous avez la possibilité de bloquer l'accès à Exchange Online PowerShell pour vos utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="07b86-102">As an admin, you have the ability to block access to Exchange Online PowerShell for your users.</span></span> <span data-ttu-id="07b86-103">Pour plus d'informations, voir les rubriques suivantes :</span><span class="sxs-lookup"><span data-stu-id="07b86-103">For more information, see these topics:</span></span>
 
+- [<span data-ttu-id="07b86-104">Activer ou désactiver l'accès à Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="07b86-104">Enable or disable access to Exchange Online PowerShell</span></span>](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+
+- <span data-ttu-id="07b86-105">[Règles d'accès client dans Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (recherchez le protocole **RemotePowerShell** )</span><span class="sxs-lookup"><span data-stu-id="07b86-105">[Client Access Rules in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (look for the **RemotePowerShell** protocol)</span></span> 
+
+<span data-ttu-id="07b86-106">**Remarque**: comme décrit dans la rubrique, veillez à ne pas bloquer l'accès à Exchange Online PowerShell pour les administrateurs.</span><span class="sxs-lookup"><span data-stu-id="07b86-106">**Note**: As the described in the topic, be careful not to block access to Exchange Online PowerShell for admins.</span></span>
