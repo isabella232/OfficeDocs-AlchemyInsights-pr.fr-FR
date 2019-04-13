@@ -10,15 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 973
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 044344b16900085135254100905ca6f8d084facd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c866ec261e96552f04c4a71cbd34c9b200f7a895
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30776010"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857482"
 ---
 # <a name="stalleddueto-errors-during-migration"></a>Erreurs StalledDueTo pendant la migration
 
 Vous verrez peut-être plusieurs erreurs qui commencent par «StalledDueTo...» lors de la migration vers Exchange Online. Beaucoup de ces erreurs sont parfaitement normales. Pour plus d'informations, reportez-vous à la rubrique [limitation basée sur les ressources et définition des priorités dans les migrations Exchange Online](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).
-  
-
