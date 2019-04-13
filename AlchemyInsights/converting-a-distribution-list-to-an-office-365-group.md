@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 712
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 1c93cf6a3b961c66f10860dd17a806afb33ac23d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: da51e192b2cbda01ebf3c930286a033748680fc4
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785705"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31856762"
 ---
 # <a name="convert-a-distribution-group-to-an-office-365-group"></a>Convertir un groupe de distribution en un groupe Office 365
 
 Vous pouvez convertir les groupes de distribution en groupes Office 365 s'ils répondent à certains critères. Pour convertir un groupe ou résoudre les problèmes de conversion, consultez la rubrique [mettre à niveau des listes de distribution vers des groupes Office 365 dans Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).
-  
-

@@ -13,15 +13,13 @@ ms.custom:
 - "618"
 - "899"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: cd3007747ac1d96bfdf283aafb423cc6a4d73a05
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 04bf66956cf7a92917d023082ad72a3cb51a41de
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30780000"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859318"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Erreur de stratégie lors du partage d'un calendrier
 
 Si vous essayez de partager votre calendrier et que vous recevez l'erreur «la stratégie ne permet pas d'accorder des autorisations à ce niveau à un ou plusieurs destinataires», consultez [cette rubrique](https://support.microsoft.com/help/3187524/policy-does-not-allow-granting-permissions-at-this-level-to-one-or-mor).
-  
-
