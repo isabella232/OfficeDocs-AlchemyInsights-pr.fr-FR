@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 182
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 549805ddc255df5292d0f3c4e31bc055e611c7bf
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.openlocfilehash: a8154d56839c43dd073862467c43366978b8cd3a
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858310"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869341"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Utiliser SaRA pour diagnostiquer et résoudre les problèmes d'authentification Outlook
 
-Nous vous recommandons vivement d'utiliser [Outlook pour demander](https://aka.ms/SaRA-OutlookPwdPrompt) un diagnostic de mon mot de passe sur l'ordinateur affecté afin de résoudre les problèmes dans lesquels Outlook vous invite continuellement à entrer un mot de passe. Ce diagnostic [SaRA](https://diagnostics.office.com/#/) effectue des vérifications automatisées et vous permet d'utiliser les solutions possibles pour résoudre les problèmes détectés.
+Nous vous recommandons vivement d'utiliser [Outlook pour demander](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) un diagnostic de mon mot de passe sur l'ordinateur affecté afin de résoudre les problèmes dans lesquels Outlook vous invite continuellement à entrer un mot de passe. Ce diagnostic [SaRA](https://diagnostics.office.com/#/) effectue des vérifications automatisées et vous permet d'utiliser les solutions possibles pour résoudre les problèmes détectés.
