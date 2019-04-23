@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000233
-ms.openlocfilehash: 0daf711f22f325ce02dceb167f48713943f08521
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784200"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903590"
 ---
 # <a name="change-your-pin"></a>Modifier votre code confidentiel
 
@@ -22,6 +22,6 @@ Outlook.com n'utilise pas de code confidentiel, mais vous pouvez vous connecter 
 
 1. Accédez à démarrer, puis sélectionnez **paramètres** > **** > **de connexion**des comptes.
 2. Sélectionnez le bouton **modifier** sous **code confidentiel**.
-3. Entrez votre code confidentiel actuel; Ensuite, entrez et confirmez votre nouveau code confidentiel sous.
+3. Entrez votre code confidentiel actuel, puis saisissez et confirmez votre nouveau code confidentiel sous.
 
 [En savoir plus sur Windows Hello.](https://support.microsoft.com/help/17215/)

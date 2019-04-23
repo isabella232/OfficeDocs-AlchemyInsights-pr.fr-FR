@@ -1,5 +1,5 @@
 ---
-title: Conseils de stratégie DLP ne fonctionne ne pas
+title: Les conseils de stratégie DLP ne fonctionnent pas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900790"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869593"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problèmes de Conseil de stratégie DLP
 
-Lors de l’utilisation de **stratégies DLP**, les utilisateurs peuvent être avertis d’une violation de stratégie avec **conseils de stratégie**. Les administrateurs peuvent configurer des conseils de stratégie à afficher lors du test de la stratégie DLP ou lorsque la stratégie est en mode d’application complète. 
+Lorsque vous utilisez des **stratégies DLP**, les utilisateurs peuvent être avertis d'une violation de stratégie à l'aide de **conseils de stratégie**. Les administrateurs peuvent configurer des conseils de stratégie à afficher pendant le test de leur stratégie DLP ou lorsque la stratégie est en mode d'application complète. 
   
-Pour configurer la stratégie de conseils sur votre stratégie DLP dans le centre de sécurité et de conformité dans le mode d’application complète procédez comme suit :
+Pour configurer des conseils de stratégie sur votre stratégie DLP dans le centre de sécurité et de conformité en mode d'application complète, procédez comme suit:
   
-- Vérifiez les conseils de stratégie ont été **activée** sur la règle DLP en suivant les étapes [ici](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Assurez-vous que **** les conseils de stratégie ont été activés sur la règle DLP en suivant les étapes [ci-dessous](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
-- Vérifiez votre **contenu correspond à** ce qui est **nécessaire** pour déclencher la règle décrite dans cet article [ici](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Vérifiez que votre **contenu correspond** à ce qui est **requis** pour déclencher la règle décrite dans cet article [ici](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
     
-- Affichent les conseils de stratégie dans OWA et Outlook. Toutefois, lorsque vous utilisez **Outlook 2013 ou version ultérieure**, les conseils de stratégie sont affichées uniquement sous certaines conditions. Ces conditions sont répertoriées ici : [conditions prises en charge pour Outlook 2013 ou version ultérieure pour afficher les conseils de stratégie](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Les conseils de stratégie sont affichés dans OWA et Outlook. Toutefois, lorsque vous utilisez **Outlook 2013 ou une version ultérieure**, les conseils de stratégie s'affichent uniquement dans certaines conditions. Ces conditions sont répertoriées ci-dessous: [conditions prises en charge pour Outlook 2013 ou version ultérieure pour l'affichage des conseils de stratégie](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
     
-Pour plus d’informations sur les conseils de stratégie DLP, voir : [Afficher les conseils de stratégie pour les stratégies DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Pour plus d'informations sur les conseils de stratégie DLP, voir: [afficher les conseils de stratégie pour les stratégies DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
 
