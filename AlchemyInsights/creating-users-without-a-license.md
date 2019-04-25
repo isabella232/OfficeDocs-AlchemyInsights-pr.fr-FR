@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 743
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
 ms.openlocfilehash: 3aea61b21f30b8fcac1399a45fc585024d8cf5c9
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858166"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406648"
 ---
 # <a name="create-mailboxes-that-dont-require-licenses"></a>Créer des boîtes aux lettres qui ne nécessitent pas de licences
 

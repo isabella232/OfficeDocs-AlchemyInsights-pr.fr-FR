@@ -1,5 +1,5 @@
 ---
-title: Comment vérifier l’état de synchronisation de mot de passe
+title: Comment vérifier l'état de synchronisation de mot de passe
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929374"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372954"
 ---
 # <a name="enable-password-sync"></a>Activer la synchronisation de mot de passe
 
-1.  Choisissez **l’État de synchronisation d’annuaire** dans la page d’accueil Centre d’administration O365. 
+1.  Choisissez l' **État DirSync** sur la page d'accueil du centre d'administration O365. 
     
-     * Alternativement, vous pouvez accéder aux **utilisateurs** \> ** utilisateurs actifs **, dans la page utilisateurs actifs, cliquez sur **plus de** \> **la synchronisation d’annuaires.** * 
+     * Vous pouvez également accéder à **utilisateurs** \> * * utilisateurs actifs **, puis, sur la page utilisateurs actifs, sélectionner **plus** \> de **synchronisation d'annuaires.** * 
     
-2. Dans le volet de la synchronisation d’annuaires, choisissez **accédez à gestion de la synchronisation d’annuaire**. 
+2. Dans le volet synchronisation d'annuaires, sélectionnez **accéder à la gestion DirSync**. 
     
-3. Vous allez maintenant voir votre statut et apporter des modifications :
+3. Vous verrez maintenant votre état et effectuez des modifications:
     
-    **Synchronisation de mot de passe activée :** (La valeur true ou False). Spécifie si vous disposez de synchronisation de mot de passe activée entre l’organisation locale et votre client Office 365. 
+    **Synchronisation de mot de passe activée:** (True ou false). Indique si la synchronisation de mot de passe est activée entre l'organisation locale et votre client Office 365. 
     
-    **Dernière synchronisation de mot de passe :** (Dernière exécution de la synchronisation de mot de passe). S’affiche un message d’avertissement et un lien vers un outil de dépannage si la dernière synchronisation a plus de trois jours. 
+    **Dernière synchronisation de mot de passe:** (Dernière synchronisation de mot de passe exécutée). Un avertissement s'affiche et un lien vers un outil de dépannage s'affiche si la dernière synchronisation remonte à plus de trois jours. 
     
 
