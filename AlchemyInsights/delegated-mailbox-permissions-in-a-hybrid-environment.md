@@ -1,5 +1,5 @@
 ---
-title: Autorisations de boîte aux lettres déléguée dans un environnement hybride
+title: Autorisations de boîte aux lettres déléguées dans un environnement hybride
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
 ms.openlocfilehash: 120b9e70203e1b3e277f07e2eb351db39c38a699
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899566"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405872"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="3d41c-102">Autorisations de boîte aux lettres déléguée dans un environnement hybride</span><span class="sxs-lookup"><span data-stu-id="3d41c-102">Delegated mailbox permissions in a hybrid environment</span></span>
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="130f6-102">Autorisations de boîte aux lettres déléguées dans un environnement hybride</span><span class="sxs-lookup"><span data-stu-id="130f6-102">Delegated mailbox permissions in a hybrid environment</span></span>
 
-<span data-ttu-id="3d41c-p101">Selon la version d’Exchange que vous avez installé dans votre organisation locale, vous devrez peut-être effectuer certaines étapes supplémentaires pour définir des autorisations de boîte aux lettres déléguée entre votre organisation locale et Exchange Online dans Office 365. Pour plus d’informations sur la façon de définir des autorisations déléguées, jetez un œil à la [Configuration d’Exchange pour prendre en charge les autorisations de boîte aux lettres déléguée dans un déploiement hybride](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="3d41c-p101">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Office 365. For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="130f6-103">En fonction de la version d'Exchange que vous avez installée dans votre organisation locale, vous devrez peut-être suivre quelques étapes supplémentaires pour configurer des autorisations de boîte aux lettres déléguée entre votre organisation locale et Exchange Online dans Office 365.</span><span class="sxs-lookup"><span data-stu-id="130f6-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Office 365.</span></span> <span data-ttu-id="130f6-104">Pour plus d'informations sur la configuration des autorisations déléguées, consultez la rubrique [configurer Exchange pour prendre en charge les autorisations de boîte aux lettres déléguée dans un déploiement hybride](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="130f6-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
   
 

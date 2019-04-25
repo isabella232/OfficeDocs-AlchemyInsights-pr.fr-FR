@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
 ms.openlocfilehash: def9c77aaa31aa3d06e00661e80ab8747ca32844
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421491"
 ---
-# <a name="set-up-information-management-policies"></a><span data-ttu-id="487ce-102">Configurer des stratégies de gestion des informations</span><span class="sxs-lookup"><span data-stu-id="487ce-102">Set up information management policies</span></span>
+# <a name="set-up-information-management-policies"></a><span data-ttu-id="81cf3-102">Configurer des stratégies de gestion des informations</span><span class="sxs-lookup"><span data-stu-id="81cf3-102">Set up information management policies</span></span>
 
-1. <span data-ttu-id="487ce-103">Si le site SharePoint doté de sous-sites Web, accédez au site de niveau supérieur.</span><span class="sxs-lookup"><span data-stu-id="487ce-103">If the SharePoint site has subsites, browse to the top-level site.</span></span>
+1. <span data-ttu-id="81cf3-103">Si le site SharePoint comporte des sous-sites, accédez au site de niveau supérieur.</span><span class="sxs-lookup"><span data-stu-id="81cf3-103">If the SharePoint site has subsites, browse to the top-level site.</span></span>
     
-2. <span data-ttu-id="487ce-p101">Cliquez sur **paramètres**, puis cliquez sur **Paramètres du Site**. Si le site est un site connectés au groupe d’Office 365, cliquez sur **paramètres**, cliquez sur le **Contenu du Site**, puis cliquez sur **Paramètres du Site**.</span><span class="sxs-lookup"><span data-stu-id="487ce-p101">Click **Settings**, and then click **Site Settings**. If the site is an Office 365 group-connected site, click **Settings**, click **Site Contents**, and then click **Site Settings**.</span></span>
+2. <span data-ttu-id="81cf3-104">Cliquez sur **Paramètres**, puis sur **Paramètres du site**.</span><span class="sxs-lookup"><span data-stu-id="81cf3-104">Click **Settings**, and then click **Site Settings**.</span></span> <span data-ttu-id="81cf3-105">Si le site est un site connecté à un groupe Office 365, cliquez sur **paramètres**, sur **contenu du site**, puis sur **paramètres du site**.</span><span class="sxs-lookup"><span data-stu-id="81cf3-105">If the site is an Office 365 group-connected site, click **Settings**, click **Site Contents**, and then click **Site Settings**.</span></span>
     
-3. <span data-ttu-id="487ce-106">Sous **Administration de la collection de sites**, cliquez sur **Fonctionnalités de la collection de sites**.</span><span class="sxs-lookup"><span data-stu-id="487ce-106">Under **Site Collection Administration**, click **Site collection features**.</span></span>
+3. <span data-ttu-id="81cf3-106">Sous **Administration de la collection de sites**, cliquez sur **Fonctionnalités de la collection de sites**.</span><span class="sxs-lookup"><span data-stu-id="81cf3-106">Under **Site Collection Administration**, click **Site collection features**.</span></span>
     
-4. <span data-ttu-id="487ce-107">Sous **Gestion des enregistrements dans emplacement**, cliquez sur **Activer**.</span><span class="sxs-lookup"><span data-stu-id="487ce-107">Under **In Place Records Management**, click **Activate**.</span></span>
+4. <span data-ttu-id="81cf3-107">Sous sur **Place**, cliquez sur **activer**.</span><span class="sxs-lookup"><span data-stu-id="81cf3-107">Under **In Place Records Management**, click **Activate**.</span></span>
     
-<span data-ttu-id="487ce-108">Pour plus d’informations, voir [Introduction aux stratégies de gestion des informations](https://go.microsoft.com/fwlink/?linkid=404239) et [créer et appliquer des stratégies de gestion des informations](https://go.microsoft.com/fwlink/?linkid=2003916).</span><span class="sxs-lookup"><span data-stu-id="487ce-108">For more info, see [Introduction to information management policies](https://go.microsoft.com/fwlink/?linkid=404239) and [Create and apply information management policies](https://go.microsoft.com/fwlink/?linkid=2003916).</span></span>
+<span data-ttu-id="81cf3-108">Pour plus d'informations, consultez la rubrique [Présentation des stratégies de gestion des informations](https://go.microsoft.com/fwlink/?linkid=404239) et [création et application des stratégies de gestion des informations](https://go.microsoft.com/fwlink/?linkid=2003916).</span><span class="sxs-lookup"><span data-stu-id="81cf3-108">For more info, see [Introduction to information management policies](https://go.microsoft.com/fwlink/?linkid=404239) and [Create and apply information management policies](https://go.microsoft.com/fwlink/?linkid=2003916).</span></span>
   
 

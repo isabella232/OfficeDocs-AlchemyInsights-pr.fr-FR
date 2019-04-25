@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: 8000001
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
 ms.openlocfilehash: b508cc597219789965f7ece26e55b0c1149a02dc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773385"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389716"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="bb3a5-102">Désactiver la boîte de réception prioritaire</span><span class="sxs-lookup"><span data-stu-id="bb3a5-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="abf3d-102">Désactiver la boîte de réception prioritaire</span><span class="sxs-lookup"><span data-stu-id="abf3d-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="bb3a5-103">Sélectionnez **paramètres** \> de la **boîte de réception prioritaire**.  </span><span class="sxs-lookup"><span data-stu-id="bb3a5-103">Select **Settings**  \> **Focused Inbox**.</span></span>
+1. <span data-ttu-id="abf3d-103">Sélectionnez **paramètres** \> de la **boîte de réception prioritaire**.  </span><span class="sxs-lookup"><span data-stu-id="abf3d-103">Select **Settings**  \> **Focused Inbox**.</span></span>
     
-2. <span data-ttu-id="bb3a5-104">Sous **lors**de la réception d'un message, sélectionnez **ne pas trier les messages**.</span><span class="sxs-lookup"><span data-stu-id="bb3a5-104">Under **When email is received**, select **Don't sort messages**.</span></span>
+2. <span data-ttu-id="abf3d-104">Sous **lors**de la réception d'un message, sélectionnez **ne pas trier les messages**.</span><span class="sxs-lookup"><span data-stu-id="abf3d-104">Under **When email is received**, select **Don't sort messages**.</span></span>
     
-3. <span data-ttu-id="bb3a5-105">Sélectionnez **OK**.</span><span class="sxs-lookup"><span data-stu-id="bb3a5-105">Select **OK**.</span></span>
+3. <span data-ttu-id="abf3d-105">Sélectionnez **OK**.</span><span class="sxs-lookup"><span data-stu-id="abf3d-105">Select **OK**.</span></span>
     
-<span data-ttu-id="bb3a5-106">Pour en savoir plus, consultez la rubrique [boîte de réception prioritaire pour Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="bb3a5-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
+<span data-ttu-id="abf3d-106">Pour en savoir plus, consultez la rubrique [boîte de réception prioritaire pour Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="abf3d-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
   
 
