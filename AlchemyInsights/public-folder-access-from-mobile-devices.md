@@ -1,5 +1,5 @@
 ---
-title: Accès aux dossiers publics depuis des appareils mobiles
+title: Accès aux dossiers publics à partir d'appareils mobiles
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
 ms.openlocfilehash: 6e450c220b3baba5d8a3fb696348f7d58b6ab721
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942010"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388139"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>Accès aux dossiers publics depuis des appareils mobiles
+# <a name="public-folder-access-from-mobile-devices"></a>Accès aux dossiers publics à partir d'appareils mobiles
 
-Si vous souhaitez avoir des fonctionnalités similaires aux dossiers publics et avoir contenu accessible sur les appareils mobiles, consultez [obtenir des informations sur Office 365 groupes](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) pour une meilleure solution. 
+Si vous souhaitez disposer de fonctionnalités similaires aux dossiers publics et que le contenu soit accessible sur les appareils mobiles, consultez la [rubrique en savoir plus sur les groupes Office 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) pour une meilleure alternative. 
   
 
