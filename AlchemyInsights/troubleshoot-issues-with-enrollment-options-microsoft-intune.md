@@ -1,5 +1,5 @@
 ---
-title: Résolution des problèmes avec les options d’inscription Microsoft Intune
+title: Résolution des problèmes liés aux options d'enregistrement Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
 ms.openlocfilehash: b2333a51f0cc0061351bc441d47444db52b262aa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909502"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390569"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Résolution des problèmes avec les options d’inscription Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Résolution des problèmes liés aux options d'enregistrement Microsoft Intune
 
-Passez en revue les ressources répertoriées ci-dessous pour résoudre le problème maintenant. Si ces ressources ne résout le problème, contactez le support technique par clic [ici](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) et choisir « créer une demande de support ». 
+Passez en revue les ressources indiquées ci-dessous pour résoudre votre problème dès maintenant. Si ces ressources ne vous aident pas, contactez le support technique en cliquant [ici](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) et en choisissant «créer une demande de support». 
   
-- [Passer en revue les Intune TechNet pour trouver des réponses et des solutions aux problèmes courants](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Examinez le site Intune TechNet pour trouver des réponses et des solutions aux problèmes courants](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Utiliser le [Portail de résolution des problèmes de Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d’inscription courantes. Passez en revue [ce document](https://docs.microsoft.com/intune/help-desk-operators) pour plus d’informations. 
+- Utilisez le [portail de résolution des problèmes Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d'inscriptions courants. Pour plus d'informations, consultez [ce document](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-- Passez en revue [ce document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pour obtenir la liste des erreurs courantes qui empêchent l’inscription et les résolutions à chacun. 
+- Consultez [ce document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pour obtenir la liste des erreurs courantes qui empêchent l'inscription et la résolution de chacune d'elles. 
     
-- [Découvrez les options d’inscription dans Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Découvrez les options d'enregistrement dans Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

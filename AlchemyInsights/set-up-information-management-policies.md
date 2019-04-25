@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
 ms.openlocfilehash: def9c77aaa31aa3d06e00661e80ab8747ca32844
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421491"
 ---
 # <a name="set-up-information-management-policies"></a>Configurer des stratégies de gestion des informations
 
-1. Si le site SharePoint doté de sous-sites Web, accédez au site de niveau supérieur.
+1. Si le site SharePoint comporte des sous-sites, accédez au site de niveau supérieur.
     
-2. Cliquez sur **paramètres**, puis cliquez sur **Paramètres du Site**. Si le site est un site connectés au groupe d’Office 365, cliquez sur **paramètres**, cliquez sur le **Contenu du Site**, puis cliquez sur **Paramètres du Site**.
+2. Cliquez sur **Paramètres**, puis sur **Paramètres du site**. Si le site est un site connecté à un groupe Office 365, cliquez sur **paramètres**, sur **contenu du site**, puis sur **paramètres du site**.
     
 3. Sous **Administration de la collection de sites**, cliquez sur **Fonctionnalités de la collection de sites**.
     
-4. Sous **Gestion des enregistrements dans emplacement**, cliquez sur **Activer**.
+4. Sous sur **Place**, cliquez sur **activer**.
     
-Pour plus d’informations, voir [Introduction aux stratégies de gestion des informations](https://go.microsoft.com/fwlink/?linkid=404239) et [créer et appliquer des stratégies de gestion des informations](https://go.microsoft.com/fwlink/?linkid=2003916).
+Pour plus d'informations, consultez la rubrique [Présentation des stratégies de gestion des informations](https://go.microsoft.com/fwlink/?linkid=404239) et [création et application des stratégies de gestion des informations](https://go.microsoft.com/fwlink/?linkid=2003916).
   
 

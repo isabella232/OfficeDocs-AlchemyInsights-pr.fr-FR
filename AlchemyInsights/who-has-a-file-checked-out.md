@@ -1,5 +1,5 @@
 ---
-title: Qui a extrait un fichier ?
+title: Qui a extrait un fichier?
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/10/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940390"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422713"
 ---
-# <a name="who-has-a-file-checked-out"></a>Qui a extrait un fichier ?
+# <a name="who-has-a-file-checked-out"></a>Qui a extrait un fichier?
 
-Pour savoir qui a extrait un fichier, vous pouvez effectuer l’une des opérations suivantes :
+Pour voir qui a un fichier extrait, vous pouvez effectuer l'une des opérations suivantes:
   
-1. Pointez sur **Extrait** pour afficher une info-bulle qui vous indique qui a extrait le fichier. 
+1. Placez le curseur de la souris sur **extrait** pour afficher une info-bulle indiquant qui a extrait le fichier. 
     
-2. Ajouter la ** extrait par ** colonne à l’affichage par défaut de la bibliothèque. Ainsi, tout le monde peut facilement voir qui a un document extrait. 
+2. Ajoutez la colonne * * extraite by * * à la vue par défaut de la bibliothèque. De cette façon, tout le monde peut facilement voir qui a un document extrait. 
     
-Pour savoir comment ajouter une colonne extrait par dans SharePoint, voir [créer une colonne dans une liste ou une bibliothèque](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Pour savoir comment ajouter une colonne extraite par dans SharePoint, consultez la rubrique [créer une colonne dans une liste ou une bibliothèque](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Voir les plus fréquemment posées sur Archiver ou extraire de, voir [questions fréquentes sur l’extraction, archiver](https://go.microsoft.com/fwlink/?linkid=2018786).
+Pour plus d'informations sur les questions fréquemment posées sur l'archivage ou l'extraction, voir [questions principales sur l'extraction, l'archivage](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

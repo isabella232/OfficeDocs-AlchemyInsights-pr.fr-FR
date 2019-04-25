@@ -1,5 +1,5 @@
 ---
-title: À l’aide de hybride Minimal pour déplacer vers Office 365
+title: Utilisation de l'environnement hybride minimal pour passer à Office 365
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
 ms.openlocfilehash: fe0972213218c09e3cf8b247a7b44b951a2a6521
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912387"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423247"
 ---
-# <a name="using-minimal-hybrid-to-move-to-office-365"></a>À l’aide de hybride Minimal pour déplacer vers Office 365
+# <a name="using-minimal-hybrid-to-move-to-office-365"></a>Utilisation de l'environnement hybride minimal pour passer à Office 365
 
-Pour en savoir plus sur hybride Minimal, également appelé Express migration, consultez [Hybride Minimal utilisé pour migrer des boîtes aux lettres Exchange à Office 365 rapidement](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).
+Pour en savoir plus sur la fonctionnalité hybride minimale, également appelée migration rapide, consultez la rubrique utiliser une solution [hybride minimale pour migrer rapidement des boîtes aux lettres Exchange vers Office 365](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).
   
 

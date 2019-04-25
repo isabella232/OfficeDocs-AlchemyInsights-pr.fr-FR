@@ -1,5 +1,5 @@
 ---
-title: Résoudre les problèmes de l’inscription des périphériques Windows Intune Microsoft
+title: Résoudre les problèmes liés à l'inscrire des appareils Windows dans Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,36 +10,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.openlocfilehash: aa2262ed487ae4160f13490e92163a145e657862
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934774"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390641"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Résoudre les problèmes de l’inscription des périphériques Windows Intune Microsoft
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Résoudre les problèmes liés à l'inscrire des appareils Windows dans Microsoft Intune
 
-Passez en revue les ressources répertoriées ci-dessous pour résoudre le problème maintenant. 
+Passez en revue les ressources indiquées ci-dessous pour résoudre votre problème dès maintenant. 
   
-Certains messages d’erreur courants et les étapes de résolution :
+Les messages d'erreur courants et les étapes de résolution sont les suivants:
   
- **Ne peut pas être installé le logiciel, 0x80cf4017 :** Votre certificat de compte a expiré. Télécharger le logiciel PC Client dans la Console d’administration Intune à nouveau. Consultez cette documentation pour plus d’informations. 
+ **Le logiciel ne peut pas être installé, 0x80cf4017:** Votre certificat de compte a expiré. Téléchargez de nouveau le package logiciel client PC dans la console d'administration Intune. Pour plus d'informations, consultez cette documentation. 
   
- **Code d’erreur 0x801c0003 :** L’erreur peut se produire dans les scénarios suivants : 
+ **Code d'erreur 0x801c0003:** L'erreur peut se produire dans les scénarios suivants: 
   
-1. L’utilisateur dispose de plusieurs périphériques inscrits à la limite du périphérique. Passez en revue ces documents pour [Supprimer un périphérique](https://docs.microsoft.com/intune/devices-wipe) ou de [Modifier la limite de périphérique](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+1. L'utilisateur dispose de plus d'appareils que la limite de l'appareil. Passez en revue ces documents pour [supprimer un périphérique](https://docs.microsoft.com/intune/devices-wipe) ou [modifier la limite du périphérique](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-2. « Les utilisateurs peuvent se joindre à périphériques pour Azure AD » est définie sur « none ». Valeur tous ou sélectionnez utilisateurs. Passez en revue [cette documentation](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) pour plus d’informations. 
+2. «Les utilisateurs peuvent rejoindre les appareils sur Azure AD» est défini sur «aucun». Définissez-la sur tous les utilisateurs ou sélectionnez-les. Pour plus d'informations, consultez [cette documentation](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) . 
     
-3. Le périphérique est déjà inscrit par un autre utilisateur. Si tel est le cas, supprimez le périphérique à partir de la console d’Azure Intune ou unenroll manuellement le périphérique avant de réessayer.
+3. L'appareil est déjà déployé par un autre utilisateur. Si c'est le cas, supprimez l'appareil de la console Azure Intune ou désinscrivez manuellement l'appareil, puis réessayez.
     
-4. Le périphérique est 10 d’accueil. Uniquement Windows 10 Pro, formation et SKU peuvent participer à Azure Active Directory.
+4. Le périphérique est Windows 10 Home. Seuls Windows 10 professionnel, les SKU éducation et entreprise peuvent rejoindre Azure Active Directory.
     
-Ressources supplémentaires pour vous aider à résoudre votre problème :
+Ressources supplémentaires pour vous aider à résoudre votre problème:
   
-1. Utiliser le [Portail de résolution des problèmes de Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d’inscription courantes. Passez en revue [ce document](https://docs.microsoft.com/intune/help-desk-operators) pour plus d’informations. 
+1. Utilisez le [portail de résolution des problèmes Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d'inscriptions courants. Pour plus d'informations, consultez [ce document](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-2. Passez en revue ces documents pour la liste des erreurs qui empêchent l’inscription et les résolutions à chacun : [guide de résolution des problèmes](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) et [dépannage doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Consultez ces documents pour obtenir la liste des erreurs courantes qui empêchent l'inscription et la résolution de chacune d'elles: [Guide de dépannage](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) et [Dépannage doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-[Apprenez à inscrire des périphériques Windows Intune Microsoft](https://docs.microsoft.com/intune/windows-enroll).
+[Découvrez comment inscrire des appareils Windows dans Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Accès refusé lors de l’affichage d’un flux de travail
+title: Accès refusé lors de l'affichage d'un flux de travail
 ms.author: kirks
 author: Techwriter40
 ms.date: 11/27/2018
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918826"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389885"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Accès refusé lors de l’affichage d’un flux de travail
+# <a name="access-denied-when-viewing-a-workflow"></a>Accès refusé lors de l'affichage d'un flux de travail
 
-Flux de travail SharePoint 2013 qui tentent d’envoyer un message électronique à un groupe SharePoint peut échouer avec un message d’erreur « Accès refusé » si l’appartenance au groupe SharePoint n’est pas défini sur tout le monde.
+Les flux de travail SharePoint 2013 qui tentent d'envoyer un courrier électronique à un groupe SharePoint peuvent échouer avec un message d'erreur «Accès refusé» si l'appartenance au groupe SharePoint n'est pas définie sur tout le monde.
   
- **Pour résoudre ce problème, procédez comme suit :**
+ **Pour résoudre ce problème, procédez comme suit:**
   
- 1. Autoriser tout le monde afficher les membres du groupe SharePoint. 
+ 1. Autoriser tout le monde à voir les membres du groupe SharePoint. 
   
- 2. Supprimer du groupe SharePoint dans les zones à ou CC ligne du courrier électronique. 
+ 2. Supprimez le groupe SharePoint de la ligne à ou CC du message électronique. 
   
- 3. Ajoutez explicitement les utilisateurs pour le champ à ou CC de ligne si la visibilité de l’appartenance ne peut pas être modifiée pour un groupe SharePoint. 
+ 3. Ajoutez explicitement les utilisateurs à la ligne à ou CC si la visibilité de l'appartenance ne peut pas être modifiée pour le groupe SharePoint. 
   
-Pour afficher plus d’informations, consultez [HTTP non autorisés à /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Pour plus d'informations, reportez-vous à la rubrique [http Unauthorized to/_vti_bin/client.svc/SP.Utilities.Utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
 
