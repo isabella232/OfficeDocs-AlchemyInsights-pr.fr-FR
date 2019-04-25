@@ -1,5 +1,5 @@
 ---
-title: Comment vérifier l’état de synchronisation de mot de passe
+title: Comment vérifier l'état de synchronisation de mot de passe
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929374"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372954"
 ---
-# <a name="enable-password-sync"></a><span data-ttu-id="4de5a-102">Activer la synchronisation de mot de passe</span><span class="sxs-lookup"><span data-stu-id="4de5a-102">Enable Password Sync</span></span>
+# <a name="enable-password-sync"></a><span data-ttu-id="fd30a-102">Activer la synchronisation de mot de passe</span><span class="sxs-lookup"><span data-stu-id="fd30a-102">Enable Password Sync</span></span>
 
-1.  <span data-ttu-id="4de5a-103">Choisissez **l’État de synchronisation d’annuaire** dans la page d’accueil Centre d’administration O365.</span><span class="sxs-lookup"><span data-stu-id="4de5a-103">Choose **DirSync Status** on the O365 Admin Center home page.</span></span> 
+1.  <span data-ttu-id="fd30a-103">Choisissez l' **État DirSync** sur la page d'accueil du centre d'administration O365.</span><span class="sxs-lookup"><span data-stu-id="fd30a-103">Choose **DirSync Status** on the O365 Admin Center home page.</span></span> 
     
-     <span data-ttu-id="4de5a-104">\* Alternativement, vous pouvez accéder aux **utilisateurs** \> \*\* utilisateurs actifs \*\*, dans la page utilisateurs actifs, cliquez sur **plus de** \> **la synchronisation d’annuaires.** \*</span><span class="sxs-lookup"><span data-stu-id="4de5a-104">\*Alternately, you can go to **Users** \> \*\* Active users \**, and on the Active users page, choose **More** \> **Directory synchronization.***</span></span> 
+     <span data-ttu-id="fd30a-104">\* Vous pouvez également accéder à **utilisateurs** \> \* \* utilisateurs actifs \*\*, puis, sur la page utilisateurs actifs, sélectionner **plus** \> de **synchronisation d'annuaires.** \*</span><span class="sxs-lookup"><span data-stu-id="fd30a-104">\*Alternately, you can go to **Users** \> \*\* Active users \**, and on the Active users page, choose **More** \> **Directory synchronization.***</span></span> 
     
-2. <span data-ttu-id="4de5a-105">Dans le volet de la synchronisation d’annuaires, choisissez **accédez à gestion de la synchronisation d’annuaire**.</span><span class="sxs-lookup"><span data-stu-id="4de5a-105">On the Directory Synchronization pane, choose **Go to DirSync management**.</span></span> 
+2. <span data-ttu-id="fd30a-105">Dans le volet synchronisation d'annuaires, sélectionnez **accéder à la gestion DirSync**.</span><span class="sxs-lookup"><span data-stu-id="fd30a-105">On the Directory Synchronization pane, choose **Go to DirSync management**.</span></span> 
     
-3. <span data-ttu-id="4de5a-106">Vous allez maintenant voir votre statut et apporter des modifications :</span><span class="sxs-lookup"><span data-stu-id="4de5a-106">Now you'll see your status, and make changes:</span></span>
+3. <span data-ttu-id="fd30a-106">Vous verrez maintenant votre état et effectuez des modifications:</span><span class="sxs-lookup"><span data-stu-id="fd30a-106">Now you'll see your status, and make changes:</span></span>
     
-    <span data-ttu-id="4de5a-p101">**Synchronisation de mot de passe activée :** (La valeur true ou False). Spécifie si vous disposez de synchronisation de mot de passe activée entre l’organisation locale et votre client Office 365.</span><span class="sxs-lookup"><span data-stu-id="4de5a-p101">**Password sync enabled:** (True or False). Specifies whether you have password sync enabled between on-premises and your Office 365 tenant.</span></span> 
+    <span data-ttu-id="fd30a-107">**Synchronisation de mot de passe activée:** (True ou false).</span><span class="sxs-lookup"><span data-stu-id="fd30a-107">**Password sync enabled:** (True or False).</span></span> <span data-ttu-id="fd30a-108">Indique si la synchronisation de mot de passe est activée entre l'organisation locale et votre client Office 365.</span><span class="sxs-lookup"><span data-stu-id="fd30a-108">Specifies whether you have password sync enabled between on-premises and your Office 365 tenant.</span></span> 
     
-    <span data-ttu-id="4de5a-p102">**Dernière synchronisation de mot de passe :** (Dernière exécution de la synchronisation de mot de passe). S’affiche un message d’avertissement et un lien vers un outil de dépannage si la dernière synchronisation a plus de trois jours.</span><span class="sxs-lookup"><span data-stu-id="4de5a-p102">**Last Password Sync:** (Last time password sync ran). This will display a warning and a link to a troubleshooting tool if the last sync was more than three days ago.</span></span> 
+    <span data-ttu-id="fd30a-109">**Dernière synchronisation de mot de passe:** (Dernière synchronisation de mot de passe exécutée).</span><span class="sxs-lookup"><span data-stu-id="fd30a-109">**Last Password Sync:** (Last time password sync ran).</span></span> <span data-ttu-id="fd30a-110">Un avertissement s'affiche et un lien vers un outil de dépannage s'affiche si la dernière synchronisation remonte à plus de trois jours.</span><span class="sxs-lookup"><span data-stu-id="fd30a-110">This will display a warning and a link to a troubleshooting tool if the last sync was more than three days ago.</span></span> 
     
 
