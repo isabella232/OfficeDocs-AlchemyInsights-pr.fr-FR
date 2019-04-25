@@ -1,5 +1,5 @@
 ---
-title: Comment faire pour désactiver les groupes externes
+title: Désactivation des groupes externes
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: 4d911c319c3e8e327f9b3af3ba67816e646bc468
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29899134"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399589"
 ---
-# <a name="how-to-disable-external-groups"></a>Comment faire pour désactiver les groupes externes
+# <a name="how-to-disable-external-groups"></a>Désactivation des groupes externes
 
-Yammer de messagerie externe s’applique les règles de Transport Exchange (ETRs), un ensemble de contrôles proactives pour empêcher les informations sur la société d’être partagé. Afin d’empêcher les utilisateurs de créer des groupes externes, vous devez configurer une règle de transport Exchange (ETR), puis configurer Yammer pour la règle de Transport Exchange permet de bloquer la messagerie externe. 
+La messagerie externe Yammer applique les règles de transport Exchange (ETR), un ensemble de contrôles proactifs pour empêcher le partage des informations de l'entreprise. Pour empêcher les utilisateurs de créer des groupes externes, vous devez configurer une règle de transport Exchange (ETR), puis configurer Yammer de façon à ce qu'il utilise la règle de transport Exchange pour bloquer la messagerie externe. 
   
-Une fois que vous avez créé une règle dans le centre d’administration Exchange Online, procédez comme suit pour définir ETR à appliquer dans Yammer :
+Une fois que vous avez créé une règle dans le centre d'administration Exchange Online, procédez comme suit pour définir ETR à appliquer dans Yammer:
   
-- Se connecter à Yammer comme un administrateur vérifié et dans **Centre d’administration de Yammer**, accédez à C **écurité et sécurité \> paramètres de sécurité.**
+- Connectez-vous à yammer en tant qu'administrateur vérifié et dans le **Centre d'administration Yammer**, accédez à C **ontent \> et paramètres de sécurité de la sécurité.**
     
-- Sous **Messagerie externe**, sélectionnez **appliquer votre Exchange Online règles de Transport Exchange (ETRs) dans Yammer.**
+- Sous **messagerie externe**, sélectionnez **appliquer vos règles de transport Exchange Online Exchange (ETR) dans Yammer.**
     
-- Sélectionnez **Save (Enregistrer)**. 
+- Cliquez sur **Enregistrer**. 
     
-Pour plus d’informations, consultez [contrôle externe de la messagerie dans un réseau Yammer avec des règles de Transport Exchange](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
+Pour plus d'informations, reportez-vous à [la rubrique contrôler la messagerie externe dans un réseau Yammer avec des règles de transport Exchange](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
   
 
