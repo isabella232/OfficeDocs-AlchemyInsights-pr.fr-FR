@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
 ms.openlocfilehash: 7419c95c10808dac0bf203df307be1124a52fcb7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763610"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417599"
 ---
 # <a name="how-to-purchase-education-offer"></a>Comment acheter une offre de formation
 
 Vous avez été approuvé pour Office 365 éducation. Pour acheter:
   
-1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
 2. Choisissez la version d'évaluation pour **étudiants ou Université**.
     
