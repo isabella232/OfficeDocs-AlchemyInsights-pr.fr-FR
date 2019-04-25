@@ -1,5 +1,5 @@
 ---
-title: Infrastructure de publication avec un Site de Communication
+title: Infrastructure de publication avec un site de communication
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/14/2019
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 228d048dba0f4b175855eebdf2b0019f7d1ed4f0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940258"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389117"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Infrastructure de publication avec un Site de Communication
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Infrastructure de publication avec un site de communication
 
 
-Activation de la fonctionnalité Infrastructure de publication SharePoint Server est **pas pris en charge** avec les Sites de Communication. 
+L'activation de la fonctionnalité infrastructure de publication de SharePoint Server n'est **pas prise en charge** avec les sites de communication. 
   
-Pour plus d’informations, voir [passage à partir de la publication de sites pour les sites de Communication](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Pour plus d'informations, consultez la rubrique [migration de sites de publication vers des sites de communication](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 

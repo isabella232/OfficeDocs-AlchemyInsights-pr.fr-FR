@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
 ms.openlocfilehash: 2204e0d0b4f3ac73fe1198e0b14ad51a6b3b1adc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901618"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406750"
 ---
 # <a name="creating-public-folders"></a>Création de dossiers publics
 
-Avant que vos utilisateurs puissent utiliser des dossiers publics dans Office 365, vous devez créer au moins une boîte aux lettres de dossier public. Pour créer :
+Pour que les utilisateurs puissent utiliser des dossiers publics dans Office 365, vous devez créer au moins une boîte aux lettres de dossiers publics. Pour créer:
   
-1. Dans le portail O365, en utilisant le menu de navigation de gauche, accédez au **Centre d’administration** \> **Exchange**.
+1. Dans le portail O365, à l'aide du menu de navigation de gauche, accédez à **admin Centers** \> **Exchange**.
     
-2. Accédez à **dossiers publics** \> **boîtes aux lettres de dossier Public**, puis cliquez sur **Ajouter**.
+2. Accédez à **dossiers** \> publics **boîtes aux lettres de dossiers publics**, puis cliquez sur **Ajouter**.
     
 3. Dans **Boîte aux lettres de dossiers publics**, attribuez un nom à la boîte aux lettres de dossiers publics.
     
 4. Cliquez sur **Enregistrer**.
     
-Une fois qu’une boîte aux lettres a été créée, vous pouvez commencer à créer des dossiers individuels ou demandez à vos utilisateurs pour [Démarrer la création et l’utilisation de dossiers publics dans Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Une fois qu'une boîte aux lettres a été créée, vous pouvez commencer à créer des dossiers individuels ou indiquer à vos utilisateurs de [commencer à créer et à utiliser des dossiers publics dans Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   
 

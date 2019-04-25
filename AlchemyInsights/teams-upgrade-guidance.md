@@ -1,5 +1,5 @@
 ---
-title: Guide de mise à niveau des équipes
+title: Conseils de mise à niveau de teams
 ms.author: heidip
 author: microsoftheidi
 ms.date: 1/9/2019
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
 ms.openlocfilehash: 58b7d89426295ff512180aacb52d368fcdb8bb29
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906262"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370004"
 ---
-# <a name="upgrade-to-teams"></a>Mise à niveau vers des équipes
+# <a name="upgrade-to-teams"></a>Mise à niveau vers teams
 
-Vous pouvez trouver un guide pas à pas pour glissant Skype pour les entreprises à Microsoft Teams [ici](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
+Vous trouverez un guide pas à pas pour passer de Skype entreprise à Microsoft Teams. [](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams)
   
 

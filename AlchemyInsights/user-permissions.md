@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209843"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423685"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Autorisations utilisateur dans SharePoint et OneDrive
 
@@ -31,7 +31,7 @@ Si un utilisateur de votre organisation ne parvient pas à accéder à SharePoin
     
     Pour un site de communication, cliquez sur **partager le site** dans le coin supérieur droit, entrez le nom de la personne, puis sélectionnez le niveau d'autorisation (lecture, modification ou contrôle total). 
     
-    Pour un site d'équipe classique, cliquez sur **partager** dans le coin supérieur droit. Entrez le nom de la personne que vous souhaitez inviter ou tapez tout le monde à partager avec tous les membres de votre organisation. Cliquez sur **partager**.
+    Pour un site d'équipe classique, cliquez sur **partager** dans le coin supérieur droit. Entrez le nom de la personne que vous souhaitez inviter ou tapez tout le monde à partager avec tous les membres de votre organisation. Cliquez sur **Partager**.
     
 > [!NOTE]
 > Si vous êtes membre d'un site, mais pas d'un propriétaire, vous pouvez inviter des personnes sur le site, mais votre invitation générera une demande d'accès qui peut être approuvée ou refusée par un propriétaire de site. 

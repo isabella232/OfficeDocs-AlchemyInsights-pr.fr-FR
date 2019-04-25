@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207863"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421382"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Configuration de votre abonnement Office Essentials 365
 
 Créer des comptes Office 365 et ajouter votre domaine
   
-- Dans cette étape, vous allez utiliser l'Assistant Installation pour créer des comptes Office 365 pour vos utilisateurs et ajouter votre propre domaine. L'Assistant vous permet de personnaliser les ID d'utilisateur et le courrier de votre entreprise, par exemple [Rob@contoso.com](mailto:rob@contoso.com).
+- Dans cette étape, vous allez utiliser l'Assistant Configuration pour créer des comptes Office 365 pour vos utilisateurs et ajouter votre propre domaine. L'Assistant vous permet de personnaliser les ID d'utilisateur et le courrier de votre entreprise, par exemple [Rob@contoso.com](mailto:rob@contoso.com).
     
 - Accédez au [Centre d'administration Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Pour démarrer l'Assistant, choisissez **accéder à la configuration**. Pour en savoir plus, consultez la rubrique [Ajouter des utilisateurs et un domaine à Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Pour démarrer l'Assistant, choisissez **Configurer**. Pour plus d'informations, voir [Ajouter des utilisateurs et un domaine à Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
 Importer le courrier
   
@@ -31,7 +31,7 @@ Importer le courrier
     
 - Connecter des comptes de messagerie
     
-  - En plus de la gestion de votre courrier Office 365 dans Outlook, vous pouvez également connecter d'autres comptes de courrier à Outlook, tels que vos comptes Gmail et Yahoo. Cela vous permet de gérer tous vos courriers électroniques à un seul endroit. Vous pouvez connecter jusqu'à 5 comptes de courrier à Outlook. Pour plus d'informations, voir [connecter des comptes de messagerie dans Outlook sur le Web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Outre la gestion de votre courrier Office 365 dans Outlook, vous pouvez également connecter d'autres comptes de courrier à Outlook, tels que vos comptes Gmail et Yahoo. Cela vous permet de gérer tous vos courriers au même emplacement. Vous pouvez connecter jusqu'à 5 comptes de courrier à Outlook. Pour plus d'informations, voir [connecter des comptes de messagerie dans Outlook sur le Web (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 Installer Skype Entreprise
   
@@ -39,7 +39,7 @@ Installer Skype Entreprise
     
 Stocker des fichiers en ligne
   
-- Pour savoir quels emplacements de stockage sont les plus adaptés à votre entreprise, reportez-vous à la rubrique [où vous pouvez stocker des fichiers dans Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Tout le monde obtient automatiquement un emplacement de stockage dans le Cloud **OneDrive** lorsque vous créez des comptes Office 365 pour ceux-ci. Avec OneDrive, vous pouvez accéder à des fichiers sur vos ordinateurs, téléphones et tablettes. 
+- Pour découvrir quels emplacements de stockage sont les plus adaptés à votre entreprise, voir [Où stocker des fichiers dans Office 365 ?](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Toutes les personnes reçoivent automatiquement un emplacement de stockage en ligne **OneDrive** lorsque vous créez des comptes Office 365 pour chacune d'entre elles. Avec OneDrive, vous pouvez accéder aux fichiers sur vos ordinateurs, téléphones et tablettes. 
     
 Vous trouverez des étapes détaillées pour la configuration dans [cet article](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
   

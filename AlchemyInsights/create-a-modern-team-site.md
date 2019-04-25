@@ -1,5 +1,5 @@
 ---
-title: Créer un site d’équipe moderne
+title: Créer un site d'équipe moderne
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: f88df38bc286625c0b2bc20e360e4ce6391e0942
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917530"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407134"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Créer un site d’équipe connectés au groupe de Office 365
+# <a name="create-an-office-365-group-connected-team-site"></a>Créer un site d'équipe connecté à un groupe Office 365
 
-1. Cliquez sur le Lanceur de l’application dans le coin supérieur gauche, sélectionnez **SharePoint**. Si vous ne voyez pas la vignette de SharePoint, cliquez sur **toutes les applications**.
+1. Cliquez sur le lanceur d'applications dans l'angle supérieur gauche et sélectionnez **SharePoint**. Si vous ne voyez pas la vignette SharePoint, cliquez sur **toutes les applications**.
     
-2. En haut de la page d’accueil de SharePoint, cliquez sur **créer un site** , choisissez l’option de **site d’équipe** . 
+2. En haut de la page d'accueil SharePoint, cliquez sur **créer un site** et choisissez l'option site d' **équipe** . 
     
     > [!NOTE]
-    > Si vous ne voyez pas la commande de site de création, la création de sites ne peut pas être activée dans votre organisation. Pour l’activer, voir [Gérer la création de sites](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Si vous ne voyez pas la commande créer un site, la création de sites n'est peut-être pas activée dans votre organisation. Pour l'activer, consultez la rubrique [Manage site Creation](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Suivez les étapes décrites dans l’écran et le nom du site et créer une adresse de messagerie pour le groupe d’Office 365, puis cliquez sur **suivant**. Vous pouvez également ajouter d’autres propriétaires de groupe et les membres. Cliquez sur **Terminer**.
+3. Suivez les étapes indiquées à l'écran pour nommer le site et créer une adresse de messagerie pour le groupe Office 365, puis cliquez sur **suivant**. Vous pouvez également ajouter d'autres propriétaires et membres de groupe. Cliquez sur **Terminer**.
   
- **Remarque :** Pour créer un Site d’équipe sans un groupe connecté, suivez les étapes ci-dessus, mais au lieu de sélectionner un Site d’équipe à l’étape 2. sélectionner d’autres options. Vous guident dans la création d’un Site d’équipe sans un groupe. 
+ **Remarque:** Pour créer un site d'équipe sans connexion de groupe, suivez les étapes ci-dessus, mais au lieu de sélectionner site d'équipe à l'étape 2. Sélectionnez d'autres options. Cela vous guidera tout au long de la création d'un site d'équipe sans groupe. 
     
 

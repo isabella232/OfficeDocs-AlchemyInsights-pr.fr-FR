@@ -1,5 +1,5 @@
 ---
-title: Solutions d’erreur 30180-28
+title: Solutions pour l'erreur 30180-28
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.openlocfilehash: 5f67fb6d67c634e2b792a430709b4b664a4eedc2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928618"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369964"
 ---
-# <a name="solutions-for-error-30180-28"></a>Solutions d’erreur 30180-28
+# <a name="solutions-for-error-30180-28"></a>Solutions pour l'erreur 30180-28
 
-Si vous avez une connexion internet médiocre, vous pouvez voir [erreur 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) pendant une mise à jour Office. Voici quelques éléments que vous pouvez essayer de résoudre le problème. 
+Vous pouvez rencontrer l' [erreur 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) pendant une mise à jour Office si votre connexion Internet est médiocre. Here are some things you can try to fix the problem. 
   
-- Redémarrez votre ordinateur, puis [mettre à jour Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).
+- ReDémarrez votre ordinateur, puis [Mettez à jour Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).
     
-- Suivez les étapes ci-dessus, mais utilisez une connexion câblée lors de la mise à jour d’Office.
+- Suivez les étapes ci-dessus, mais utilisez une connexion filaire lors de la mise à jour d'Office.
     
 
