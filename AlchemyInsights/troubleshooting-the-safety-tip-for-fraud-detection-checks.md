@@ -1,5 +1,5 @@
 ---
-title: Résolution des problèmes d’info-bulle de sécurité pour la détection des fraudes vérifie
+title: Dépannage du Conseil de sécurité pour les vérifications de détection de fraude
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.openlocfilehash: 98627edcd2b685673dda8a8a18821eddf9b64bc1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936358"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391207"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Résolution des problèmes d’info-bulle de sécurité pour la détection des fraudes vérifie
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Dépannage du Conseil de sécurité pour les vérifications de détection de fraude
 
 
 
-Si vous êtes l’obtention d’une info-bulle de sécurité qui indique « l’expéditeur a échoué vérifie la détection de loteries et peut ne pas être qui semblent être », puis l’expéditeur n’a pas pu passer les vérifications d’authentification DKIM soit SPF. La meilleure méthode pour résoudre ce problème est pour l’expéditeur autoriser eux-mêmes. Si l’expéditeur envoie à votre place, vous devez autoriser en ajoutant l’adresse IP de l’expéditeur à votre enregistrement SPF.
+Si vous recevez un Conseil de sécurité indiquant «l'échec de nos vérifications de détection de fraude par l'expéditeur et peut ne pas être celui qu'il semble être», l'expéditeur n'a pas réussi à transmettre les contrôles d'authentification DKIM ou SPF. Pour résoudre ce cas, la meilleure méthode consiste à autoriser l'expéditeur à s'autoriser. Si l'expéditeur est envoyé en votre nom, vous devez l'autoriser en ajoutant l'adresse IP de l'expéditeur à votre enregistrement SPF.
   
-Pour plus d’informations, voir [résolution des problèmes d’info-bulle de sécurité (suspectes) rouge pour la détection des fraudes vérifie](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) . 
+Pour plus d'informations, rePortez-vous à [la rubrique Troubleshooting the Red (suspect) Safety Tip for fraude DETECTION checks](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) . 
   
-Voici quelques autres liens qui peuvent aider à :
+Voici quelques autres liens qui peuvent vous aider:
   
-- [Comment Office 365 utilise le contrôle sender policy framework (SPF) pour empêcher l’usurpation d’identité](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Comment Office 365 utilise Sender Policy Framework (SPF) pour éviter l'usurpation d'identité](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
     
 - [Configurer SPF dans Office 365 pour empêcher l’usurpation](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     

@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.openlocfilehash: d1a72a85767e36fefbfa8eee266befcaf2e48af0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920086"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371982"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Lorsque les modifications du profil synchroniser à l’Application de profil utilisateur SharePoint ?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Quand mon profil modifie-t-il la synchronisation avec l'application de profil utilisateur SharePoint?
 
-SharePoint Online utilise le travail du minuteur importation Active Directory (importation AD) pour importer les utilisateurs et les groupes dans l’Application de profil utilisateur. 
+SharePoint Online utilise le travail du minuteur d'importation Active Directory (importation AD) pour importer des utilisateurs et des groupes dans l'application de profil utilisateur. 
   
-1. L’importation AD de synchroniser les modifications dans le magasin d’annuaire SharePoint Online à l’Application de profil utilisateur. Ces modifications sont traitées par lots.
+1. AD Import synchronise les modifications entre le magasin d'annuaires SharePoint Online et l'application de profil utilisateur. Ces modifications sont traitées par lots.
     
-2. Le travail du minuteur s’exécute jusqu'à ce que les modifications sont synchronisées.
+2. Le travail du minuteur s'exécute jusqu'à ce que les modifications soient synchronisées.
     
 > [!NOTE]
-> Le temps que nécessaire à l’exécution du travail varie selon le nombre de modifications à traiter. Un grand nombre de modifications prend plus de temps. Le contrat de niveau de Service (SLA) indique une modification apportée à un utilisateur dans SharePoint Online Directory est reflétée dans l’Application de profil utilisateur dans les 24 heures. 
+> Le temps nécessaire à l'exécution du travail dépend du nombre de modifications à traiter. Un grand nombre de modifications prend plus de temps. Le contrat de niveau de service (SLA) indique qu'une modification apportée à un utilisateur dans le répertoire SharePoint Online sera reflétée dans l'application de profil utilisateur dans les 24 heures. 
   
-[Plus d’informations sur la synchronisation de profil utilisateur dans SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Plus d'informations sur la synchronisation des profils utilisateur dans SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 
