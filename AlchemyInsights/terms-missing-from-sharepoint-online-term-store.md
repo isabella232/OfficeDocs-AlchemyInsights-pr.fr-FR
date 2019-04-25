@@ -1,5 +1,5 @@
 ---
-title: Termes manquants à partir du magasin de termes de SharePoint Online
+title: Termes manquants dans le magasin de termes SharePoint Online
 ms.author: kirks
 author: Techwriter40
 ms.date: 10/30/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
 ms.openlocfilehash: 3378eaac63103bf2499fd989d3878b00bab900cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935046"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420626"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Termes manquants à partir du magasin de termes de SharePoint Online
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Termes manquants dans le magasin de termes SharePoint Online
 
-Les termes de SharePoint Online magasin de termes vous attendez à voir ne s’affichent pas ou sont par intermittence s’affiche.
+Les termes du magasin de termes SharePoint Online que vous souhaitez voir ne s'affichent pas ou apparaissent de façon intermittente.
   
-Si plus de 24 heures se sont écoulées depuis vous tout d’abord constaté ce problème, connectez-vous à un cas de prise en charge. Nous savons que 24 heures peut sembler beaucoup de temps. Dans la plupart des cas, nous sommes déjà en train d’une solution donc donner au moins 24 heures.
+Si plus de 24 heures se sont écoulées depuis le début de ce problème, veuillez consigner un cas de support. Nous comprenons que 24 heures peuvent sembler très longues. Dans de nombreux cas, nous travaillons déjà sur une solution, veuillez nous fournir au moins 24 heures.
   
 

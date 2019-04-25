@@ -1,5 +1,5 @@
 ---
-title: iOS Id de règle de mise en service Profils 1029
+title: ID de règle des profils de mise en service iOS 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 9/10/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
 ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914650"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409821"
 ---
-# <a name="ios-provisioning-profiles"></a>Profils de mise en service des e/s
+# <a name="ios-provisioning-profiles"></a>Profils de mise en service iOS
 
-Apple iOS de métier utilise le concept d’un profil de mise en service qui est utilisé pour valider l’intégrité de l’application et appliquer les stratégies définies dans le profil. Les profils de mise en service expirent au bout de 12 mois et donc un nouveau profil doit être associé à l’application déployée dans l’ordre pour les applications continuer à exécuter.
+Apple iOS une ligne d'entreprise utilise le concept d'un profil de mise en service qui permet de valider l'intégrité de l'application et d'appliquer les stratégies définies dans le profil. Ces profils de mise en service expirent au bout de 12 mois et un nouveau profil doit être associé à l'application déployée afin que les applications continuent à s'exécuter.
   
-L’article suivant explique comment créer les associer à une nouvelle mise en service de profil avec un iOS application métier déployée via Intune : [Utilisez iOS application mise en service des profils pour empêcher vos applications à partir de la date d’expiration](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+L'article suivant explique comment créer associer un nouveau profil d'approvisionnement à une application LOB iOS déployée via Intune: [utiliser les profils de mise en service d'application IOS pour empêcher l'expiration de vos applications](https://docs.microsoft.com/intune/app-provisioning-profile-ios) .
   
 

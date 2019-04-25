@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: 5e8cc5d68afd5c35a503db2333ac620760cf3a8c
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29969711"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408896"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Gérer les profils utilisateur dans Delve
 
-Office Delve permet aux utilisateurs de gérer leur profil d’utilisateur Office 365. Les utilisateurs peuvent :
+Office Delve permet aux utilisateurs de gérer leur profil utilisateur Office 365. Les utilisateurs peuvent:
   
 - Afficher et mettre à jour leurs informations
     
-- Préserver la confidentialité des informations
+- Conserver certaines informations privées
     
-- Modifier leur profil ou garde image
+- Modifier leur profil ou leur image de la pochette
     
-- Modifier le format de langue et de temps pour Delve
+- Modifier le format de langue et d'heure pour Delve
     
 > [!NOTE]
-> Si un utilisateur mis à jour leur image de profil et la modification ne s’affiche pas dans SharePoint ou OneDrive, demandez à ouvrir un navigateur web, [accédez à Office.com](https://www.office.com), la connexion avec leur travail ou école compte, puis cliquez sur la vignette OneDrive ou SharePoint. Il vous invite à l’image de profil à synchroniser. L’utilisateur peut nécessaires pour essayer d’effectuer ces étapes avec la version privée de leur navigateur. 
+> Si un utilisateur a mis à jour son image de profil et que la modification n'apparaît pas dans SharePoint ou OneDrive, demandez-lui d'ouvrir un navigateur Web, [accédez à Office.com](https://www.office.com), connectez-vous à l'aide de son compte professionnel ou scolaire, puis cliquez sur la vignette OneDrive ou SharePoint. Cette opération invitera l'image de profil à se synchroniser. L'utilisateur peut avoir à essayer d'effectuer ces étapes avec la version privée de son navigateur. 
   
-[Pour plus d’informations sur la mise à jour des profils dans Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[En savoir plus sur la mise à jour des profils dans Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
