@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
 ms.openlocfilehash: 0acd5345bb1b352af21b17e353591b8772d718aa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755333"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400201"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Comment supprimer mes informations de carte de crédit?
 
-1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
 2. Sélectionnez un abonnement, puis sélectionnez **Mettre à jour les détails du paiement**.
     

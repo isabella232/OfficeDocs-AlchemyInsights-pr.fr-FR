@@ -1,5 +1,5 @@
 ---
-title: Résoudre les problèmes de l’inscription des appareils iOS dans Microsoft Intune
+title: Résoudre les problèmes liés à l'enregistrement d'appareils iOS dans Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: d28dca4fccf823e627dd179f828ba3b8baf843a6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924766"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391005"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Résoudre les problèmes de l’inscription des appareils iOS dans Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Résoudre les problèmes liés à l'enregistrement d'appareils iOS dans Microsoft Intune
 
-Passez en revue les ressources répertoriées ci-dessous pour résoudre le problème maintenant. 
+Passez en revue les ressources indiquées ci-dessous pour résoudre votre problème dès maintenant. 
   
-Certains messages d’erreur courants et les étapes de résolution :
+Les messages d'erreur courants et les étapes de résolution sont les suivants:
   
-- **Cap périphérique atteint** L’utilisateur dispose de plusieurs périphériques inscrits à la limite du périphérique. Passez en revue ces documents pour [Supprimer un périphérique](https://docs.microsoft.com/intune/devices-wipe) ou de [Modifier la limite de périphérique](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Seuil d'appareil atteint** L'utilisateur dispose de plus d'appareils que la limite de l'appareil. Passez en revue ces documents pour [supprimer un périphérique](https://docs.microsoft.com/intune/devices-wipe) ou [modifier la limite du périphérique](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Ce Service n’est pas pris en charge. Aucune stratégie d’inscription :** Service de Notification Push Apple (APNS) doit être configuré ou renouvelée. Passez en revue [ce document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) pour obtenir des instructions sur la procédure à suivre. 
+- **Ce service n'est pas pris en charge. Aucune stratégie d'inscriptions:** le service de notification d'envoi de message Apple (APNs) doit être configuré ou renouvelé. Consultez [ce document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) pour obtenir des instructions sur la façon de procéder. 
     
-- **Type de licence utilisateur non valide ou le nom d’utilisateur non reconnu :** L’utilisateur doit être attribué une licence Intune ou EMS. Passez en revue ces documents pour attribuer une licence par le biais de : [Centre d’administration Office](https://docs.microsoft.com/intune/licenses-assign) ou [portail Azure](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Type de licence utilisateur non valide ou nom d'utilisateur non reconnu:** Une licence Intune ou EMS doit être attribuée à l'utilisateur. Passez en revue ces documents pour attribuer une licence via: [Centre d'administration Office](https://docs.microsoft.com/intune/licenses-assign) ou [portail Azure](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-Ressources supplémentaires pour vous aider à résoudre votre problème :
+Ressources supplémentaires pour vous aider à résoudre votre problème:
   
-1. Utiliser le [Portail de résolution des problèmes de Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d’inscription courantes. Passez en revue [ce document](https://docs.microsoft.com/intune/help-desk-operators) pour plus d’informations. 
+1. Utilisez le [portail de résolution des problèmes Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d'inscriptions courants. Pour plus d'informations, consultez [ce document](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-2. Passez en revue ces documents pour la liste des erreurs qui empêchent l’inscription et les résolutions à chacun : [guide de résolution des problèmes](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) et [dépannage doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Consultez ces documents pour obtenir la liste des erreurs courantes qui empêchent l'inscription et la résolution de chacune d'elles: [Guide de dépannage](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) et [Dépannage doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [Apprenez à inscrire les appareils iOS dans Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Découvrez comment inscrire des appareils iOS dans Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
     
 

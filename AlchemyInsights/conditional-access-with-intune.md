@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: 2e778bf4fbdb766700fb24b3405b4ddce89253f7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935930"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393539"
 ---
 # <a name="conditional-access-with-intune"></a>Accès conditionnel avec Intune
 
-À l’aide de **L’accès conditionnel** avec Intune requiert 3 comme suit : 
+L'utilisation de l' **accès conditionnel** avec Intune nécessite 3 étapes: 
   
-- Créer une **Stratégie d’accès conditionnel** qui définit les ressources qui sont protégés, et les conditions qui doivent être remplies pour accéder à ces ressources. Par exemple, un périphérique doit être conforme avant d’accéder à la messagerie d’entreprise. 
+- Créer une **stratégie d'accès conditionnel** qui définit les ressources à protéger et les conditions à respecter pour accéder à ces ressources. Par exemple, un appareil doit être conforme avant d'accéder à la messagerie d'entreprise. 
     
-- Créer une **Stratégie de conformité** pour définir les paramètres qui doivent être remplis avant que le périphérique est considéré comme conforme. Par exemple, un périphérique doit avoir un code confidentiel d’au moins 6 chiffres est considéré comme conforme. 
+- Créez une **stratégie de conformité** pour définir les paramètres qui doivent être satisfaits pour que l'appareil soit considéré comme conforme. Par exemple, un appareil doit avoir un code confidentiel d'au moins 6 chiffres avant d'être considéré comme conforme. 
     
-- Vérifier les **Stratégies de conformité** et **Les stratégies d’accès conditionnel** destinées à des groupes d’utilisateurs requis. Cela peut nécessiter la création de groupes d’utilisateurs spécifiques dans Azure Active Directory. 
+- S'assurer que les stratégies de **conformité** et les **stratégies d'accès conditionnel** sont ciblées pour les groupes d'utilisateurs souhaités. Cela peut nécessiter la création de groupes d'utilisateurs spécifiques dans Azure Active Directory. 
     
-En savoir plus :
+En savoir plus:
   
-- [Meilleures pratiques en matière de conditionnelle accès](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Meilleures pratiques en matière d'accès conditionnel](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Mise en route avec accès conditionnel](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Prise en main de l'accès conditionnel](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

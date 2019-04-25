@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000240
 ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777235"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32392528"
 ---
 # <a name="replying-in-outlookcom"></a>Réponse dans Outlook.com
 
@@ -35,6 +35,6 @@ Pour répondre automatiquement à tous les messages:
     - Refuser et annuler mes réunions pendant cette période
 4. Dans la zone de message, tapez un message à envoyer aux personnes pendant que vous êtes en déplacement.
 5. Pour envoyer uniquement les réponses à vos contacts, activez la case à cocher **Envoyer uniquement les réponses aux contacts** .
-6. Sélectionnez **Enregistrer**.
+6. Cliquez sur **Enregistrer**.
 
 En savoir plus sur le [transfert automatique dans Outlook.com](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0).

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761595"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396757"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Acheter un abonnement Office 365 à partir de votre version d'évaluation gratuite
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761595"
   
  **Vous pouvez acheter la même offre que votre version d'évaluation**
   
-1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
 2. Sélectionnez **acheter maintenant** pour l'abonnement d'évaluation souhaité, puis suivez les étapes d'extraction. 
     

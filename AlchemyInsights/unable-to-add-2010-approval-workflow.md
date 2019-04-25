@@ -1,5 +1,5 @@
 ---
-title: Impossible d’ajouter le flux de travail approbation 2010
+title: Impossible d'ajouter le flux de travail d'approbation 2010
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/3/2018
@@ -9,36 +9,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
 ms.openlocfilehash: 3741b1169ddf731725c18fbaed80bfb321e5db46
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925414"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32366833"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Impossible d’ajouter le flux de travail approbation 2010
+# <a name="unable-to-add-2010-approval-workflow"></a>Impossible d'ajouter le flux de travail d'approbation 2010
 
-Dans une collection de sites Microsoft SharePoint, vous ne pouvez pas ajouter un flux de travail réutilisable globalement (par exemple, « approbation - SharePoint 2010 ») à une liste ou une bibliothèque.
+Dans une collection de sites Microsoft SharePoint, vous ne pouvez pas ajouter un flux de travail réutilisable globalement (tel que «approbation-SharePoint 2010») à une liste ou une bibliothèque.
   
-Pour résoudre ce problème, procédez comme suit : 
+Pour résoudre ce problème, procédez comme suit: 
   
 1. Ouvrez le site Web racine de la collection de sites dans SharePoint Designer 2013.
   
-2. **Objets du Site**, cliquez sur **flux de travail**. 
+2. Sous **objets du site**, sélectionnez **flux de travail**. 
   
-3. Dans la section **Nouveau** du ruban de **flux de travail** , sélectionnez le **Flux de travail réutilisable**. 
+3. Dans la section **nouveau** du ruban **flux de travail** , sélectionnez **flux**de travail réutilisable. 
   
-4. Dans le formulaire de **Flux de travail réutilisable** , entrez le nom ** *Repair2010* **. Pour **Type de plateforme**, cliquez sur **Flux de travail SharePoint 2010**, puis cliquez sur **OK**. 
+4. Dans le formulaire **créer un flux de travail** réutilisable, entrez le nom * * *Repair2010* * *. Pour **type de plateforme**, cliquez sur **flux de travail SharePoint 2010**, puis sur **OK**. 
   
-1. Dans la section **Enregistrer** du ruban de **flux de travail** , sélectionnez **Publier**. 
+1. Dans la section **Enregistrer** du ruban **flux de travail** , sélectionnez **publier**. 
   
-2. Dans la section **Gérer** du ruban de **flux de travail** , sélectionnez **Publier globalement**. Dans la boîte de dialogue de confirmation qui s’affiche, sélectionnez **OK**. 
+2. Dans la section **gérer** du ruban **flux de travail** , sélectionnez **publier globalement**. Dans la boîte de dialogue de confirmation qui s'affiche, sélectionnez **OK**. 
   
-3. Dans un navigateur web, recherchez le site Web racine de la collection de sites, puis accéder aux **Paramètres du Site** \> **Fonctionnalités de Collection de sites**. Activer/désactiver la fonctionnalité de **flux de travail** : 
+3. Dans un navigateur Web, recherchez le site Web racine de la collection de sites, puis accédez aux **paramètres** \> du site fonctionnalités de la **collection de sites**. Activer/désactiver la fonctionnalité **flux de travail** : 
   
-· Si la fonctionnalité est *activé* , cliquez sur **désactiver** et puis cliquez sur **Activer**. 
+· Si la fonctionnalité est *activée* , cliquez sur désactiver **,** puis sur **activer**. 
   
-· Si la fonctionnalité est *désactivé* , cliquez sur **Activer**. 
+· Si la fonctionnalité est ** désactivée, cliquez sur **activer**. 
   
-Pour plus d’informations, reportez-vous à l' [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)suivant.
+Pour plus d'informations, reportez-vous à l' [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)suivant.
   
 
