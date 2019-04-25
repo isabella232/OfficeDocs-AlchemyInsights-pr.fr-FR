@@ -1,5 +1,5 @@
 ---
-title: Délai de mise en service de boîte aux lettres
+title: Retard de mise en service de boîte aux lettres
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
 ms.openlocfilehash: 1dd202626bbf7c7fd9169867f38f3cf7a96a660d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937042"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409436"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Boîte aux lettres de l’utilisateur est en cours de création
+# <a name="your-users-mailbox-is-being-created"></a>La boîte aux lettres de votre utilisateur est en cours de création
 
-Il peut prendre une heure avant une nouvelle boîte aux lettres est prête à utiliser.
+L'utilisation d'une nouvelle boîte aux lettres peut prendre jusqu'à une heure.
   
-Si la boîte aux lettres d’un utilisateur a été « préparation » pour plus d’une heure, vous pouvez essayer de supprimer et de recréer l’utilisateur ou utiliser l’option « nous vous appeler » pour communiquer avec un ingénieur du support technique.
+Si la boîte aux lettres d'un utilisateur a été «en préparation» pendant plus d'une heure, vous pouvez essayer de la supprimer puis la recréer, ou utiliser l'option «nous contacter» pour contacter un ingénieur du support technique.
   
 

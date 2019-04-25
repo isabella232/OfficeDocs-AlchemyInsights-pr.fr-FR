@@ -1,5 +1,5 @@
 ---
-title: Règles DLP pour US / numéro de passeport Royaume-Uni ne fonctionne ne pas
+title: La règle DLP pour le numéro de passeport US/UK ne fonctionne pas
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
 ms.openlocfilehash: bb80ef07364a575f6032bb105cff83cd8f95bd63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912094"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404379"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problèmes avec DLP - US / numéros de passeport (Royaume-Uni)
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problèmes liés aux numéros de passeport DLP-US/UK
 
-Vous rencontrez des problèmes avec **Data Loss Prevention (DLP)** ne fonctionne ne pas pour le contenu contenant un **US / numéro de passeport (Royaume-Uni)** lors de l’utilisation d’un type d’informations sensibles DLP dans O365 ? Dans ce cas, assurez-vous que votre contenu contient les informations nécessaires pour que la stratégie DLP est recherchez lorsqu’elle est évaluée. 
+Avez-vous des problèmes avec la **protection contre la perte de données (DLP)** qui ne fonctionnent pas pour le contenu contenant un **numéro de passeport US/UK** lorsque vous utilisez un type d'informations sensibles DLP dans O365? Si c'est le cas, assurez-vous que votre contenu contient les informations nécessaires pour ce que la stratégie DLP recherche lors de l'évaluation. 
   
-Par exemple, pour un **US / numéro de passeport Royaume-Uni** stratégie configurée avec un niveau de confiance de 75 %, ce qui suit sont évalué et doivent être détecté pour déclencher la règle 
+Par exemple, pour une stratégie de **numéro de passeport US/UK** configurée avec un niveau de confiance de 75%, les éléments suivants sont évalués et doivent être détectés pour que la règle se déclenche 
   
-- **[Format :](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Neuf chiffres 
+- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** Neuf chiffres 
     
-- **[Modèle :](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** Neuf chiffres consécutifs 
+- **[Modèle:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** Neuf chiffres consécutifs 
     
-- **[Somme de contrôle :](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Non, il n’existe aucune somme de contrôle 
+- **[Checksum:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Non, il n'y a pas de checksum 
     
-- **[Définition :](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** Une stratégie DLP est convaincu que ce type d’informations sensibles a été détecté à 75 % if, au sein d’une proximité de 300 caractères : 
+- **[Définition:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** Une stratégie DLP est sûre à 75% d'avoir détecté ce type d'informations sensibles si, dans une proximité de 300 caractères: 
     
   - La fonction Func_usa_uk_passport trouve un contenu qui correspond au modèle.
     
   - Un mot clé figurant dans la liste Keyword_passport est trouvé.
     
-    Par exemple, l’exemple suivant déclenche pour les **US / numéro de passeport Royaume-Uni** stratégie : numéro de passeport 123456789 
+    Par exemple, l'exemple suivant se déclenche pour la stratégie de **numéro de passeport US/UK** : numéro de passeport américain 123456789 
     
-Pour plus d’informations sur ce qui est requis pour un US / numéro de passeport Royaume-Uni soient détectées pour votre contenu, consultez la section suivante de cet article : [apparence que le sensibles Types d’informations pour les États-Unis / numéro de passeport (Royaume-Uni)](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
+Pour plus d'informations sur les éléments requis pour la détection d'un numéro de passeport US/UK pour votre contenu, consultez la section suivante de cet article: [ce que les types d'informations sensibles recherchent sur le numéro de passeport US/UK](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
   
-À l’aide d’un type de différentes informations sensibles intégrés, consultez l’article suivant pour plus d’informations sur ce qui est nécessaire pour les autres types : [recherchez ce que le sensibles Types d’informations](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+À l'aide d'un type d'informations sensibles intégré différent, consultez l'article suivant pour obtenir des informations sur les éléments requis pour les autres types: [ce que recherche les types d'informations sensibles](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
 
