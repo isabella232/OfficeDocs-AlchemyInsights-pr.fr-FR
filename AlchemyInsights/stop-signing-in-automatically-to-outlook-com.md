@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000008
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
 ms.openlocfilehash: 82776bdf29fb390d392542549004d8ab58179ee3
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778845"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421022"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="0880d-102">Comment cesser de se connecter automatiquement</span><span class="sxs-lookup"><span data-stu-id="0880d-102">How to stop signing in automatically</span></span>
+# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="b4e3e-102">Comment cesser de se connecter automatiquement</span><span class="sxs-lookup"><span data-stu-id="b4e3e-102">How to stop signing in automatically</span></span>
 
-<span data-ttu-id="0880d-103">Pour cesser de se connecter automatiquement, désactivez la case à cocher **maintenir la connexion** sur la page où vous entrez votre mot de passe.</span><span class="sxs-lookup"><span data-stu-id="0880d-103">To stop signing in automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
+<span data-ttu-id="b4e3e-103">Pour cesser de se connecter automatiquement, désactivez la case à cocher **maintenir la connexion** sur la page où vous entrez votre mot de passe.</span><span class="sxs-lookup"><span data-stu-id="b4e3e-103">To stop signing in automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
   
-<span data-ttu-id="0880d-104">Pour en savoir plus, consultez [la rubrique How to sign in or out of Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873113).</span><span class="sxs-lookup"><span data-stu-id="0880d-104">To learn more, see [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873113).</span></span>
+<span data-ttu-id="b4e3e-104">Pour en savoir plus, consultez [la rubrique How to sign in or out of Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873113).</span><span class="sxs-lookup"><span data-stu-id="b4e3e-104">To learn more, see [How to sign in to or out of Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873113).</span></span>
   
 

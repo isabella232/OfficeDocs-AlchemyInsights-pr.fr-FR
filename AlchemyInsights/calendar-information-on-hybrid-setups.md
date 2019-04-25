@@ -14,14 +14,14 @@ ms.custom:
 - "896"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
 ms.openlocfilehash: 936c708e53ee02d5de49783bd38091d0dac73efa
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857878"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396450"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="1246a-102">Problèmes de disponibilité du calendrier dans les environnements hybrides</span><span class="sxs-lookup"><span data-stu-id="1246a-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="46b36-102">Problèmes de disponibilité du calendrier dans les environnements hybrides</span><span class="sxs-lookup"><span data-stu-id="46b36-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="1246a-103">Si les utilisateurs rencontrent des problèmes lors de l'affichage des informations de disponibilité du calendrier dans des environnements hybrides, réexécutez l'Assistant Configuration hybride.</span><span class="sxs-lookup"><span data-stu-id="1246a-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="1246a-104">Pour plus d'informations sur l'Assistant Configuration hybride, consultez la rubrique [Assistant Configuration hybride](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="1246a-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
+<span data-ttu-id="46b36-103">Si les utilisateurs rencontrent des problèmes lors de l'affichage des informations de disponibilité du calendrier dans des environnements hybrides, réexécutez l'Assistant Configuration hybride.</span><span class="sxs-lookup"><span data-stu-id="46b36-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="46b36-104">Pour plus d'informations sur l'Assistant Configuration hybride, consultez la rubrique [Assistant Configuration hybride](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="46b36-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
-<span data-ttu-id="1246a-105">Pour connaître les étapes de résolution dans les environnements hybrides, consultez [la rubrique Troubleshoot a Hybrid Deployment](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="1246a-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
+<span data-ttu-id="46b36-105">Pour connaître les étapes de résolution dans les environnements hybrides, consultez [la rubrique Troubleshoot a Hybrid Deployment](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="46b36-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
