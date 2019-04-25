@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000075
 ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783080"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388441"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="3c62a-102">Changer de mot de passe dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="3c62a-102">Changer votre mot de passe dans Outlook.com</span></span>
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="6c9c0-102">Changer de mot de passe dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="6c9c0-102">Changer votre mot de passe dans Outlook.com</span></span>
 
-<span data-ttu-id="3c62a-103">Votre propre mot de passe Outlook.com est le même que votre propre mot de passe compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="3c62a-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
+<span data-ttu-id="6c9c0-103">Votre propre mot de passe Outlook.com est le même que votre propre mot de passe compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="6c9c0-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
 
-1. <span data-ttu-id="3c62a-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **modifier le mot de passe**.</span><span class="sxs-lookup"><span data-stu-id="3c62a-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Modifier le mot de passe**.</span></span>
-2. <span data-ttu-id="3c62a-105">Par mesure de sécurité, pouvez être invité à la à la identité à l'Aide d'un code de sécurité.</span><span class="sxs-lookup"><span data-stu-id="3c62a-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
-3. <span data-ttu-id="3c62a-106">Entrez à votre propre mot de passe actuel, à nouveau mot de passe, \*\*\*\* puis sélectionnez enregistres.</span><span class="sxs-lookup"><span data-stu-id="3c62a-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
+1. <span data-ttu-id="6c9c0-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **modifier le mot de passe**.</span><span class="sxs-lookup"><span data-stu-id="6c9c0-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Modifier le mot de passe**.</span></span>
+2. <span data-ttu-id="6c9c0-105">Par mesure de sécurité, pouvez être invité à la à la identité à l'Aide d'un code de sécurité.</span><span class="sxs-lookup"><span data-stu-id="6c9c0-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
+3. <span data-ttu-id="6c9c0-106">Entrez à votre propre mot de passe actuel, à nouveau mot de passe, \*\*\*\* puis sélectionnez enregistres.</span><span class="sxs-lookup"><span data-stu-id="6c9c0-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
 
-<span data-ttu-id="3c62a-107">Si avez oublié à la page MD MD de passe, accédez à la [page de réinitialisation de MD de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invitations.</span><span class="sxs-lookup"><span data-stu-id="3c62a-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
+<span data-ttu-id="6c9c0-107">Si avez oublié à la page MD MD de passe, accédez à la [page de réinitialisation de MD de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invitations.</span><span class="sxs-lookup"><span data-stu-id="6c9c0-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
 
-<span data-ttu-id="3c62a-108">Si pensez que Outlook.com été piraté, voir [lun Outlook.com a été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8)piraté.</span><span class="sxs-lookup"><span data-stu-id="3c62a-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span></span>
+<span data-ttu-id="6c9c0-108">Si pensez que Outlook.com été piraté, voir [lun Outlook.com a été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8)piraté.</span><span class="sxs-lookup"><span data-stu-id="6c9c0-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span></span>
