@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 3fda1ef20dd080c6d99bf242168256c04eff24b8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761667"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408357"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="3fa98-102">Vérifier l'état de synchronisation d'identité AAD</span><span class="sxs-lookup"><span data-stu-id="3fa98-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="a3e47-102">Vérifier l'état de synchronisation d'identité AAD</span><span class="sxs-lookup"><span data-stu-id="a3e47-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="3fa98-103">Vérifier l'état de synchronisation est facile:</span><span class="sxs-lookup"><span data-stu-id="3fa98-103">Checking sync status is easy:</span></span> 
+<span data-ttu-id="a3e47-103">Vérifier l'état de synchronisation est facile:</span><span class="sxs-lookup"><span data-stu-id="a3e47-103">Checking sync status is easy:</span></span> 
   
-- <span data-ttu-id="3fa98-104">Connectez-vous au centre d'administration Microsoft 365 et choisissez \* \* État dirSync \* \* sur la page d'accueil.</span><span class="sxs-lookup"><span data-stu-id="3fa98-104">Sign in to the Microsoft 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
+- <span data-ttu-id="a3e47-104">Connectez-vous au centre d'administration Microsoft 365 et choisissez \* \* État dirSync \* \* sur la page d'accueil.</span><span class="sxs-lookup"><span data-stu-id="a3e47-104">Sign in to the Microsoft 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
     
-- <span data-ttu-id="3fa98-105">Vous pouvez également accéder à utilisateurs \> actifs, puis, sur la page utilisateurs actifs, sélectionner plus \> de synchronisation d'annuaires.</span><span class="sxs-lookup"><span data-stu-id="3fa98-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="a3e47-105">Vous pouvez également accéder à utilisateurs \> actifs, puis, sur la page utilisateurs actifs, sélectionner plus \> de synchronisation d'annuaires.</span><span class="sxs-lookup"><span data-stu-id="a3e47-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
     
-- <span data-ttu-id="3fa98-106">Dans le volet synchronisation d'annuaires, sélectionnez accéder à la gestion dirSync.</span><span class="sxs-lookup"><span data-stu-id="3fa98-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
+- <span data-ttu-id="a3e47-106">Dans le volet synchronisation d'annuaires, sélectionnez accéder à la gestion dirSync.</span><span class="sxs-lookup"><span data-stu-id="a3e47-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
     
-<span data-ttu-id="3fa98-107">S'il y a un problème avec la synchronisation d'annuaires, les erreurs sont répertoriées sur cette page.</span><span class="sxs-lookup"><span data-stu-id="3fa98-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="3fa98-108">Pour plus d'informations sur les différentes erreurs que vous pouvez rencontrer, consultez la rubrique [identifier les erreurs de synchronisation d'annuaires dans Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="3fa98-108">For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
+<span data-ttu-id="a3e47-107">S'il y a un problème avec la synchronisation d'annuaires, les erreurs sont répertoriées sur cette page.</span><span class="sxs-lookup"><span data-stu-id="a3e47-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="a3e47-108">Pour plus d'informations sur les différentes erreurs que vous pouvez rencontrer, consultez la rubrique [identifier les erreurs de synchronisation d'annuaires dans Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="a3e47-108">For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
   
 

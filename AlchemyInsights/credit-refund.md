@@ -1,5 +1,5 @@
 ---
-title: Et de remboursement
+title: Crédit/remboursement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
 ms.openlocfilehash: 63624f7487292d09034f55a9ec976efa18363a91
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911842"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406612"
 ---
-# <a name="creditrefund"></a><span data-ttu-id="0c623-102">Et de remboursement</span><span class="sxs-lookup"><span data-stu-id="0c623-102">Credit/refund</span></span>
+# <a name="creditrefund"></a><span data-ttu-id="c52b4-102">Crédit/remboursement</span><span class="sxs-lookup"><span data-stu-id="c52b4-102">Credit/refund</span></span>
 
- <span data-ttu-id="0c623-103">**Annulation**</span><span class="sxs-lookup"><span data-stu-id="0c623-103">**Cancellation**</span></span>
+ <span data-ttu-id="c52b4-103">**Brouillage**</span><span class="sxs-lookup"><span data-stu-id="c52b4-103">**Cancellation**</span></span>
   
-<span data-ttu-id="0c623-p101">Lors de l’annulation d’un abonnement, vous recevrez une facture finale avec un crédit dû à la prochaine date de facturation. Cette opération peut prendre jusqu'à 30 jours pour recevoir à partir de la date de que l’abonnement a été annulée.</span><span class="sxs-lookup"><span data-stu-id="0c623-p101">When cancelling a subscription you will receive a final invoice with a credit due on the next billing date. This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
+<span data-ttu-id="c52b4-104">Lors de l'annulation d'un abonnement, vous recevrez une facture finale avec un crédit dû à la prochaine date de facturation.</span><span class="sxs-lookup"><span data-stu-id="c52b4-104">When cancelling a subscription you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="c52b4-105">Cela peut prendre jusqu'à 30 jours pour recevoir à compter de la date d'annulation de l'abonnement.</span><span class="sxs-lookup"><span data-stu-id="c52b4-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
   
- <span data-ttu-id="0c623-106">**Modification du siège**</span><span class="sxs-lookup"><span data-stu-id="0c623-106">**Seat Change**</span></span>
+ <span data-ttu-id="c52b4-106">**Changement de siège**</span><span class="sxs-lookup"><span data-stu-id="c52b4-106">**Seat Change**</span></span>
   
-<span data-ttu-id="0c623-p102">Lorsque les licences sont supprimés à partir d’un abonnement, l’heure inutilisé sur ces licences est appliquée en tant que crédit sur la facture suivante. Cette opération peut prendre jusqu'à 30 jours pour recevoir à partir de la date, que les licences sont supprimés.</span><span class="sxs-lookup"><span data-stu-id="0c623-p102">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill. This can take up to 30 days to receive from the date the licenses are removed.</span></span>
+<span data-ttu-id="c52b4-107">Lorsque des licences sont supprimées d'un abonnement, le temps non utilisé sur ces licences est appliqué comme crédit sur la facture suivante.</span><span class="sxs-lookup"><span data-stu-id="c52b4-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="c52b4-108">Cette mise à jour peut prendre jusqu'à 30 jours à compter de la date de suppression des licences.</span><span class="sxs-lookup"><span data-stu-id="c52b4-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
   
 
