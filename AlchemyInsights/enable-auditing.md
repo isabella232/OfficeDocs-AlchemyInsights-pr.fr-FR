@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: 286
 ms.assetid: ''
 ms.openlocfilehash: 4f5829ac1ecc7d01575df360929d1a775e626e2a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787315"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398924"
 ---
-# <a name="search-the-audit-log"></a>Rechercher le journal d’audit
+# <a name="search-the-audit-log"></a>Effectuer une recherche dans le journal d’audit
 
 Pour effectuer une recherche dans le journal d'audit Office 365, procédez comme [suit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log). 
 

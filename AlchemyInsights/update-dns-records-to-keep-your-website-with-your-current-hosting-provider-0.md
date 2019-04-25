@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: f2cdb319e56b82c09b7a9856c81a45e69dee6759
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760984"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423721"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Mettre à jour les enregistrements DNS pour conserver votre site web chez votre fournisseur d'hébergement actuel
 
@@ -44,6 +44,6 @@ De plus, vous pouvez créer un enregistrement CNAME pour aider les clients à tr
     
   - Pour **Adresse de pointage**, tapez le nom de domaine complet (FQDN) de votre site web (par exemple, contoso.com). 
     
-2. Sélectionnez **Enregistrer**. 
+2. Cliquez sur **Enregistrer**. 
     
 

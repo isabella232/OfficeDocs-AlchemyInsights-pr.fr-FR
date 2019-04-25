@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
 ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760012"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396486"
 ---
 # <a name="buy-additional-licenses"></a>Acheter des licences supplémentaires
 
-1. Dans le Centre d'administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
     
 2. Sur la **** page abonnements, choisissez l'abonnement auquel vous souhaitez ajouter des licences, puis choisissez **Ajouter/supprimer des licences**.
     

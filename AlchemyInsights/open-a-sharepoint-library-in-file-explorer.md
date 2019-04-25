@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
 ms.openlocfilehash: 6e1c6870440cab3a74f697cd71ab463b2b4aad0b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759400"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419559"
 ---
 # <a name="open-a-sharepoint-library-in-file-explorer"></a>Ouvrir une bibliothèque SharePoint dans l'Explorateur de fichiers
 

@@ -10,42 +10,42 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
 ms.openlocfilehash: be232b682b7bb3d24f59ad10501edbd796e6bcaf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935861"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401751"
 ---
 # <a name="file-open-read-only"></a>Fichier ouvert en lecture seule
 
-Vous pouvez constater que l’ouverture de fichiers, ils ouvrent en lecture seule. Dans certains cas, il s’agit d’une sécurité accrue, telles que l’ouverture de fichiers à partir d’internet et d’autres cas, il peut être en raison d’un paramètre qui peut être modifié. Voici quelques scénarios où un fichier s’ouvre en lecture seule et certaines étapes que vous permettant de changer.
+Vous pouvez constater que lorsque vous ouvrez des fichiers, ils s'ouvrent en lecture seule. Dans certains cas, il s'agit d'une sécurité supplémentaire, par exemple lorsque vous ouvrez des fichiers à partir d'Internet et d'autres fois, il peut être dû à un paramètre pouvant être modifié. Voici quelques scénarios dans lesquels un fichier s'ouvre en lecture seule et des étapes que vous pouvez suivre pour le modifier.
   
- **Mon antivirus est à l’origine les ouvrir en lecture seule**
+ **Mon antivirus est à l'origine de l'ouverture en lecture seule**
   
-Certains programmes antivirus peuvent vous protéger contre les fichiers potentiellement dangereux en les ouvrant en lecture seule. Vous devrez peut-être renseignez-vous auprès de votre fournisseur d’antivirus pour savoir comment modifier ces paramètres. BitDefender, par exemple, possède un contenu sur l’ajout d’exclusions d’application : [comment ajouter des applications ou des exclusions de processus dans le centre de contrôle Bitdefender](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Certains programmes antivirus peuvent vous protéger contre les fichiers potentiellement dangereux en les ouvrant en lecture seule. Vous devrez peut-être consulter votre fournisseur d'antivirus pour savoir comment ajuster ces paramètres. BitDefender, par exemple, comporte du contenu sur l'ajout d'exclusions d'applications ici: [comment ajouter des exclusions d'applications ou de processus dans le centre de contrôle BitDefender](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
   
- **Les propriétés de fichier sont valeur en lecture seule ?**
+ **Les propriétés de fichier sont-elles définies en lecture seule?**
   
-Vous pouvez vérifier les propriétés de fichier, avec le bouton droit sur le fichier, puis sélectionnez Propriétés. Si l’attribut en lecture seule est activée, vous pouvez désactiver et cliquez sur OK.
+Vous pouvez vérifier les propriétés du fichier en cliquant avec le bouton droit sur le fichier et en choisissant Propriétés. Si l'attribut lecture seule est activé, vous pouvez le décocher et cliquer sur OK.
   
  **Le contenu est en mode protégé**
   
-Les fichiers à partir d’Internet et d’autres emplacements potentiellement dangereuses peuvent contenir des virus, vers ou autres types de logiciels malveillants qui peuvent endommager votre ordinateur. Il s’agit également souvent le cas avec les pièces jointes ou les fichiers que vous avez téléchargé. Pour protéger votre ordinateur, les fichiers de ces emplacements potentiellement dangereuses sont ouverts en mode protégé. En utilisant le mode protégé, vous pouvez lire un fichier et tout en réduisant les risques de voir son contenu. Pour plus d’informations sur le mode protégé et comment modifier les paramètres, consultez cet article : [Quel est le mode protégé ?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Les fichiers provenant d'Internet et d'autres emplacements potentiellement dangereux peuvent contenir des virus, des vers ou d'autres types de programmes malveillants qui peuvent endommager votre ordinateur. Cela est également le cas pour les pièces jointes ou les fichiers que vous avez téléchargés. Pour vous aider à protéger votre ordinateur, les fichiers de ces emplacements potentiellement dangereux sont ouverts en mode protégé. En utilisant le mode protégé, vous pouvez lire un fichier et afficher son contenu tout en réduisant les risques. Pour plus d'informations sur le mode protégé et sur la façon de modifier les paramètres, consultez cet article: [qu'est-ce que le mode protégé?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **OneDrive est pleine ?**
+ **OneDrive est-il plein?**
   
-Si le fichier est stocké sur OneDrive et l’espace de stockage OneDrive est complète, vous sera impossible d’enregistrer le document jusqu'à ce que vous êtes sous votre espace alloué. Vous pouvez vérifier l’espace libre sur OneDrive en cliquant sur l’icône OneDrive dans le centre de notification et de choix du stockage de gérer, ou vous pouvez accéder aux [http://onedrive.live.com](http://onedrive.live.com), se connecter et notez la quantité d’espace utilisé dans l’angle inférieur gauche de l’écran.
+Si le fichier est stocké sur OneDrive et que votre espace de stockage OneDrive est plein, vous ne pourrez pas enregistrer le document tant que vous n'aurez pas sous votre espace alloué. Vous pouvez vérifier votre espace libre sur OneDrive en cliquant sur l'icône OneDrive dans le centre de notification et en sélectionnant gérer le stockage, [http://onedrive.live.com](http://onedrive.live.com)ou vous pouvez accéder à, vous connecter et noter la quantité d'espace utilisé dans le coin inférieur gauche de l'écran.
   
- **Office est activée ?**
+ **Office est-il activé?**
   
-Si Office n’est pas activé, ou si votre abonnement a expiré, vous pouvez être en Mode fonctionnalités réduites en lecture seule. Pour plus d’informations sur la façon d’activer Office, voir : [produit sans licence et les erreurs d’activation dans Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Si Office n'est pas activé, ou si votre abonnement a expiré, il se peut que vous soyez en mode de fonctionnalité réduite en lecture seule. Pour plus d'informations sur l'activation d'Office, consultez la rubrique suivante: Unlicensed [Product and activation Errors in Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Si le problème persiste...**
+ **Si tout le reste échoue...**
   
-- Essayez de redémarrer l’ordinateur
+- Essayez de redémarrer l'ordinateur.
     
-- Installer les mises à jour Office
+- Installer les mises à jour d'Office
     
-- Effectuer une réparation en ligne d’Office
+- Effectuer une réparation en ligne d'Office
     
 

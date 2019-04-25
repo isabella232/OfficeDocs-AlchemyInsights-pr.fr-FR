@@ -1,5 +1,5 @@
 ---
-title: Modifier l’autorité Mobile Device Manager
+title: Modifier l'autorité MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913462"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394594"
 ---
-# <a name="change-intune-mdm-authority"></a>Modifier l’autorité Intune MDM
+# <a name="change-intune-mdm-authority"></a>Modifier l'autorité MDM Intune
 
-Vous pouvez modifier votre autorité de Mobile Device Manager sans avoir à ouvrir un cas de prise en charge. Consultez les documents suivants pour obtenir des instructions :
+Vous pouvez modifier votre autorité MDM sans ouvrir de cas de support. Pour obtenir des instructions, consultez les documents suivants:
   
-- [Modifier l’autorité de Mobile Device Manager à partir du Gestionnaire de Configuration en mode autonome Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Modifier l'autorité MDM du gestionnaire de configuration vers Intune standalone](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Modifier l’autorité de Mobile Device Manager Intune autonome pour le Gestionnaire de Configuration](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Modifier l'autorité MDM de Intune autonome vers le gestionnaire de configuration](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **Coexistence de Mobile Device Manager autorité**
+ **CoExistence de l'autorité MDM**
   
-- Vous pouvez avoir les deux autorités de Mobile Device Manager actives simultanément si vous disposez déjà d’Office 365 MDM est activée, mais vous souhaitez essayer MDM de Intune.
+- Vous pouvez faire en sorte que les deux autorités MDM soient actives simultanément si Office 365 MDM est déjà activé, mais que vous souhaitez essayer Intune MDM.
     
-- Les administrateurs ayant déjà Mobile Device Manager O365 active peuvent marquer simplement Intune MDM comme actif à partir du portail Azure.
+- Les administrateurs qui disposent déjà d'Office 365 MDM active peuvent simplement marquer Intune MDM comme étant actif à partir du portail Azure.
     
-- Si vous avez Intune MDM mais que vous souhaitez utiliser Mobile Device Manager de Office 365 : ouvrez un ticket ci-dessous et un agent de support vous aidera à autoriser cette opération pour vous.
+- Si vous disposez de Intune MDM mais souhaitez utiliser Office 365 MDM: veuillez ouvrir un ticket ci-dessous et un agent de support vous aidera à l'activer pour vous.
     
 
