@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 1050
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
 ms.openlocfilehash: a06614e3f5995099c3b38c1836712cb3d396b6b5
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858238"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397150"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a><span data-ttu-id="8ffc3-103">4.7.500 serveur occupé, Veuillez réessayer ultérieurement</span><span class="sxs-lookup"><span data-stu-id="8ffc3-103">4.7.500 Server busy, please try again later</span></span>
+# <a name="47500-server-busy-please-try-again-later"></a><span data-ttu-id="b9869-103">4.7.500 serveur occupé, Veuillez réessayer ultérieurement</span><span class="sxs-lookup"><span data-stu-id="b9869-103">4.7.500 Server busy, please try again later</span></span>
 
-<span data-ttu-id="8ffc3-104">Cette erreur se produit lorsque le volume du trafic de courrier électronique à partir de l'adresse IP source dépasse la limite basée sur la réputation (ou l'absence de réputation) de l'adresse IP source.</span><span class="sxs-lookup"><span data-stu-id="8ffc3-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="b9869-104">Cette erreur se produit lorsque le volume du trafic de courrier électronique à partir de l'adresse IP source dépasse la limite basée sur la réputation (ou l'absence de réputation) de l'adresse IP source.</span><span class="sxs-lookup"><span data-stu-id="b9869-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="8ffc3-105">Le blocage du courrier électronique à partir de l'adresse IP source expirera au cours d'une heure.</span><span class="sxs-lookup"><span data-stu-id="8ffc3-105">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="8ffc3-106">Si l'adresse IP source est un serveur de messagerie local qui vous appartient, vérifiez la configuration du connecteur de flux de messagerie.</span><span class="sxs-lookup"><span data-stu-id="8ffc3-106">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="8ffc3-107">Si le comportement persiste pendant plus d'une heure, contactez le support technique pour demander une exception pour l'adresse IP source.</span><span class="sxs-lookup"><span data-stu-id="8ffc3-107">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="b9869-105">Le blocage du courrier électronique à partir de l'adresse IP source expirera au cours d'une heure.</span><span class="sxs-lookup"><span data-stu-id="b9869-105">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="b9869-106">Si l'adresse IP source est un serveur de messagerie local qui vous appartient, vérifiez la configuration du connecteur de flux de messagerie.</span><span class="sxs-lookup"><span data-stu-id="b9869-106">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="b9869-107">Si le comportement persiste pendant plus d'une heure, contactez le support technique pour demander une exception pour l'adresse IP source.</span><span class="sxs-lookup"><span data-stu-id="b9869-107">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
