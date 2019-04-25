@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000093
 ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777760"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417950"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a><span data-ttu-id="8d3e7-102">Comment résoudre le problème «cela semble ne pas être autorisé»</span><span class="sxs-lookup"><span data-stu-id="8d3e7-102">How to fix "It looks like we don't have permission"</span></span>
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a><span data-ttu-id="7db37-102">Comment résoudre le problème «cela semble ne pas être autorisé»</span><span class="sxs-lookup"><span data-stu-id="7db37-102">How to fix "It looks like we don't have permission"</span></span>
 
-<span data-ttu-id="8d3e7-103">Si vous voyez le message d'erreur «il semble que vous n'êtes pas autorisé à obtenir des courriers électroniques pour....» procédez comme suit:</span><span class="sxs-lookup"><span data-stu-id="8d3e7-103">If you see the error message "It looks like we don't have permission to get email for ...." please do the following:</span></span>
+<span data-ttu-id="7db37-103">Si vous voyez le message d'erreur «il semble que vous n'êtes pas autorisé à obtenir des courriers électroniques pour....» procédez comme suit:</span><span class="sxs-lookup"><span data-stu-id="7db37-103">If you see the error message "It looks like we don't have permission to get email for ...." please do the following:</span></span>
 
-1. <span data-ttu-id="8d3e7-104">Ouvrez les [paramètres de votre compte connecté](https://outlook.live.com/mail/options/mail/accounts) et supprimez ou supprimez le compte connecté figurant dans le message d'erreur.</span><span class="sxs-lookup"><span data-stu-id="8d3e7-104">Open your [Connected Account settings](https://outlook.live.com/mail/options/mail/accounts) and remove or delete the connected account listed in the error.</span></span> 
-2. <span data-ttu-id="8d3e7-105">Rajoutez le compte connecté.</span><span class="sxs-lookup"><span data-stu-id="8d3e7-105">Add the connected account again.</span></span>
-3. <span data-ttu-id="8d3e7-106">ReVenez [à votre boîte aux lettres](https://outlook.live.com/mail/inbox).</span><span class="sxs-lookup"><span data-stu-id="8d3e7-106">Go [back to your mailbox](https://outlook.live.com/mail/inbox).</span></span>
+1. <span data-ttu-id="7db37-104">Ouvrez les [paramètres de votre compte connecté](https://outlook.live.com/mail/options/mail/accounts) et supprimez ou supprimez le compte connecté figurant dans le message d'erreur.</span><span class="sxs-lookup"><span data-stu-id="7db37-104">Open your [Connected Account settings](https://outlook.live.com/mail/options/mail/accounts) and remove or delete the connected account listed in the error.</span></span> 
+2. <span data-ttu-id="7db37-105">Rajoutez le compte connecté.</span><span class="sxs-lookup"><span data-stu-id="7db37-105">Add the connected account again.</span></span>
+3. <span data-ttu-id="7db37-106">ReVenez [à votre boîte aux lettres](https://outlook.live.com/mail/inbox).</span><span class="sxs-lookup"><span data-stu-id="7db37-106">Go [back to your mailbox](https://outlook.live.com/mail/inbox).</span></span>
 
-<span data-ttu-id="8d3e7-107">La resynchronisation de tous les courriers électroniques à partir de votre compte connecté peut prendre un certain temps.</span><span class="sxs-lookup"><span data-stu-id="8d3e7-107">It may take some time for all emails to re-sync from your connected account.</span></span>
+<span data-ttu-id="7db37-107">La resynchronisation de tous les courriers électroniques à partir de votre compte connecté peut prendre un certain temps.</span><span class="sxs-lookup"><span data-stu-id="7db37-107">It may take some time for all emails to re-sync from your connected account.</span></span>
 
-<span data-ttu-id="8d3e7-108">En savoir plus sur la [suppression](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) et l' [Ajout](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) de comptes connectés.</span><span class="sxs-lookup"><span data-stu-id="8d3e7-108">Learn more about [removing](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) and [adding](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) connected accounts.</span></span>
+<span data-ttu-id="7db37-108">En savoir plus sur la [suppression](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) et l' [Ajout](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) de comptes connectés.</span><span class="sxs-lookup"><span data-stu-id="7db37-108">Learn more about [removing](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) and [adding](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) connected accounts.</span></span>
