@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: 1575
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 1a47d0fc1d33d85f61fb80a1f451d1f5af08f060
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785040"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371946"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="92d1c-102">Extension du plan de gestion des offres PowerApp et Microsoft</span><span class="sxs-lookup"><span data-stu-id="92d1c-102">PowerApps and Microsoft Flow plan extension</span></span>
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="7241d-102">Extension du plan de gestion des offres PowerApp et Microsoft</span><span class="sxs-lookup"><span data-stu-id="7241d-102">PowerApps and Microsoft Flow plan extension</span></span>
 
-<span data-ttu-id="92d1c-103">Si vous avez l'intention de demander une extension de plan pour \*\*\*\* **Microsoft Flow** ou powerapps et que votre client a déjà des utilisateurs actifs de l'une des fonctionnalités suivantes, il n'est pas nécessaire de classer une demande de support technique.</span><span class="sxs-lookup"><span data-stu-id="92d1c-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
+<span data-ttu-id="7241d-103">Si vous avez l'intention de demander une extension de plan pour \*\*\*\* **Microsoft Flow** ou powerapps et que votre client a déjà des utilisateurs actifs de l'une des fonctionnalités suivantes, il n'est pas nécessaire de classer une demande de support technique.</span><span class="sxs-lookup"><span data-stu-id="7241d-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
 
-- <span data-ttu-id="92d1c-104">Création et publication de connecteurs personnalisés dans les PowerApp et Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="92d1c-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
-- <span data-ttu-id="92d1c-105">Actions personnalisées HTTP intégrées en transit à l'extérieur de SharePoint et OneDrive</span><span class="sxs-lookup"><span data-stu-id="92d1c-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
-- <span data-ttu-id="92d1c-106">Intégration de données locales via la passerelle de données locale</span><span class="sxs-lookup"><span data-stu-id="92d1c-106">Integration of on-premises data through the on-premises  data gateway</span></span>
+- <span data-ttu-id="7241d-104">Création et publication de connecteurs personnalisés dans les PowerApp et Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="7241d-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
+- <span data-ttu-id="7241d-105">Actions personnalisées HTTP intégrées en transit à l'extérieur de SharePoint et OneDrive</span><span class="sxs-lookup"><span data-stu-id="7241d-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
+- <span data-ttu-id="7241d-106">Intégration de données locales via la passerelle de données locale</span><span class="sxs-lookup"><span data-stu-id="7241d-106">Integration of on-premises data through the on-premises  data gateway</span></span>
 
-<span data-ttu-id="92d1c-107">Les clients avec des utilisateurs actifs de ces fonctionnalités recevront une extension automatique jusqu'au 31 janvier 2020, ou l'expiration de leur délai d'abonnement Office 365 existant, selon la durée la plus longue.</span><span class="sxs-lookup"><span data-stu-id="92d1c-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>
+<span data-ttu-id="7241d-107">Les clients avec des utilisateurs actifs de ces fonctionnalités recevront une extension automatique jusqu'au 31 janvier 2020, ou l'expiration de leur délai d'abonnement Office 365 existant, selon la durée la plus longue.</span><span class="sxs-lookup"><span data-stu-id="7241d-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>

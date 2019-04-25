@@ -1,5 +1,5 @@
 ---
-title: Version prise en charge de l’outil de Migration de SharePoint
+title: Version prise en charge de l'outil de migration SharePoint
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/9/2019
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
 ms.openlocfilehash: dbe6616e25fbd5cca9d5feb77239f487ca760919
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940487"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369604"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a><span data-ttu-id="84ddd-102">Version prise en charge de l’outil de Migration de SharePoint</span><span class="sxs-lookup"><span data-stu-id="84ddd-102">Supported version of the SharePoint Migration Tool</span></span>
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a><span data-ttu-id="a9579-102">Version prise en charge de l'outil de migration SharePoint</span><span class="sxs-lookup"><span data-stu-id="a9579-102">Supported version of the SharePoint Migration Tool</span></span>
 
 
 
-<span data-ttu-id="84ddd-p101">L’outil de Migration de SharePoint seulement prend en charge des migrations à partir de SharePoint 2013. Versions 2010 et 2016 ne sont pas pris en charge pour l’instant.</span><span class="sxs-lookup"><span data-stu-id="84ddd-p101">Currently the SharePoint Migration Tool only supports migrations from SharePoint 2013. Versions 2010 and 2016 are not supported at this time.</span></span>
+<span data-ttu-id="a9579-103">Actuellement, l'outil de migration SharePoint prend en charge uniquement les migrations à partir de SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="a9579-103">Currently the SharePoint Migration Tool only supports migrations from SharePoint 2013.</span></span> <span data-ttu-id="a9579-104">Les versions 2010 et 2016 ne sont pas prises en charge pour le moment.</span><span class="sxs-lookup"><span data-stu-id="a9579-104">Versions 2010 and 2016 are not supported at this time.</span></span>
   
-<span data-ttu-id="84ddd-105">Pour plus d’informations, voir [Présentation de l’outil de Migration de SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="84ddd-105">For more information, see [Introducing the SharePoint Migration Tool](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span></span>
+<span data-ttu-id="a9579-105">Pour plus d'informations, consultez [la rubrique Présentation de l'outil de migration SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="a9579-105">For more information, see [Introducing the SharePoint Migration Tool](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span></span>
   
 
