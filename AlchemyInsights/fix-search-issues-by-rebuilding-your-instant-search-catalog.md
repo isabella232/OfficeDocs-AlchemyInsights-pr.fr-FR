@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401182"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867936"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Résolution des problèmes de recherche en reconstruisant votre catalogue de recherche instantanée
+# <a name="troubleshoot-search-issues"></a>Résoudre les problèmes de recherche
 
-1. Fermez Outlook et ouvrez **le panneau de configuration**.
-    
-    > [!NOTE]
-    > En fonction de la version d'Office que vous utilisez, vous devrez peut-être cliquer sur le bouton **Démarrer** , puis, dans le menu **Démarrer** , cliquez avec le bouton droit sur **panneau de configuration**. 
-  
-2. Effectuez l’une des opérations suivantes :
-    
-  - Choisissez **options d'indexation**.
-    
-  - Dans la zone de **recherche** , tapez *indexation* , puis choisissez **options d'indexation**.
-    
-3. Dans la boîte de dialogue **emplacements indexés** , sous **modifier les emplacements sélectionnés**, activez la case à cocher correspondant à l'emplacement que vous souhaitez modifier, puis cliquez sur **OK**.
-    
-4. Dans la boîte de dialogue **Options avancées** , sous l'onglet **paramètres d'index** , sous **résolution des problèmes**, cliquez sur **reconstruire**.
-    
-    > [!NOTE]
-    > La boîte de dialogue **reconstruire l'index** ouvre un message d'avertissement indiquant que l'indexation peut prendre beaucoup de temps. Choisissez **OK** pour commencer la reconstruction de l'index. 
-  
-Pour plus d'informations, reportez-vous à la rubrique problème connu: [pas de résultats de recherche pour les comptes POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Si vous rencontrez des problèmes avec la recherche, consultez les liens ci-dessous pour obtenir de l’aide.
 
+Il s’agit des problèmes les plus courants et il est bon de commencer:
+- [La recherche Outlook ne renvoie aucun résultat.](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [La recherche Outlook renvoie des résultats incomplets](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [La recherche Outlook ne peut pas trouver les messages électroniques plus anciens](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Les solutions possibles pour les problèmes moins courants sont disponibles ici:
+- [Outlook 2016 uniquement: l’onglet de recherche est grisé](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Boîte aux lettres partagée: problèmes liés aux résultats de la recherche](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Erreur: les performances de la recherche seront affectées en raison d’un problème lié à la configuration d’Outlook.](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Les dossiers de recherche affichent des éléments PersonMetadata inattendus sans objet](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
