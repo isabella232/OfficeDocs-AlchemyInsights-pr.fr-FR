@@ -1,8 +1,8 @@
 ---
-title: 718 ajout de contacts externes/personnes en dehors de l'organisation à une liste de distribution
+title: 718 ajout de contacts externes/personnes en dehors de l’organisation à une liste de distribution
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 718
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: 02777d2c576ac79983d6df13a0f78a1b86dec038
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cbe01f20b4da6ef1517f937d1622b50fd2c29269
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398528"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754309"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="7ad15-102">Ajouter des adresses de messagerie externes à un groupe de distribution</span><span class="sxs-lookup"><span data-stu-id="7ad15-102">Add external email addresses to a distribution group</span></span>
+# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="16ae1-102">Ajouter des adresses de messagerie externes à un groupe de distribution</span><span class="sxs-lookup"><span data-stu-id="16ae1-102">Add external email addresses to a distribution group</span></span>
 
-<span data-ttu-id="7ad15-103">Tout d'abord, vous devez créer un contact dans votre organisation pour l'adresse de messagerie externe.</span><span class="sxs-lookup"><span data-stu-id="7ad15-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="7ad15-104">Ensuite, vous pouvez ajouter le contact au groupe de distribution.</span><span class="sxs-lookup"><span data-stu-id="7ad15-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="7ad15-105">Pour plus d'informations, consultez [la rubrique Ajout d'utilisateurs externes à un groupe de distribution?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="7ad15-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
+<span data-ttu-id="16ae1-103">Tout d’abord, vous devez créer un contact dans votre organisation pour l’adresse de messagerie externe.</span><span class="sxs-lookup"><span data-stu-id="16ae1-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="16ae1-104">Ensuite, vous pouvez ajouter le contact au groupe de distribution.</span><span class="sxs-lookup"><span data-stu-id="16ae1-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="16ae1-105">Pour plus d’informations, consultez [la rubrique Ajout d’utilisateurs externes à un groupe de distribution?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="16ae1-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
 
-<span data-ttu-id="7ad15-106">Si vous souhaitez que les utilisateurs externes puissent envoyer des messages au groupe de distribution, vérifiez que le groupe est configuré pour accepter les messages provenant d'expéditeurs externes.</span><span class="sxs-lookup"><span data-stu-id="7ad15-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="7ad15-107">Pour plus d'informations, consultez la rubrique gestion de la [remise](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="7ad15-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
+<span data-ttu-id="16ae1-106">Si vous souhaitez que les utilisateurs externes puissent envoyer des messages au groupe de distribution, vérifiez que le groupe est configuré pour accepter les messages provenant d’expéditeurs externes.</span><span class="sxs-lookup"><span data-stu-id="16ae1-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="16ae1-107">Pour plus d’informations, consultez la rubrique gestion de la [remise](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="16ae1-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
