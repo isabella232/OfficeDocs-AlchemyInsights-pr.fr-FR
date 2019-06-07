@@ -2,25 +2,25 @@
 title: Création de dossiers publics
 ms.author: dmaguire
 author: msdmaguire
-manager: serdars
+manager: dansimp
 ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 2204e0d0b4f3ac73fe1198e0b14ad51a6b3b1adc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 31208b68063041bf52ee11a7214e6709b18a03b3
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406750"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34753561"
 ---
 # <a name="creating-public-folders"></a>Création de dossiers publics
 
 Pour que les utilisateurs puissent utiliser des dossiers publics dans Office 365, vous devez créer au moins une boîte aux lettres de dossiers publics. Pour créer:
   
-1. Dans le portail O365, à l'aide du menu de navigation de gauche, accédez à **admin Centers** \> **Exchange**.
+1. Dans le portail O365, à l’aide du menu de navigation de gauche, accédez à **admin Centers** \> **Exchange**.
     
 2. Accédez à **dossiers** \> publics **boîtes aux lettres de dossiers publics**, puis cliquez sur **Ajouter**.
     
@@ -28,6 +28,6 @@ Pour que les utilisateurs puissent utiliser des dossiers publics dans Office 365
     
 4. Cliquez sur **Enregistrer**.
     
-Une fois qu'une boîte aux lettres a été créée, vous pouvez commencer à créer des dossiers individuels ou indiquer à vos utilisateurs de [commencer à créer et à utiliser des dossiers publics dans Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Une fois qu’une boîte aux lettres a été créée, vous pouvez commencer à créer des dossiers individuels ou indiquer à vos utilisateurs de [commencer à créer et à utiliser des dossiers publics dans Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   
 
