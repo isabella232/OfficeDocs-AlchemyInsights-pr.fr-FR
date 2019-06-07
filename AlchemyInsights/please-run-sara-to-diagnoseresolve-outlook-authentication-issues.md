@@ -1,8 +1,8 @@
 ---
-title: 182 exécutez SaRA pour diagnostiquer &amp; les problèmes d'authentification Outlook
+title: 182 exécutez SaRA pour diagnostiquer &amp; les problèmes d’authentification Outlook
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 10/15/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 182
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: a8154d56839c43dd073862467c43366978b8cd3a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 90c1d0beb67f80af6c3850124ea7de27ed2f3527
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372270"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762150"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Utiliser SaRA pour diagnostiquer et résoudre les problèmes d'authentification Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Utiliser SaRA pour diagnostiquer et résoudre les problèmes d’authentification Outlook
 
-Nous vous recommandons vivement d'utiliser [Outlook pour demander](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) un diagnostic de mon mot de passe sur l'ordinateur affecté afin de résoudre les problèmes dans lesquels Outlook vous invite continuellement à entrer un mot de passe. Ce diagnostic [SaRA](https://diagnostics.office.com/#/) effectue des vérifications automatisées et vous permet d'utiliser les solutions possibles pour résoudre les problèmes détectés.
+Nous vous recommandons vivement d’utiliser [Outlook pour demander](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) un diagnostic de mon mot de passe sur l’ordinateur affecté afin de résoudre les problèmes dans lesquels Outlook vous invite continuellement à entrer un mot de passe. Ce diagnostic [SaRA](https://diagnostics.office.com/#/) effectue des vérifications automatisées et vous permet d’utiliser les solutions possibles pour résoudre les problèmes détectés.

@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422173"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761757"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Restreindre SharePoint Online au mode classique
 
-Certaines organisations nécessitent toujours l'expérience en mode classique. S'il n'est pas prévu de supprimer le mode classique à un niveau granulaire, à compter du 1er avril 2019, il n'est plus possible de limiter l'ensemble de l'organisation (client) au mode classique pour les listes et les bibliothèques.
+Certaines organisations nécessitent toujours l’expérience en mode classique. Même s’il n’est pas prévu de supprimer le mode classique à un niveau granulaire, il n’est plus possible de limiter l’ensemble de l’organisation (client) au mode classique pour les listes et les bibliothèques.
 
-Les options suivantes permettent aux administrateurs de gérer des listes et des bibliothèques individuelles en mode classique à l'aide de commutateurs d'exclusion granulaire que nous fournissons aux niveaux suivants:
+Les options suivantes permettent aux administrateurs de gérer des listes et des bibliothèques individuelles en mode classique à l’aide de commutateurs d’exclusion granulaire que nous fournissons aux niveaux suivants:
 
 - collection de sites
 - site
@@ -28,6 +28,6 @@ Les options suivantes permettent aux administrateurs de gérer des listes et des
 
 En outre, les listes qui utilisent certaines fonctionnalités et personnalisations qui ne sont pas prises en charge par Modern seront toujours automatiquement basculées vers le mode classique.
 
-Après le 1er avril, les listes et les bibliothèques qui sont en mode classique suite à l'exclusion du client seront automatiquement gérées au niveau du site et de la liste.
+À partir du 1er avril 2019, le processus de désactivation de la liste et des bibliothèques modernes démarrera et continuera le 31 mai 2019.  Les listes et les bibliothèques en mode classique, à la suite de l’exclusion client, sont automatiquement déplacées vers la version moderne.
 
-Si vous avez besoin du mode classique, reportez-vous à cette rubrique pour obtenir plus d'informations et des instructions PowerShell PnP ici qui décrivent les options et les outils que vous pouvez utiliser dès à présent pour préparer la suppression du niveau client opt-out le 1er avril.
+Si vous avez besoin du mode classique, reportez-vous à cette rubrique pour obtenir plus d’informations et des instructions PowerShell PnP [ici](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) qui décrit les options et les outils que vous pouvez utiliser aujourd’hui pour utiliser l’expérience en mode classique. [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023)

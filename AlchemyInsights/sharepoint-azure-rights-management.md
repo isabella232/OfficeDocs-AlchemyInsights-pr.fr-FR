@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e8fb9a6ca409bb5f7a357c478821ca093210d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: c3d058c22d88eb9625dbdaecba7edd270977f351
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735421"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760868"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Protection IRM aux fichiers SharePoint
 
@@ -23,10 +23,10 @@ Pour en savoir plus, consultez [la prise en charge d’Azure Rights Management p
 
 Configurez la [gestion des droits relatifs à l’information (IRM) dans le centre d’administration SharePoint](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-[Activer la gestion des droits relatifs à l’information dans les bibliothèques de documents et les listes SharePoint](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+[Activer la gestion des droits relatifs à l’information dans les bibliothèques de documents et les listes SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-[Gestion des droits relatifs à l’information dans Office](https://support.office.com/en-US/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+[Gestion des droits relatifs à l’information dans Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-[Gestion des droits relatifs à l’information dans Exchange Online](https://docs.microsoft.com/en-us/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+[Gestion des droits relatifs à l’information dans Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

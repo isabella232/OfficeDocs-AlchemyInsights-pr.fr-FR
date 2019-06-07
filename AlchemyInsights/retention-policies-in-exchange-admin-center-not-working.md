@@ -1,40 +1,40 @@
 ---
-title: Les stratégies de réTention dans le centre d'administration Exchange ne fonctionnent pas
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+title: Les stratégies de rétention dans le centre d’administration Exchange ne fonctionnent pas
+ms.author: chrisda
+author: chrisda
+manager: dansimp
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: c9061fa728edaab6575a7b1027783e56739a6d14
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371296"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761580"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Stratégies de réTention dans le centre d'administration Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Stratégies de rétention dans le centre d’administration Exchange
 
- **Problème:** Les stratégies de rétention nouvellement créées ou mises à jour dans le centre d'administration Exchange ne s'appliquent pas aux boîtes aux lettres ou les éléments ne sont pas déplacés vers la boîte aux lettres d'archivage ni supprimés. 
+ **Problème:** Les stratégies de rétention nouvellement créées ou mises à jour dans le centre d’administration Exchange ne s’appliquent pas aux boîtes aux lettres ou les éléments ne sont pas déplacés vers la boîte aux lettres d’archivage ni supprimés. 
   
  **Causes racines:**
   
-- Cela peut être dû au fait que l' **Assistant dossier géré** n'a pas traité la boîte aux lettres de l'utilisateur. L'Assistant dossier géré tente de traiter toutes les boîtes aux lettres de votre organisation en nuage une fois tous les sept jours. Si vous modifiez une balise de rétention ou appliquez une autre stratégie de rétention à une boîte aux lettres, vous pouvez attendre que le dossier géré facilite le traitement de la boîte aux lettres ou exécuter l'applet de commande Start-ManagedFolderAssistant pour démarrer l'Assistant dossier géré afin de traiter un lettres. L'exécution de cette applet de commande est utile pour tester ou résoudre les problèmes d'une stratégie de rétention ou des paramètres de balise. Pour plus d'informations, consultez [la portion exécuter l'Assistant dossier géré](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Cela peut être dû au fait que l' **Assistant dossier géré** n’a pas traité la boîte aux lettres de l’utilisateur. L’Assistant dossier géré tente de traiter toutes les boîtes aux lettres de votre organisation en nuage une fois tous les sept jours. Si vous modifiez une balise de rétention ou appliquez une autre stratégie de rétention à une boîte aux lettres, vous pouvez attendre que le dossier géré facilite le traitement de la boîte aux lettres ou exécuter l’applet de commande Start-ManagedFolderAssistant pour démarrer l’Assistant dossier géré afin de traiter un lettres. L’exécution de cette applet de commande est utile pour tester ou résoudre les problèmes d’une stratégie de rétention ou des paramètres de balise. Pour plus d’informations, consultez [la portion exécuter l’Assistant dossier géré](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Solution:** Exécutez la commande suivante pour démarrer l'Assistant dossier géré pour une boîte aux lettres spécifique: 
+  - **Solution:** Exécutez la commande suivante pour démarrer l’Assistant dossier géré pour une boîte aux lettres spécifique: 
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Cela peut également se produire si **RetentionHold** a été **activé** sur la boîte aux lettres. Si la boîte aux lettres a été placée sur un RetentionHold, la stratégie de rétention de la boîte aux lettres ne sera pas traitée pendant cette période. Pour plus d'informations sur le paramètre RetentionHold, voir: conservation de réTention de [boîte aux lettres](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Cela peut également se produire si **RetentionHold** a été **activé** sur la boîte aux lettres. Si la boîte aux lettres a été placée sur un RetentionHold, la stratégie de rétention de la boîte aux lettres ne sera pas traitée pendant cette période. Pour plus d’informations sur le paramètre RetentionHold, voir: conservation de rétention de [boîte aux lettres](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Elle**
     
-  - Vérifiez l'état du paramètre RetentionHold sur la boîte aux lettres spécifique dans [exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Vérifiez l’état du paramètre RetentionHold sur la boîte aux lettres spécifique dans [exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
@@ -46,12 +46,12 @@ ms.locfileid: "32371296"
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - À présent, réexécutez l'Assistant dossier géré:
+  - À présent, réexécutez l’Assistant dossier géré:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Remarque:** Si la taille d'une boîte aux lettres est inférieure à 10 Mo, l'Assistant dossier géré ne traitera pas automatiquement la boîte aux lettres. 
+ **Remarque:** Si la taille d’une boîte aux lettres est inférieure à 10 Mo, l’Assistant dossier géré ne traitera pas automatiquement la boîte aux lettres. 
   
 

@@ -12,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 76aba7b2c065e78364ba48eabdae1436e2e6e9cc
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: ff9fa79aa4124c7af0521e07a5f1ce243f9e7f47
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34738054"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757325"
 ---
 # <a name="upgrade-to-visio-2019"></a>Mise à niveau vers Visio 2019
 
-Si vous avez installé l’application de bureau Visio dans le cadre de votre abonnement Visio Online, vous disposez déjà de la dernière version. Pour comparer les plans Visio et les options autres que les abonnements, consultez la rubrique comparer les options Visio.
+Les utilisateurs qui ont installé l’application de bureau Visio dans le cadre d’un abonnement Visio Online disposent déjà de la dernière version. 
 
-Si vous disposez d’une version sans abonnement de Visio, telle que Visio 2016, et que vous souhaitez effectuer une mise à niveau vers Visio 2019, vous devez acheter Visio 2019 ou acheter un abonnement Visio online. Si vous disposez déjà de Visio 2019 et que vous êtes prêt à l’installer, consultez la rubrique [installer Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798). 
+Pour mettre à niveau une version sans abonnement, telle que Visio 2016, vous devez acheter un abonnement à Visio Online ou un achat unique de Visio standard ou vision Professional 2019. Voir [comparer les options Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Si vous installez Visio côte à côte avec Office sur le même ordinateur, reportez-vous à la rubrique [scénarios pris en charge pour l’installation de différentes versions d’Office, de Project et de Visio sur le même ordinateur](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Si vous avez déjà acheté une version plus récente et que vous êtes prêt à l’installer, reportez-vous à la rubrique [installer Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) et suivez les étapes de votre version. 
 
-**Remarque**: la version principale de Visio 2019 reste à 16,0.
+Pour installer Visio côte à côte avec Office, consultez la rubrique [scénarios pris en charge pour l’installation de différentes versions d’Office, de Project et de Visio sur le même ordinateur](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-Pour plus d’informations, reportez-vous à la rubrique suivante: [Guide de déploiement pour Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)
-[le numéro de version majeure de Visio 2019 reste à 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)
-[année dans Office 2016 et les applications clientes Office 365 seront supprimées des entrées](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) 
- [Forum aux questions sur Office 2019 commercial pour Windows et Mac](https://support.microsoft.com/help/4133312) 
+Pour plus d’informations, reportez-vous aux rubriques suivantes :<br>
+[Guide de déploiement de Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Le numéro de version majeure de Visio 2019 reste à 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[La désignation de l’année dans Office 2016 et les applications clientes Office 365 seront supprimées des entrées du menu Démarrer](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Forum aux questions sur Office 2019 commercial pour Windows et Mac](https://support.microsoft.com/help/4133312) 

@@ -2,7 +2,7 @@
 title: 1336 le dossier RecoverableItems est plein
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1336
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 14d46980caf7dac90e73c34482a3aee34382fa1f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389081"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762078"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Le dossier éléments récupérables est plein
 
@@ -23,13 +23,13 @@ Pour les boîtes aux lettres Exchange Online dans Office 365, la limite de stock
 
 Lorsque le dossier éléments récupérables atteint la limite de stockage, la fonctionnalité de boîte aux lettres est affectée des manières suivantes:
 
-- L'utilisateur ne peut pas supprimer des éléments de la boîte aux lettres.
+- L’utilisateur ne peut pas supprimer des éléments de la boîte aux lettres.
 
 - L'Assistant Dossier géré ne peut pas supprimer des éléments en fonction de la balise de rétention ou des paramètres de dossiers gérés.
 
-- Pour les boîtes aux lettres pour lesquelles la récupération d'élément unique est activée ou qui sont placées en conservation, le processus de protection de page de copie sur écriture ne peut pas conserver les versions des éléments modifiés par l'utilisateur.
+- Pour les boîtes aux lettres pour lesquelles la récupération d’élément unique est activée ou qui sont placées en conservation, le processus de protection de page de copie sur écriture ne peut pas conserver les versions des éléments modifiés par l’utilisateur.
 
-- Pour les boîtes aux lettres pour lesquelles l'enregistrement d'audit de boîte aux lettres est activé, aucune entrée de journal d'audit de boîte aux lettres ne peut être enregistrée dans le sous-dossier audits du dossier éléments récupérables.
+- Pour les boîtes aux lettres pour lesquelles l’enregistrement d’audit de boîte aux lettres est activé, aucune entrée de journal d’audit de boîte aux lettres ne peut être enregistrée dans le sous-dossier audits du dossier éléments récupérables.
 
 Pour les boîtes aux lettres qui ne sont pas en attente, `Search-Mailbox -SearchDumpsterOnly -DeleteContent` les administrateurs peuvent utiliser la commande dans Exchange Online PowerShell pour supprimer des éléments dans le dossier éléments récupérables. Pour plus d’informations, consultez les rubriques suivantes : 
 
@@ -37,6 +37,6 @@ Pour les boîtes aux lettres qui ne sont pas en attente, `Search-Mailbox -Search
 
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Pour les boîtes aux lettres en attente, les administrateurs doivent supprimer le blocage avant de pouvoir supprimer des éléments du dossier éléments récupérables. Pour plus d'informations, consultez [la rubrique supprimer des éléments dans le dossier éléments récupérables des boîtes aux lettres en nuage en conservation](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Pour les boîtes aux lettres en attente, les administrateurs doivent supprimer le blocage avant de pouvoir supprimer des éléments du dossier éléments récupérables. Pour plus d’informations, consultez [la rubrique supprimer des éléments dans le dossier éléments récupérables des boîtes aux lettres en nuage en conservation](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Pour éviter que le dossier éléments récupérables ne devienne saturé, les administrateurs peuvent augmenter la limite de stockage du dossier éléments récupérables pour les boîtes aux lettres en conservation et configurer une stratégie de rétention de boîte aux lettres qui déplace les éléments du dossier éléments récupérables vers l'archive de l'utilisateur. lettres. Voir [augmenter le quota des éléments récupérables pour les boîtes aux lettres en attente](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Pour éviter que le dossier éléments récupérables ne devienne saturé, les administrateurs peuvent augmenter la limite de stockage du dossier éléments récupérables pour les boîtes aux lettres en conservation et configurer une stratégie de rétention de boîte aux lettres qui déplace les éléments du dossier éléments récupérables vers l’archive de l’utilisateur. lettres. Voir [augmenter le quota des éléments récupérables pour les boîtes aux lettres en attente](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
