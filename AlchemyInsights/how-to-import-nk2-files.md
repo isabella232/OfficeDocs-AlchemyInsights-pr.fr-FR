@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630014"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770245"
 ---
 # <a name="how-to-import-nk2-files"></a>Procédure d’importation de fichiers. NK2 
 
@@ -37,4 +37,4 @@ Après avoir importé le fichier. nk2, le contenu du fichier est fusionné dans 
 
 **Remarque**: le fichier. nk2 est renommé avec l’extension de nom de fichier. Old la prochaine fois que vous démarrez Outlook 2013, Outlook 2016, Outlook 2019 ou Outlook pour Office 365. Si vous souhaitez réimporter le fichier. nk2, supprimez d’abord l’extension de nom de fichier. old.
 
-Pour plus d’informations, reportez-vous [à la rubrique importer ou copier la liste de saisie semi-automatique sur un autre ordinateur](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Pour plus d’informations, reportez-vous [à la rubrique importer ou copier la liste de saisie semi-automatique sur un autre ordinateur](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

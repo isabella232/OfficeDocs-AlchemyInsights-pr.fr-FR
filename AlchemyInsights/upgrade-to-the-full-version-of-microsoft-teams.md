@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cec2d8ee096f67748bbb38f36c56fb20b586f840
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390353"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771376"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Effectuer une mise à niveau vers la version complète de Microsoft teams
 
-Vous avez besoin d'effectuer une mise à niveau à partir de la version gratuite vers la version complète de Microsoft teams? Consultez la rubrique [mettre à niveau gratuitement Microsoft teams vers la version d'abonnement à Office 365](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+Vous avez besoin d’effectuer une mise à niveau à partir de la version gratuite vers la version complète de Microsoft teams? Consultez la rubrique [mettre à niveau gratuitement Microsoft teams vers la version d’abonnement à Office 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
 Vous devez respecter les conditions suivantes:
 - Vous êtes la personne qui a souscrit à la version gratuite actuelle de teams.

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096494"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770807"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Rappeler ou remplacer un message électronique
 
@@ -34,9 +34,9 @@ ms.locfileid: "34096494"
 
 Pour plus d’informations, notamment sur la vérification du rappel, reportez-vous à la rubrique [rappeler ou remplacer un message électronique que vous avez envoyé](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Rechercher et supprimer des messages électroniques dans votre organisation*** Pour rechercher et supprimer des messages électroniques dans votre organisation, il est plus facile de le faire si vous êtes un administrateur général. Si vous n’êtes pas un administrateur général, votre compte doit être ajouté au groupe de rôles gestionnaire eDiscovery ou au rôle de gestion de la recherche de conformité. Pour supprimer des messages, vous devez rejoindre le groupe de rôles gestion de l’organisation ou le rôle de gestion de la recherche et de la purge. Les autorisations sur ces rôles sont affectées dans le [Centre de sécurité & Compliance Center](https://protection.office.com/).
+***Rechercher et supprimer des messages électroniques dans votre organisation*** Pour rechercher et supprimer des messages électroniques dans votre organisation, il est plus facile de le faire si vous êtes un administrateur général. Si vous n’êtes pas un administrateur général, votre compte doit être ajouté au groupe de rôles gestionnaire eDiscovery ou au rôle de gestion de la recherche de conformité. Pour supprimer des messages, vous devez rejoindre le groupe de rôles gestion de l’organisation ou le rôle de gestion de la recherche et de la purge. Les autorisations d’accès à ces rôles sont affectées dans le [Centre de sécurité & conformité](https://protection.office.com/).
 
-1. [Créer une recherche de contenu](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) pour rechercher le message à supprimer.
-2. [Connectez-vous au centre de sécurité _AMP_ Compliance Center PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Créer une recherche de contenu](https://docs.microsoft.com/office365/securitycompliance/content-search) pour rechercher le message à supprimer.
+2. [Connectez-vous à la sécurité & Centre de conformité PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Si vous utilisez MFA, voir [Connect to Office 365 Security _AMP_ Compliance Center PowerShell using Multi-Factor Authentication](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Si vous utilisez MFA, consultez [se connecter à Office 365 Security & Compliance Center PowerShell using Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
