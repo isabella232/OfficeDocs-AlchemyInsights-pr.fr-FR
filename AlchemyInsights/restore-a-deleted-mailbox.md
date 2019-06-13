@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761793"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899527"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurer une boîte aux lettres supprimée
 
@@ -23,11 +24,10 @@ Lorsqu’un utilisateur perd sa licence Exchange Online, sa boîte aux lettres e
 Dans le portail d’administration:
   
 - Accédez à **Utilisateurs** \> **Utilisateurs actifs**. Sélectionnez l’utilisateur en question.
-    
-- Sélectionnez * * Modifier * * pour modifier les licences de produits. 
-    
+
+- Sélectionnez **modifier** pour modifier les licences de produit.
+
 - Affectez la licence Exchange Online à l’utilisateur, puis sélectionnez **Enregistrer**.
-    
+
 Les boîtes aux lettres partagées sont également récupérables dans les 30 jours. Vous pouvez trouver des boîtes aux lettres partagées sous **utilisateurs** \> **supprimés**. Les boîtes aux lettres partagées ne nécessitent pas de licence Exchange Online.
   
-
