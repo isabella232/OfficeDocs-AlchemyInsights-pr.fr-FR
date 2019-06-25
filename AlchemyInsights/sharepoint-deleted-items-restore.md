@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 30e2dce5f327836f728fcd9aa4acc7ebaf52f054
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 52b93516e47fcc6b221e2cc24993d0cd81413b55
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760903"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199307"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Restaurer des éléments supprimés à partir de SharePoint
 
@@ -31,7 +31,7 @@ Lorsque vous supprimez un élément ou un site à partir de SharePoint, il n’e
 
 [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-Fonctionnalité de restauration des fichiers.
+**Fonctionnalité de restauration des fichiers**
 
 Si un grand nombre de vos fichiers OneDrive ou SharePoint sont supprimés, remplacés, endommagés ou infectés par des programmes malveillants, vous pouvez restaurer votre bibliothèque OneDrive ou SharePoint entière à l’aide de la fonctionnalité de restauration des fichiers.
 

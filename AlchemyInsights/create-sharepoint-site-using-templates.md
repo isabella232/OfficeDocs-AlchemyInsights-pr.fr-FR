@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: a964751e52972875a8794ce311546f5816a36ca6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753706"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199271"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Créer des sites SharePoint à l’aide de modèles
 
@@ -31,7 +31,7 @@ Les administrateurs devront autoriser le script personnalisé à activer les fon
 
 - La commande Enregistrer le site en tant que modèle n’est pas prise en charge et peut entraîner des problèmes sur les sites qui utilisent l’infrastructure de publication de SharePoint Server.
 
-Le modèle de site ne peut pas être créé ou ne fonctionne pas correctement.
+**Le modèle de site ne peut pas être créé ou ne fonctionne pas correctement**
 
 Il se peut que le modèle manque une [fonctionnalité](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) et ne s’active pas. Si la fonctionnalité n’est pas disponible pour l’activation dans la collection de sites actuelle, vous ne pouvez pas utiliser le modèle de site pour créer un site.
 

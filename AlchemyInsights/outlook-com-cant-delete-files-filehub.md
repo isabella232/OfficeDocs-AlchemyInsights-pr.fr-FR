@@ -3,7 +3,7 @@ title: Impossible de supprimer des photos ou des fichiers de fichiers dans Outlo
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/31/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 4b292661c4d9c58ad1ff3bb62c6d62f871c664d2
-ms.sourcegitcommit: 6a79e457f0326c2bf1ac96006e93603d94245f8b
+ms.openlocfilehash: 6126fcc1027b34ef44160e3d13c120c179457307
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34669185"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35115842"
 ---
 # <a name="cant-delete-files-or-photos-from-files"></a>Impossible de supprimer des fichiers ou des photos de fichiers
 
-Fichiers affiche les fichiers et les photos joints aux messages dans votre boîte aux lettres. Vous ne pouvez pas supprimer des fichiers ou des photos directement des fichiers. Pour supprimer des fichiers et des photos, vous devez supprimer les messages électroniques auxquels ils sont attachés:
+**Fichiers** affiche les fichiers et les photos joints aux messages dans votre boîte aux lettres. Pour supprimer des fichiers et des photos des fichiers, vous devez supprimer les messages électroniques auxquels ils sont attachés. Après avoir supprimé les messages, vous devez également les supprimer de votre dossier éléments supprimés.
 
-Pour plus d’informations, consultez [la procédure de suppression des fichiers ou des photos dans Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Pour en savoir plus, consultez [la procédure de suppression des fichiers ou des photos dans Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
