@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 299a31719696778d66afc4f1c4f9b7c3ff3970f3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e083431df1a86aad3d428901754f8150f5059b45
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758064"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223170"
 ---
 # <a name="workflows-in-sharepoint"></a>Flux de travail dans SharePoint
 
 Les flux de travail SharePoint sont des mini-applications pré-programmées qui rationalisent et automatisent un grand nombre de processus d’entreprise. Les flux de travail peuvent provenir de la collecte de signatures, de commentaires ou d’approbations pour un plan ou un document, afin de suivre l’état actuel d’une procédure de routine.
 
-Mise en route: Si vous commencez à utiliser des flux de travail SharePoint, voir [Introduction to SharePoint workflows pour plus d’informations](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+**Mise en route:** Si vous commencez à utiliser des flux de travail SharePoint, voir [Présentation des flux de travail SharePoint pour plus d’informations](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
 **Microsoft Flow**: envisagez d’utiliser Microsoft Flow au lieu des solutions de flux de travail SharePoint classiques. Pour plus d’informations, consultez la rubrique [créer un flux pour une liste ou une bibliothèque dans SharePoint Online ou OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119757"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222738"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Suivre ou annuler la suivi d’un site SharePoint
 
@@ -23,4 +23,4 @@ Regardez la vidéo pour [suivre un site SharePoint](https://support.office.com/e
 
 Si vous ne parvenez pas à suivre ou annuler un site et que les résultats ne sont pas ceux attendus, vérifiez si le problème est lié à un seul utilisateur ou à tous les utilisateurs au sein de votre organisation. Si tous les utilisateurs rencontrent le problème, il peut s’agir d’un problème de service temporaire. 
 
-Consultez le [tableau de bord d’État du service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)pour voir si votre organisation est concernée.
+Consultez le [tableau de bord d’État du service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pour voir si votre organisation est concernée.

@@ -1,5 +1,5 @@
 ---
-title: Fichier ouvert en lecture seule
+title: Les fichiers sont verrouillés pour modification
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757083"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222666"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Pourquoi ne pouvez-vous pas modifier les fichiers?
 
@@ -24,9 +24,9 @@ Remarque: les bibliothèques avec extraction, les colonnes/métadonnées requise
 
 Pour les bibliothèques OneDrive, OneDrive affiche une icône de verrou en regard de l’état de synchronisation et l’utilisateur ne peut pas synchroniser la bibliothèque tant que les paramètres mentionnés n’ont pas été supprimés.
 
-Pour plus d’informations sur les fichiers verrouillés pour Word/Excel, consultez les articles ci-dessous.
+Pour plus d’informations sur les fichiers verrouillés pour Word ou Excel, consultez les articles ci-dessous.
 
-[Le fichier Excel est verrouillé pour modification par un autre utilisateur](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Le fichier Excel est verrouillé pour modification par un autre utilisateur](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Le fichier Word est verrouillé pour modification par un autre utilisateur](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Le fichier Word est verrouillé pour modification par un autre utilisateur](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 
