@@ -1,5 +1,5 @@
 ---
-title: Office 365 pour les plans et les tarifs d'éducation
+title: Office 365 pour les plans et les tarifs d’éducation
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "476"
+- "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 540fe0e8f9edd6949229e90e256aa2626584dd3b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4f0c153d6e3bbd7a5b27d15090e8b98345318aa
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388765"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378847"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a><span data-ttu-id="d4bf7-102">Obtenir Office 365 gratuitement pour l'ensemble de votre école</span><span class="sxs-lookup"><span data-stu-id="d4bf7-102">Get Office 365 free for your entire school</span></span>
+# <a name="get-office-365-free-for-your-entire-school"></a><span data-ttu-id="73a4a-102">Obtenir Office 365 gratuitement pour l’ensemble de votre école</span><span class="sxs-lookup"><span data-stu-id="73a4a-102">Get Office 365 free for your entire school</span></span>
 
-<span data-ttu-id="d4bf7-103">Améliorer la collaboration entre les cours et les écoles avec des outils de productivité gratuits.</span><span class="sxs-lookup"><span data-stu-id="d4bf7-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="d4bf7-104">Vous devez vérifier que vous êtes un établissement agréé pour bénéficier de ces offres.</span><span class="sxs-lookup"><span data-stu-id="d4bf7-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="73a4a-103">Améliorer la collaboration entre les cours et les écoles avec des outils de productivité gratuits.</span><span class="sxs-lookup"><span data-stu-id="73a4a-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="73a4a-104">Vous devez vérifier que vous êtes un établissement agréé pour bénéficier de ces offres.</span><span class="sxs-lookup"><span data-stu-id="73a4a-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="d4bf7-105">Examiner les plans de formation</span><span class="sxs-lookup"><span data-stu-id="d4bf7-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
-    
-- [<span data-ttu-id="d4bf7-106">Prise en main d'Office 365 éducation</span><span class="sxs-lookup"><span data-stu-id="d4bf7-106">Get started with Office 365 Education</span></span>](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
-    
-- [<span data-ttu-id="d4bf7-107">Comparaison de tous les plans Office 365</span><span class="sxs-lookup"><span data-stu-id="d4bf7-107">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
-    
+- [<span data-ttu-id="73a4a-105">Examiner les plans de formation</span><span class="sxs-lookup"><span data-stu-id="73a4a-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
+- [<span data-ttu-id="73a4a-106">Prise en main d’Office 365 éducation</span><span class="sxs-lookup"><span data-stu-id="73a4a-106">Get started with Office 365 Education</span></span>](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
+
+- [<span data-ttu-id="73a4a-107">Comparaison de tous les plans Office 365</span><span class="sxs-lookup"><span data-stu-id="73a4a-107">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

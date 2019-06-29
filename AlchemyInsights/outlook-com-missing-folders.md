@@ -1,28 +1,31 @@
 ---
-title: 8000061 Outlook.com dossiers manquants
+title: Dossiers manquants Outlook.com
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/6/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000061
+ms.custom:
+- "1066"
+- "1067"
+- "1068"
+- "1134"
+- "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 7fb0b01b88b04f11804e415a5a43d5abec364591
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1940b650ca61907fa9121cba4c67aa932086b108
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392236"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373951"
 ---
-# <a name="find-missing-folders-in-outlookcom"></a><span data-ttu-id="9e97a-102">Rechercher les dossiers manquants dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="9e97a-102">Find missing folders in Outlook.com</span></span>
+# <a name="find-missing-folders"></a><span data-ttu-id="032cf-102">Rechercher les dossiers manquants</span><span class="sxs-lookup"><span data-stu-id="032cf-102">Find missing folders</span></span>
 
-<span data-ttu-id="9e97a-103">Si vous ne voyez pas vos dossiers dans la version bêta d'Outlook.com, vérifiez que vos dossiers ne sont pas réduits.</span><span class="sxs-lookup"><span data-stu-id="9e97a-103">If you can't see your folders in the Outlook.com beta, check that your folders aren't collapsed.</span></span> <span data-ttu-id="9e97a-104">Sélectionnez la flèche en regard de **dossiers** dans le volet de navigation.</span><span class="sxs-lookup"><span data-stu-id="9e97a-104">Select the arrow next to **Folders** in the navigation pane.</span></span> 
+<span data-ttu-id="032cf-103">Si vous ne voyez pas vos dossiers, vérifiez que vos dossiers ne sont pas réduits.</span><span class="sxs-lookup"><span data-stu-id="032cf-103">If you can't see your folders, check that your folders aren't collapsed.</span></span> <span data-ttu-id="032cf-104">Sélectionnez la flèche en regard de **dossiers** dans le volet de gauche.</span><span class="sxs-lookup"><span data-stu-id="032cf-104">Select the arrow next to **Folders** in the left pane.</span></span>
   
-<span data-ttu-id="9e97a-105">Si vous supprimez accidentellement un élément dans Outlook.com, vous pouvez le récupérer s'il se trouve toujours dans vos dossiers éléments supprimés ou courrier inDésirable.</span><span class="sxs-lookup"><span data-stu-id="9e97a-105">If you accidentally delete something in Outlook.com, you can recover it if it's still in your Deleted Items or Junk Email folders.</span></span> <span data-ttu-id="9e97a-106">Dans certains cas, vous pouvez récupérer des éléments après le vidage du dossier éléments supprimés à l'aide du [complément de récupération de courrier](https://appsource.microsoft.com/product/office/WA104380447) (pour les Outlook.com classiques uniquement).</span><span class="sxs-lookup"><span data-stu-id="9e97a-106">In some cases you can recover items after the Deleted Items folder is emptied using the [Email Recovery add-in](https://appsource.microsoft.com/product/office/WA104380447) (for classic Outlook.com only).</span></span> <span data-ttu-id="9e97a-107">Pour en savoir plus, consultez la rubrique [restauration de messages électroniques supprimés](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50) et [utilisation de compléments dans Outlook.com](https://support.office.com/article/a5672109-e4f3-4119-abea-72323e9653cf).</span><span class="sxs-lookup"><span data-stu-id="9e97a-107">Read more about [Restoring deleted email messages](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50) and [using add-ins in Outlook.com](https://support.office.com/article/a5672109-e4f3-4119-abea-72323e9653cf).</span></span>
+<span data-ttu-id="032cf-105">Si vous supprimez accidentellement un dossier, vous pouvez le récupérer s’il se trouve toujours dans votre dossier éléments supprimés.</span><span class="sxs-lookup"><span data-stu-id="032cf-105">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="032cf-106">Pour en savoir plus, consultez la [restauration de messages électroniques supprimés dans Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span><span class="sxs-lookup"><span data-stu-id="032cf-106">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
   
-<span data-ttu-id="9e97a-108">Dans certains cas, les dossiers sont manquants.</span><span class="sxs-lookup"><span data-stu-id="9e97a-108">In some cases, folders are missing.</span></span> <span data-ttu-id="9e97a-109">Nous travaillons pour résoudre ce problème.</span><span class="sxs-lookup"><span data-stu-id="9e97a-109">We are working to fix this.</span></span> <span data-ttu-id="9e97a-110">Vous pouvez toujours trouver des éléments enregistrés dans les dossiers manquants à l'aide de la **recherche**, et cela peut vous aider à vous déconnecter, puis à vous reconnecter.</span><span class="sxs-lookup"><span data-stu-id="9e97a-110">You can still find items saved within the missing folders using **Search**, and it may help if you sign out and then sign in again.</span></span> [<span data-ttu-id="9e97a-111">Cliquez ici pour vous déconnecter.</span><span class="sxs-lookup"><span data-stu-id="9e97a-111">Click here to sign out.</span></span>](https://login.live.com/logout.srf)
-  
-
+<span data-ttu-id="032cf-107">Il existe un problème connu où les dossiers sont manquants.</span><span class="sxs-lookup"><span data-stu-id="032cf-107">There is a known issue where folders are missing.</span></span> <span data-ttu-id="032cf-108">Nous travaillons pour résoudre ce problème.</span><span class="sxs-lookup"><span data-stu-id="032cf-108">We're working to fix this.</span></span> <span data-ttu-id="032cf-109">Vous pouvez toujours trouver des éléments enregistrés dans les dossiers manquants à l’aide de la **recherche**, et cela peut vous aider à vous déconnecter, puis à vous reconnecter.</span><span class="sxs-lookup"><span data-stu-id="032cf-109">You can still find items saved within the missing folders using **Search**, and it may help if you sign out and then sign in again.</span></span> [<span data-ttu-id="032cf-110">Cliquez ici pour vous déconnecter.</span><span class="sxs-lookup"><span data-stu-id="032cf-110">Click here to sign out.</span></span>](https://login.live.com/logout.srf)

@@ -1,0 +1,32 @@
+---
+title: Fermer votre compte Outlook.com
+ms.author: daeite
+author: daeite
+manager: joallard
+ms.date: 6/20/2019
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "206"
+- "8000005"
+ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
+ms.openlocfilehash: 8ad2f2a5eaee1ec38188dc7a45da37f904be1e77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375823"
+---
+# <a name="close-your-outlookcom-account"></a><span data-ttu-id="ce172-102">Fermer votre compte Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ce172-102">Close your Outlook.com account</span></span>
+
+1. <span data-ttu-id="ce172-103">Accédez à la page [clôturer votre compte](https://go.microsoft.com/fwlink/p/?linkid=845493) .</span><span class="sxs-lookup"><span data-stu-id="ce172-103">Go to the [Close your account](https://go.microsoft.com/fwlink/p/?linkid=845493) page.</span></span>
+2. <span data-ttu-id="ce172-104">Suivez les instructions de la page pour vous assurer que votre compte est prêt à être fermé, puis sélectionnez **suivant**.</span><span class="sxs-lookup"><span data-stu-id="ce172-104">Follow the instructions on the page to make sure that your account is ready to be closed, and select **Next**.</span></span>
+3. <span data-ttu-id="ce172-105">Lisez la liste et cochez les cases pour confirmer que vous avez lu chaque élément.</span><span class="sxs-lookup"><span data-stu-id="ce172-105">Read the list and check the boxes to acknowledge you've read each item.</span></span>
+4. <span data-ttu-id="ce172-106">Dans la liste déroulante **Sélectionner une raison** , choisissez la raison pour laquelle vous fermez le compte.</span><span class="sxs-lookup"><span data-stu-id="ce172-106">In the **Select a reason** drop-down list, choose the reason you're closing the account.</span></span>
+5. <span data-ttu-id="ce172-107">Sélectionnez **marquer le compte pour la clôture**.</span><span class="sxs-lookup"><span data-stu-id="ce172-107">Select **Mark account for closure**.</span></span>
+
+<span data-ttu-id="ce172-108">Pour en savoir plus, consultez [la rubrique clôturer votre compte Outlook.com](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ce172-108">To learn more, see [Close your Outlook.com account](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+  

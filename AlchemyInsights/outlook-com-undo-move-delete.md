@@ -1,26 +1,28 @@
 ---
-title: 9000193 annuler déplacer ou supprimer dans Outlook.com
+title: Annuler déplacer ou supprimer dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 5/6/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000193
-ms.openlocfilehash: 9fc58b1d5bb6df309a2832d38101d9f6ae90a6aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1752"
+- "9000193"
+ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372990"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361059"
 ---
-# <a name="action-confirmations"></a><span data-ttu-id="c9ad0-102">Confirmations d'action</span><span class="sxs-lookup"><span data-stu-id="c9ad0-102">Action confirmations</span></span>
+# <a name="action-confirmations"></a><span data-ttu-id="741fb-102">Confirmations d’action</span><span class="sxs-lookup"><span data-stu-id="741fb-102">Action confirmations</span></span>
 
-<span data-ttu-id="c9ad0-103">La fonctionnalité de confirmations d'action dans Outlook.com vous permet d'annuler une suppression de déplacement ou de message que vous venez d'effectuer par inadvertance.</span><span class="sxs-lookup"><span data-stu-id="c9ad0-103">The action confirmations feature in Outlook.com allows you to undo a move or message deletion that you just did by mistake.</span></span> <span data-ttu-id="c9ad0-104">La boîte de dialogue annuler s'affiche en bas de l'écran pendant environ 5 secondes et inverse l'action de déplacement ou de suppression.</span><span class="sxs-lookup"><span data-stu-id="c9ad0-104">The Undo dialog appears at the bottom of the screen for about 5 seconds, and will reverse the move or delete action.</span></span>
+<span data-ttu-id="741fb-103">Si vous avez accidentellement déplacé ou supprimé un message, vous pouvez l’annuler.</span><span class="sxs-lookup"><span data-stu-id="741fb-103">If you accidentally moved or deleted a message, you can undo that action.</span></span> <span data-ttu-id="741fb-104">La boîte de dialogue annuler s’affiche en bas de l’écran pendant environ 5 secondes.</span><span class="sxs-lookup"><span data-stu-id="741fb-104">The undo dialog appears at the bottom of the screen for about 5 seconds.</span></span> <span data-ttu-id="741fb-105">Sélectionnez **Annuler** pour annuler l’action de déplacement ou de suppression.</span><span class="sxs-lookup"><span data-stu-id="741fb-105">Select **Undo** to cancel the move or delete action.</span></span>
 
-<span data-ttu-id="c9ad0-105">Vous pouvez désactiver cette option dans la section confirmations d' [action](https://outlook.live.com/mail/options/general/notifications) (**paramètres** > **Afficher tous les paramètres** > Outlook notifications**générales** > \*\*\*\*).</span><span class="sxs-lookup"><span data-stu-id="c9ad0-105">You can switch this off in [Action confirmations](https://outlook.live.com/mail/options/general/notifications) (**Settings** > **View all Outlook settings** > **General** > **Notifications**).</span></span>
+<span data-ttu-id="741fb-106">Vous pouvez désactiver cette fonctionnalité dans la section confirmations d' [action](https://outlook.live.com/mail/options/general/notifications) (**paramètres** > **Afficher tous les paramètres** > Outlook notifications**générales** > \*\*\*\*).</span><span class="sxs-lookup"><span data-stu-id="741fb-106">You can switch off this feature in [Action confirmations](https://outlook.live.com/mail/options/general/notifications) (**Settings** > **View all Outlook settings** > **General** > **Notifications**).</span></span>
 
-<span data-ttu-id="c9ad0-106">Remarque: vous ne pouvez pas annuler l'envoi des messages.</span><span class="sxs-lookup"><span data-stu-id="c9ad0-106">Note: You can't undo message sending.</span></span> <span data-ttu-id="c9ad0-107">Pour plus d'informations, consultez [la rubrique je souhaite rappeler un message dans Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).</span><span class="sxs-lookup"><span data-stu-id="c9ad0-107">For more information, see [I want to recall a message in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).</span></span>
+<span data-ttu-id="741fb-107">Remarque: une fois qu’un message a été envoyé, vous ne pouvez pas l’annuler.</span><span class="sxs-lookup"><span data-stu-id="741fb-107">Note: Once a message has been sent, you can't undo that action.</span></span> <span data-ttu-id="741fb-108">Pour plus d’informations, consultez [la rubrique je souhaite rappeler un message dans Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).</span><span class="sxs-lookup"><span data-stu-id="741fb-108">For more information, see [I want to recall a message in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).</span></span>
