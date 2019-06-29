@@ -9,13 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372630"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360771"
 ---
 # <a name="payment-options"></a>Modes de paiement
 
@@ -27,7 +30,7 @@ Carte de crédit, compte bancaire (prélèvement automatique) et facture (paieme
   
 Lorsque vous payez par carte de crédit ou compte bancaire, les frais correspondant à votre abonnement sont automatiquement débités le lendemain de la date de facturation, jusqu’à l’expiration de votre abonnement. Vous pouvez [mettre à jour les informations de votre carte bancaire ou compte bancaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) à tout moment. Vous pouvez également choisir de [Envoyer une copie de votre relevé de facturation par courrier électronique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Si votre carte de crédit est refusée ou si votre compte présente un arriéré de paiement, vous pouvez choisir l’option **Payer maintenant** sur la page **Facturation**\> [Abonnements](https://portal.office.com/adminportal/home#/subscriptions). 
+Si votre carte de crédit est refusée ou si votre compte présente un arriéré de paiement, vous pouvez choisir l’option **Payer maintenant** sur la page **Facturation**\> [Abonnements](https://portal.office.com/adminportal/home#/subscriptions).
   
  **Paiement sur facture (chèque ou transfert électronique de fonds)**
   
@@ -43,4 +46,3 @@ Si vous souhaitez modifier le mode de paiement d’un abonnement en cours, suive
   
 [Régler votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-
