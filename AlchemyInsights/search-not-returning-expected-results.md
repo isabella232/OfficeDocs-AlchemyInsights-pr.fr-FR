@@ -9,21 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1491
+ms.custom:
+- "1491"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 517d9b75fc3aef09c0c2d5870aa695cc0ab10f06
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d25c1ef2e0e746432472a436cb11d25b5db5596c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383833"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355875"
 ---
 # <a name="content-search-not-returning-expected-results"></a>Recherche de contenu ne renvoyant pas les résultats attendus
 
-Lors de l'exécution de recherches de contenu à partir du centre de sécurité & Office 365 Security, il se peut que vous receviez des résultats inattendus. Tenez compte des éléments suivants qui peuvent avoir une incidence sur vos résultats de recherche:
+Lors de l’exécution de recherches de contenu à partir du centre de conformité & Office 365 Security, vous pouvez recevoir des résultats de recherche inattendus. Tenez compte des éléments suivants qui peuvent avoir une incidence sur vos résultats de recherche:
 
 - **Emplacements de contenu et conditions de recherche**: Assurez-vous que vous avez sélectionné les emplacements de contenu et les conditions de recherche appropriés. Si vous avez exécuté une recherche volumineuse (avec de nombreux emplacements), envisagez de la fractionner en plusieurs recherches.
 
-- **Éléments partiellement indexés**: les [éléments partiellement indexés](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) des boîtes aux lettres sont inclus dans les résultats de recherche estimés. Toutefois, les éléments partiellement indexés des sites dans SharePoint et OneDrive ne sont pas inclus dans l'estimation de la recherche.
+- **Éléments partiellement indexés**: les [éléments partiellement indexés](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) des boîtes aux lettres sont inclus dans les résultats de recherche estimés. Toutefois, les éléments partiellement indexés des sites dans SharePoint et OneDrive ne sont pas inclus dans l’estimation de la recherche.
 
-- **Échecs de recherche**: lors de la recherche dans un grand nombre de boîtes aux lettres (plus de 100 000 boîtes aux lettres), vous pouvez obtenir des erreurs de recherche, avec des codes d'erreur comme CS008-009 et CS012-002). Dans ce cas, effectuez une nouvelle tentative de recherche uniquement pour les emplacements de contenu ayant échoué. Pour plus d'informations, consultez [cet article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .
+- **Échecs de recherche**: lors de la recherche dans un grand nombre de boîtes aux lettres (plus de 100 000 boîtes aux lettres), vous pouvez obtenir des erreurs de recherche, avec des codes d’erreur comme CS008-009 et CS012-002). Dans ce cas, effectuez une nouvelle tentative de recherche uniquement pour les emplacements de contenu ayant échoué. Pour plus d’informations, consultez [cet article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .

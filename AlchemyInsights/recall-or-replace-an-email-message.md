@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770807"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356595"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Rappeler ou remplacer un message électronique
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770807"
 - Si vous êtes administrateur, vous pouvez **rappeler des messages au nom des utilisateurs à l’aide de PowerShell**. Vous ne pouvez pas rappeler les messages à partir du centre d’administration. Faites défiler vers le bas jusqu’à «rechercher et supprimer des messages électroniques dans votre organisation» pour plus d’informations.
 
 ***Rappeler ou remplacer un message électronique que vous avez envoyé***
+
 1. Dans le volet des dossiers situé à gauche de la fenêtre Outlook, sélectionnez le dossier éléments envoyés.
 2. Ouvrez le message que vous souhaitez rappeler. Vous devez double-cliquer pour ouvrir le message. La sélection du message de sorte qu’il s’affiche dans le volet de lecture ne vous permet pas de rappeler le message.
 3. Dans l’onglet message, sélectionnez **actions** > **rappeler ce message**.
 4. Choisissez **Supprimer les copies non lues de ce message** ou **Supprimer les copies non lues et les remplacer par un nouveau message**, puis cliquez sur **OK**.
 5. Si vous envoyez un message de remplacement, composez le message, puis sélectionnez **Envoyer**.
-6. La réussite ou l’échec d’un rappel de message dépend des paramètres des destinataires dans Outlook. 
+6. La réussite ou l’échec d’un rappel de message dépend des paramètres des destinataires dans Outlook.
 
 Pour plus d’informations, notamment sur la vérification du rappel, reportez-vous à la rubrique [rappeler ou remplacer un message électronique que vous avez envoyé](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

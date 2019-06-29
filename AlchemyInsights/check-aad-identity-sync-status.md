@@ -1,5 +1,5 @@
 ---
-title: Vérifier l'état de synchronisation d'identité AAD
+title: Vérifier l’état de synchronisation d’identité AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "304"
+- "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 3fda1ef20dd080c6d99bf242168256c04eff24b8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d35834aa72d0a052c819fc2f07019e602e7c7850
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408357"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362355"
 ---
-# <a name="check-aad-identity-sync-status"></a>Vérifier l'état de synchronisation d'identité AAD
+# <a name="check-aad-identity-sync-status"></a>Vérifier l’état de synchronisation d’identité AAD
 
-Vérifier l'état de synchronisation est facile: 
+Vérifier l’état de synchronisation est facile:
   
-- Connectez-vous au centre d'administration Microsoft 365 et choisissez * * État dirSync * * sur la page d'accueil. 
-    
-- Vous pouvez également accéder à utilisateurs \> actifs, puis, sur la page utilisateurs actifs, sélectionner plus \> de synchronisation d'annuaires.
-    
-- Dans le volet synchronisation d'annuaires, sélectionnez accéder à la gestion dirSync. 
-    
-S'il y a un problème avec la synchronisation d'annuaires, les erreurs sont répertoriées sur cette page. Pour plus d'informations sur les différentes erreurs que vous pouvez rencontrer, consultez la rubrique [identifier les erreurs de synchronisation d'annuaires dans Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
-  
+- Connectez-vous au centre d’administration Microsoft 365 et **** choisissez DirSync Status sur la page d’accueil.
 
+- Vous pouvez également accéder à utilisateurs \> actifs, puis, sur la page utilisateurs actifs, sélectionner plus \> de synchronisation d’annuaires.
+
+- Dans le volet synchronisation d’annuaires, sélectionnez accéder à la gestion DirSync.
+
+S’il y a un problème avec la synchronisation d’annuaires, les erreurs sont répertoriées sur cette page. Pour plus d’informations sur les différentes erreurs que vous pouvez rencontrer, consultez la rubrique [identifier les erreurs de synchronisation d’annuaires dans Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+  
