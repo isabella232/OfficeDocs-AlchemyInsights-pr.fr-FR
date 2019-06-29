@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "16"
+- "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 2b4a48dd7bc813484f3377b9fccc86d6690191d6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d3f055387c81ecce3ed5a6e4dc45cd85f5a80824
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371152"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370132"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Renommer votre domaine onmicrosoft.com
 
- **Vous ne pouvez pas renommer le domaine onmicrosoft après l'inscription.** Par exemple, si le domaine initial que vous avez choisi était *fourthcoffee.onmicrosoft.com* , vous ne pouvez pas le modifier pour qu'il soit *fabrikam.onmicrosoft.com* . Pour utiliser un autre domaine onmicrosoft.com, vous devez démarrer un nouvel abonnement avec Office 365. 
+ **Vous ne pouvez pas renommer le domaine onmicrosoft après l’inscription.** Par exemple, si le domaine initial que vous avez choisi était *fourthcoffee.onmicrosoft.com* , vous ne pouvez pas le modifier pour qu’il soit *fabrikam.onmicrosoft.com* . Pour utiliser un autre domaine onmicrosoft.com, vous devez démarrer un nouvel abonnement avec Office 365.
   
 Si vous souhaitez utiliser un domaine personnalisé comme *contoso.com* , vous pouvez en [Ajouter un vous](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) -même ou en [acheter un auprès de Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
   
-

@@ -8,17 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
-ms.openlocfilehash: 45684b414ee634c1e879a61c260dcdeff27a03be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "359"
+- "3500004"
+ms.openlocfilehash: 4cb2821675676e39ab36cd84fe3eacc5d7709dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420662"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364854"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>La boîte aux lettres de vos utilisateurs est en cours de création
 
-Une nouvelle boîte aux lettres peut prendre jusqu'à 24 heures avant d'être utilisée.
+Une nouvelle boîte aux lettres peut prendre jusqu’à 24 heures avant d’être utilisée.
   
-Si la boîte aux lettres de l'utilisateur a été «en préparation» pendant plus d'une heure, essayez de supprimer la licence Exchange de l'utilisateur et de l'ajouter à nouveau, ou utilisez l'option «nous contacter» pour contacter un ingénieur du support technique.
-  
-
+Si la boîte aux lettres de l’utilisateur a été «en préparation» pendant plus d’une heure, essayez de supprimer la licence Exchange de l’utilisateur et de l’ajouter à nouveau, ou utilisez l’option «nous contacter» pour contacter un ingénieur du support technique.

@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "98"
+- "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 50a9a1c7ef24f6b15e3cdb8c9ae31e77a159ba70
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: edff65878d516ee8676ab99a26badf5ba7ff53c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370432"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356163"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>Restaurer un groupe Office 365 supprimé
 
 Les groupes supprimés sont conservés pendant 30 jours. Pour restaurer un groupe supprimé:
   
-1. Dans le [Centre d'administration Exchange](https://outlook.office365.com/ecp/), **** sélectionnez destinataires dans le volet de gauche, puis sélectionnez **groupes**. Si un groupe a été supprimé il y a moins de 30 jours, il apparaît dans la liste et la colonne État indique la date de suppression.
-    
-2. Sélectionnez le groupe, puis cliquez sur **restaurer** dans la barre de commandes, ou cliquez sur le lien «cliquez ici pour restaurer» dans le volet d'informations. 
-    
-Pour plus d'informations ou pour apprendre à restaurer des groupes à l'aide de PowerShell, consultez [la rubrique Restore a Deleted Office 365 Group](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+1. Dans le [Centre d’administration Exchange](https://outlook.office365.com/ecp/), **** sélectionnez destinataires dans le volet de gauche, puis sélectionnez **groupes**. Si un groupe a été supprimé il y a moins de 30 jours, il apparaît dans la liste et la colonne État indique la date de suppression.
 
+2. Sélectionnez le groupe, puis cliquez sur **restaurer** dans la barre de commandes, ou cliquez sur le lien «cliquez ici pour restaurer» dans le volet d’informations.
+
+Pour plus d’informations ou pour apprendre à restaurer des groupes à l’aide de PowerShell, consultez [la rubrique Restore a Deleted Office 365 Group](https://go.microsoft.com/fwlink/?linkid=867802).
+  

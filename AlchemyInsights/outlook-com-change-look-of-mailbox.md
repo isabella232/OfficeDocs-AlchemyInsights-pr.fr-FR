@@ -1,26 +1,28 @@
 ---
-title: Outlook.com modifier l'apparence de votre boîte aux lettres
+title: Outlook.com modifier l’apparence de votre boîte aux lettres
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000257
+ms.custom:
+- "1849"
+- "9000257"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 16d519802535ccf6e5d50e1111911f0a34392961
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 001be203b46e2ec8becb82d0553335d0b4465c77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418121"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376344"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Modifier l'apparence de votre boîte aux lettres Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Modifier l’apparence de votre boîte aux lettres Outlook.com
 
-Vous pouvez modifier l'apparence de la liste de messages et du volet de lecture dans Outlook.com.
+Vous pouvez modifier l’apparence de la liste de messages et du volet de lecture dans Outlook.com.
 
-- Pour modifier la disposition de la fenêtre de message, cliquez sur l'icône représentant un engrenage en haut de la page pour ouvrir **paramètres**, puis choisissez une option dans le **volet de lecture**.
-- Pour regrouper vos messages par conversation, sélectionnez l'icône représentant un engrenage en haut de la page pour ouvrir **paramètres**, puis choisissez une option sous**affichage de conversation**.
-- Pour activer ou désactiver la boîte de réception prioritaire, sélectionnez l'icône représentant un engrenage en haut de la page pour ouvrir les **paramètres**, puis déplacez le bouton bascule en regard de **boîte de réception prioritaire** sur activé ou désactivé.
+- Pour modifier la disposition de la fenêtre de message, ouvrez les options du [volet de lecture](https://outlook.live.com/mail/options/mail/layout/readingPane) .
 - Pour modifier le mode de tri de votre courrier, en haut de la liste des messages, sélectionnez **Filtrer** > le**Tri par** et choisissez le mode de tri de votre courrier.
+- Pour regrouper vos messages par conversation, ouvrez les options d’organisation de votre [message](https://outlook.live.com/mail/options/mail/layout/conversations) .
+- Pour activer ou désactiver la boîte de réception prioritaire, ouvrez vos options de [disposition](https://outlook.live.com/mail/options/mail/layout/focused) .

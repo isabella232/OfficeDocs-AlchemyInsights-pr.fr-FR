@@ -9,41 +9,42 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "42"
+- "43"
+- "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: f2cdb319e56b82c09b7a9856c81a45e69dee6759
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423721"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353175"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Mettre à jour les enregistrements DNS pour conserver votre site web chez votre fournisseur d'hébergement actuel
 
-1. Sur la page [Domaines](https://portal.office.com/adminportal/home#/Domains), dans la liste de domaines, cliquez sur celui que vous utilisez pour votre site web, puis sélectionnez **Paramètres DNS** dans le volet de gestion. 
-    
-2. Sélectionnez **+Nouvel enregistrement personnalisé** et entrez les éléments suivants : 
-    
+1. Sur la page [Domaines](https://portal.office.com/adminportal/home#/Domains), dans la liste de domaines, cliquez sur celui que vous utilisez pour votre site web, puis sélectionnez **Paramètres DNS** dans le volet de gestion.
+
+2. Sélectionnez **+Nouvel enregistrement personnalisé** et entrez les éléments suivants :
+
   - Pour **Type de DNS** entrez : **A (Adresse)**
-    
+
   - Pour **Nom d'hôte ou Alias**, tapez **@**.
-    
-  - Pour **Adresse IP**, tapez l'adresse IP statique correspondant à l'hébergement actuel de votre site web (par exemple, 172.16.140.1). 
-    
-    Il doit s'agir d'une adresse IP  *statique*  pour le site web (et non d'une adresse IP  *dynamique*  ). Vérifiez l'emplacement d'hébergement de votre site web pour vous assurer que vous pouvez obtenir une adresse IP statique pour votre site web public. 
-    
-3. Sélectionnez **Enregistrer**. 
-    
+
+  - Pour **Adresse IP**, tapez l'adresse IP statique correspondant à l'hébergement actuel de votre site web (par exemple, 172.16.140.1).
+
+    Il doit s'agir d'une adresse IP  *statique*  pour le site web (et non d'une adresse IP  *dynamique*  ). Vérifiez l'emplacement d'hébergement de votre site web pour vous assurer que vous pouvez obtenir une adresse IP statique pour votre site web public.
+
+3. Sélectionnez **Enregistrer**.
+
 De plus, vous pouvez créer un enregistrement CNAME pour aider les clients à trouver votre site web.
   
-1. Sélectionnez **+Nouvel enregistrement personnalisé** et entrez les éléments suivants : 
-    
-  - Pour **Type de DNS** entrez : **CNAME (Alias)**
-    
-  - Pour **Nom d'hôte ou Alias**, tapez **www**
-    
-  - Pour **Adresse de pointage**, tapez le nom de domaine complet (FQDN) de votre site web (par exemple, contoso.com). 
-    
-2. Cliquez sur **Enregistrer**. 
-    
+1. Sélectionnez **+Nouvel enregistrement personnalisé** et entrez les éléments suivants :
 
+  - Pour **Type de DNS** entrez : **CNAME (Alias)**
+
+  - Pour **Nom d'hôte ou Alias**, tapez **www**
+
+  - Pour **Adresse de pointage**, tapez le nom de domaine complet (FQDN) de votre site web (par exemple, contoso.com).
+
+2. Cliquez sur **Enregistrer**.

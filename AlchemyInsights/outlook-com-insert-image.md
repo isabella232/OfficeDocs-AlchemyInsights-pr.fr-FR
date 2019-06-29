@@ -8,22 +8,28 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000086
-ms.openlocfilehash: 7d53d8768abbb5db26bd353c4cc9696a66dd507c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1390"
+- "1391"
+- "1392"
+- "1393"
+- "1394"
+- "8000086"
+ms.openlocfilehash: 2b140bb1adaf7b2817d1e41ca10eb6d2f80f4d6d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392657"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374347"
 ---
 # <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Insérer des images dans un message électronique ou un événement de calendrier
 
-Vous pouvez insérer des photos, des images gif ou des images clipart de votre ordinateur ou de OneDrive sous forme d'images insérées dans vos messages électroniques, événements de calendrier ou signatures électroniques.
+Vous pouvez insérer des photos, des images gif ou des images clipart de votre ordinateur ou de OneDrive sous forme d’images insérées dans vos messages électroniques, événements de calendrier ou signatures électroniques.
 
 1. Commencez à composer un message ou à créer un événement de calendrier.
-2. Sélectionnez l'icône **Insérer des images en ligne** en bas de la fenêtre de composition (en regard de l'icône **joindre** ).
-3. Sélectionnez l'image que vous souhaitez insérer, puis cliquez sur **ouvrir**.
-4. Faites glisser les coins pour redimensionner l'image.
-5. Cliquez avec le bouton droit sur l'image pour afficher les options de mise en forme.
+2. Sélectionnez l’icône **Insérer des images en ligne** en bas de la fenêtre de composition (en regard de l’icône **joindre** ).
+3. Sélectionnez l’image que vous souhaitez insérer, puis cliquez sur **ouvrir**.
+4. Faites glisser les coins pour redimensionner l’image.
+5. Cliquez avec le bouton droit sur l’image pour afficher les options de mise en forme.
 
 Pour en savoir plus, consultez la rubrique [joindre des fichiers dans Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab).

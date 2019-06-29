@@ -8,21 +8,23 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417950"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375787"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Comment résoudre le problème «cela semble ne pas être autorisé»
 
-Si vous voyez le message d'erreur «il semble que vous n'êtes pas autorisé à obtenir des courriers électroniques pour....» procédez comme suit:
+Si vous voyez le message d’erreur «il semble que vous n’êtes pas autorisé à obtenir des courriers électroniques pour....» procédez comme suit:
 
-1. Ouvrez les [paramètres de votre compte connecté](https://outlook.live.com/mail/options/mail/accounts) et supprimez ou supprimez le compte connecté figurant dans le message d'erreur. 
+1. Ouvrez les [paramètres de votre compte connecté](https://outlook.live.com/mail/options/mail/accounts) et supprimez ou supprimez le compte connecté figurant dans le message d’erreur.
 2. Rajoutez le compte connecté.
-3. ReVenez [à votre boîte aux lettres](https://outlook.live.com/mail/inbox).
+3. Revenez [à votre boîte aux lettres](https://outlook.live.com/mail/inbox).
 
 La resynchronisation de tous les courriers électroniques à partir de votre compte connecté peut prendre un certain temps.
 

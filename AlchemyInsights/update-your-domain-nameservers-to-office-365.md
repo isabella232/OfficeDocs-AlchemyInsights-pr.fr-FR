@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
-ms.openlocfilehash: 724e9f7501826dc238932ec08e8628d077e20e2c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "6"
+- "14"
+ms.openlocfilehash: 8e25c510233f2a00d133ea69a338141c5a475465
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423641"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35352887"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Mettre à jour les serveurs de noms de votre domaine vers Office 365
 
@@ -22,15 +25,14 @@ Remarque : le Serveur de noms modifications peut prendre jusqu'à 48 heures.
 Pour configurer votre domaine dans Office 365, les serveurs de noms de votre bureau d’enregistrement doivent être mis à jour. Créez ou modifiez vos enregistrements de serveur de noms auprès de votre bureau d’enregistrement de domaine.
   
 1. Accédez au site web de votre bureau d’enregistrement de domaines et recherchez la zone dans laquelle vous pouvez modifier les serveurs de noms.
-    
+
 2. Créez ou modifiez deux enregistrements de serveur de noms avec ces valeurs :
-    
+
   - ns1.bdm.microsoftonline.com
-    
+
   - ns2.bdm.microsoftonline.com
-    
+
 3. Enregistrez les modifications.
-    
+
 Vous trouverez également des instructions détaillées dans cet article : [Modifier les serveurs de noms de manière à configurer Office 365 avec n’importe quel bureau d’enregistrement de domaines](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
-

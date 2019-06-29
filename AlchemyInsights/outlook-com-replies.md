@@ -8,28 +8,30 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392528"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372547"
 ---
 # <a name="replying-in-outlookcom"></a>Réponse dans Outlook.com
 
 Pour répondre à un message à la fois:
 
-1. Dans votre liste de messages, choisissez le message que vous souhaitez transférer.
+1. Dans votre liste de messages, choisissez le message auquel vous souhaitez répondre.
 2. En haut à droite du volet de message, sélectionnez la flèche **répondre** ou **répondez toutes les** flèches.
 3. Tapez votre message, puis sélectionnez **Envoyer**.
 
 Pour répondre automatiquement à tous les messages:
 
-1. Ouvrez vos [paramètres de réponses automatiques](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Accédez à **paramètres** > **Afficher tous les paramètres** > Outlook**réponses automatiques** du**courrier électronique** > pour ouvrir vos [paramètres de réponses automatiques](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Sélectionnez le bouton **activer les réponses automatiques** .
-3. L'activation de la case à cocher **Envoyer des réponses uniquement pendant une période** vous permet d'effectuer les opérations suivantes:
-    - Envoyer uniquement les réponses lorsque vous le souhaitez. Si vous ne définissez pas de période, votre réponse automatique reste active jusqu'à ce que vous la désactiviez.
+3. L’activation de la case à cocher **Envoyer des réponses uniquement pendant une période** vous permet d’effectuer les opérations suivantes:
+    - Envoyer uniquement les réponses lorsque vous le souhaitez. Si vous ne définissez pas de période, votre réponse automatique reste active jusqu’à ce que vous la désactiviez.
     - Bloquer votre calendrier
     - Refuser automatiquement les nouvelles invitations
     - Refuser et annuler mes réunions pendant cette période

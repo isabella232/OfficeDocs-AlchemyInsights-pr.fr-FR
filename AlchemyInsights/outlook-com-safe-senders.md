@@ -8,20 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000089
-ms.openlocfilehash: d5df59cec3953e6f36af025c734708424bd2af58
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1400"
+- "8000089"
+ms.openlocfilehash: db98a0cdeb2654f1c29929b6bcb109567aac8ae2
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391400"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372367"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Empêcher les messages de passer dans votre dossier courrier inDésirable
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Empêcher les messages de passer dans votre dossier courrier indésirable
 
-Dans certains cas, vous ne voulez pas que les messages provenant d'une personne ou d'un domaine spécifique finissent dans votre dossier courrier inDésirable. Les messages provenant d'adresses ou de domaines figurant dans la liste des expéditeurs approuvés ne sont pas déplacés vers votre dossier courrier inDésirable.
+Dans certains cas, vous ne voulez pas que les messages provenant d’une personne ou d’un domaine spécifique finissent dans votre dossier courrier indésirable. Les messages provenant d’adresses ou de domaines figurant dans la liste des expéditeurs approuvés ne sont pas déplacés vers votre dossier courrier indésirable.
 
-1. Ouvrez vos [paramètres d'expéditeurs approuvés](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. Sous **expéditeurs approuvés et domaines**, entrez l'adresse de messagerie ou le domaine que vous souhaitez ajouter, puis sélectionnez **Ajouter**.
+1. Ouvrez vos [paramètres d’expéditeurs approuvés](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. Sous **expéditeurs approuvés et domaines**, entrez l’adresse de messagerie ou le domaine que vous souhaitez ajouter, puis sélectionnez **Ajouter**.
 3. Pour ajouter une liste de publipostage à vos expéditeurs approuvés, entrez la liste de publipostage sous **listes de diffusion fiables** , puis sélectionnez **Ajouter**.
 4. Cliquez sur **Enregistrer**.
 

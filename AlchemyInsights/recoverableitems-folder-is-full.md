@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1336
+ms.custom:
+- "1336"
+- "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 05e7b47a2200c3b0500e7d786166966ea301179a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762078"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370385"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Le dossier éléments récupérables est plein
 
@@ -31,7 +33,7 @@ Lorsque le dossier éléments récupérables atteint la limite de stockage, la f
 
 - Pour les boîtes aux lettres pour lesquelles l’enregistrement d’audit de boîte aux lettres est activé, aucune entrée de journal d’audit de boîte aux lettres ne peut être enregistrée dans le sous-dossier audits du dossier éléments récupérables.
 
-Pour les boîtes aux lettres qui ne sont pas en attente, `Search-Mailbox -SearchDumpsterOnly -DeleteContent` les administrateurs peuvent utiliser la commande dans Exchange Online PowerShell pour supprimer des éléments dans le dossier éléments récupérables. Pour plus d’informations, consultez les rubriques suivantes : 
+Pour les boîtes aux lettres qui ne sont pas en attente, `Search-Mailbox -SearchDumpsterOnly -DeleteContent` les administrateurs peuvent utiliser la commande dans Exchange Online PowerShell pour supprimer des éléments dans le dossier éléments récupérables. Pour plus d’informations, consultez les rubriques suivantes :
 
 - [Rechercher et supprimer des messages](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 

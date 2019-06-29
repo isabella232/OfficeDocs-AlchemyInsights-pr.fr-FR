@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA
+title: Preuves MSA Outlook.com
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392338"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373879"
 ---
 # <a name="security-info-and-security-codes"></a>Informations de sécurité et codes de sécurité
 
-1. Connectez-vous à votre page de [notions de base](https://account.microsoft.com/security) sur la sécurité avec votre compte Microsoft. 
-    
-2. Sélectionnez **infos sur la mise à jour**. 
-    
-3. Vous serez peut-être invité à entrer un code de sécurité pour continuer. Si vous n'avez pas accès à votre autre courrier ou numéro de téléphone, sélectionnez **je n'ai aucune de ces** options et suivez les instructions pour remplacer vos informations de sécurité. 
-    
-4. Sélectionnez **Ajouter des informations de sécurité** , puis suivez les instructions pour entrer un nouveau message ou numéro de téléphone. 
-    
-5. Nous allons envoyer un code de sécurité à ce nouveau courrier ou numéro de téléphone. Entrez ce code de sécurité, puis cliquez sur **suivant**. Vos nouvelles informations de sécurité apparaîtront dans votre liste. 
-    
-6. Choisissez **supprimer** pour tout ce que vous souhaitez supprimer. 
-    
-7. Si vous souhaitez mettre à jour les informations de sécurité auxquelles les alertes seront envoyées, sélectionnez **modifier les options d'alerte** et désactivez la case à cocher correspondant à celle pour laquelle vous ne souhaitez plus recevoir d'alertes, sauf si elles sont critiques. 
-    
-En savoir plus sur [les informations de sécurité et les codes de sécurité](https://support.microsoft.com/help/12428/).
-  
+Pour ajouter des informations de sécurité à votre compte:
 
+1. Connectez-vous à la [sécurité de base](https://account.microsoft.com/security) avec votre compte Microsoft.
+1. Sélectionnez **informations de contact de sécurité**.
+1. Sélectionnez **Ajouter des informations de sécurité** et suivez les instructions pour entrer un numéro de téléphone ou une adresse de messagerie.
+1. Vous recevrez un code de sécurité à ce numéro de téléphone ou à cette adresse de messagerie. Entrez le code de sécurité que vous avez reçu dans la fenêtre **Ajouter des informations de sécurité** , puis cliquez sur **suivant**.
+
+Si vous souhaitez supprimer un numéro de téléphone ou une adresse de messagerie, sélectionnez **supprimer** en regard de celui-ci.
+
+Si vous souhaitez modifier le numéro de téléphone ou l’adresse de messagerie qui reçoit les alertes de sécurité, sélectionnez **modifier les options d’alerte**.
+
+Pour en savoir plus, lisez [les informations de sécurité de compte Microsoft et les codes de vérification](https://support.microsoft.com/help/12428/).

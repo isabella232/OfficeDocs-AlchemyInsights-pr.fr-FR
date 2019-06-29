@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769436"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359342"
 ---
 # <a name="access-services-retirement"></a>Déclassement Access services
 
@@ -24,7 +27,7 @@ Comme nous l’avons annoncé à l’origine dans MC97576, en mars 2017, et cont
 
 **Que dois-je faire pour préparer cette modification?**
 
-Nous vous encourageons à créer un plan de transition pour les bases de données Web Access de votre organisation. Les administrateurs peuvent utiliser l’analyseur d' [applications SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pour obtenir un inventaire des applications Access que les sites utilisent. 
+Nous vous encourageons à créer un plan de transition pour les bases de données Web Access de votre organisation. Les administrateurs peuvent utiliser l’analyseur d' [applications SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pour obtenir un inventaire des applications Access que les sites utilisent.
 
 Il existe plusieurs façons de migrer des données de bases de données Web Access:
 

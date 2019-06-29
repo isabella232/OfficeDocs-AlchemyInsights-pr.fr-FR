@@ -1,26 +1,28 @@
 ---
-title: 9000193 annuler déplacer ou supprimer dans Outlook.com
+title: Annuler déplacer ou supprimer dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 5/6/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000193
-ms.openlocfilehash: 9fc58b1d5bb6df309a2832d38101d9f6ae90a6aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1752"
+- "9000193"
+ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372990"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361059"
 ---
-# <a name="action-confirmations"></a>Confirmations d'action
+# <a name="action-confirmations"></a>Confirmations d’action
 
-La fonctionnalité de confirmations d'action dans Outlook.com vous permet d'annuler une suppression de déplacement ou de message que vous venez d'effectuer par inadvertance. La boîte de dialogue annuler s'affiche en bas de l'écran pendant environ 5 secondes et inverse l'action de déplacement ou de suppression.
+Si vous avez accidentellement déplacé ou supprimé un message, vous pouvez l’annuler. La boîte de dialogue annuler s’affiche en bas de l’écran pendant environ 5 secondes. Sélectionnez **Annuler** pour annuler l’action de déplacement ou de suppression.
 
-Vous pouvez désactiver cette option dans la section confirmations d' [action](https://outlook.live.com/mail/options/general/notifications) (**paramètres** > **Afficher tous les paramètres** > Outlook notifications**générales** > ****).
+Vous pouvez désactiver cette fonctionnalité dans la section confirmations d' [action](https://outlook.live.com/mail/options/general/notifications) (**paramètres** > **Afficher tous les paramètres** > Outlook notifications**générales** > ****).
 
-Remarque: vous ne pouvez pas annuler l'envoi des messages. Pour plus d'informations, consultez [la rubrique je souhaite rappeler un message dans Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
+Remarque: une fois qu’un message a été envoyé, vous ne pouvez pas l’annuler. Pour plus d’informations, consultez [la rubrique je souhaite rappeler un message dans Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).

@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "308"
+- "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761580"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369663"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Stratégies de rétention dans le centre d’administration Exchange
 
@@ -24,7 +27,7 @@ ms.locfileid: "34761580"
   
 - Cela peut être dû au fait que l' **Assistant dossier géré** n’a pas traité la boîte aux lettres de l’utilisateur. L’Assistant dossier géré tente de traiter toutes les boîtes aux lettres de votre organisation en nuage une fois tous les sept jours. Si vous modifiez une balise de rétention ou appliquez une autre stratégie de rétention à une boîte aux lettres, vous pouvez attendre que le dossier géré facilite le traitement de la boîte aux lettres ou exécuter l’applet de commande Start-ManagedFolderAssistant pour démarrer l’Assistant dossier géré afin de traiter un lettres. L’exécution de cette applet de commande est utile pour tester ou résoudre les problèmes d’une stratégie de rétention ou des paramètres de balise. Pour plus d’informations, consultez [la portion exécuter l’Assistant dossier géré](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Solution:** Exécutez la commande suivante pour démarrer l’Assistant dossier géré pour une boîte aux lettres spécifique: 
+  - **Solution:** Exécutez la commande suivante pour démarrer l’Assistant dossier géré pour une boîte aux lettres spécifique:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
@@ -40,7 +43,7 @@ ms.locfileid: "34761580"
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Exécutez la commande suivante pour **Désactiver** RetentionHold sur une boîte aux lettres spécifique: 
+  - Exécutez la commande suivante pour **Désactiver** RetentionHold sur une boîte aux lettres spécifique:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
@@ -52,6 +55,5 @@ ms.locfileid: "34761580"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Remarque:** Si la taille d’une boîte aux lettres est inférieure à 10 Mo, l’Assistant dossier géré ne traitera pas automatiquement la boîte aux lettres. 
+ **Remarque:** Si la taille d’une boîte aux lettres est inférieure à 10 Mo, l’Assistant dossier géré ne traitera pas automatiquement la boîte aux lettres.
   
-

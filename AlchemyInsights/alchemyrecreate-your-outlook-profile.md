@@ -9,17 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "65"
+- "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 254cb5284a0acc989ce01c59636e7f156302a639
-ms.sourcegitcommit: a7be616a4ebca62f8e70fe576df58e9a7597c4f8
+ms.openlocfilehash: 927de277b6d89c0bda79e861392205aba1726d8c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33403214"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357387"
 ---
 # <a name="create-an-outlook-profile"></a>Créer un profil Outlook
 
-Pour créer ou recréer votre profil Outlook, vous pouvez exécuter l' [outil de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) sur l'ordinateur affecté.
+Pour créer ou recréer votre profil Outlook, vous pouvez exécuter l' [outil de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) sur l’ordinateur affecté.
 
-L'outil effectue plusieurs vérifications et, lorsque vous êtes prêt, vous créez un profil Outlook avec votre adresse de messagerie.
+L’outil effectue plusieurs vérifications et, lorsque vous êtes prêt, vous créez un profil Outlook avec votre adresse de messagerie.
