@@ -1,5 +1,5 @@
 ---
-title: Rapport de transfert de courrier électronique
+title: Rapport concernant le transfert du courrier électronique
 ms.author: pebaum
 author: pebaum
 ms.date: 9/13/2018
@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Once
+ms.custom:
+- "1195"
+- "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 0d685fa21f6d82e7a08f32bf0a8c1f6911e7782c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 2d78103fcf05d23e3ba966b74bbedc411264eac3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29469351"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388819"
 ---
-# <a name="email-forwarding-report"></a>Rapport de transfert de courrier électronique
+# <a name="email-forwarding-report"></a>Rapport concernant le transfert du courrier électronique
 
-Pour afficher un rapport sur le nombre de messages transférés automatiquement, il existe dans votre organisation, consultez [insights de flux de messagerie](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) le [Office 365 sécurité &amp; centre de conformité](https://protection.office.com/#/homepage).
+Pour afficher un rapport sur le nombre de messages transférés automatiquement au sein de votre organisation, consultez la rubrique [Informations sur le flux de courrier](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) dans le [Centre de conformité&amp; de la Sécurité Office 365](https://protection.office.com/#/homepage).
   
-Remarque : s’il s’agit de la première fois que vous vous connectez à la sécurité &amp; centre de conformité, vous devrez peut-être actualiser le navigateur après quelques minutes pour voir toutes les options disponibles.
+Remarque : si vous vous connectez pour la première fois au Centre de conformité &amp;de la sécurité, vous devrez peut-être actualiser le navigateur après quelques minutes pour voir toutes les options disponibles.
   
-
