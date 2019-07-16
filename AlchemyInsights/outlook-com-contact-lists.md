@@ -11,12 +11,12 @@ ms.custom:
 - "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 979047010dee0bb5908fe9f2c9f5897f82ba0c67
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 59b4845833a8d4a50772d54852f500e2b8c8e2f6
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375679"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697009"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Organisation de votre boîte aux lettres Outlook.com
 
@@ -27,4 +27,4 @@ Une liste de contacts est une collection d’adresses de messagerie et est utile
 1. Entrez un nom pour la liste, puis ajoutez des noms ou des adresses de messagerie.
 1. Sélectionnez **Créer**.
 
-En savoir plus sur la [création, l’affichage et la modification de contacts et de listes de contacts dans Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+En savoir plus sur la [création, l’affichage et la modification de contacts et de listes de contacts dans Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy).

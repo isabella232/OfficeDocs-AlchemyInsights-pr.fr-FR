@@ -13,12 +13,12 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: 682d1338c909b6a3c479c9d9f08c278697669690
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: a2c99c03426843314be772f781f7650c2fa5c0c4
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34708980"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704774"
 ---
 # <a name="print-an-attachment"></a>Imprimer une pièce jointe
 
@@ -26,4 +26,4 @@ ms.locfileid: "34708980"
 2. Déplacez votre curseur sur la pièce jointe et sélectionnez l’icône de **Téléchargement** .
 3. Une fois que le fichier a été téléchargé, ouvrez-le avec le programme approprié et choisissez l’option d’impression. Par exemple, ouvrez un fichier. doc dans Word, puis imprimez.
 
-Pour plus d’informations, consultez la [page imprimer des messages électroniques, des pièces jointes et des calendriers dans Outlook.com](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409).
+Pour plus d’informations, consultez la [page imprimer des messages électroniques, des pièces jointes et des calendriers dans Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).

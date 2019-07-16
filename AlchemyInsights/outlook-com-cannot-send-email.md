@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1500c2e0bc7ba40b4ee4d149899e5199ae926722
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376759"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697189"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>Impossible d’envoyer des messages électroniques dans Outlook.com
 
@@ -28,6 +28,6 @@ Si vous rencontrez des problèmes lors de l’envoi de messages dans Outlook.com
 1. Si votre boîte de réception est pleine, vous ne pourrez pas envoyer ni recevoir de nouveaux messages. Videz votre [dossier](https://outlook.live.com/mail/junkemail) courrier indésirable en cliquant avec le bouton droit sur le dossier courrier indésirable et en sélectionnant **dossier vide**.
 1. Assurez-vous que les adresses de messagerie des personnes que vous essayez d’envoyer sont correctement mises en forme.
 1. Si vous avez plus de 20 [comptes connectés](https://outlook.live.com/mail/options/mail/accounts/connected), vous ne serez pas en mesure d’envoyer ou de recevoir des messages.
-1. Votre compte peut être temporairement bloqué, car nous avons remarqué une activité de connexion inhabituelle. Voir [débloquer mon compte Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Votre compte peut être temporairement bloqué, car nous avons remarqué une activité de connexion inhabituelle. Voir [débloquer mon compte Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-En savoir plus sur la [résolution des problèmes liés à la synchronisation des messages Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+En savoir plus sur la [résolution des problèmes liés à la synchronisation des messages Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
