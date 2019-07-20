@@ -3,7 +3,7 @@ title: Traitement du courrier indésirable et du courrier indésirable dans Outl
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697117"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800079"
 ---
-# <a name="mark-email-messages-as-junk"></a>Marquer les messages comme courrier indésirable
+# <a name="spam-and-junk-email-in-outlookcom"></a>Courrier indésirable et courrier indésirable dans Outlook.com
 
-Pour marquer un message comme courrier indésirable ou courrier indésirable, sélectionnez le message **** > **** dans votre liste de messages et sélectionnez courrier indésirable.
+Si vous recevez trop de courrier indésirable ou de courrier indésirable, essayez les méthodes suivantes:
 
-Pour bloquer tous les messages provenant d’une adresse de messagerie spécifique, sélectionnez le ou les messages dans votre liste de messages, puis sélectionnez**blocage**du **courrier** > indésirable.
+1. **Marquer un message comme courrier indésirable**
+    1. Sélectionnez le message.
+    1. Sélectionnez courrier indésirable pour déplacer le message vers votre dossier courrier indésirable.**** **** > 
+    1. [En savoir plus sur la façon de conserver le courrier indésirable et le courrier indésirable dans votre boîte de réception.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Si vous marquez accidentellement un message comme courrier indésirable, sélectionnez [-](https://outlook.live.com/mail/junkemail) le dans votre dossier courrier indésirable et sélectionnez **non légitime** > ****. (*Remarque:* les éléments de votre dossier courrier indésirable sont supprimés au bout de 30 jours.)
+1. **Bloquer un expéditeur de votre boîte de réception**
+    1. Sélectionnez le message.
+    1. Sélectionnez **** > **** blocage > du courrier indésirable**OK**.
+    1. [En savoir plus sur la façon de bloquer ou de débloquer des expéditeurs.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Pour en savoir plus, lisez [marquer le courrier électronique comme courrier indésirable ou bloquer des expéditeurs dans Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. **Ajouter un expéditeur à votre liste des expéditeurs bloqués**
+    1. Ouvrez vos [paramètres de courrier](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)indésirable.
+    1. Sous **expéditeurs et domaines bloqués**, sélectionnez **Ajouter**.
+    1. Tapez l’adresse de messagerie ou le domaine que vous voulez bloquer, puis appuyez sur entrée.
+    1. Sous **filtres**, choisissez si vous souhaitez approuver les courriers électroniques provenant d’adresses dans les listes d’expéditeurs approuvés et de domaines et de listes de publipostage sûres.
+    1. Cliquez sur **Enregistrer**.
+
+1. **Créer une règle de boîte de réception**
+    1. Cliquez avec le bouton droit sur un message dans votre liste de messages, puis sélectionnez **créer une règle**.
+    1. Choisissez le dossier dans lequel vous souhaitez déplacer tous les messages de cet expéditeur, puis sélectionnez **OK** > ****.
+    1. [En savoir plus sur les règles de boîte de réception dans Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

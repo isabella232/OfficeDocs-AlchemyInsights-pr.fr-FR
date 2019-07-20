@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 07b60aa96a42511f3bfbfe0d63b8107a0cfd87e2
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 5387aeaff7be7df4dc44723f420ff2c5784cd260
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752867"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800115"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Résoudre les problèmes de synchronisation de OneNote
+
+* Pour résoudre les problèmes les plus courants liés à la synchronisation OneNote, suivez les étapes décrites dans [corriger les problèmes lorsque vous ne pouvez pas synchroniser OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
 Si le bloc-notes qui ne se synchronise pas est stocké sur OneDrive ou sur des versions plus récentes de SharePoint, essayez d’ouvrir le bloc-notes dans OneNote Online (sur www.onenote.com). Cela peut vous aider à déterminer si le problème est dû au serveur ou à OneNote.
 
@@ -33,5 +35,3 @@ Si le bloc-notes qui ne se synchronise pas est stocké sur OneDrive ou sur des v
 Si vous ne parvenez pas à ouvrir le bloc-notes dans OneNote Online et que les modifications s’affichent, le problème peut être dû à la version de bureau de OneNote. La fermeture et la réouverture du bloc-notes effacent généralement la connexion et la rétablit.
 
 * Nous vous recommandons de suivre les étapes décrites dans [install Office updates](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) pour installer les dernières mises à jour de OneNote sur votre PC. Si vous utilisez un Mac, suivez les étapes de la [case à cocher Vérifier les mises à jour d’Office pour Mac automatiquement](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
-
-* Pour résoudre les problèmes les plus courants liés à la synchronisation d’OneeNote, suivez les étapes de la procédure [corriger les problèmes lorsque vous ne pouvez pas synchroniser OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
