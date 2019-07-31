@@ -12,20 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: cf18afc7c2ab07b3318a9c79ad657a83810e5a42
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.openlocfilehash: 7687f6cb4a2e71a68edc762e69ccee2994e60c6f
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35475467"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941102"
 ---
 # <a name="more-info-about-dlp-issues"></a>Plus d’informations sur les problèmes liés à DLP
 
-Avec une stratégie DLP, vous pouvez identifier, surveiller et protéger automatiquement les informations sensibles dans Office 365. 
+Avec une stratégie DLP, vous pouvez identifier, surveiller et protéger automatiquement les informations sensibles dans Office 365.
 
 Pour plus d’informations, consultez les liens suivants:
 
 - [Vue d’ensemble de la protection contre la perte de données](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies)
+- [Éléments recherchés par les types d’informations sensibles](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Créer un type d’informations sensibles personnalisé](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Envoyer des notifications par courrier électronique et afficher des conseils de stratégie](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
 - [Protéger les fichiers SharePoint Online avec des étiquettes de rétention et la protection contre la perte de données (DLP)](https://docs.microsoft.com/en-us/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP et Microsoft Teams](https://docs.microsoft.com/en-us/office365/securitycompliance/dlp-microsoft-teams)
 
