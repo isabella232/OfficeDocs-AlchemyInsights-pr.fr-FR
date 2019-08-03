@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 463aef6d5eebee49e06be8453bf5d667e83cf5e0
-ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
+ms.openlocfilehash: 823b54ccc530f555938ca4b28cf4d3008754a84d
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "35001223"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171568"
 ---
-# <a name="add-emojis-or-gifs-to-messages"></a><span data-ttu-id="cefac-102">Ajouter des Emoji ou des images gif aux messages</span><span class="sxs-lookup"><span data-stu-id="cefac-102">Add emojis or GIFs to messages</span></span>
+# <a name="add-emojis-or-gifs-to-messages"></a><span data-ttu-id="9c639-102">Ajouter des Emoji ou des images gif aux messages</span><span class="sxs-lookup"><span data-stu-id="9c639-102">Add emojis or GIFs to messages</span></span>
 
-1. <span data-ttu-id="cefac-103">Répondez à un message électronique existant ou sélectionnez **nouveau message**.</span><span class="sxs-lookup"><span data-stu-id="cefac-103">Reply to an existing email or select **New message**.</span></span>
-1. <span data-ttu-id="cefac-104">Sélectionnez le smiley en bas de la fenêtre de composition pour ouvrir le volet Expressions.</span><span class="sxs-lookup"><span data-stu-id="cefac-104">Select the smiley face at the bottom of the compose window to open the Expressions pane.</span></span>
-1. <span data-ttu-id="cefac-105">Recherchez et sélectionnez l’Emoji ou l’image GIF que vous souhaitez insérer.</span><span class="sxs-lookup"><span data-stu-id="cefac-105">Search for and choose the emoji or GIF you want to insert.</span></span>
+1. <span data-ttu-id="9c639-103">Répondez à un message électronique existant ou sélectionnez **nouveau message**.</span><span class="sxs-lookup"><span data-stu-id="9c639-103">Reply to an existing email or select **New message**.</span></span>
+1. <span data-ttu-id="9c639-104">Sélectionner le smiley</span><span class="sxs-lookup"><span data-stu-id="9c639-104">Select the smiley face</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAmVBMVEX///9nZ2fq6uqnp6dqampfX1/6+vr39/fy8vLw8PDj4+ORkZFtbW1jY2NTU1O4uLiIiIhdXV38/Pzt7e3b29u7u7tcXFxLS0v09PTe3t7W1tbU1NTR0dHNzc3JycnExMSzs7Ourq6pqamenp6Pj4+FhYWBgYF0dHRvb29bW1tWVlZMTEzm5ubAwMCioqKfn59+fn4jIyMaGhozv5rfAAAAvklEQVQY063QRw6DMBRF0ecKxoWe3ntv+19ckAwhDCPljKyrN/gy/mfCtF6Nui1KSJoeU5tQtObClAEQxsRO26XYBf6l9vyzTngdq7nQ8Mbkio27AMV5jQUpfGVpAPMcVne8dlAu9nXTA0KaAZIOgD7zVVe10VYmBnIeopLPMuVKXwsbB+5BgeggsiWPmstEOLNmu+VknB/vqFG7l/JG+AqKmByNKT8tAMhl7/D9QVQTd+6fzFqhYxgzVkb43RvYUwra81Z7wAAAAABJRU5ErkJggg==' /> <span data-ttu-id="9c639-105">en bas de la fenêtre de composition, pour ouvrir le volet Expressions.</span><span class="sxs-lookup"><span data-stu-id="9c639-105">at the bottom of the compose window to open the Expressions pane.</span></span>
+1. <span data-ttu-id="9c639-106">Recherchez et sélectionnez l’Emoji ou l’image GIF que vous souhaitez insérer.</span><span class="sxs-lookup"><span data-stu-id="9c639-106">Search for and choose the emoji or GIF you want to insert.</span></span>
 
-<span data-ttu-id="cefac-106">Pour plus d’informations, consultez [la rubrique personnaliser votre message électronique dans Outlook sur le Web](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).</span><span class="sxs-lookup"><span data-stu-id="cefac-106">For more information, see [Customize your email message in Outlook on the web](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).</span></span>
+<span data-ttu-id="9c639-107">Pour plus d’informations, consultez [la rubrique personnaliser votre message électronique dans Outlook sur le Web](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).</span><span class="sxs-lookup"><span data-stu-id="9c639-107">For more information, see [Customize your email message in Outlook on the web](https://support.office.com/article/079442eb-6b41-4ff5-b6e0-a83d3967ac41).</span></span>
