@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 58046f0eda55c28ffc8b321a6859efc086de3dd1
-ms.sourcegitcommit: 7120202ae6d2bca8f2c2ce79f41d3205fa80ef74
+ms.openlocfilehash: 69241cad34058df87886ee4db7826ceb2779fbf7
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "33571084"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35595117"
 ---
 # <a name="my-personalized-email-address-isnt-sending-or-receiving"></a>Mon adresse de messagerie personnalisée n’envoie pas ou ne reçoit pas
 
@@ -24,4 +24,4 @@ Si vous ne voyez pas d’icône en forme de losange dans votre boîte de récept
 
 Si l’onglet «adresse de messagerie personnalisée» contient une barre d’état rouge, votre domaine a peut-être expiré.
 
-Pour en savoir plus, consultez la rubrique Dépannage des [adresses de messagerie personnalisées dans Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b).
+Pour en savoir plus, consultez la rubrique Dépannage des [adresses de messagerie personnalisées dans Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

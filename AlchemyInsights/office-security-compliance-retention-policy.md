@@ -1,25 +1,24 @@
 ---
-title: Nouvelles étiquettes de rétention créées automatiquement
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Plus d’informations sur les stratégies de rétention
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222990"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448833"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nouvelles étiquettes de rétention créées automatiquement
+# <a name="more-info-about-retention-policies"></a>Plus d’informations sur les stratégies de rétention
 
 Pour la plupart des organisations, le volume et la complexité de leurs données augmentent quotidiennement, le courrier électronique, les documents, les messages instantanés et bien plus encore.
-
-La gestion ou l’administration efficace de ces informations est importante, une stratégie de rétention peut vous aider à atteindre ces objectifs. Pour plus d’informations sur les stratégies de rétention, consultez les liens ci-dessous.
+La gestion ou l’administration efficace de ces informations est importante, et une stratégie de rétention peut vous aider à atteindre ces objectifs. Pour plus d’informations sur les stratégies de rétention, consultez les liens suivants:
 
 - [Vue d’ensemble des stratégies de rétention](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
