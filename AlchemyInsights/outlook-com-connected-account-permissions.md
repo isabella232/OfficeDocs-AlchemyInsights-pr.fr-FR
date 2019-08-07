@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4daff733a29dacfb55e1d8502d18d52355af8d46
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375787"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "35602141"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Comment résoudre le problème «cela semble ne pas être autorisé»
 
@@ -28,4 +28,4 @@ Si vous voyez le message d’erreur «il semble que vous n’êtes pas autorisé
 
 La resynchronisation de tous les courriers électroniques à partir de votre compte connecté peut prendre un certain temps.
 
-En savoir plus sur la [suppression](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8) et l' [Ajout](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba) de comptes connectés.
+En savoir plus sur la [suppression](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) et l' [Ajout](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) de comptes connectés.

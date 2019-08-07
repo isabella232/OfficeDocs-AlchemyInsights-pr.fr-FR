@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 95e338e0b5ba49f82286580a74a450efb7f00b31
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: 8749b365638a2c5441743cd6d58f2728a36914ef
+ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683047"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36204130"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Empêcher les messages d’atteindre votre dossier courrier indésirable
 
@@ -26,7 +26,8 @@ Si vous découvrez qu’un message électronique dans votre dossier de courrier 
 
 Si vous souhaitez empêcher les messages provenant d’un expéditeur d’atteindre le dossier courrier indésirable, ajoutez l’expéditeur à votre liste des expéditeurs approuvés:
 
-1. Sélectionnez l’icône d’engrenage pour ouvrir le volet Paramètres.
+1. Sélectionnez l’icône d’engrenage <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ pour ouvrir le volet Paramètres.
 1. Sélectionnez **Afficher tous les paramètres** > Outlook**courrier**indésirable.
 1. Sous **expéditeurs approuvés et domaines**, sélectionnez **Ajouter**.
 1. Entrez l’adresse de messagerie ou le domaine que vous souhaitez ajouter, puis sélectionnez **Enregistrer**.
