@@ -1,20 +1,24 @@
 ---
-title: Activer le contrôle de version dans une liste ou une bibliothèque
-ms.author: kirks
-author: Techwriter40
+title: Gestion des versions dans SharePoint et OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223602"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232656"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Activer le contrôle de version pour une liste ou une bibliothèque SharePoint
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Gestion des versions dans SharePoint et OneDrive 
 
 
 Lorsque le contrôle de version est activé dans votre liste ou bibliothèque SharePoint, vous pouvez enregistrer, suivre et restaurer les éléments d'une liste et les fichiers d'une bibliothèque chaque fois qu'ils sont modifiés. Le contrôle de version, combiné à d’autres paramètres, tels que le retrait, vous permet de contrôler de manière importante le contenu publié sur votre site et peut fournir une valeur réelle si vous avez besoin de consulter ou de restaurer une ancienne version d’un élément ou d’un fichier.

@@ -1,31 +1,34 @@
 ---
-title: Problèmes d’autorisation lors de la migration
-ms.author: kirks
-author: Techwriter40
+title: Problèmes lors de la migration de données vers SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: c2502825962cc20ce92d6433c6e8bebbb978d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "1885"
+ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735456"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232524"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problèmes lors de la migration de données vers SharePoint Online
 
-Il s’avère que vous effectuez une migration de 100 to de données vers SharePoint Online.
+Il s’avère que vous effectuez une migration de 100 to de données vers SharePoint Online. Suivez les étapes ci-dessous pour que nous puissions vous aider dès que possible. 
 
-Veuillez cliquer sur **nouvelle demande de service** par téléphone/e-mail ci-dessous et laisser la requête en tant que migration SharePoint sur 100 to dans la zone de texte.
+1. Sélectionnez **nouvelle demande de service**, puis **nouvelle demande de service**. 
+2. Conservez le titre et la description de la **migration SharePoint sur 100 to**.
+3. Une fois le ticket soumis, veuillez le mettre à jour avec les informations suivantes: 
 
-Une fois le ticket soumis, veuillez le mettre à jour avec les informations suivantes: 
-
-- Le nom et l’URL client de votre société
-- Estimation de la taille de votre migration
-- Une estimation du moment où vous voulez commencer et effectuer la migration
-- Décrire l’endroit où vous effectuez une migration de votre contenu à partir de, tels que SharePoint Server, zone, GDrive, partages de fichiers, etc..
+    - Taille estimée de votre migration.
+    - Estimation de la date de début et de fin de la migration.
+    - Décrivez l’emplacement à partir duquel vous migrez votre contenu (par exemple, SharePoint Server, Box, GDrive, partages de fichiers, etc.).
 
 
   
