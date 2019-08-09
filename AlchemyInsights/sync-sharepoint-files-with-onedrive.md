@@ -1,9 +1,9 @@
 ---
 title: Résoudre les problèmes « Ouvrir avec l’Explorateur » dans SharePoint Online
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803036"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270706"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Résoudre les problèmes « Ouvrir avec l’Explorateur » dans SharePoint Online
 
@@ -31,9 +31,9 @@ Si vous avez choisi d’utiliser le mode Explorateur au lieu d’utiliser le nou
 
 > [!Note]  
 > Le bouton **Ouvrir avec l’Explorateur** ne s’affiche pas dans la nouvelle expérience de bibliothèque. Sélectionnez la liste déroulante **Affichage** dans l’angle supérieur droit (le nom de la liste déroulante change en fonction de votre affichage actuel), puis cliquez sur **Afficher dans l’Explorateur de fichiers**.
-
+>
  >Ouvrir avec l’Explorateur dans SharePoint utilise des contrôles ActiveX. Il n’est donc pris en charge que dans Internet Explorer 10 ou 11. Ouvrir avec l’Explorateur ne fonctionne pas dans Windows avec Microsoft Edge, Google Chrome, Mozilla Firefox ni sur la plateforme Mac. Pour cette raison, il est possible que l’option Mode Explorateur soit grisée.
-
+>
 > - [Pourquoi des boutons du ruban SharePoint sont indisponibles ou grisés](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
 

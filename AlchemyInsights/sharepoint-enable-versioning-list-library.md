@@ -2,6 +2,7 @@
 title: Gestion des versions dans SharePoint et OneDrive
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232656"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270418"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Gestion des versions dans SharePoint et OneDrive 
 
@@ -37,6 +38,7 @@ Pour plus d’informations sur le contrôle de version, consultez les articles c
 
 - [Limites de contrôle de version](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Remarque:** Si vous êtes un client Office 365, le contrôle de version est désormais activé par défaut lorsque vous créez de nouvelles bibliothèques OneDrive entreprise, et il enregistre automatiquement les 500 dernières versions d’un document. Cela vous permettra d’éviter de perdre des données ou des documents importants. Si vous disposez de bibliothèques existantes sur votre site OneDrive entreprise ou sur votre site d’équipe qui ne sont pas activées pour la gestion des versions, vous pouvez activer le contrôle de version à tout moment.
+>[!Note] 
+>Si vous êtes un client Office 365, le contrôle de version est désormais activé par défaut lorsque vous créez de nouvelles bibliothèques OneDrive entreprise, et il enregistre automatiquement les 500 dernières versions d’un document. Cela vous permettra d’éviter de perdre des données ou des documents importants. Si vous disposez de bibliothèques existantes sur votre site OneDrive entreprise ou sur votre site d’équipe qui ne sont pas activées pour la gestion des versions, vous pouvez activer le contrôle de version à tout moment.
 
 
