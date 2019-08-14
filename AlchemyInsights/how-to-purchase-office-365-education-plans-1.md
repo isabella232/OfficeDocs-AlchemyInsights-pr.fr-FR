@@ -13,16 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 934312fdf790a9f51bb3882c460b8b984f98a310
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383959"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390150"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Comment acheter les plans Office 365 éducation
 
 Nous avons examiné votre demande et déterminé que cette organisation n’est pas éligible en tant qu’institution Microsoft qualifiée scolaire. Vos offres d’essai académiques actuelles expireront à la fin de la période d’évaluation.
   
-Pour acheter Office 365 dans le commerce, reportez-vous à [offres disponibles](https://go.microsoft.com/fwlink/p/?linkid=868433).
-  
+Pour acheter Office 365 dans le commerce, reportez-vous à [offres disponibles](https://go.microsoft.com/fwlink/p/?linkid=868433).  

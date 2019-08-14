@@ -11,29 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fee67567-01bd-4375-b97c-4b9e0dab2eb1
-ms.openlocfilehash: a3bf7f77685aad8abfccfa7c62d53d90c84b31cb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 391afe5d73196ca80db695bbbf87b1f6b5c05206
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409148"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389718"
 ---
 # <a name="manage-my-bill-and-payments"></a>Gérer mes factures et paiements
 
-En tant qu'administrateur, vous avez accès à toutes les options de facturation et de paiement dans le centre d'administration.
+En tant qu’administrateur, vous avez accès à toutes les options de facturation et de paiement dans le centre d’administration.
   
-- [Affichez votre facture](https://support.office.com/article/View-your-bill-or-invoice-for-Office-365-for-business-2ae3ea58-4fce-4592-91d6-46e9ae3ec218.aspx).
-    
-- [Ajoutez, mettez à jour ou supprimez votre option de paiement](https://support.office.com/article/Add-update-or-remove-a-credit-card-or-bank-account-in-Office-365-for-business-30ba9c83-50d8-4020-90ed-830a5b8c8724.aspx).
-    
-- [Basculez vers une autre offre Office 365](https://support.office.com/article/Switch-to-a-different-Office-365-for-business-plan-73318661-8f33-478b-bcc7-fb8d69dbb22a.aspx).
-    
-- [Renouvelez votre abonnement](https://support.office.com/article/Renew-Office-365-for-business-8d83b530-f4ca-47f6-a666-e5791cbacc7e.aspx).
-    
-- [Acheter un autre abonnement](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c.aspx).
-    
-- [Prolonger votre version d'évaluation](https://support.office.com/article/Extend-your-trial-for-Office-365-for-business-75533195-f1f6-4c2c-8ceb-0b5597790d7b.aspx).
-    
-- [Annulez votre abonnement](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a.aspx).
-    
+- [Affichez votre facture](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
 
+- [Ajoutez, mettez à jour ou supprimez votre option de paiement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+
+- [Basculez vers une autre offre Office 365](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
+
+- [Renouvelez votre abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+
+- [Acheter un autre abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription).
+
+- [Prolonger votre version d’évaluation](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).
+
+- [Annulez votre abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).

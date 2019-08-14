@@ -13,24 +13,26 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 2afff350b0d55f8c6962963b65a159ad4dcf76b0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: da38d20aca2b367a423250cda997ee09ed42b25a
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386191"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390366"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Comment passer d’un paiement par carte de crédit à une facture?
 
 > [!NOTE]
-> L'option de paiement par facture est disponible uniquement si le coût de votre abonnement Office 365 dépasse un certain montant (qui varie en fonction de votre emplacement). Une vérification de solvabilité sera peut-être requise pour les paiements par facture d'un montant élevé. Pour en savoir plus, voir [Régler votre abonnement Office 365 pour les entreprises](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+> L'option de paiement par facture est disponible uniquement si le coût de votre abonnement Office 365 dépasse un certain montant (qui varie en fonction de votre emplacement). Une vérification de solvabilité sera peut-être requise pour les paiements par facture d'un montant élevé. Pour en savoir plus, voir [Régler votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. Dans le centre d’administration, accédez à [](https://go.microsoft.com/fwlink/p/?linkid=842054) la page abonnements ou sélectionnez abonnements de **facturation** \> ****.
+1. Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Sélectionnez l'abonnement que vous voulez modifier. Dans la section **Mode de paiement**, sélectionnez **Modifier les détails du paiement**.
 
 3. Sur la page **Modifier les détails du paiement**, sélectionnez **Modifier votre mode de paiement**.
-<br>*Remarque: si le lien **modifier votre mode de paiement** n’est pas affiché, cela signifie que le passage de la carte de crédit ou du compte bancaire à la facture n’est pas disponible pour l’abonnement car l’abonnement ne respecte pas le coût minimum de facturation par facture. Le montant du coût minimum à facturer par la facture varie en fonction de l’emplacement géographique.*
+
+> [!NOTE]
+> Si le lien **Modifier votre mode de paiement** n'est pas affiché, cela signifie que vous ne pouvez pas changer votre mode de paiement (paiement par carte bancaire ou compte bancaire au paiement par facture) dans le cadre de votre abonnement, car le coût de ce dernier ne dépasse pas un certain montant. Le coût minimum à facturer par la facture varie en fonction de l’emplacement géographique. *
   
 4. Dans la boîte de dialogue **Modifier votre mode de paiement**, choisissez **Continuer**.
 

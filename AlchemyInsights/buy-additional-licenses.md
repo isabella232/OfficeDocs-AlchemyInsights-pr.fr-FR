@@ -13,28 +13,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: ef09b8d69c41e4060bb948b0681f4a6543c74cc1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1dbf7035b3c21e744904a026d62c5cf3475cadc2
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360663"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387050"
 ---
 # <a name="buy-additional-licenses"></a>Acheter des licences supplémentaires
 
-1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Sur la **** page abonnements, choisissez l’abonnement auquel vous souhaitez ajouter des licences, puis choisissez **Ajouter/supprimer des licences**.
 
-    [Que se passe-t-il si je ne vois pas le lien ajouter/supprimer?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
+    [Que se passe-t-il si je ne vois pas le lien ajouter/supprimer?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
 3. Dans la zone nombre total de **licences** , entrez le nombre total de licences dont vous avez besoin pour cet abonnement, puis choisissez **Envoyer** \> ****. Par exemple, si vous avez 100 licences et que vous devez en ajouter 5, entrez 105.
 
     > [!NOTE]
     > Si vous réglez le montant de votre abonnement par carte de crédit ou par compte bancaire, les nouvelles licences que vous achetez sont disponibles dès que vous recevez une confirmation de commande. Si vous payez par facture, il est possible que vous deviez attendre la vérification de votre solvabilité avant que les nouvelles licences ne soient disponibles et utilisables.
   
- **Ressources supplémentaires**
-  
-- [Acheter des licences pour votre Office 365](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+**Ressources supplémentaires**
 
-- [Attribuer des licences aux utilisateurs dans Office 365 pour les entreprises](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Attribuer des licences aux utilisateurs dans Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+
+Utilisez-vous le nouveau centre d’administration? Pour connaître les nouvelles étapes, voir [acheter des licences pour votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).

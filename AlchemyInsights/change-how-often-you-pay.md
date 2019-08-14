@@ -13,14 +13,13 @@ ms.custom:
 - "469"
 - "1500025"
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: aa7a7c1bea0ae08f4781c656646ef65aefd1301c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361851"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386899"
 ---
 # <a name="change-how-often-you-pay"></a>Modifier la fréquence de paiement
 
  **Vous voulez modifier la fréquence de paiement ?** Si vous souhaitez modifier la fréquence de paiement de votre abonnement Office 365 pour les entreprises, de la valeur annuelle à mensuelle ou mensuelle, nous pouvons vous aider. Vous devrez acheter le même abonnement avec la nouvelle périodicité de paiement et annuler l’ancien abonnement. Veuillez utiliser l’option «nous contacter» pour contacter un ingénieur du support technique.
-  

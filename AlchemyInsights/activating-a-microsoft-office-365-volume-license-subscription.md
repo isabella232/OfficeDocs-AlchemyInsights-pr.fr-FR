@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358827"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385863"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Activation d’un abonnement de licence en volume Microsoft Office 365
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358827"
 
 5. Connectez-vous à Office 365[https://portal.office.com](https://portal.office.com)() à l’aide de vos informations d’identification d’administrateur Office 365 existantes. Une fois connecté, vous recevrez un autre message électronique confirmant votre achat.
 
-6. Une fois connecté, vous pouvez accéder à la page [abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) , ou choisir des abonnements de **facturation**  - \> **** pour vérifier que les abonnements Office 365 que vous avez achetés sont activés au sein de votre client. (Vous pouvez également choisir l’onglet **abonnement** dans le VLSC pour afficher les détails vérifiant que votre abonnement a été déposé.) 
+6. Une fois connecté, vous pouvez accéder à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) pour vérifier que les abonnements Office 365 que vous avez achetés sont activés au sein de votre client. (Vous pouvez également choisir l’onglet **abonnement** dans le VLSC pour afficher les détails vérifiant que votre abonnement a été déposé.)

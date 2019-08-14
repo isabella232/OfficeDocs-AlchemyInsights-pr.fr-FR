@@ -13,22 +13,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 69c3732f226556152bb2bcf51840a61235dd1e80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 261936877f149670ace8c70fd2be68d6b4fc0273
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363009"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386846"
 ---
 # <a name="change-payment-method"></a>Changer votre mode de paiement
 
 Vous pouvez vérifier le mode de paiement configuré en accédant à la **facturation** \> **abonnements**. Sélectionnez l'abonnement dont vous voulez vérifier le mode de paiement associé. Le mode de paiement configuré pour l’abonnement s’affiche sous **mode de paiement**. Pour mettre à jour les détails du mode de paiement existant, sélectionnez **mettre à jour les détails du paiement**.
   
-1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Choisissez l’abonnement pour lequel vous souhaitez modifier le mode de paiement, puis choisissez **modifier le mode de paiement**.
 
 3. Suivez les étapes à l’écran pour effectuer la modification.
 
-Pour obtenir des instructions pas à pas, reportez-vous à la rubrique: [modifier votre mode de paiement pour Office 365 pour les entreprises](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)
-  
+Pour obtenir des instructions pas à pas, reportez-vous à la rubrique: [modifier votre mode de paiement pour Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method)
