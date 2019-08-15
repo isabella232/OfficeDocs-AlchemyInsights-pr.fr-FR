@@ -13,16 +13,16 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 3f83db2fa1aab6a9f8171be3a423a5d87ac8ca48
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386011"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388994"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Comment mettre à jour les informations de ma carte bancaire ?
 
-1. Dans le Centre d’administration, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054), ou choisissez **Facturation** \> **Abonnements**.
+1. Dans le Centre d’administration, choisissez la page **Facturation** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Sélectionnez l’abonnement que vous avez acheté avec la carte bancaire ou le compte bancaire dont vous souhaitez mettre à jour les informations, puis sélectionnez **Mettre à jour les détails du paiement**.
 
@@ -32,5 +32,6 @@ ms.locfileid: "35386011"
 
 5. Un message de confirmation doit apparaître.
 
-Pour plus d’informations, voir [Résolution des problèmes liés aux cartes bancaires et aux comptes bancaires](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
+Pour plus d’informations, voir [Résolution des problèmes liés aux cartes bancaires et aux comptes bancaires](https://docs.microsoft.com/fr-FR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+
+Utilisez-vous le nouveau centre d’administration ? Pour les nouvelles étapes, consultez [Ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://docs.microsoft.com/fr-FR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903697"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387747"
 ---
 # <a name="update-payment-details"></a>Mettre à jour les détails de paiement
 
-1. Dans le centre d’administration, accédez à la page de[deux modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806)ou sélectionnez **facturation** \> **deux modes de paiement**.
+1. Dans le Centre d’administration, choisissez la page **Facturation** \> [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Si vous êtes renvoyé en boucle vers la page d’accueil Administrateur avant la finalisation de vos mises à jour, essayez la navigation Inprivate ou le mode Incognito.
@@ -37,4 +37,4 @@ ms.locfileid: "35903697"
 
 5. Pour supprimer ce mode de paiement, sélectionnez **supprimer**.
 
-Pour plus d’informations, voir [Ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)et[Résolution des problèmes liés aux cartes bancaires et aux comptes bancaires](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Pour plus d’informations, voir [Ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://docs.microsoft.com/fr-FR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)et[Résolution des problèmes liés aux cartes bancaires et aux comptes bancaires](https://docs.microsoft.com/fr-FR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
