@@ -3,28 +3,53 @@ title: Plus d’informations sur les stratégies de rétention
 ms.author: stephow
 author: msft-stephow
 manager: laurawi
+ms.date: 08/14/2019
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.collection: Adm_O365
+ms.custom:
+- "9000048"
+- "1983"
+ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
+ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35448833"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404836"
 ---
-# <a name="more-info-about-retention-policies"></a><span data-ttu-id="6e277-102">Plus d’informations sur les stratégies de rétention</span><span class="sxs-lookup"><span data-stu-id="6e277-102">More info about retention policies</span></span>
+# <a name="more-info-about-retention-policies"></a><span data-ttu-id="5a2e9-102">Plus d’informations sur les stratégies de rétention</span><span class="sxs-lookup"><span data-stu-id="5a2e9-102">More info about retention policies</span></span>
 
-<span data-ttu-id="6e277-103">Pour la plupart des organisations, le volume et la complexité de leurs données augmentent quotidiennement, le courrier électronique, les documents, les messages instantanés et bien plus encore.</span><span class="sxs-lookup"><span data-stu-id="6e277-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span>
-<span data-ttu-id="6e277-104">La gestion ou l’administration efficace de ces informations est importante, et une stratégie de rétention peut vous aider à atteindre ces objectifs.</span><span class="sxs-lookup"><span data-stu-id="6e277-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="6e277-105">Pour plus d’informations sur les stratégies de rétention, consultez les liens suivants:</span><span class="sxs-lookup"><span data-stu-id="6e277-105">For more information on retention policies, please visit these links:</span></span>
+<span data-ttu-id="5a2e9-103">Pour la plupart des organisations, le volume et la complexité de leurs données augmentent quotidiennement, le courrier électronique, les documents, les messages instantanés et bien plus encore.</span><span class="sxs-lookup"><span data-stu-id="5a2e9-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span> <span data-ttu-id="5a2e9-104">La gestion ou l’administration efficace de ces informations est importante, et une stratégie de rétention peut vous aider à atteindre ces objectifs.</span><span class="sxs-lookup"><span data-stu-id="5a2e9-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="5a2e9-105">Pour plus d’informations sur les stratégies de rétention, consultez les liens suivants:</span><span class="sxs-lookup"><span data-stu-id="5a2e9-105">For more information on retention policies, please visit these links:</span></span>
 
-- [<span data-ttu-id="6e277-106">Vue d’ensemble des stratégies de rétention</span><span class="sxs-lookup"><span data-stu-id="6e277-106">Overview of retention policies</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+## <a name="a-from-security-and-compliance-center"></a><span data-ttu-id="5a2e9-106">A) dans le centre de sécurité et de conformité</span><span class="sxs-lookup"><span data-stu-id="5a2e9-106">A) From Security and Compliance Center</span></span>
 
-- [<span data-ttu-id="6e277-107">Balises et stratégies de rétention</span><span class="sxs-lookup"><span data-stu-id="6e277-107">Retention tags and retention policies</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- <span data-ttu-id="5a2e9-107">Accéder à la sécurité et à la conformité > la conservation des > de gouvernance des données</span><span class="sxs-lookup"><span data-stu-id="5a2e9-107">Go to Security and Compliance > Data governance > Retention</span></span>
+  - <span data-ttu-id="5a2e9-108">Consultez [cet](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) article</span><span class="sxs-lookup"><span data-stu-id="5a2e9-108">See [THIS](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) article</span></span>
 
-- [<span data-ttu-id="6e277-108">Application d’une stratégie de rétention à l’ensemble d’une organisation ou des emplacements spécifiques</span><span class="sxs-lookup"><span data-stu-id="6e277-108">Applying a retention policy to an entire organization or specific locations</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+- <span data-ttu-id="5a2e9-109">Accéder à la sécurité et à la conformité > eDiscovery> Advanced eDiscovery</span><span class="sxs-lookup"><span data-stu-id="5a2e9-109">Go to Security and Compliance > eDiscovery> Advanced eDiscovery</span></span> 
+  - <span data-ttu-id="5a2e9-110">Consultez [cet](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) article</span><span class="sxs-lookup"><span data-stu-id="5a2e9-110">See [THIS](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) article</span></span>
 
-- [<span data-ttu-id="6e277-109">Les stratégies de rétention nouvellement créées ou mises à jour dans le centre d’administration Exchange ne s’appliquent pas aux boîtes aux lettres</span><span class="sxs-lookup"><span data-stu-id="6e277-109">Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes</span></span>](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
+- <span data-ttu-id="5a2e9-111">Accéder à la sécurité et à la conformité > classifications > rétention</span><span class="sxs-lookup"><span data-stu-id="5a2e9-111">Go to Security and Compliance > Classifications > Retention</span></span>
+  - <span data-ttu-id="5a2e9-112">Consultez les articles suivants</span><span class="sxs-lookup"><span data-stu-id="5a2e9-112">See these articles</span></span>
+    - [<span data-ttu-id="5a2e9-113">Étiquettes de sensibilité</span><span class="sxs-lookup"><span data-stu-id="5a2e9-113">Sensitivity Labels</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
+    - [<span data-ttu-id="5a2e9-114">Vue d’ensemble des étiquettes</span><span class="sxs-lookup"><span data-stu-id="5a2e9-114">Labels Overview</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
 
+## <a name="b-legacy-ediscovery-policies"></a><span data-ttu-id="5a2e9-115">B) stratégies eDiscovery héritées</span><span class="sxs-lookup"><span data-stu-id="5a2e9-115">B) Legacy eDiscovery policies</span></span>
+
+- <span data-ttu-id="5a2e9-116">Consultez [cet](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span><span class="sxs-lookup"><span data-stu-id="5a2e9-116">See [THIS](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span></span>
+
+## <a name="c-site-closure-and-deletion-policies"></a><span data-ttu-id="5a2e9-117">C) les stratégies de fermeture et de suppression de site</span><span class="sxs-lookup"><span data-stu-id="5a2e9-117">C) Site closure and deletion policies</span></span>
+
+- <span data-ttu-id="5a2e9-118">Consultez [cet](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span><span class="sxs-lookup"><span data-stu-id="5a2e9-118">See [THIS](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span></span>  
+
+## <a name="d-information-rights-management-irm"></a><span data-ttu-id="5a2e9-119">D) gestion des droits relatifs à l’information (IRM)</span><span class="sxs-lookup"><span data-stu-id="5a2e9-119">D) Information Rights Management (IRM)</span></span>
+
+- <span data-ttu-id="5a2e9-120">Consultez les articles suivants</span><span class="sxs-lookup"><span data-stu-id="5a2e9-120">See these articles</span></span>
+  - [<span data-ttu-id="5a2e9-121">IRM sur une liste/bibliothèque</span><span class="sxs-lookup"><span data-stu-id="5a2e9-121">IRM on a list/Library</span></span>](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [<span data-ttu-id="5a2e9-122">Vue d’ensemble d’IRM</span><span class="sxs-lookup"><span data-stu-id="5a2e9-122">IRM Overview</span></span>](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+
+> [!Note]
+> <span data-ttu-id="5a2e9-123">Nous vous recommandons vivement de passer à la stratégie de sécurité et de conformité si vous utilisez toujours la découverte électronique héritée ou IRM, ou les stratégies de fermeture et de suppression de site.</span><span class="sxs-lookup"><span data-stu-id="5a2e9-123">We strongly recommend moving to Security and Compliance polices if you are still using Legacy eDiscovery or IRM or Site Closure and deletion policies.</span></span>
