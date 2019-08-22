@@ -11,16 +11,16 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 111b558fc94d0305363097ba0e74078682c2802c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384895"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541215"
 ---
 # <a name="how-to-disable-external-groups"></a>Désactivation des groupes externes
 
-Il existe 4 options pour que les utilisateurs externes puissent accéder à votre réseau.
+Il existe quatre façons pour les utilisateurs externes d’accéder à votre réseau dans Yammer.
   
 1. **Utilisateurs invités** : les administrateurs Yammer peuvent inviter des contacts à partir de domaines externes en tant qu’utilisateurs sur le réseau domestique. Ces utilisateurs verront le flux de toutes les entreprises et pourront également rejoindre d’autres groupes dans les réseaux.
 

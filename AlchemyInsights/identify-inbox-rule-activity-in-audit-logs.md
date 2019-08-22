@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383023"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539164"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifier l’activité des règles de boîte de réception dans les journaux d’audit
 
-Vous pouvez utiliser la recherche de journal d’audit dans le centre de sécurité & conformité pour afficher les événements de règles de boîte de réception (création, modification et suppression de règles de boîte de réception).
+Vous pouvez utiliser la recherche dans le journal d’audit dans le centre de sécurité & de la sécurité Office 365 pour afficher les événements de règles de boîte de réception (création, modification et suppression de règles de boîte de réception).
 
-1. Connectez-vous au [Centre de conformité & Office 365 Security](https://protection.office.com/)
+1. Connectez-vous au [Centre de sécurité & conformité Office 365](https://protection.office.com/).
 
-2. Cliquez sur **recherche et enquête** , puis sélectionnez **recherche du journal d’audit**.
+2. Accédez à la page de**recherche du journal d’audit** de la **recherche** > .
 
 3. Sélectionnez la plage de dates dans les champs **Date de début** et **Date de fin** .
 

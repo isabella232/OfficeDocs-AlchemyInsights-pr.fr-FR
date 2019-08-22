@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937856"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540755"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Placer une boîte aux lettres en conservation légale
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937856"
 
 - Pour activer la conservation pour litige pour un seul utilisateur, [procédez comme suit](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Lorsque la conservation pour litige est activée, tout le contenu de la boîte aux lettres est préservé.
 
-- Pour placer une conservation sur toutes les boîtes aux lettres de votre organisation, vous pouvez utiliser une stratégie de rétention Office 365 en procédant comme [suit](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold). Notez que pour les stratégies de rétention à l’échelle de l’organisation, les nouveaux utilisateurs sont automatiquement attribués à la stratégie.
+- Pour placer une conservation sur toutes les boîtes aux lettres de votre organisation, vous pouvez utiliser une stratégie de rétention Office 365 en procédant comme [suit](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Notez que pour les stratégies de rétention à l’échelle de l’organisation, les nouveaux utilisateurs sont automatiquement attribués à la stratégie.
