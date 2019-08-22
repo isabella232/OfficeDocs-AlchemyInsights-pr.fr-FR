@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 38f75e82fe7174f6ad118e82532589adc00f0b0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369051"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509106"
 ---
 # <a name="set-passwords-to-never-expire"></a>Définir les mots de passe de sorte qu’ils n’expirent jamais
 
-Pour définir tous les mots de passe de sorte qu’ils n’expirent jamais, rendez-vous sur [confidentialité de sécurité &amp; ](https://portal.office.com/adminportal/home#/settings/security). Cliquez sur **modifier** en regard de **stratégie de mot de passe**, puis faites basculer le curseur sur **activé**.
+Pour définir tous les mots de passe de sorte qu’ils n’expirent jamais, dans le centre d’administration 365 de Microsoft, accédez à la page **paramètres** > de confidentialité de la[sécurité &amp; ](https://portal.office.com/adminportal/home#/settings/security) . Sélectionnez **modifier** en regard de **stratégie de mot de passe**, puis faites basculer le curseur **sur activé**.
   
 Pour plus d’informations, consultez la rubrique relative à [la définition de la stratégie d’expiration de mot de passe pour votre organisation.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397932"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505829"
 ---
 # <a name="outlook-search-not-indexing"></a>Recherche Outlook non indexée
 
 Nous avons connaissance des problèmes de recherche Outlook relatifs aux mises à jour de sécurité récentes pour Windows.
   
-Lors de la recherche dans Outlook, vous pouvez obtenir cette erreur: * * un problème est survenu et votre recherche n'a pas pu aboutir * *, ou les résultats de la **recherche sont peut-être incomplets, car les éléments sont toujours en cours d'indexation**. Le correctif a été publié sous la forme d'une mise à jour Windows facultative. Installez celui correspondant à la version de Windows sur laquelle vous rencontrez ce problème: 
+Lors de la recherche dans Outlook, vous pouvez obtenir l’une de ces erreurs: un problème est **survenu et votre recherche n’a pas pu être terminée**, ou les résultats de la **recherche peuvent être incomplets, car les éléments sont toujours en cours d’indexation**. Le correctif a été publié sous la forme d’une mise à jour Windows facultative. Installez celui correspondant à la version de Windows sur laquelle vous rencontrez ce problème: 
   
 > [Mise à jour de Windows 7-27 juin, 2017](https://support.microsoft.com/kb/4022168.aspx)
     
@@ -30,6 +30,6 @@ Lors de la recherche dans Outlook, vous pouvez obtenir cette erreur: * * un prob
     
 > [Windows 10 version 1703-mise à jour du 27 juin 2017](https://support.microsoft.com/kb/4022716.aspx)
     
-Pour obtenir les informations les plus récentes, reportez-vous à l'article: [problèmes connus d'Outlook dans le #5 du problème de mises à jour de sécurité de juin 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) . 
+Pour obtenir les informations les plus récentes, reportez-vous à l’article: [problèmes connus d’Outlook dans le #5 du problème de mises à jour de sécurité de juin 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) . 
   
 

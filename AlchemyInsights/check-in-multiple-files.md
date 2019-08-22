@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754274"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520521"
 ---
 # <a name="check-in-several-files-at-once"></a>Archiver plusieurs fichiers à la fois
 
-L’archivage et l’extraction de fichiers sont un excellent moyen de suivre et de contrôler la mise à jour du contenu. Si vous souhaitez apporter des modifications à un fichier sur un site et que personne d’autre ne puisse le modifier, extrayez le fichier. Lorsque le fichier est extrait, vous pouvez le modifier en ligne ou hors connexion, puis l’enregistrer plusieurs fois, si nécessaire.
+L’archivage et l’extraction de fichiers dans une bibliothèque SharePoint constituent un excellent moyen de suivre et de contrôler la mise à jour du contenu. Si vous souhaitez apporter des modifications à un fichier sur un site et que personne d’autre ne puisse le modifier, extrayez le fichier. Lorsque le fichier est extrait, vous pouvez le modifier en ligne ou hors connexion, puis l’enregistrer plusieurs fois, si nécessaire.
 
 Vous trouverez ci-dessous des liens utiles concernant cette fonctionnalité.
 

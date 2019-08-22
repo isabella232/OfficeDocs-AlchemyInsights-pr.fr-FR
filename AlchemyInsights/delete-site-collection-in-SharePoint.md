@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a6ff804fae307212c454b80ead863667dbdbe781
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35121288"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513105"
 ---
 # <a name="delete-a-site-collection"></a>Supprimer une collection de sites
 
@@ -28,4 +28,4 @@ Lorsque vous supprimez un site, tous les éléments qu’il contient sont suppri
 
 Vous devez avertir les administrateurs de site et les propriétaires de sous-site avant de supprimer un site afin qu’ils puissent déplacer leurs données vers un autre emplacement, et indiquer aux utilisateurs quand les sites seront supprimés. 
 
-Pour plus d’informations, consultez [la rubrique supprimer une collection de sites](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection). 
+Pour plus d’informations, consultez [la rubrique supprimer une collection de sites](https://docs.microsoft.com/sharepoint/delete-site-collection). 

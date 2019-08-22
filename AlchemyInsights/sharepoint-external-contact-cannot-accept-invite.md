@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f135890774ba57198fd09ab74b32f1f72629c68a
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 1ff796e8e2db928bba997167271505d67cdc0740
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270058"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508493"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharing-invite"></a>Le contact externe n’est pas en mesure d’accepter une invitation de partage
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Le contact externe n’est pas en mesure d’accepter une invitation SharePoint
 
 Si un externe ne peut pas accepter une invitation de partage, essayez de consulter les liens ci-dessous.
 
@@ -23,5 +23,5 @@ Si un externe ne peut pas accepter une invitation de partage, essayez de consult
 
 - [Accès refusé à un dossier partagé](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
 
-- [Erreurs de partage OSE dans SharePoint et OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Erreurs de partage dans SharePoint et OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

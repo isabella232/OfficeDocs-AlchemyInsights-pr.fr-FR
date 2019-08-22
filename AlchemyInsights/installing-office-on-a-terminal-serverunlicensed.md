@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381727"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498413"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installation d’Office sur un serveur Terminal Server
 
@@ -26,7 +26,7 @@ Pour déployer Office 365 ProPlus sur un serveur Windows à l’aide des service
 
 - Vous devez activer [l’activation d’ordinateurs partagés](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du portail Office 365, * * *qui utilise les paramètres d’installation par défaut* * *, procédez comme suit:
+Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du portail Office 365, ***qui utilise les paramètres d’installation par défaut***, procédez comme suit:
   
 1. Consultez la planification d’Office 365. [Découvrez comment](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du portail Offi
 
 4. Sur le serveur RDS, connectez-vous au portail Office 365 avec votre compte d’administrateur et [Installez office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Après l’installation d’Office, * * *ne pas ouvrir ou se connecter* * * à une application Office.
+5. Une fois Office installé, ***ne pas ouvrir ou se connecter*** à une application Office.
 
 6. Sur le serveur RDS, activez l’activation d’ordinateurs partagés en modifiant le registre en procédant comme suit:
 
@@ -46,7 +46,7 @@ Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du portail Offi
 
 3. Dans l’éditeur du Registre, ajoutez une valeur de chaîne de **SharedComputerLicensing** avec un paramètre de 1 sous HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Sur le serveur RDS, * * *Connectez-vous en tant qu’utilisateur final* * * et [Vérifiez que l’activation d’ordinateurs partagés est activée pour Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Sur le serveur RDS, ***Connectez-vous en tant qu’utilisateur final*** et [Vérifiez que l’activation d’ordinateurs partagés est activée pour Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Pour plus d’informations sur les conditions préalables, les instructions de configuration et des conseils sur les installations personnalisées à l’aide de l’outil déploiement d’Office, consultez la rubrique [Deploy office 365 ProPlus à l’aide des services Bureau à distance](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

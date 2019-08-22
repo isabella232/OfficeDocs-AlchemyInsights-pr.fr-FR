@@ -1,5 +1,5 @@
 ---
-title: Configurer les paramètres d'audit
+title: Configurer les paramètres d’audit
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 9a5b157bb70e6c1ff445a2b51d0dca8f30890f4c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d5d1da516104d7c062038551142cdd9ccaad4407
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408214"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504965"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Configurer les paramètres d'audit SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>Configurer les paramètres d’audit SharePoint
 
-Les administrateurs de collections de sites SharePoint peuvent suivre les actions des utilisateurs sur le contenu en configurant les paramètres d'audit.
+Les administrateurs de collections de sites SharePoint peuvent suivre les actions des utilisateurs sur le contenu en configurant les paramètres d’audit.
   
 1. Ouvrez le site SharePoint.
     
-2. Cliquez sur l'icône Paramètres, puis cliquez sur **paramètres du site**. Si «paramètres du site» n'apparaît pas, cliquez sur informations sur le **site**, puis sur **Afficher tous les paramètres du site**.
+2. Cliquez sur l’icône Paramètres, puis cliquez sur **paramètres du site**. Si «paramètres du site» n’apparaît pas, cliquez sur informations sur le **site**, puis sur **Afficher tous les paramètres du site**.
     
-3. Sous **administration**de la collection de sites, sélectionnez **paramètres d'audit des collections de sites**. (Si vous ne le voyez pas, cliquez d'abord sur **accéder aux paramètres du site de niveau supérieur** .) 
+3. Sous **administration**de la collection de sites, sélectionnez **paramètres d’audit des collections de sites**. (Si vous ne le voyez pas, cliquez d’abord sur **accéder aux paramètres du site de niveau supérieur** .) 
     
-Pour plus d'informations sur ce qui est inclus dans les rapports du journal d'audit SharePoint et sur la façon de les afficher, voir [configurer les paramètres d'audit pour une collection de sites](https://go.microsoft.com/fwlink/?linkid=404050).
+Pour plus d’informations sur ce qui est inclus dans les rapports du journal d’audit SharePoint et sur la façon de les afficher, voir [configurer les paramètres d’audit pour une collection de sites](https://go.microsoft.com/fwlink/?linkid=404050).
   
 

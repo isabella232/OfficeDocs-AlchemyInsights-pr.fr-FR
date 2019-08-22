@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: c17970359168a0ab90e2a0e424d4dcef37ea8637
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751521"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497765"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>En savoir plus sur les options de partage de calendrier externe
 
-[Partager des calendriers avec des utilisateurs externes](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
+Si vous devez planifier des réunions avec des personnes extérieures à votre organisation, Office 365 vous permet de mettre des calendriers à disposition des «utilisateurs externes», qui doivent voir les informations de disponibilité mais pas de comptes d’utilisateur pour votre environnement Office 365. Pour plus d’informations, consultez la rubrique [partager des calendriers avec des utilisateurs externes](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).

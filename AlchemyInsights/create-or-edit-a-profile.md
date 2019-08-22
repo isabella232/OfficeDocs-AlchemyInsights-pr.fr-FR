@@ -1,5 +1,5 @@
 ---
-title: 1800001 création ou modification d'un profil
+title: 1800001 création ou modification d’un profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: a7f33c877382130fa07578ab75938f05badd2301
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406878"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515157"
 ---
+# <a name="create-or-edit-an-outlook-profile"></a>Création ou modification d’un profil Outlook
+
 Pour créer un nouveau profil Outlook, modifier un profil ou renommer un profil, procédez comme suit.
   
 1. Dans Outlook, sélectionnez **** \> **paramètres** \> du compte de fichier **gérer les profils**.
@@ -30,6 +32,6 @@ Pour créer un nouveau profil Outlook, modifier un profil ou renommer un profil,
     
   - Pour modifier ou renommer un profil, sélectionnez **Propriétés**.
     
-Si vous rencontrez des problèmes lors de la création ou de la modification d'un profil Outlook, vous pouvez exécuter l' [outil de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) sur l'ordinateur affecté. Il effectuera certains contrôles et, lorsque vous serez prêt, vous créerez un profil Outlook avec votre adresse de messagerie. 
+Si vous rencontrez des problèmes lors de la création ou de la modification d’un profil Outlook, vous pouvez exécuter l' [outil de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) sur l’ordinateur affecté. Il effectuera certains contrôles et, lorsque vous serez prêt, vous créerez un profil Outlook avec votre adresse de messagerie. 
   
 
