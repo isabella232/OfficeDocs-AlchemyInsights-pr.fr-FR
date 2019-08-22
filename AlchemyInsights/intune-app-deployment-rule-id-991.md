@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 00aeb63da4414edf19cadb183f1fd3931b61dc46
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381655"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498269"
 ---
-# <a name="intune-app-deployment"></a><span data-ttu-id="61b4e-102">Déploiement d’applications Intune</span><span class="sxs-lookup"><span data-stu-id="61b4e-102">Intune App Deployment</span></span>
+# <a name="intune-app-deployment"></a><span data-ttu-id="38152-102">Déploiement d’applications Intune</span><span class="sxs-lookup"><span data-stu-id="38152-102">Intune App Deployment</span></span>
 
-<span data-ttu-id="61b4e-103">Le déploiement d’applications avec Intune est un processus en trois étapes:</span><span class="sxs-lookup"><span data-stu-id="61b4e-103">Deploying applications with Intune is a three step process:</span></span>
+<span data-ttu-id="38152-103">Le déploiement d’applications avec Intune est un processus en trois étapes:</span><span class="sxs-lookup"><span data-stu-id="38152-103">Deploying applications with Intune is a three step process:</span></span>
   
-1. <span data-ttu-id="61b4e-104">**Ajout d’une application** : vous pouvez ajouter une application App Store ou télécharger une ligne d’application métier.</span><span class="sxs-lookup"><span data-stu-id="61b4e-104">**Adding an app** - You can add an App Store app or upload a Line of Business app.</span></span>
+1. <span data-ttu-id="38152-104">**Ajout d’une application** : vous pouvez ajouter une application App Store ou télécharger une ligne d’application métier.</span><span class="sxs-lookup"><span data-stu-id="38152-104">**Adding an app** - You can add an App Store app or upload a Line of Business app.</span></span>
 
-2. <span data-ttu-id="61b4e-105">**Affectation d’une application** : Déterminez l’étendue du déploiement de l’application.</span><span class="sxs-lookup"><span data-stu-id="61b4e-105">**Assigning an app** - Determine the scope of deployment of the application.</span></span>
+2. <span data-ttu-id="38152-105">**Affectation d’une application** : Déterminez l’étendue du déploiement de l’application.</span><span class="sxs-lookup"><span data-stu-id="38152-105">**Assigning an app** - Determine the scope of deployment of the application.</span></span>
 
-3. <span data-ttu-id="61b4e-106">**Surveillance des applications** : Affichez l’état d’installation des applications, répertoriez les applications découvertes et gérez les applications achetées à partir des magasins d’applications.</span><span class="sxs-lookup"><span data-stu-id="61b4e-106">**Monitoring apps** - View the install status of apps, list discovered apps, and manage apps purchased from app stores.</span></span>
+3. <span data-ttu-id="38152-106">**Surveillance des applications** : Affichez l’état d’installation des applications, répertoriez les applications découvertes et gérez les applications achetées à partir des magasins d’applications.</span><span class="sxs-lookup"><span data-stu-id="38152-106">**Monitoring apps** - View the install status of apps, list discovered apps, and manage apps purchased from app stores.</span></span>
 
-<span data-ttu-id="61b4e-107">Lisez [Présentation](https://docs.microsoft.com/intune/app-management) des procédures pas à pas relatives à la gestion des applications Intune et informations sur la configuration et la protection des applications.</span><span class="sxs-lookup"><span data-stu-id="61b4e-107">Read [What is Intune App Management](https://docs.microsoft.com/intune/app-management) for walkthroughs and information about configuring and protecting applications.</span></span>
+<span data-ttu-id="38152-107">Lisez [Présentation](https://docs.microsoft.com/intune/app-management) des procédures pas à pas relatives à la gestion des applications Intune et informations sur la configuration et la protection des applications.</span><span class="sxs-lookup"><span data-stu-id="38152-107">Read [What is Intune App Management](https://docs.microsoft.com/intune/app-management) for walkthroughs and information about configuring and protecting applications.</span></span>
   

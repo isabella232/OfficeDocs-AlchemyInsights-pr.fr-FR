@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 07de6f8df7bfda2060977c7d5bc6a01766bf3c0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365893"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506081"
 ---
-# <a name="upgrade-azure-ad-connect"></a><span data-ttu-id="094ff-102">Mettre à niveau Azure AD Connect</span><span class="sxs-lookup"><span data-stu-id="094ff-102">Upgrade Azure AD Connect</span></span>
+# <a name="upgrade-azure-ad-connect"></a><span data-ttu-id="3e9f0-102">Mettre à niveau Azure AD Connect</span><span class="sxs-lookup"><span data-stu-id="3e9f0-102">Upgrade Azure AD Connect</span></span>
 
-<span data-ttu-id="094ff-103">Par défaut, la mise à niveau automatique est activée pour Azure AD Connect, ce qui permet de s’assurer que vous utilisez la dernière version.</span><span class="sxs-lookup"><span data-stu-id="094ff-103">By default, automatic upgrade is enabled for Azure AD Connect, which helps to ensure you're running the latest version.</span></span> <span data-ttu-id="094ff-104">Pour vérifier les paramètres de mise à niveau automatique, utilisez la cmdlet **Get-ADSyncAutoUpgrade** dans Azure ad PowerShell.</span><span class="sxs-lookup"><span data-stu-id="094ff-104">To verify the automatic upgrade settings, use the **Get-ADSyncAutoUpgrade** cmdlet in Azure AD PowerShell.</span></span> <span data-ttu-id="094ff-105">L’applet de commande renvoie l’une des valeurs suivantes:</span><span class="sxs-lookup"><span data-stu-id="094ff-105">The cmdlet will return one of following values:</span></span>
+<span data-ttu-id="3e9f0-103">Par défaut, la mise à niveau automatique est activée pour Azure AD Connect, ce qui permet de s’assurer que vous utilisez la dernière version.</span><span class="sxs-lookup"><span data-stu-id="3e9f0-103">By default, automatic upgrade is enabled for Azure AD Connect, which helps to ensure you're running the latest version.</span></span> <span data-ttu-id="3e9f0-104">Pour vérifier les paramètres de mise à niveau automatique, utilisez la cmdlet **Get-ADSyncAutoUpgrade** dans Azure ad PowerShell.</span><span class="sxs-lookup"><span data-stu-id="3e9f0-104">To verify the automatic upgrade settings, use the **Get-ADSyncAutoUpgrade** cmdlet in Azure AD PowerShell.</span></span> <span data-ttu-id="3e9f0-105">L’applet de commande renvoie l’une des valeurs suivantes:</span><span class="sxs-lookup"><span data-stu-id="3e9f0-105">The cmdlet will return one of following values:</span></span>
 
-- <span data-ttu-id="094ff-106">**Activé**: la mise à niveau automatique est activée.</span><span class="sxs-lookup"><span data-stu-id="094ff-106">**Enabled**: Automatic upgrade is enabled.</span></span>
+- <span data-ttu-id="3e9f0-106">**Activé**: la mise à niveau automatique est activée.</span><span class="sxs-lookup"><span data-stu-id="3e9f0-106">**Enabled**: Automatic upgrade is enabled.</span></span>
 
-- <span data-ttu-id="094ff-107">**Désactivé**: la mise à niveau automatique est désactivée.</span><span class="sxs-lookup"><span data-stu-id="094ff-107">**Disabled**: Automatic upgrade is disabled.</span></span>
+- <span data-ttu-id="3e9f0-107">**Désactivé**: la mise à niveau automatique est désactivée.</span><span class="sxs-lookup"><span data-stu-id="3e9f0-107">**Disabled**: Automatic upgrade is disabled.</span></span>
 
-- <span data-ttu-id="094ff-108">**Suspendu**: le système n’est plus autorisé à recevoir des mises à niveau automatiques.</span><span class="sxs-lookup"><span data-stu-id="094ff-108">**Suspended**: The system is no longer eligible to receive automatic upgrades.</span></span> <span data-ttu-id="094ff-109">Vous ne pouvez pas configurer cette valeur; elle est définie par le système.</span><span class="sxs-lookup"><span data-stu-id="094ff-109">You can't configure this value; it's set by the system.</span></span>
+- <span data-ttu-id="3e9f0-108">**Suspendu**: le système n’est plus autorisé à recevoir des mises à niveau automatiques.</span><span class="sxs-lookup"><span data-stu-id="3e9f0-108">**Suspended**: The system is no longer eligible to receive automatic upgrades.</span></span> <span data-ttu-id="3e9f0-109">Vous ne pouvez pas configurer cette valeur; elle est définie par le système.</span><span class="sxs-lookup"><span data-stu-id="3e9f0-109">You can't configure this value; it's set by the system.</span></span>
 
-<span data-ttu-id="094ff-110">Pour plus d’informations, consultez la rubrique [mise à niveau automatique](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span><span class="sxs-lookup"><span data-stu-id="094ff-110">For more information, see [Automatic upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span></span>
+<span data-ttu-id="3e9f0-110">Pour plus d’informations, consultez la rubrique [mise à niveau automatique](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span><span class="sxs-lookup"><span data-stu-id="3e9f0-110">For more information, see [Automatic upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span></span>
 
-<span data-ttu-id="094ff-111">Pour télécharger la dernière version d’Azure AD Connect, accédez à [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span><span class="sxs-lookup"><span data-stu-id="094ff-111">To download the latest version of Azure AD Connect, go to [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span></span>
+<span data-ttu-id="3e9f0-111">Pour télécharger la dernière version d’Azure AD Connect, accédez à [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span><span class="sxs-lookup"><span data-stu-id="3e9f0-111">To download the latest version of Azure AD Connect, go to [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span></span>
