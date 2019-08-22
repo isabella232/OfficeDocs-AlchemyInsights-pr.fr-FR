@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701285"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546085"
 ---
 # <a name="account-locked"></a>Compte verrouillé
 
-Si le message «votre compte a été verrouillé» s’affiche lorsque vous essayez de vous connecter, c’est que nous avons remarqué une activité inhabituelle sur votre compte. Pour vous aider à vous protéger contre toute fraude ou abus potentiel, nous avons temporairement verrouillé votre compte. Nous connaissons qu’il s’agit d’une opération frustrante, mais nous pouvons vous aider à revenir sur votre compte en quelques étapes.
+Si le message «votre compte a été verrouillé» s’affiche lorsque vous essayez de vous connecter à Outlook.com, c’est que nous avons remarqué une activité inhabituelle sur votre compte. Pour vous aider à vous protéger contre toute fraude ou abus potentiel, nous avons temporairement verrouillé votre compte. Nous connaissons qu’il s’agit d’une opération frustrante, mais nous pouvons vous aider à revenir sur votre compte en quelques étapes.
 
 1. Accédez à [Account.Microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) et connectez-vous à votre compte verrouillé.Pour déverrouiller votre compte, vous devez entrer le code de sécurité fourni par Microsoft. Pour obtenir le message texte, vous devez disposer d’un téléphone qui prend en charge la messagerie texte. Si votre téléphone ne prend pas en charge la messagerie texte, vous pouvez demander à un ami ou à un membre de votre famille d’utiliser son téléphone. Microsoft n’enregistrant pas ce numéro de téléphone, le numéro de téléphone que vous utilisez pour recevoir ce SMS ne doit pas nécessairement être associé à votre compte.
 2. Si le message «limite d’utilisation dépassée» s’affiche, accédez à la restauration du [compte](https://go.microsoft.com/fwlink/?linkid=2090483) et l’un de nos agents vérifiera votre compte.
