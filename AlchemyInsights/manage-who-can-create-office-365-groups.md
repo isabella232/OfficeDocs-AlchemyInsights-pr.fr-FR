@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: 9a567f9725a287c796d8b7e71fecddcb37660f47
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 35896132521d822578a6d8cd2a6e1aa200550263
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408987"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541943"
 ---
 # <a name="manage-who-can-create-office-365-groups"></a>Gérer les personnes autorisées à créer des groupes Office 365
 
 Par défaut, tous les utilisateurs de votre organisation peuvent créer des groupes O365.
   
-Si vous souhaitez modifier cela, vous pouvez créer un groupe de sécurité avec PowerShell qui limite la création de groupe à un sous-ensemble d'utilisateurs.
+Si vous souhaitez modifier cela, vous pouvez créer un groupe de sécurité avec PowerShell qui limite la création de groupe à un sous-ensemble d’utilisateurs.
   
 Suivez les instructions pas à pas ici: gérer les [personnes autorisées à créer des groupes Office 365](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618)
   

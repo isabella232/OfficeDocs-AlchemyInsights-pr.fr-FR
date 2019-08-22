@@ -13,31 +13,23 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3d4a30dc8b27be8fbb428addb867f89965a4cb12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390978"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540287"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Comment effectuer un achat Office 365
 
 Les achats dans Office 365 peuvent être effectués dans le centre d’administration.
   
-- Pour acheter un abonnement Office 365, accédez à la page [services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturation** \> .
+- Pour acheter une subscriptio Office 365, accédez à la page [services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturation** \> .
 
-- Pour acheter des licences supplémentaires, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) . Sur la **** page abonnements, choisissez l’abonnement auquel vous souhaitez ajouter des licences, puis choisissez **Ajouter/supprimer des licences**.
-
-- Pour passer à un autre plan:
-
-  - Choisissez **Changer d'offre** pour afficher la liste des nouvelles offres disponibles.
-
-  - Choisissez une offre pour afficher le nouveau coût total par mois. Veillez à lire les informations clés, puis cliquez sur **suivant** pour extraire.
-
-Utilisez-vous le nouveau centre d’administration? Pour les nouvelles étapes, consultez [la rubrique mise à niveau vers une autre](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)offre.
+- Pour acheter des licences supplémentaires, accédez à la page des produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) . Choisissez l’abonnement auquel vous souhaitez ajouter des licences, puis sélectionnez **Ajouter/supprimer des licences**.
   
  **Ressources supplémentaires**
   
-- [Attribuer des licences aux utilisateurs dans Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Attribuer des licences aux utilisateurs dans Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Annuler Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Annuler Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

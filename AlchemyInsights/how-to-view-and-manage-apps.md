@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389862"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539495"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Procédure d’affichage et de gestion des applications
 
-Pour afficher vos applications, vous devez être dans le nouveau centre d’administration.  Vous pouvez activer cette option sur la page d’accueil du centre d’administration.  
+Vous pouvez afficher vos applications dans le centre d’administration Microsoft 365. 
 
-1. Lorsque le nouveau centre d’administration est activé, accédez à la page produits de **facturation** > [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration, accédez à la page produits de **facturation** > [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Dans la page **produits & services** , sélectionnez l’onglet **applications** .

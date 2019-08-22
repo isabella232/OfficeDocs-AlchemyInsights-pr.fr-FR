@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769490"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544609"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Vous rencontrez des problèmes avec un service Cloud?
 
-Si vous rencontrez des problèmes avec un service Cloud, vous pouvez vérifier l' [État du service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pour déterminer s’il s’agit d’un problème connu avec une résolution en cours avant d’appeler le support technique ou de consacrer du temps à la résolution des problèmes. Le problème peut être très temporaire et déjà identifié par Microsoft, mais il peut arriver qu’il y ait intervalle de temps entre l’identification et la publication du problème dans le tableau de bord d’État du service. Continuez à consulter le tableau de bord de service pour d’autres mises à jour.
+Si vous rencontrez des problèmes avec un service Cloud, vous pouvez vérifier l' [État du service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) dans le centre d’administration 365 de Microsoft pour déterminer s’il s’agit d’un problème connu avec une résolution en cours avant d’appeler le support ou de consacrer du temps à la résolution des problèmes. Le problème peut être très temporaire et déjà identifié par Microsoft, mais il peut arriver qu’il y ait intervalle de temps entre l’identification et la publication du problème dans le tableau de bord d’État du service. Continuez à consulter le tableau de bord de service pour d’autres mises à jour.
 
 **Stratégie de notification**
 
