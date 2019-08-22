@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "9000576"
 - "2431"
-ms.openlocfilehash: 052d009a0e1a0ad5b45bf2911501d44582afd00c
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.openlocfilehash: a48ad92559ba97fb69321edb80bb8441a11234ed
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859284"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545940"
 ---
-# <a name="cant-preview-all-of-an-attachment"></a><span data-ttu-id="1ad3a-102">Impossible d’afficher l’aperçu de la pièce jointe</span><span class="sxs-lookup"><span data-stu-id="1ad3a-102">Can't preview all of an attachment</span></span>
+# <a name="cant-preview-all-of-an-attachment"></a><span data-ttu-id="9835c-102">Impossible d’afficher l’aperçu de la pièce jointe</span><span class="sxs-lookup"><span data-stu-id="9835c-102">Can't preview all of an attachment</span></span>
 
-<span data-ttu-id="1ad3a-103">Nous avons pris conscience d’un problème: certains clients ne peuvent pas prévisualiser l’intégralité d’une pièce jointe.</span><span class="sxs-lookup"><span data-stu-id="1ad3a-103">We're aware of an issue where some customers can't preview all of an attachment.</span></span> <span data-ttu-id="1ad3a-104">Pour résoudre ce problème, ouvrez la pièce jointe dans une nouvelle fenêtre.</span><span class="sxs-lookup"><span data-stu-id="1ad3a-104">As a workaround, please open the attachment in a new window.</span></span>
+<span data-ttu-id="9835c-103">Nous avons pris conscience d’un problème: certains clients ne peuvent pas prévisualiser l’intégralité d’une pièce jointe.</span><span class="sxs-lookup"><span data-stu-id="9835c-103">We're aware of an issue where some customers can't preview all of an attachment.</span></span> <span data-ttu-id="9835c-104">Pour résoudre ce problème, ouvrez la pièce jointe dans une nouvelle fenêtre.</span><span class="sxs-lookup"><span data-stu-id="9835c-104">As a workaround, please open the attachment in a new window.</span></span>

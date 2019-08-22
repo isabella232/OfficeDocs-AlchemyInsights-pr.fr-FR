@@ -14,16 +14,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 01bf56bf3ef6f788762ac3d87947572908d6ffe2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f849711544e5afdaedb16db55bb087db4175c44e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383311"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539531"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="7066d-102">Comment vérifier votre domaine avec Office 365</span><span class="sxs-lookup"><span data-stu-id="7066d-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="73579-102">Comment vérifier votre domaine avec Office 365</span><span class="sxs-lookup"><span data-stu-id="73579-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="7066d-103">Vous devrez ajouter un enregistrement TXT à votre bureau d’enregistrement de domaines pour vérifier que vous êtes propriétaire de votre domaine.</span><span class="sxs-lookup"><span data-stu-id="7066d-103">You will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="7066d-104">Tout d’abord, suivez l' [Assistant Ajouter un domaine](https://portal.office.com/adminportal/home#/Domains) en cliquant sur **domaine**de **paramètres** \> , puis sur **Ajouter un domaine**.</span><span class="sxs-lookup"><span data-stu-id="7066d-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
+<span data-ttu-id="73579-103">Vous devrez ajouter un enregistrement TXT à votre bureau d’enregistrement de domaines pour vérifier que vous êtes propriétaire de votre domaine.</span><span class="sxs-lookup"><span data-stu-id="73579-103">You will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="73579-104">Tout d’abord, suivez l' [Assistant Ajouter un domaine](https://portal.office.com/adminportal/home#/Domains) en cliquant sur **domaine**de **paramètres** \> , puis sur **Ajouter un domaine**.</span><span class="sxs-lookup"><span data-stu-id="73579-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
   
-<span data-ttu-id="7066d-105">Suivez les instructions de la rubrique [créer des enregistrements DNS auprès d’un fournisseur d’hébergement DNS pour Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pour ajouter un enregistrement txt afin de vérifier votre domaine.</span><span class="sxs-lookup"><span data-stu-id="7066d-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="73579-105">Suivez les instructions de la rubrique [créer des enregistrements DNS auprès d’un fournisseur d’hébergement DNS pour Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pour ajouter un enregistrement txt afin de vérifier votre domaine.</span><span class="sxs-lookup"><span data-stu-id="73579-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
   

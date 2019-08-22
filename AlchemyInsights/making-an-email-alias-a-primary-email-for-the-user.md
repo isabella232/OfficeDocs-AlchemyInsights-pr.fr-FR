@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 6bd8057845d6112d889666d1cd10f1221e4b5a22
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ba5ade5c914600725ed2aff0a3aa0097adfb188f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380935"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542375"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a><span data-ttu-id="74561-102">Transformer un alias de messagerie en adresse principale pour un utilisateur</span><span class="sxs-lookup"><span data-stu-id="74561-102">Make an email alias the primary address for a user</span></span>
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a><span data-ttu-id="e06b7-102">Transformer un alias de messagerie en adresse principale pour un utilisateur</span><span class="sxs-lookup"><span data-stu-id="e06b7-102">Make an email alias the primary address for a user</span></span>
 
-<span data-ttu-id="74561-103">Pour obtenir des instructions, consultez [la rubrique ajouter un autre alias de messagerie pour un utilisateur](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).</span><span class="sxs-lookup"><span data-stu-id="74561-103">For instructions, see [Add another email alias for a user](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).</span></span>
+<span data-ttu-id="e06b7-103">Pour obtenir des instructions, consultez [la rubrique ajouter un autre alias de messagerie pour un utilisateur](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).</span><span class="sxs-lookup"><span data-stu-id="e06b7-103">For instructions, see [Add another email alias for a user](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).</span></span>
 
-<span data-ttu-id="74561-104">**Remarque**: Si votre organisation est en mode hybride, vous devez modifier l’adresse de messagerie principale dans votre organisation Exchange locale.</span><span class="sxs-lookup"><span data-stu-id="74561-104">**Note**: If your organization is in Hybrid mode, you need to change the primary email address in your on-premises Exchange organization.</span></span> <span data-ttu-id="74561-105">Pour plus d’informations, consultez [la rubrique ajouter ou supprimer des adresses de messagerie pour une boîte aux lettres](https://technet.microsoft.com/library/bb123794.aspx).</span><span class="sxs-lookup"><span data-stu-id="74561-105">For more information, see [Add or remove email addresses for a mailbox](https://technet.microsoft.com/library/bb123794.aspx).</span></span>
+<span data-ttu-id="e06b7-104">**Remarque**: Si votre organisation est en mode hybride, vous devez modifier l’adresse de messagerie principale dans votre organisation Exchange locale.</span><span class="sxs-lookup"><span data-stu-id="e06b7-104">**Note**: If your organization is in Hybrid mode, you need to change the primary email address in your on-premises Exchange organization.</span></span> <span data-ttu-id="e06b7-105">Pour plus d’informations, consultez [la rubrique ajouter ou supprimer des adresses de messagerie pour une boîte aux lettres](https://technet.microsoft.com/library/bb123794.aspx).</span><span class="sxs-lookup"><span data-stu-id="e06b7-105">For more information, see [Add or remove email addresses for a mailbox](https://technet.microsoft.com/library/bb123794.aspx).</span></span>
