@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382879"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538768"
 ---
-Votre contenu est-il **conservé** par une **conservation** que vous ne pouvez pas identifier? Vous avez besoin de **savoir** où se trouve la conservation dans la **boîte aux lettres** ? Les suspensions ( *fonctionnalités* de rétention) peuvent être appliquées par l’une des méthodes suivantes dans Office 365:
+# <a name="identify-holds-placed-on-mailboxes"></a>Identifier les blocages placés sur les boîtes aux lettres
+
+Le contenu Office 365 est-il **conservé** par une **conservation** que vous ne pouvez pas identifier? Vous avez besoin de **savoir** où se trouve la conservation dans la **boîte aux lettres** ? Les suspensions (*fonctionnalités*de rétention) peuvent être appliquées par l’une des méthodes suivantes dans Office 365:
   
 - Conservation pour litige
 
