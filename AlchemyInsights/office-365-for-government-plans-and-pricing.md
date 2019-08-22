@@ -13,13 +13,15 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 8d716ef3f79691971d04801731d2dd4b080b36f8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389358"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522117"
 ---
+# <a name="office-365-government-plans"></a>Plans gouvernementaux Office 365
+
 Les plans du gouvernement américain d’Office 365 sont conçus pour répondre aux besoins uniques des organisations gouvernementales américaines. Elles fournissent toutes les fonctionnalités et les fonctionnalités des services Office 365 dans une communauté de Cloud pour le gouvernement segmenté, qui permet aux organisations de respecter les normes de sécurité et de conformité américaines.
   
 - [Passer en revue les plans gouvernementaux](https://products.office.com/government/compare-office-365-government-plans)

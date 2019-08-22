@@ -11,12 +11,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 1fad32a445f1de4bfca566f13323274c87ebd4c1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 4fdcae9dbe524f5e552c8b4c8736d6795c394348
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904224"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509906"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Solutions recommandées pour la synchronisation côté serveur Dynamics Server
 
@@ -28,7 +28,7 @@ ms.locfileid: "35904224"
 
 * [Procédure de modification de l’audience et du type d’un portail Dynamics 365](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Procédure de modification de l’URL de base d’un portail](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/change-base-url)
+* [Procédure de modification de l’URL de base d’un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
 * [Procédure de configuration d’un fournisseur d’identité externe avec un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 

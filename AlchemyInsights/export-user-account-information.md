@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 682fa0950a0816fec0c3989dc92a10137e7e7b11
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697438"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526209"
 ---
 # <a name="export-user-account-information"></a>Exporter des informations de compte d’utilisateur
 
-Pour exporter des informations de compte d’utilisateur, notamment des informations sur les licences, la stratégie de mot de passe, les comptes bloqués, l’état de synchronisation AAD, et bien plus encore, accédez à la **** > page utilisateurs[actifs](https://go.microsoft.com/fwlink/p/?linkid=834822) des utilisateurs, puis sélectionnez **Exporter les utilisateurs**.
+Pour exporter des informations de compte d’utilisateur dans le centre d’administration 365 de Microsoft, notamment des informations sur les licences, la stratégie de mot de passe, les comptes bloqués, l’état de synchronisation AAD, et bien plus encore, accédez à la page utilisateurs[actifs](https://go.microsoft.com/fwlink/p/?linkid=834822) des **utilisateurs** > , puis sélectionnez **Exporter. Les utilisateurs**.

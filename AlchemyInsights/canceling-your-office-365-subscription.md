@@ -13,12 +13,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: eddf21bfa9e891baf054ac53abe9affb95305688
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 548fef4d13a466e82c98d40fb25e546e45a871f5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387239"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519669"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Vous annulez votre abonnement Office 365?
 
@@ -30,4 +30,4 @@ Nous sommes désolés, mais voici les options d’annulation de votre abonnement
 
 - Si vous avez plus de 25 licences attribuées, vous pouvez supprimer des utilisateurs jusqu’à 25 ou utiliser l’option «laissez-nous vous appeler» pour contacter un ingénieur du support technique.
 
-- Pour en savoir plus sur l’annulation d’un abonnement ou pour obtenir des instructions détaillées, reportez-vous à [la rubrique annuler votre abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Pour en savoir plus sur l’annulation d’un abonnement ou pour obtenir des instructions détaillées, reportez-vous à [la rubrique annuler votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

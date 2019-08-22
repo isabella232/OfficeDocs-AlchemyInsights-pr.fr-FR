@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: d02aa48f510183875718183138f65db17570c07c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400931"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524193"
 ---
 # <a name="get-started-with-microsoft-flow"></a>Prise en main de Microsoft Flow
 
@@ -23,7 +23,7 @@ Avec Microsoft Flow, vous pouvez:
     
 - Choisissez parmi les services les plus populaires.
     
-- Affichez une vue d'ensemble de chaque flux.
+- Affichez une vue d’ensemble de chaque flux.
     
 [En savoir plus sur Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
   

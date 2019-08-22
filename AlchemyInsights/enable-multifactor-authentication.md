@@ -1,5 +1,5 @@
 ---
-title: Activer l'authentification multifacteur
+title: Activer l’authentification multifacteur
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403673"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527469"
 ---
-# <a name="enable-multi-factor-authentication"></a>Activer l'authentification multifacteur
+# <a name="enable-multi-factor-authentication"></a>Activer l’authentification multifacteur
 
-1. Accéder aux utilisateurs **actifs** des **utilisateurs** \>
+Pour activer l’authentification multifacteur dans le centre d’administration 365 de Microsoft:
+
+1. Accédez à la **** \> page utilisateurs **actifs** .
     
-2. Cliquez sur **More** \> **Setup Azure Multi-Factor auth**. 
+2. En haut de la page, sélectionnez **Multi-Factor Authentication**. 
     
-3. Recherchez l'utilisateur ou les utilisateurs que vous souhaitez activer pour l'authentification multiFACTEUR. Pour afficher tous les utilisateurs, il se peut que vous deviez modifier l'affichage de l'état d'authentification multiFacteur en haut.
+3. Recherchez l’utilisateur ou les utilisateurs que vous souhaitez activer pour l’authentification multifacteur. Pour afficher tous les utilisateurs, il se peut que vous deviez modifier le filtre d' **État d’authentification multifacteur** en haut.
     
 4. Activez la case à cocher en regard des utilisateurs que vous souhaitez activer.
     
-5.  Dans le volet d'informations utilisateur approprié, sous **étapes rapides** , vous verrez activer et gérer les paramètres utilisateur. Sélectionnez **Activer**. 
+5.  Dans le volet d’informations utilisateur approprié, sous **étapes rapides**, sélectionnez **activer**. 
     
-6. Dans la boîte de dialogue qui s'ouvre, **cliquez sur Activer l'authentification multifacteur**. 
+6. Dans la boîte de dialogue qui s’ouvre, sélectionnez **activer l’authentification multifacteur**. 
     
 

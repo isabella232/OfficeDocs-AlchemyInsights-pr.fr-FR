@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386402"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522609"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Procédure d’ajout ou de modification d’un VatID
 
-- Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  Dans le centre d’administration 365 de Microsoft, accédez à la page des produits de **facturation** \> [& servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-- Sur la **** page abonnements, choisissez l’abonnement que vous souhaitez modifier, puis sélectionnez **autres actions** \> **modifier numéro de TVA**.
+2. Recherchez la carte d’abonnement pour l’abonnement que vous souhaitez mettre à jour.
 
-- En bas du volet **modifier votre adresse d’utilisation des services** , entrez ou modifiez votre ID TVA dans la zone numéro de **TVA** , puis choisissez **Envoyer**.
+3. Dans la section **paramètres & Actions** , sélectionnez **modifier l’adresse d’utilisation du service**.
+
+4. Sur la page **modifier votre adresse d’utilisation des services** , saisissez votre numéro de TVA dans la zone numéro de **TVA** , puis sélectionnez **Enregistrer**.
 
     Lorsque vous avez terminé, la T.V.A. n’est pas facturée sur votre facture suivante.
 
-Pour plus d’informations, voir [quelles taxes seront facturées pour Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Utilisez-vous le nouveau centre d’administration? Pour les nouvelles étapes, voir [ajouter votre ID TVA](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Pour plus d’informations, consultez la rubrique [quelles taxes seront facturées pour Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) ou [Ajoutez votre numéro de TVA](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

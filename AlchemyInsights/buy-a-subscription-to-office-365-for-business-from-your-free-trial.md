@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386834"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518001"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Acheter un abonnement Office 365 à partir de votre version d'évaluation gratuite
 
@@ -26,16 +26,14 @@ ms.locfileid: "36386834"
   
  **Vous pouvez acheter la même offre que votre version d’évaluation**
   
-1. Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration, accédez à la page produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Sélectionnez **acheter maintenant** pour l’abonnement d’évaluation souhaité, puis suivez les étapes d’extraction.
+2. Recherchez l’abonnement que vous souhaitez acheter. Dans la section **licences** , sélectionnez **abonnement achat**, puis suivez les étapes d’extraction.
 
 ou **vous pouvez acheter un autre abonnement**
   
-1. Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration, accédez à la page [services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturation** \> .
 
-2. Sur la page **abonnement** , sélectionnez **Ajouter**des abonnements.
+3. Recherchez l’abonnement que vous souhaitez acheter, sélectionnez **acheter**, puis suivez les étapes d’extraction.
 
-3. Recherchez l’abonnement que vous souhaitez acheter, sélectionnez **acheter maintenant**, puis suivez les étapes d’extraction.
-
-Utilisez-vous le nouveau centre d’administration? Pour les nouvelles étapes, consultez [la rubrique acheter un abonnement à Office 365 pour les entreprises à partir de votre version d’évaluation gratuite](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Pour plus d'informations, voir [Acheter un abonnement à Office 365 pour les entreprises à partir de votre version d'évaluation gratuite](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388179"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501363"
 ---
 # <a name="subscription-recurring-billing"></a>Facturation périodique de l’abonnement
 
-Si vous souhaitez connaître le moment où votre abonnement mensuel ou annuel sera facturé (si la **facturation périodique** est activée) ou expirer (si la **facturation périodique** est désactivée):
+Si vous souhaitez connaître le moment où votre abonnement mensuel ou annuel Office 365 sera facturé (si la **facturation périodique** est activée) ou expirer (si la **facturation périodique** est désactivée):
   
-1. Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration, accédez à la page produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Choisissez l’abonnement sur lequel vous souhaitez en savoir plus.
+2. Pour connaître l’abonnement sur lequel vous souhaitez en savoir plus, reportez- **** vous à la date de publication ou de **fin** de la **facturation**.
 
-3. Sur le côté droit de la carte d’abonnement se trouvent des informations sur l’état de l’abonnement, le paramètre de **facturation périodique** , ainsi que la prochaine date de facturation ou d’expiration.
+4. Pour apporter une modification, sélectionnez **modifier** puis, dans le volet Paramètres de **facturation périodique** , sélectionnez **Désactiver** pour le désactiver. Si la facturation périodique est déjà désactivée, sélectionnez une fois par **mois** ou **une fois** pour l’activer.
 
-4. Pour continuer à utiliser le service au-delà de cette date, faites basculer le **paramètre de facturation périodique** sur **activé**. Le statut affiche la prochaine date de facturation pour l’abonnement.
-
-5. Pour arrêter le service à cette date, activez le bouton bascule de **facturation périodique** sur **désactivé**. L’état indique la date à laquelle l’abonnement expire.
-
-Utilisez-vous le nouveau centre d’administration? Pour les nouvelles étapes, consultez la rubrique [activer ou désactiver la facturation périodique](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Pour plus d’informations, consultez la rubrique [activer ou désactiver la facturation périodique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

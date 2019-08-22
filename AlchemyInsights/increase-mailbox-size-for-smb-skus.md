@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 8d0d846c97bac885e0082670dbeec3f4fd8c1129
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412569"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499277"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Changer d'offre pour augmenter la taille des boîtes aux lettres
 
 Si la taille des boîtes aux lettres est de 50 Go, vous pouvez faire passer leur taille à 100 Go en choisissant l'offre [Office 365 Entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou [Office 365 Entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Voici les étapes à suivre pour changer d'offre Office 365 :
   
-1. dans le centre d'administration Microsoft 365, accédez à [](https://go.microsoft.com/fwlink/p/?linkid=842054) la page abonnements, ou sélectionnez abonnements de **facturation** \> ****.
+1. Dans le centre d’administration Microsoft 365, accédez à [](https://go.microsoft.com/fwlink/p/?linkid=842054) la page abonnements, ou sélectionnez abonnements de **facturation** \> ****.
     
 2. Choisissez **Changer d'offre** pour afficher la liste des nouvelles offres disponibles. 
     

@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 642b17adc4c362394995ff78dfc8a237a6484a12
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704616"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501293"
 ---
 # <a name="spam-filter-not-working"></a>Le filtrage du courrier indésirable ne fonctionne pas
 
-Si vous pensez qu’un message que vous avez reçu est une escroquerie de type hameçonnage ou une usurpation d’identité, marquez-le comme courrier indésirable, puis accédez à courrier indésirable, sélectionnez le message et sélectionnez ne pas recevoir de **courrier indésirable** \> **** pour le marquer comme frauduleux de hameçonnage. **** Pour en savoir plus sur l’utilisation abusive, le hameçonnage et l’usurpation d’identité, [Lisez cette](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)rubrique. Pour bloquer des adresses de messagerie, ajouter des adresses ou des domaines à votre liste des expéditeurs approuvés ou appliquer d’autres options de courrier indésirable, sélectionnez **options**du courrier indésirable.
+Si vous pensez qu’un message que vous avez reçu dans Outlook.com est une escroquerie de type hameçonnage ou une usurpation d’identité, sélectionnez le message et sélectionnez **hameçonnage** de **courrier** \> indésirable pour le marquer comme frauduleux de hameçonnage. Pour en savoir plus sur l’utilisation abusive, le hameçonnage et l’usurpation d’identité, [Lisez cette](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)rubrique. Pour bloquer des adresses de messagerie, ajouter des adresses ou des domaines à votre liste des expéditeurs approuvés ou appliquer d’autres options de courrier indésirable, sélectionnez **options**du courrier indésirable.
   

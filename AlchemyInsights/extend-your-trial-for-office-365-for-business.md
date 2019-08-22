@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389030"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526137"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Prolonger votre version d’évaluation d’Office 365 pour les entreprises
 
@@ -32,4 +32,4 @@ Si votre abonnement à la version d’évaluation est de 15 jours après expirat
 
 4. Vous devez fournir les informations de carte de crédit pour prolonger votre version d’évaluation. Nous ne débiterons pas votre carte de crédit pour l’extension d’évaluation.
 
-Pour en savoir plus sur l’extension des versions d’évaluation ou pour obtenir des instructions détaillées, reportez-vous à [la rubrique prolonger votre version d’évaluation d’Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).
+Pour en savoir plus sur l’extension des versions d’évaluation ou pour obtenir des instructions détaillées, reportez-vous à [la rubrique prolonger votre version d’évaluation d’Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

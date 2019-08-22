@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696937"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511917"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Empêcher les messages d’atteindre votre dossier courrier indésirable
 
-Si vous découvrez qu’un message électronique dans votre dossier de courrier indésirable n’est pas légitime:
+Si vous découvrez qu’un message électronique dans votre dossier de courrier indésirable dans Outlook.com n’est pas un courrier indésirable:
 
 1. Ouvrez votre [dossier courrier](https://outlook.live.com/mail/junkemail)indésirable.
 1. Sélectionnez le message. (*Remarque:* les éléments de votre dossier courrier indésirable sont supprimés au bout de 30 jours.)

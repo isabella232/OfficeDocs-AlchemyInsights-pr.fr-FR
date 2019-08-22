@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: 3735499b4548f91455f787a60492267d68f2b47d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 122da4ef674cdb2f5ae4b8f1eb3991bd2a7d2cfc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401897"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525777"
 ---
 # <a name="file-upload-limits-in-sharepoint-online"></a>Limites de chargement de fichiers dans SharePoint Online
 
-- Une bibliothèque peut contenir jusqu'à 30 millions fichiers et dossiers.
+- Une bibliothèque peut contenir jusqu’à 30 millions fichiers et dossiers.
     
-- La longueur totale de l'URL, y compris le nom de fichier, ne peut pas dépasser 400 caractères.
+- La longueur totale de l’URL, y compris le nom de fichier, ne peut pas dépasser 400 caractères.
     
 - Chaque fichier Mush est inférieur à 15 Go. La taille des fichiers joints à des éléments de liste est de 250 Mo.
     
@@ -29,6 +29,6 @@ ms.locfileid: "32401897"
   
 [Types de fichiers qui ne peuvent pas être ajoutés à une liste ou une bibliothèque](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Plus d'informations sur les limites de SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
+[Plus d’informations sur les limites de SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
   
 
