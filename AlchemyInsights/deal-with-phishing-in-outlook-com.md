@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 591ecfa8809ea656a66d94441765859081d3ced0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406382"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514184"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Gérer les escroqueries par hameçonnage dans votre boîte de réception
 
@@ -24,7 +24,7 @@ Si vous recevez un message électronique qui ressemble à une escroquerie de typ
   
 1. Cliquez avec le bouton droit sur le message, puis sélectionnez **marquer comme courrier**indésirable. 
     
-2. Accédez au dossier courrier inDésirable et sélectionnez le message.
+2. Accédez au dossier courrier indésirable et sélectionnez le message.
     
 3. En haut de la page, sélectionnez la flèche en regard de **non légitime** , puis sélectionnez **hameçonnage**. 
     
