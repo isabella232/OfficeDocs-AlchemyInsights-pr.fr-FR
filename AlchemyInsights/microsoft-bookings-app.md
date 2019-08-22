@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: ff684984060e71cdcabe600d3a083db5816d432a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380287"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544897"
 ---
 # <a name="microsoft-bookings-app"></a>Application Microsoft bookings
 
-Pour plus de détails sur la résolution des problèmes dans la nouvelle application bookings, consultez la rubrique [bookings Articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
+Microsoft bookings est une application de planification de rendez-vous qui vous permet d’effectuer le suivi de vos livres, de votre personnel et de vos clients. Pour plus d’informations ou de résolution des problèmes dans l’application livres, consultez la rubrique [bookings Articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).

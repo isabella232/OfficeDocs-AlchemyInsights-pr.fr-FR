@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: 4daff733a29dacfb55e1d8502d18d52355af8d46
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35602141"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546877"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Comment résoudre le problème «cela semble ne pas être autorisé»
 
-Si vous voyez le message d’erreur «il semble que vous n’êtes pas autorisé à obtenir des courriers électroniques pour....» procédez comme suit:
+Si vous voyez le message d’erreur «il semble que nous n’avons pas l’autorisation de recevoir des courriers électroniques pour...» procédez comme suit:
 
 1. Ouvrez les [paramètres de votre compte connecté](https://outlook.live.com/mail/options/mail/accounts) et supprimez ou supprimez le compte connecté figurant dans le message d’erreur.
 2. Rajoutez le compte connecté.

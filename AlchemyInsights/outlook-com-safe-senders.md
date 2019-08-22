@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601997"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535353"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Empêcher les messages de passer dans votre dossier courrier indésirable
 
-Dans certains cas, vous ne voulez pas que les messages provenant d’une personne ou d’un domaine spécifique finissent dans votre dossier courrier indésirable. Les messages provenant d’adresses ou de domaines figurant dans la liste des expéditeurs approuvés ne sont pas déplacés vers votre dossier courrier indésirable.
+Il arrive que vous ne voulez pas que les messages provenant d’une personne ou d’un domaine spécifique finissent dans votre dossier courrier indésirable dans Outlook.com. Les messages provenant d’adresses ou de domaines figurant dans la liste des expéditeurs approuvés ne sont pas déplacés vers votre dossier courrier indésirable.
 
 1. Ouvrez vos [paramètres d’expéditeurs approuvés](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. Sous **expéditeurs approuvés et domaines**, entrez l’adresse de messagerie ou le domaine que vous souhaitez ajouter, puis sélectionnez **Ajouter**.
