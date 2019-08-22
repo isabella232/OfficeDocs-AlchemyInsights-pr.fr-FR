@@ -15,24 +15,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373879"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535965"
 ---
-# <a name="security-info-and-security-codes"></a><span data-ttu-id="c8f73-102">Informations de sécurité et codes de sécurité</span><span class="sxs-lookup"><span data-stu-id="c8f73-102">Security info and security codes</span></span>
+# <a name="security-info-and-security-codes"></a><span data-ttu-id="70008-102">Informations de sécurité et codes de sécurité</span><span class="sxs-lookup"><span data-stu-id="70008-102">Security info and security codes</span></span>
 
-<span data-ttu-id="c8f73-103">Pour ajouter des informations de sécurité à votre compte:</span><span class="sxs-lookup"><span data-stu-id="c8f73-103">To add security info to your account:</span></span>
+<span data-ttu-id="70008-103">Pour ajouter des informations de sécurité à votre compte Microsoft:</span><span class="sxs-lookup"><span data-stu-id="70008-103">To add security info to your Microsoft account:</span></span>
 
-1. <span data-ttu-id="c8f73-104">Connectez-vous à la [sécurité de base](https://account.microsoft.com/security) avec votre compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="c8f73-104">Sign in to [Security basics](https://account.microsoft.com/security) with your Microsoft account.</span></span>
-1. <span data-ttu-id="c8f73-105">Sélectionnez **informations de contact de sécurité**.</span><span class="sxs-lookup"><span data-stu-id="c8f73-105">Select **Security contact info**.</span></span>
-1. <span data-ttu-id="c8f73-106">Sélectionnez **Ajouter des informations de sécurité** et suivez les instructions pour entrer un numéro de téléphone ou une adresse de messagerie.</span><span class="sxs-lookup"><span data-stu-id="c8f73-106">Select **Add security info** and follow the instructions to enter a phone number or email address.</span></span>
-1. <span data-ttu-id="c8f73-107">Vous recevrez un code de sécurité à ce numéro de téléphone ou à cette adresse de messagerie.</span><span class="sxs-lookup"><span data-stu-id="c8f73-107">You will receive a security code at that phone number or email address.</span></span> <span data-ttu-id="c8f73-108">Entrez le code de sécurité que vous avez reçu dans la fenêtre **Ajouter des informations de sécurité** , puis cliquez sur **suivant**.</span><span class="sxs-lookup"><span data-stu-id="c8f73-108">Enter the security code you received in the **Add security info** window and select **Next**.</span></span>
+1. <span data-ttu-id="70008-104">Connectez-vous à la [sécurité de base](https://account.microsoft.com/security) avec votre compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="70008-104">Sign in to [Security basics](https://account.microsoft.com/security) with your Microsoft account.</span></span>
+1. <span data-ttu-id="70008-105">Sélectionnez **informations de contact de sécurité**.</span><span class="sxs-lookup"><span data-stu-id="70008-105">Select **Security contact info**.</span></span>
+1. <span data-ttu-id="70008-106">Sélectionnez **Ajouter des informations de sécurité** et suivez les instructions pour entrer un numéro de téléphone ou une adresse de messagerie.</span><span class="sxs-lookup"><span data-stu-id="70008-106">Select **Add security info** and follow the instructions to enter a phone number or email address.</span></span>
+1. <span data-ttu-id="70008-107">Vous recevrez un code de sécurité à ce numéro de téléphone ou à cette adresse de messagerie.</span><span class="sxs-lookup"><span data-stu-id="70008-107">You will receive a security code at that phone number or email address.</span></span> <span data-ttu-id="70008-108">Entrez le code de sécurité que vous avez reçu dans la fenêtre **Ajouter des informations de sécurité** , puis cliquez sur **suivant**.</span><span class="sxs-lookup"><span data-stu-id="70008-108">Enter the security code you received in the **Add security info** window and select **Next**.</span></span>
 
-<span data-ttu-id="c8f73-109">Si vous souhaitez supprimer un numéro de téléphone ou une adresse de messagerie, sélectionnez **supprimer** en regard de celui-ci.</span><span class="sxs-lookup"><span data-stu-id="c8f73-109">If you want to remove a phone number or email address, select **Remove** next to it.</span></span>
+<span data-ttu-id="70008-109">Si vous souhaitez supprimer un numéro de téléphone ou une adresse de messagerie, sélectionnez **supprimer** en regard de celui-ci.</span><span class="sxs-lookup"><span data-stu-id="70008-109">If you want to remove a phone number or email address, select **Remove** next to it.</span></span>
 
-<span data-ttu-id="c8f73-110">Si vous souhaitez modifier le numéro de téléphone ou l’adresse de messagerie qui reçoit les alertes de sécurité, sélectionnez **modifier les options d’alerte**.</span><span class="sxs-lookup"><span data-stu-id="c8f73-110">If you want to change which phone number or email address receives security alerts, select **Change alert options**.</span></span>
+<span data-ttu-id="70008-110">Si vous souhaitez modifier le numéro de téléphone ou l’adresse de messagerie qui reçoit les alertes de sécurité, sélectionnez **modifier les options d’alerte**.</span><span class="sxs-lookup"><span data-stu-id="70008-110">If you want to change which phone number or email address receives security alerts, select **Change alert options**.</span></span>
 
-<span data-ttu-id="c8f73-111">Pour en savoir plus, lisez [les informations de sécurité de compte Microsoft et les codes de vérification](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="c8f73-111">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
+<span data-ttu-id="70008-111">Pour en savoir plus, lisez [les informations de sécurité de compte Microsoft et les codes de vérification](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="70008-111">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>

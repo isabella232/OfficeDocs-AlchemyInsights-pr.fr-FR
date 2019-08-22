@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 9355e7a39d867e35755b2a2c0c8eb434234f19d3
-ms.sourcegitcommit: 67292e43d1834c2cd20be9433698da47da59c135
+ms.openlocfilehash: 4f0eb41b63d7654ea793952c7d7eac6e16856310
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34749395"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538270"
 ---
-# <a name="adblock"></a><span data-ttu-id="b9c96-102">AdBlock</span><span class="sxs-lookup"><span data-stu-id="b9c96-102">AdBlock</span></span>
+# <a name="adblock"></a><span data-ttu-id="672a7-102">AdBlock</span><span class="sxs-lookup"><span data-stu-id="672a7-102">AdBlock</span></span>
 
-<span data-ttu-id="b9c96-103">Certains utilisateurs rencontrent actuellement des problèmes lors de la lecture ou de la rédaction de courrier électronique lors de l’utilisation de Google Chrome avec l’extension AdBlock.</span><span class="sxs-lookup"><span data-stu-id="b9c96-103">Some users are currently experiencing issues when reading or composing email when using Google Chrome with the AdBlock extension.</span></span> <span data-ttu-id="b9c96-104">Pour contourner ce problème, procédez comme suit:</span><span class="sxs-lookup"><span data-stu-id="b9c96-104">To work around this issue:</span></span>
+<span data-ttu-id="672a7-103">Certains utilisateurs rencontrent actuellement des problèmes lors de la lecture ou de la rédaction de courrier électronique lors de l’utilisation de Google Chrome avec l’extension AdBlock.</span><span class="sxs-lookup"><span data-stu-id="672a7-103">Some users are currently experiencing issues when reading or composing email when using Google Chrome with the AdBlock extension.</span></span> <span data-ttu-id="672a7-104">Pour contourner ce problème, procédez comme suit:</span><span class="sxs-lookup"><span data-stu-id="672a7-104">To work around this issue:</span></span>
 
-1. <span data-ttu-id="b9c96-105">Utilisez [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) ou un autre navigateur Web.</span><span class="sxs-lookup"><span data-stu-id="b9c96-105">Use [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) or another web browser.</span></span>
-1. <span data-ttu-id="b9c96-106">Excluez Outlook.com des paramètres AdBlock.</span><span class="sxs-lookup"><span data-stu-id="b9c96-106">Exclude Outlook.com from the AdBlock settings.</span></span><span data-ttu-id="b9c96-107">Dans le coin supérieur droit de Google Chrome, sélectionnez **Adblock** , puis sélectionnez **ne pas exécuter sur les pages de ce domaine**.</span><span class="sxs-lookup"><span data-stu-id="b9c96-107"> At the top right corner of Google Chrome, select **AdBlock** and then select **Don’t run on pages on this domain**.</span></span><span data-ttu-id="b9c96-108">Actualisez votre navigateur pour charger Outlook.com à nouveau.</span><span class="sxs-lookup"><span data-stu-id="b9c96-108"> Refresh your browser to load Outlook.com again.</span></span>
+1. <span data-ttu-id="672a7-105">Utilisez [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) ou un autre navigateur Web.</span><span class="sxs-lookup"><span data-stu-id="672a7-105">Use [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) or another web browser.</span></span>
+1. <span data-ttu-id="672a7-106">Excluez Outlook.com des paramètres AdBlock.</span><span class="sxs-lookup"><span data-stu-id="672a7-106">Exclude Outlook.com from the AdBlock settings.</span></span><span data-ttu-id="672a7-107">Dans le coin supérieur droit de Google Chrome, sélectionnez **Adblock** , puis sélectionnez **ne pas exécuter sur les pages de ce domaine**.</span><span class="sxs-lookup"><span data-stu-id="672a7-107"> At the top right corner of Google Chrome, select **AdBlock** and then select **Don’t run on pages on this domain**.</span></span><span data-ttu-id="672a7-108">Actualisez votre navigateur pour charger Outlook.com à nouveau.</span><span class="sxs-lookup"><span data-stu-id="672a7-108"> Refresh your browser to load Outlook.com again.</span></span>
