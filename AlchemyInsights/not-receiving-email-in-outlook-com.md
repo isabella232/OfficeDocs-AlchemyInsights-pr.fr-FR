@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: ba0fdd7f59d566a8f214cc57d63aa637665cb770
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391364"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538559"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="aeadc-102">Ne pas recevoir de courrier électronique dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="aeadc-102">Not receiving mail in Outlook.com</span></span>
+# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="bbf51-102">Ne pas recevoir de courrier électronique dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="bbf51-102">Not receiving mail in Outlook.com</span></span>
 
-<span data-ttu-id="aeadc-103">Si vous ne recevez pas de courrier électronique d'un expéditeur spécifique, comme vos relevés bancaires ou les messages de réinitialisation du mot de passe, vous devrez contacter l'expéditeur et l'informer que vous ne recevez pas de courrier électronique sur votre compte Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="aeadc-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="aeadc-104">Reportez-vous à [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)l'expéditeur à, où ils peuvent trouver des informations sur les meilleures pratiques, recommander des solutions de dépannage et un lien pour contacter notre équipe de support des expéditeurs.</span><span class="sxs-lookup"><span data-stu-id="aeadc-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
+<span data-ttu-id="bbf51-103">Si vous ne recevez pas de courrier électronique d’un expéditeur spécifique, comme vos relevés bancaires ou les messages de réinitialisation du mot de passe, vous devrez contacter l’expéditeur et l’informer que vous ne recevez pas de courrier électronique sur votre compte Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="bbf51-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="bbf51-104">Reportez-vous à [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)l’expéditeur à, où ils peuvent trouver des informations sur les meilleures pratiques, recommander des solutions de dépannage et un lien pour contacter notre équipe de support des expéditeurs.</span><span class="sxs-lookup"><span data-stu-id="bbf51-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
   
-<span data-ttu-id="aeadc-105">Si votre compte Outlook.com ne reçoit pas du courrier, consultez la rubrique [corriger les problèmes liés à la synchronisation des messages Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="aeadc-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
+<span data-ttu-id="bbf51-105">Si votre compte Outlook.com ne reçoit pas du courrier, consultez la rubrique [corriger les problèmes liés à la synchronisation des messages Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="bbf51-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
   
 
