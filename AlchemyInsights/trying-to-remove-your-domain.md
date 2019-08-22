@@ -11,18 +11,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: 97a7aa7861e716879db8df65ea9bfb6c4e49064b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9dffa6c2284e1960cadd851b197c7afaf66b2704
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353139"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533301"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="45147-102">Vous essayez de supprimer votre domaine ?</span><span class="sxs-lookup"><span data-stu-id="45147-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="dfb2f-102">Vous essayez de supprimer votre domaine ?</span><span class="sxs-lookup"><span data-stu-id="dfb2f-102">Trying to remove your domain?</span></span>
 
-<span data-ttu-id="45147-103">Pour supprimer votre domaine d’Office 365, suivez les étapes décrites dans cet article: [supprimer un domaine d’office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span><span class="sxs-lookup"><span data-stu-id="45147-103">To remove your domain from Office 365, follow the steps in this article: [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span></span>
+<span data-ttu-id="dfb2f-103">Pour supprimer votre domaine d’Office 365, suivez les étapes décrites dans cet article: [supprimer un domaine d’office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span><span class="sxs-lookup"><span data-stu-id="dfb2f-103">To remove your domain from Office 365, follow the steps in this article: [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span></span>
   
-<span data-ttu-id="45147-104">Vous devrez mettre à jour les utilisateurs ou les groupes qui sont affectés à ce nom de domaine avant de supprimer le domaine.</span><span class="sxs-lookup"><span data-stu-id="45147-104">You will need to update any users or groups that are assigned to that domain name before you remove the domain.</span></span>
+<span data-ttu-id="dfb2f-104">Vous devrez mettre à jour les utilisateurs ou les groupes qui sont affectés à ce nom de domaine avant de supprimer le domaine.</span><span class="sxs-lookup"><span data-stu-id="dfb2f-104">You will need to update any users or groups that are assigned to that domain name before you remove the domain.</span></span>
   
-<span data-ttu-id="45147-105">Consultez le [Forum aux questions consacré aux domaines](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) pour accéder à d’autres solutions courantes.</span><span class="sxs-lookup"><span data-stu-id="45147-105">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
+<span data-ttu-id="dfb2f-105">Consultez le [Forum aux questions consacré aux domaines](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) pour accéder à d’autres solutions courantes.</span><span class="sxs-lookup"><span data-stu-id="dfb2f-105">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
   
