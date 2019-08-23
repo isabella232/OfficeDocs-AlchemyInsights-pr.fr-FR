@@ -1,5 +1,5 @@
 ---
-title: Questions sur l'utilisation de l'outil déploiement d'Office (ODT)
+title: Questions sur l’utilisation de l’outil déploiement d’Office (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: e91d40f872dd401ee210ac05eb39d64b6fb88027
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371766"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553538"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Questions sur l'utilisation de l'outil déploiement d'Office (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Questions sur l’utilisation de l’outil déploiement d’Office (ODT)
 
 Téléchargez l’outil Déploiement d’Office du [Centre de téléchargement Microsoft](http://go.microsoft.com/fwlink/p/?LinkID=626065).
   
 Après avoir téléchargé le fichier, exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setup.exe) et un exemple de fichier de configuration (configuration.xml).
   
- **Pour exclure ou supprimer des produits Office 365 proPlus à partir d'ordinateurs clients:**
+ **Pour exclure ou supprimer des produits Office 365 ProPlus à partir d’ordinateurs clients:**
   
 Pendant l’installation d’Office 365 ProPlus, vous pouvez exclure des produits spécifiques. Pour ce faire, suivez la procédure d’installation d’Office avec ODT, mais incluez l’élément ExcludeApp dans votre fichier de configuration. Par exemple, ce fichier de configuration installe tous les produits Office 365 ProPlus à l’exception du serveur de publication :
   

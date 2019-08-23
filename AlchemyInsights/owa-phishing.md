@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: ce55ab1025bd4b3f22c7313cc8cc91cef6e726f6
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683044"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556574"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Comment traiter un courrier électronique de hameçonnage
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Comment traiter un courrier électronique de hameçonnage dans Outlook sur le Web
 
 Une escroquerie de type phishing est un courrier électronique qui semble légitime mais qui tente de voler vos informations personnelles ou votre argent. Les arnaqueurs peuvent également utiliser une technique appelée «usurpation» pour faire en sorte qu’il apparaisse comme si vous aviez reçu un e-mail de vous-même.
 

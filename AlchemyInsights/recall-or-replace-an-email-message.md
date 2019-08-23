@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356595"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553430"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Rappeler ou remplacer un message électronique
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Rappeler ou remplacer un message électronique dans Office 365
 
 - Vous pouvez **uniquement rappeler les messages qui sont envoyés à des personnes de votre organisation**. Si le message a été envoyé à une adresse Gmail, par exemple, vous ne pouvez pas le rappeler.
 - Vous pouvez **uniquement rappeler les messages envoyés à partir d’Outlook 2016 pour le PC**. Si un utilisateur envoie un message à l’aide d’Outlook pour Mac ou d’Outlook sur le Web, vous ne pouvez pas le rappeler.
 - Si vous êtes administrateur, vous pouvez **rappeler des messages au nom des utilisateurs à l’aide de PowerShell**. Vous ne pouvez pas rappeler les messages à partir du centre d’administration. Faites défiler vers le bas jusqu’à «rechercher et supprimer des messages électroniques dans votre organisation» pour plus d’informations.
 
-***Rappeler ou remplacer un message électronique que vous avez envoyé***
+**Rappeler ou remplacer un message électronique que vous avez envoyé**
 
 1. Dans le volet des dossiers situé à gauche de la fenêtre Outlook, sélectionnez le dossier éléments envoyés.
 2. Ouvrez le message que vous souhaitez rappeler. Vous devez double-cliquer pour ouvrir le message. La sélection du message de sorte qu’il s’affiche dans le volet de lecture ne vous permet pas de rappeler le message.

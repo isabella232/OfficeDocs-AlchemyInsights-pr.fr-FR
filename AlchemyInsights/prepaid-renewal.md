@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388598"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554619"
 ---
-# <a name="prepaid-renewal"></a>Renouvellement prépayé
+# <a name="prepaid-office-365-renewal"></a>Renouvellement prépayé d’Office 365
 
-1. Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration, accédez à la page produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Choisissez l’abonnement prépayé que vous souhaitez étendre, puis choisissez **étendre**.
+2. Recherchez l’abonnement que vous souhaitez étendre. Dans la section **facturation** , sélectionnez **prolonger la date de fin**.
 
-3. Choisissez l’option **clé de produit**. (S’il s’agissait d’une clé de produit achetée auprès d’un détaillant, vous pouvez choisir de prolonger les autres modes de paiement.)
+3. Dans le volet **abonnement étendre** , sélectionnez **utiliser une clé de produit nouvelle et**inutilisée, puis sélectionnez **suivant**.
 
-4. Entrez la clé de produit.
+4. Entrez la clé de produit, puis cliquez sur **suivant**.
 
-5. Vérifiez que les informations sont correctes, puis cliquez sur **suivant**.
+> [!NOTE]
+> Si vous avez plusieurs clés de produit, vous pouvez sélectionner **Ajouter une autre clé de produit** pour les entrer.
 
-6. Sélectionnez la case d’option pour prolonger la date de fin des licences existantes, puis cliquez sur **suivant**.
+5. Vérifiez les détails de votre commande, puis sélectionnez **échanger**.
 
-Utilisez-vous le nouveau centre d’administration? Pour les nouvelles étapes, voir [Ajouter des licences ou étendre un abonnement payé pour l’utilisation d’une clé de produit](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Pour plus d’informations, consultez la rubrique [Ajouter des licences ou étendre un abonnement payé pour l’utilisation d’une clé de produit](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
