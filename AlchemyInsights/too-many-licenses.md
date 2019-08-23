@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388022"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549073"
 ---
 # <a name="too-many-licenses"></a>Trop de licences?
 
-Si vous pensez que vous êtes facturé pour un trop grand nombre de licences, cela est généralement dû à l’acquisition de licences supplémentaires.
+Si vous pensez que vous êtes facturé pour un trop grand nombre de licences Office 365, cela est généralement dû à l’acquisition de licences supplémentaires.
   
 **Réduire le nombre de licences achetées**
   
-1. Dans le centre d’administration, accédez à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration, accédez à la page produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Sur la gauche, sélectionnez l’abonnement à partir duquel vous souhaitez supprimer des licences.
+2. Recherchez l’abonnement dont vous souhaitez supprimer des licences, puis sélectionnez **Ajouter/supprimer des licences**.
 
-3. Sélectionnez **Ajouter/supprimer des licences**.
+3. Dans la zone nombre **total de licences** , entrez le nombre total de licences dont vous avez besoin pour cet abonnement, puis sélectionnez **Envoyer la modification**. Par exemple, si vous avez 110 licences et que vous voulez en supprimer 5, entrez 105.
 
-4. Entrez le nombre total d’utilisateurs nécessaires. Par exemple, si vous avez actuellement 25 licences et que vous souhaitez supprimer 5, entrez 20 dans ce champ.
-
-5. Choose **Submit**.
-
-Utilisez-vous le nouveau centre d’administration? Pour les nouvelles étapes, consultez [la rubrique supprimer des licences de votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Pour plus d'informations, voir [Supprimer des licences de votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
