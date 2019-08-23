@@ -16,12 +16,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 92761e4679a155781555daec023ee9602d62a857
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356091"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551845"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurer une boîte aux lettres supprimée
 
@@ -35,5 +35,5 @@ Lorsque l’utilisateur perd sa licence Exchange Online, sa boîte aux lettres e
 
 3. Affectez la licence Exchange Online et appuyez sur **Enregistrer** .
 
-Si vous essayez de récupérer une boîte aux lettres partagée, elle est également récupérable pendant 30 jours. Vous pouvez les trouver sous **utilisateurs** \> **supprimés** par les utilisateurs; les boîtes aux lettres partagées ne nécessitent pas de licence. Si vous réalisez que vous devez restaurer un utilisateur supprimé, reportez-vous à [la rubrique restaurer un utilisateur dans Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
+Si vous essayez de récupérer une boîte aux lettres partagée, elle est également récupérable pendant 30 jours. Vous pouvez les trouver sous **utilisateurs** \> **supprimés** par les utilisateurs; les boîtes aux lettres partagées ne nécessitent pas de licence. Si vous réalisez que vous devez restaurer un utilisateur supprimé, reportez-vous à [la rubrique restaurer un utilisateur dans Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
