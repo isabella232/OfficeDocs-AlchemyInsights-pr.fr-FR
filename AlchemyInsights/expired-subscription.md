@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526677"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575586"
 ---
 # <a name="expired-subscription"></a>Abonnement expiré
 
@@ -28,14 +28,22 @@ Il s’affiche vous avez un ou plusieurs abonnements expirés. Si vous souhaitez
   
 1. Dans le centre d’administration, accédez à la page produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Choisissez l’abonnement à réactiver.
+2. Recherchez l’abonnement que vous souhaitez réactiver. Dans la section **facturation** , sélectionnez **** réactiver.
 
-3. Dans la section **facturation** , sélectionnez **** réactiver.
+Si l’option réactiver n’apparaît pas comme action disponible, appelez le support technique pour réactiver votre abonnement. ****
 
-Pour plus d’informations, consultez la rubrique réactiver [votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+3. Confirmez les détails du paiement. Vous pouvez mettre à jour vos informations de paiement existantes ici. Lorsque vous avez terminé la saisie de votre mode de **** paiement, sélectionnez réactiver.
+
+Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez la rubrique réactiver [votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Créer un nouvel achat**
   
 1. Dans le centre d’administration, accédez à la page [services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433) de **facturation** \> .
 
-2. Sélectionnez un abonnement que vous souhaitez acheter, puis sélectionnez **acheter**.
+2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **acheter**.
+
+3. Entrez le nombre de licences dont vous avez besoin et indiquez si vous devez payer chaque mois ou pour l’ensemble de l’année. Indiquez si vous souhaitez attribuer automatiquement des licences à toutes les personnes qui ne disposent pas d’une licence. Ensuite, sélectionnez **extraire**.
+
+4. Suivez les étapes restantes pour terminer l’extraction.
+
+Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez la rubrique [acheter un autre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

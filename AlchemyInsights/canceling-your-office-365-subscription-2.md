@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520953"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576090"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Vous annulez votre abonnement Office 365?
 
 Nous sommes désolés de vous voir!
   
-En fonction des données de votre organisation, nous pensons que tous vos abonnements actuels disposent de plus de 25 licences attribuées. Vous pouvez supprimer des utilisateurs jusqu’à 25, puis accéder à la page abonnements de **facturation** \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) , puis sélectionner **autres actions** \> **Annuler l’abonnement**.
+En fonction des données de votre organisation, nous pensons que tous vos abonnements actuels disposent de plus de 25 licences attribuées. Vous pouvez supprimer des utilisateurs jusqu’à ce que vous ayez moins de 25, puis accédez à la page des [services & des produits](https://go.microsoft.com/fwlink/p/?linkid=842054) de **facturation** \> . Dans la section **paramètres & Actions** , sélectionnez **Annuler l’abonnement**.
   
-Vous pouvez également utiliser l’option «nous contacter» pour contacter un ingénieur du support technique.
+Vous pouvez également choisir d' **avoir besoin d’aide** pour contacter un ingénieur du support technique.
   
-Pour en savoir plus sur l’annulation d’un abonnement ou pour obtenir des instructions détaillées, reportez-vous à l’article suivant: [annuler votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez [la rubrique annuler votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

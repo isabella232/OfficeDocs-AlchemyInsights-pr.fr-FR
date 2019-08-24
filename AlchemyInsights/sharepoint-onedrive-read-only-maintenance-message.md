@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840513"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620721"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Lecture seule pour un message de maintenance lors de la tentative d’utilisation de SharePoint ou OneDrive
 
-Les utilisateurs peuvent recevoir un message **de maintenance en lecture seule** lors de la tentative d’utilisation de SharePoint ou de OneDrive.  Si c’est le cas, vérifiez s’il y a une maintenance active sur votre client en accédant au [Centre de messages](https://portal.office.com/adminportal/home#/MessageCenter). Veillez également à consulter le tableau de bord d' [État du service](https://portal.office.com/adminportal/home#/servicehealth) pour vérifier tous les avis/incidents susceptibles de se produire.
+Les utilisateurs peuvent recevoir un message **de maintenance en lecture seule** lorsqu’ils tentent d’utiliser SharePoint ou OneDrive pour l’un des scénarios suivants. 
 
-Si ni le tableau de bord du centre de messages ou d’intégrité des services n’a noté aucune information sur la maintenance actuelle de votre client, il peut s’agir d’un problème de mise en cache du navigateur.
+-   Activité de maintenance planifiée ou active.  Vérifiez-les en accédant au [Centre de messages](https://portal.office.com/adminportal/home#/messagecenter).
+-   Un incident de service actif de haute priorité susceptible de se produire. Recherchez les avis/incidents en accédant à l' [État du service](https://portal.office.com/adminportal/home#/servicehealth).
+-   Un scénario de récupération de réparation automatique mineur qui peut être dû à des événements inattendus sur les serveurs qui peuvent durer moins de 30 minutes ou plus. 
+    
+    Il n’existe aucune publication de centre de messages ou d’intégrité de service pour ces récupérateurs mineurs, mais vous devriez être redirigé vers la version normale très prochainement.
+
+En très peu de occasions, nous avons observé que l’un des trois scénarios mentionnés ci-dessus était la cause, et que le service a été restauré, mais que le cache du navigateur des utilisateurs n’a pas été effacé.
 
 Essayez de vider le cache du navigateur avant de naviguer sur le site.
 

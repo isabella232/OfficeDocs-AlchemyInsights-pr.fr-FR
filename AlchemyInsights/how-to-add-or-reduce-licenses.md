@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522429"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574940"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Comment ajouter ou réduire des licences
 
@@ -39,7 +39,7 @@ Voici comment supprimer ou acheter d’autres licences Office 365.
 > [!NOTE]
 > Toute nouvelle facture (augmentation de licence) ou crédit (diminution de la licence) s’affichera sur votre facture suivante.
 
-Pour plus d’informations, consultez [la rubrique acheter des licences pour votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez [la rubrique acheter des licences pour votre abonnement Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Ressources supplémentaires**
   
