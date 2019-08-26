@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423101"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506175"
 ---
 # <a name="trying-to-verify-your-domain"></a>Vérifier votre domaine
 
-Vous devez ajouter un enregistrement TXT à votre bureau d’enregistrement de domaines pour vérifier que votre domaine vous appartient. Suivez l’Assistant Ajouter un domaine en cliquant sur **Paramètres**\>**Domaine**, puis **Ajouter un domaine**. 
+Vous devez ajouter un enregistrement TXT à votre bureau d’enregistrement de domaines pour vérifier que votre domaine vous appartient. Suivez l’Assistant Nouveau domaine dans le Centre d’administration Microsoft 365 en accédant à **Configuration** \> **Domaines**, puis **Ajouter un domaine**. 
   
 Suivez les instructions contenues dans l’article ci-dessous pour ajouter un enregistrement TXT afin de vérifier votre domaine. Sélectionnez votre bureau d’enregistrement de domaines pour obtenir des instructions spécifiques à votre domaine.
   
