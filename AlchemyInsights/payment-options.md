@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388670"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555267"
 ---
-# <a name="payment-options"></a>Modes de paiement
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Modes de paiement pour les abonnements Office 365 pour les entreprises
 
 **Modes de paiement**
   
@@ -30,7 +30,7 @@ Carte de crédit, compte bancaire (prélèvement automatique) et facture (paieme
   
 Lorsque vous payez par carte de crédit ou compte bancaire, les frais correspondant à votre abonnement sont automatiquement débités le lendemain de la date de facturation, jusqu’à l’expiration de votre abonnement. Vous pouvez [mettre à jour les informations de votre carte bancaire ou compte bancaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) à tout moment. Vous pouvez également choisir de [Envoyer une copie de votre relevé de facturation par courrier électronique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Si votre carte de crédit est refusée ou si votre compte présente un arriéré de paiement, vous pouvez choisir l’option **Payer maintenant** sur la page **Facturation**\> [Abonnements](https://portal.office.com/adminportal/home#/subscriptions).
+Si votre carte de crédit est refusée ou si votre compte présente un arriéré de paiement, vous pouvez choisir l’option **Régler le solde** sur la page **Facturation**\> [Produits et services](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Payer sur facture (chèque ou transfert électronique de fonds)**
   
