@@ -12,18 +12,18 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: f4b85ebd2ced927a5cd0d7c79c9df6fe93fa9e8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514869"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631792"
 ---
 # <a name="creating-public-folders"></a>Création de dossiers publics
 
 Pour que les utilisateurs puissent utiliser des dossiers publics dans Office 365, vous devez créer au moins une boîte aux lettres de dossiers publics. Pour créer:
   
-1. Dans le portail O365, à l’aide du menu de navigation de gauche, accédez à **admin Centers** \> **Exchange**.
+1. Dans le centre d’administration Microsoft 365, accédez à la console d' **administration** \> **Exchange**.
 
 2. Accédez à **dossiers** \> publics **boîtes aux lettres de dossiers publics**, puis cliquez sur **Ajouter**.
 

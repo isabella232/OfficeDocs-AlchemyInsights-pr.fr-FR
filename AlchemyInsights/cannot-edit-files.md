@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519668"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631625"
 ---
-# <a name="cant-edit-files"></a>Vous ne parvenez pas à modifier les fichiers?
+# <a name="cant-edit-files"></a>Vous ne parvenez pas à modifier les fichiers? 
 
 Si un document, une feuille de calcul ou une présentation est verrouillé pour modification et ne peut pas être ouverte dans les applications de bureau Windows, il est possible que le fichier soit déjà en cours de modification par une autre personne ou que le fichier soit extrait. Examinons brièvement les raisons [pour lesquelles vous ne pourrez peut-être pas modifier le fichier](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
