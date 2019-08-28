@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537874"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643692"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquer ou débloquer les expéditeurs
 
-Les messages provenant d’adresses de messagerie ou de domaines de vos expéditeurs bloqués sont directement placés dans votre dossier courrier indésirable. Le courrier électronique est automatiquement supprimé du dossier courrier indésirable au bout de 14 jours et n’est pas récupérable.
+Les messages provenant d’adresses de messagerie ou de domaines de vos expéditeurs bloqués sont directement placés dans votre dossier courrier indésirable. Le courrier électronique est automatiquement supprimé du dossier courrier indésirable après 30 jours et n’est pas récupérable. Se; ect élément à afficher lorsqu’il est supprimé.
 
 **À partir de votre boîte de réception:**
 
 - Dans la liste des messages, sélectionnez le message, puis cliquez sur**blocage**du **courrier** > indésirable.
+- **Remarque:** Le blocage d’un élément déjà présent dans le dossier courrier indésirable ne le supprime pas.
 
 **Dans les paramètres:**
 
