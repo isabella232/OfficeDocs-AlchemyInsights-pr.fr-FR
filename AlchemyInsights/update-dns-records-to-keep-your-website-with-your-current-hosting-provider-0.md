@@ -3,7 +3,6 @@ title: Mettre à jour les enregistrements DNS pour conserver votre site web chez
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +13,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: a1ea0589def4945da64c73d68b2e4a3d64d6b83d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506405"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665758"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Mettre à jour les enregistrements DNS pour conserver votre site web chez votre fournisseur d'hébergement actuel
 
-1. Dans la page [domaines](https://portal.office.com/adminportal/home#/Domains) , dans la liste des domaines, sélectionnez le domaine que vous utilisez pour votre site Web.
+1. Dans le centre d’administration 365 de Microsoft, accédez à la page[domaines](https://portal.office.com/adminportal/home#/Domains) **d’installation** > , puis, dans la liste des domaines, sélectionnez le domaine que vous utilisez pour votre site Web.
 
 2. Sélectionnez **+Nouvel enregistrement personnalisé** et entrez les éléments suivants :
 

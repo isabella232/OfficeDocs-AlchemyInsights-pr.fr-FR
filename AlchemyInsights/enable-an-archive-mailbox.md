@@ -2,7 +2,6 @@
 title: Activation d’une boîte aux lettres d’archivage
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527793"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665121"
 ---
 # <a name="enable-an-archive-mailbox"></a>Activation d’une boîte aux lettres d’archivage
 
-Les boîtes aux lettres d’archivage dans Office 365 (également appelées « *archives en ligne* ») fournissent aux utilisateurs un stockage de courrier supplémentaire. Les utilisateurs peuvent déplacer ou copier des éléments dans leur boîte aux lettres d’archivage, et les administrateurs peuvent créer une stratégie d’archivage qui déplace automatiquement les éléments vers les boîtes aux lettres d’archivage.
+Les boîtes aux lettres d’archivage dans Office 365 (également appelées « *archives en ligne*») fournissent aux utilisateurs un stockage de courrier supplémentaire. Les utilisateurs peuvent déplacer ou copier des éléments dans leur boîte aux lettres d’archivage, et les administrateurs peuvent créer une stratégie d’archivage qui déplace automatiquement les éléments vers les boîtes aux lettres d’archivage.
   
 Voici comment créer une boîte aux lettres d’archivage:
   
@@ -28,13 +27,13 @@ Voici comment créer une boîte aux lettres d’archivage:
 
 2. Connectez-vous à Office 365 à l’aide de votre compte d’administrateur.
 
-3. Dans le volet gauche du centre de &amp; sécurité conformité, cliquez sur **Archives**de **gouvernance** \> des données.
+3. Dans le volet gauche du centre de &amp; sécurité conformité, sélectionnez **** \> **Archives**de gouvernance des données.
 
 4. Sélectionnez l’utilisateur dont vous souhaitez activer la boîte aux lettres d’archivage.
 
-5. Dans le volet d’informations à droite, cliquez sur **activer** , puis sur **Oui** dans le message d’avertissement pour activer la boîte aux lettres d’archivage.
+5. Dans le volet d’informations à droite, sélectionnez **activer** , puis cliquez sur **Oui** dans le message d’avertissement pour activer la boîte aux lettres d’archivage.
 
-Vous pouvez également activer en bloc les boîtes aux lettres d’archivage en sélectionnant plusieurs utilisateurs (à l’aide des touches **MAJ** ou **CTRL** ), puis en cliquant sur **activer** dans le volet d’informations.
+Vous pouvez également activer en bloc les boîtes aux lettres d’archivage en sélectionnant plusieurs utilisateurs (à l’aide des touches **MAJ** ou **CTRL** ), puis en sélectionnant **activer** dans le volet d’informations.
   
 Pour plus d’informations, reportez-vous aux rubriques suivantes :
   

@@ -3,7 +3,6 @@ title: Activer et rechercher le journal d’audit
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527721"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665074"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Activer et Rechercher dans le journal d’audit
+
+**Office 365**
 
 Pour effectuer une recherche dans le journal d’audit Office 365, procédez comme [suit](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Pour effectuer une recherche dans le journal d’audit Office 365, procédez com
 
 - Les activités d’administration d’Exchange sont auditées par défaut.
 
-- Nous allons activer l’audit de boîte aux lettres par défaut dans Office 365. En attendant, pour activer l’audit pour une seule boîte aux lettres ou pour toutes les boîtes aux lettres de votre organisation, reportez-vous à [cet article](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- L’audit des boîtes aux lettres est activé par défaut dans Office 365. Pour plus d’informations, consultez [cet article](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Les boîtes aux lettres de groupe Office 365 et les boîtes aux lettres de dossiers publics dans Exchange Online ne prennent pas en charge la journalisation d’audit.
 

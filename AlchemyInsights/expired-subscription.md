@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575586"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665038"
 ---
 # <a name="expired-subscription"></a>Abonnement expiré
 
@@ -34,7 +34,7 @@ Si l’option réactiver n’apparaît pas comme action disponible, appelez le s
 
 3. Confirmez les détails du paiement. Vous pouvez mettre à jour vos informations de paiement existantes ici. Lorsque vous avez terminé la saisie de votre mode de **** paiement, sélectionnez réactiver.
 
-Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez la rubrique réactiver [votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Pour en savoir plus, consultez la rubrique réactiver [votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Créer un nouvel achat**
   
@@ -46,4 +46,4 @@ Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes o
 
 4. Suivez les étapes restantes pour terminer l’extraction.
 
-Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez la rubrique [acheter un autre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Pour en savoir plus, consultez la rubrique [acheter un autre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
