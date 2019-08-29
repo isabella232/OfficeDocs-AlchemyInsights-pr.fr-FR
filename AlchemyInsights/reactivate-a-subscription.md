@@ -3,7 +3,6 @@ title: Réactiver un abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553358"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666586"
 ---
 # <a name="reactivate-an-office-365-subscription"></a>Réactiver un abonnement Office 365
 
@@ -32,4 +31,4 @@ Si votre abonnement expire, a été désactivé par Microsoft ou vous l’avez a
 
 3. Confirmez les détails du paiement. Vous pouvez mettre à jour vos informations de paiement existantes ici. Lorsque vous avez terminé la saisie de votre mode de **** paiement, sélectionnez réactiver.
 
-Pour plus d’informations, consultez la rubrique réactiver [votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Pour en savoir plus, consultez la rubrique réactiver [votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

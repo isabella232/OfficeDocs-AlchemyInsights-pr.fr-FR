@@ -13,12 +13,12 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575376"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664426"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Comment supprimer mes informations de carte de crédit?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36575376"
 
 4. Dans le volet **supprimer le mode de paiement** , sélectionnez **supprimer**.
 
-Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez [la rubrique ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Pour en savoir plus, consultez [la rubrique ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

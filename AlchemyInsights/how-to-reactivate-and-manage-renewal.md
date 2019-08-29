@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574540"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663958"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Comment réactiver et gérer la facturation périodique
 
@@ -32,7 +32,7 @@ Il semble que vous ayez un abonnement qui a expiré. Si vous souhaitez la réact
 
 3. Confirmez les détails du paiement. Vous pouvez mettre à jour vos informations de paiement existantes ici. Lorsque vous avez terminé la saisie de votre mode de **** paiement, sélectionnez réactiver.
 
-Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez la rubrique réactiver [votre abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Pour en savoir plus, consultez la rubrique réactiver [votre abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désactiver la **facturation périodique** .
   
@@ -46,4 +46,4 @@ Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désact
 
 5. Sélectionnez **soumettre la modification**.
 
-Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes ou pour en savoir plus, consultez la rubrique [activer ou désactiver la facturation périodique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Pour en savoir plus, consultez la rubrique [activer ou désactiver la facturation périodique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

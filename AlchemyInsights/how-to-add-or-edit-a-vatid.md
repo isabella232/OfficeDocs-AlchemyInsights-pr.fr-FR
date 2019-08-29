@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff90ca14e4036b9a3b470e08cf749fd437ba6d78
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574996"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664318"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Procédure d’ajout ou de modification d’un VatID
 
-1.  Dans le centre d’administration Microsoft 365, accédez à la page des produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration Microsoft 365, accédez à la page des produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Recherchez la carte d’abonnement pour l’abonnement que vous souhaitez mettre à jour.
 
@@ -31,7 +31,7 @@ ms.locfileid: "36574996"
 
     Lorsque vous avez terminé, la T.V.A. n’est pas facturée sur votre facture suivante.
 
-Utilisez-vous l’ancien centre d’administration? Pour les anciennes étapes, ou pour en savoir plus, consultez la rubrique [Tax taxes I sera facturée pour Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+Pour en savoir plus, consultez la rubrique [quelles taxes seront facturées pour Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Ressources supplémentaires**
 
