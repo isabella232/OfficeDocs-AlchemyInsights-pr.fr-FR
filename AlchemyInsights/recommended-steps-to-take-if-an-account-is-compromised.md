@@ -2,7 +2,6 @@
 title: Mesures recommandées si un compte est compromis
 ms.author: pebaum
 author: pebaum
-ms.date: 10/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +9,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 71ccb6c4bd3c9f3d229a391f820df72e2d01ee37
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904188"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666550"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Mesures recommandées si un compte est compromis
 
@@ -27,7 +26,7 @@ ms.locfileid: "35904188"
 
 3. Supprimez les [règles de boîte de réception](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) suspectes définies dans la boîte aux lettres.
 
-4. Si l’utilisateur ne peut pas envoyer d’e-mail, [accédez à Utilisateurs avec accès restreint pour débloquer le compte](https://protection.office.com/?hash=/restrictedusers). Une fois cette opération effectuée, l’utilisateur doit pouvoir reprendre l’envoi de messages dans l’heure qui suit.
+4. Si l’utilisateur ne peut pas envoyer d’e-mail, [accédez à la page Utilisateurs restreints pour débloquer le compte](https://protection.office.com/?hash=/restrictedusers). Une fois cette opération effectuée, l’utilisateur doit pouvoir reprendre l’envoi de messages dans l’heure qui suit.
 
 5. Supprimez le compte d’utilisateur de tout [groupe doté d’un rôle administratif](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) jusqu’à ce que vous soyez certain qu’il n’est plus compromis.
 

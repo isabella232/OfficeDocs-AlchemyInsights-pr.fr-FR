@@ -1,5 +1,5 @@
 ---
-title: Difficultés pour effectuer un achat dans le portail Office 365
+title: Difficultés pour effectuer un achat dans le Centre d’administration Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: bd6b3ed9354394761cb6168a538a5c8b46cf5459
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f343b5b8fc5361b845095667a46e609591f33a6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507233"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665866"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Difficultés pour effectuer un achat dans le portail Office 365
+# <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Difficultés pour effectuer un achat dans le Centre d’administration Microsoft 365
 
-Lorsque vous tentez d’effectuer un achat, si vous êtes invité à vous connecter au Centre d’administration Office 365 à plusieurs reprises ou si vous avez reçu un courrier vous indiquant qu’un problème a été détecté, essayez d’abord d’utiliser le mode Inprivate/Incognito de votre navigateur. Une fois que vous avez ouvert une fenêtre de navigation InPrivate/Incognito, accédez au site [portal.office.com](https://portal.office.com) et connectez-vous à l’aide de vos informations d’identification d’administrateur. Finalisez ensuite votre achat.
+Lorsque vous tentez d’effectuer un achat, si vous êtes invité à vous connecter au Centre d’administration Microsoft 365 à plusieurs reprises ou si vous recevez un message vous indiquant qu’un problème a été détecté, essayez d’abord d’utiliser le mode InPrivate/Navigation privée de votre navigateur. Une fois que vous avez ouvert une fenêtre InPrivate/Navigation privée, accédez au site [admin.microsoft.com](https://admin.microsoft.com) et connectez-vous à l’aide de vos informations d’identification d’administrateur. Finalisez ensuite votre achat.
