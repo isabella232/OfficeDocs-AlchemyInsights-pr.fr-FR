@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 552b5a523a55d67c8ba5f902581f8a625410e9d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496829"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734847"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a><span data-ttu-id="56b22-102">Les bibliothèques SharePoint mappées sur des lecteurs réseau sont déconnectées</span><span class="sxs-lookup"><span data-stu-id="56b22-102">SharePoint libraries mapped to network drives become disconnected</span></span>
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a><span data-ttu-id="1a29c-102">Les bibliothèques SharePoint mappées sur des lecteurs réseau sont déconnectées</span><span class="sxs-lookup"><span data-stu-id="1a29c-102">SharePoint libraries mapped to network drives become disconnected</span></span>
 
-<span data-ttu-id="56b22-103">Le mappage d’une bibliothèque de documents SharePoint sur un lecteur réseau est temporaire.</span><span class="sxs-lookup"><span data-stu-id="56b22-103">Mapping a SharePoint document library to a network drive is temporary.</span></span> <span data-ttu-id="56b22-104">Vous devez occasionnellement ouvrir le site SharePoint dans Internet Explorer et sélectionner **rester connecté** pour empêcher l’expiration de la session.</span><span class="sxs-lookup"><span data-stu-id="56b22-104">You must occasionally open the SharePoint site in Internet Explorer and select **Stay signed in** to prevent the session from expiring.</span></span> 
+<span data-ttu-id="1a29c-103">Le mappage d’une bibliothèque de documents SharePoint sur un lecteur réseau est temporaire.</span><span class="sxs-lookup"><span data-stu-id="1a29c-103">Mapping a SharePoint document library to a network drive is temporary.</span></span> <span data-ttu-id="1a29c-104">Vous devez occasionnellement ouvrir le site SharePoint dans Internet Explorer et sélectionner **rester connecté** pour empêcher l’expiration de la session.</span><span class="sxs-lookup"><span data-stu-id="1a29c-104">You must occasionally open the SharePoint site in Internet Explorer and select **Stay signed in** to prevent the session from expiring.</span></span> 
   
-<span data-ttu-id="56b22-105">[Obtenez de l’aide pour configurer et dépanner les lecteurs réseau mappés](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span><span class="sxs-lookup"><span data-stu-id="56b22-105">[Get help configuring and troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
+<span data-ttu-id="1a29c-105">[Obtenez de l’aide pour configurer et dépanner les lecteurs réseau mappés](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).</span><span class="sxs-lookup"><span data-stu-id="1a29c-105">[Get help configuring and troubleshooting mapped network drives](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).</span></span>
   
-<span data-ttu-id="56b22-106">Pour utiliser une bibliothèque dans l’Explorateur de fichiers, [synchronisez les fichiers SharePoint avec le nouveau client de synchronisation OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) qui inclut [des fichiers à la demande](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="56b22-106">To work with a library in File Explorer, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="56b22-107">Accéder à tous vos fichiers dans OneDrive sans avoir recours à l’espace de stockage local.</span><span class="sxs-lookup"><span data-stu-id="56b22-107">Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="1a29c-106">Pour utiliser une bibliothèque dans l’Explorateur de fichiers, [synchronisez les fichiers SharePoint avec le nouveau client de synchronisation OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) qui inclut [des fichiers à la demande](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="1a29c-106">To work with a library in File Explorer, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="1a29c-107">Accéder à tous vos fichiers dans OneDrive sans avoir recours à l’espace de stockage local.</span><span class="sxs-lookup"><span data-stu-id="1a29c-107">Access all your files in OneDrive without using local storage space.</span></span>
   
 

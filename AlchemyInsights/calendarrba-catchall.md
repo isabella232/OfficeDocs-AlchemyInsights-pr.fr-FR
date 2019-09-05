@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505865"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737619"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="b3e6a-102">Créer et gérer des boîtes aux lettres de salle</span><span class="sxs-lookup"><span data-stu-id="b3e6a-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="f34de-102">Créer et gérer des boîtes aux lettres de salle</span><span class="sxs-lookup"><span data-stu-id="f34de-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="b3e6a-103">Pour créer et modifier des boîtes aux lettres de salle, consultez la rubrique [créer et gérer des boîtes aux lettres de salle](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="b3e6a-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="f34de-103">Pour créer et modifier des boîtes aux lettres de salle, consultez la rubrique [créer et gérer des boîtes aux lettres de salle](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="f34de-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="b3e6a-104">Pour en savoir plus sur les boîtes aux lettres de salle et d’équipement (également appelées boîtes aux lettres de ressources), consultez la rubrique [boîtes aux lettres de salle et d’équipement](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="b3e6a-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="f34de-104">Pour en savoir plus sur les boîtes aux lettres de salle et d’équipement (également appelées boîtes aux lettres de ressources), consultez la rubrique [boîtes aux lettres de salle et d’équipement](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="f34de-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span></span>
