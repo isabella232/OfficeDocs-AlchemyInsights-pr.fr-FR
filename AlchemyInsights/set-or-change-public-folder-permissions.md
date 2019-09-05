@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550153"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734667"
 ---
 # <a name="permissions-and-public-folders"></a>Autorisations et dossiers publics
 
-Vous pouvez modifier les autorisations sur vos dossiers publics à l’aide d’Outlook, du centre d’administration Exchange ou de PowerShell:
+Vous pouvez modifier les autorisations sur vos dossiers publics à l’aide d’Outlook, du centre d’administration Exchange ou de PowerShell :
   
 - Pour obtenir des instructions pour Outlook, [cliquez ici](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- Pour le centre d’administration Exchange, reportez-vous à [cet article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pour obtenir des instructions. Vous pouvez cliquer [ici](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) pour accéder au centre d’administration Exchange. 
+- Pour le centre d’administration Exchange, reportez-vous à [cet article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pour obtenir des instructions. 
     
 - Pour PowerShell, consultez [cet article](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) pour obtenir des instructions sur l’utilisation de l’applet de commande Add-PublicFolderClientPermission. Si vous avez besoin d’instructions pour vous connecter à Exchange PowerShell, cliquez [ici](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     

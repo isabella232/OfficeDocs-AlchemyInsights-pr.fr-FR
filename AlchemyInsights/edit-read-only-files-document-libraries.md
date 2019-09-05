@@ -1,6 +1,6 @@
 ---
 title: Modifier un fichier en lecture seule
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528117"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756098"
 ---
 # <a name="edit-a-read-only-file"></a>Modifier un fichier en lecture seule
 
@@ -29,5 +29,5 @@ Remarques :
 
 - Si vous avez des bibliothèques avec l’extraction, des colonnes obligatoires ou lorsque seuls les utilisateurs qui peuvent modifier les paramètres de version d’une bibliothèque de documents SharePoint, ces éléments seront synchronisés en lecture seule.
 
-- Un document Office s’ouvre en mode protégé même si vous activez le paramètre de stratégie «ouvrir des documents Office en lecture/écriture lors de la navigation». Pour plus d’informations, reportez-vous à cet [article.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Un document Office s’ouvre en mode protégé même si vous activez le paramètre de stratégie « ouvrir des documents Office en lecture/écriture lors de la navigation ». Pour plus d’informations, reportez-vous à cet [article.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 

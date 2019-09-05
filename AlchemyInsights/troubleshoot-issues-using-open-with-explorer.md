@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500213"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742731"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Résoudre les problèmes liés à ouvrir avec l’Explorateur
 
@@ -26,11 +26,11 @@ Résoudre les problèmes courants liés à l’ouverture d’une bibliothèque d
     
 - La **fonction ouvrir avec l’Explorateur** n’est pas disponible dans l’expérience moderne des bibliothèques SharePoint. Utilisez plutôt **l’affichage dans l’Explorateur de fichiers** . Sélectionnez View **options** \> **View dans l’Explorateur de fichiers**. L’affichage dans l’Explorateur de fichiers n’est pas compatible avec Microsoft Edge, Google Chrome, Firefox et d’autres. **Afficher dans l’Explorateur de fichiers** disponible uniquement dans Internet Explorer. 
     
-- Assurez-vous que le service WebClient est en cours d’exécution. Dans la zone de recherche Windows, tapez exécuter, sélectionnez l’application de bureau exécuter, tapez services. msc, puis appuyez sur entrée. Faites défiler jusqu’au service WebClient et assurez-vous que la colonne **État** affiche «en cours d’exécution». Si ce n’est pas le cas, double-cliquez sur le service, cliquez sur **Démarrer**, puis cliquez sur **OK**. (Vous devrez peut-être activer d’abord le service en sélectionnant **Manuel** ou **automatique** dans la zone **type de démarrage** .) 
+- Assurez-vous que le service WebClient est en cours d’exécution. Dans la zone de recherche Windows, tapez exécuter, sélectionnez l’application de bureau exécuter, tapez services. msc, puis appuyez sur entrée. Faites défiler jusqu’au service WebClient et assurez-vous que la colonne **État** affiche « en cours d’exécution ». Si ce n’est pas le cas, double-cliquez sur le service, cliquez sur **Démarrer**, puis cliquez sur **OK**. (Vous devrez peut-être activer d’abord le service en sélectionnant **Manuel** ou **automatique** dans la zone **type de démarrage** .) 
     
 > [!NOTE]
-> L’ouverture d’une bibliothèque dans l’Explorateur de fichiers est pratique si vous devez copier ou déplacer plusieurs fichiers et dossiers une seule fois, mais si vous souhaitez travailler régulièrement dans la bibliothèque, nous vous recommandons de la synchroniser. Pour résoudre les problèmes qui s’ouvrent dans l’Explorateur de fichiers, consultez la rubrique [ouvrir dans l’Explorateur](https://go.microsoft.com/fwlink/?linkid=871665). Pour plus d’informations sur la configuration de la synchronisation, voir synchroniser des [fichiers SharePoint avec le nouveau client de synchronisation OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
+> L’ouverture d’une bibliothèque dans l’Explorateur de fichiers est pratique si vous devez copier ou déplacer plusieurs fichiers et dossiers une seule fois, mais si vous souhaitez travailler régulièrement dans la bibliothèque, nous vous recommandons de la synchroniser. Pour résoudre les problèmes qui s’ouvrent dans l’Explorateur de fichiers, consultez la rubrique [ouvrir dans l’Explorateur](https://go.microsoft.com/fwlink/?linkid=871665). Pour plus d’informations sur la configuration de la synchronisation, voir [synchroniser des fichiers SharePoint avec le nouveau client de synchronisation OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Pour plus d’informations, reportez-vous à l’article [comment utiliser la commande «Ouvrir avec l’Explorateur» pour résoudre les problèmes dans SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) . 
+Pour plus d’informations, reportez-vous à l’article [comment utiliser la commande « Ouvrir avec l’Explorateur » pour résoudre les problèmes dans SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Prise en main de SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a13c5d7066e6a703e627adfbef1157e85138f447
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a0e896567eda5845913e51d4e01d6959f8f5a98b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502373"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749438"
 ---
 # <a name="workflows-in-sharepoint"></a>Flux de travail dans SharePoint
 
 Les flux de travail SharePoint sont des mini-applications pré-programmées qui rationalisent et automatisent un grand nombre de processus d’entreprise. Les flux de travail peuvent provenir de la collecte de signatures, de commentaires ou d’approbations pour un plan ou un document, afin de suivre l’état actuel d’une procédure de routine.
 
-**Mise en route:** Si vous commencez à utiliser des flux de travail SharePoint, voir [Présentation des flux de travail SharePoint pour plus d’informations](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+**Mise en route :** Si vous commencez à utiliser des flux de travail SharePoint, voir [Présentation des flux de travail SharePoint pour plus d’informations](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
 **Microsoft Flow**: envisagez d’utiliser Microsoft Flow au lieu des solutions de flux de travail SharePoint classiques. Pour plus d’informations, consultez la rubrique [créer un flux pour une liste ou une bibliothèque dans SharePoint Online ou OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 
 **Résolution des problèmes et débogage des flux de travail**:
 
-Les flux de travail de débogage ressemblent à ceux des versions précédentes. Pour plus d’informations, consultez la rubrique débogage de [flux de travail SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Pour plus d’informations sur la résolution des problèmes, voir [résoudre les erreurs de validation de flux de travail SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Les flux de travail de débogage ressemblent à ceux des versions précédentes. Pour plus d’informations, consultez la rubrique [débogage de flux de travail SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Pour plus d’informations sur la résolution des problèmes, voir [résoudre les erreurs de validation de flux de travail SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
 

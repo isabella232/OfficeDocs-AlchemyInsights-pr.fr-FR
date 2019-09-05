@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 45e9e734a7b7f1fed42d52b48fd329dc43633c1d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4e0ce3d7c12ecad04e13a179fd833e6b935fadfa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661150"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737223"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Ajouter ou supprimer une adresse de messagerie pour un utilisateur
 
 Pour commencer, [suivez ces étapes](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) dans le centre d’administration Microsoft 365.
 
- **Remarque**: vous pouvez avoir plusieurs adresses de messagerie pour un utilisateur, mais des *alias de messagerie* supplémentaires ne peuvent être utilisés que pour la réception de messages électroniques. Si vous devez envoyer un message électronique avec un alias, créez une [boîte aux lettres partagée](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). De cette façon, vous obtiendrez l’alias permettant d’envoyer et de recevoir des messages.
+ **Remarque**: vous pouvez avoir plusieurs adresses de messagerie pour un utilisateur, mais des *alias de messagerie* supplémentaires ne peuvent être utilisés que pour la réception de messages électroniques. Si vous devez envoyer un message électronique avec un alias, créez une [boîte aux lettres partagée](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). De cette façon, vous obtiendrez l’alias permettant d’envoyer et de recevoir des messages.
   

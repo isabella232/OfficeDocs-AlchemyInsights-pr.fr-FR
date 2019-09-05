@@ -1,7 +1,7 @@
 ---
 title: Plus d’informations sur les stratégies de rétention
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521673"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753758"
 ---
 # <a name="more-info-about-retention-policies"></a>Plus d’informations sur les stratégies de rétention
 
-Pour la plupart des organisations, le volume et la complexité de leurs données augmentent quotidiennement, le courrier électronique, les documents, les messages instantanés et bien plus encore. La gestion ou l’administration efficace de ces informations est importante, et une stratégie de rétention peut vous aider à atteindre ces objectifs. Pour plus d’informations sur les stratégies de rétention, consultez les liens suivants:
+Pour la plupart des organisations, le volume et la complexité de leurs données augmentent quotidiennement, le courrier électronique, les documents, les messages instantanés et bien plus encore. La gestion ou l’administration efficace de ces informations est importante, et une stratégie de rétention peut vous aider à atteindre ces objectifs. Pour plus d’informations sur les stratégies de rétention, consultez les liens suivants :
 
 ## <a name="a-from-security-and-compliance-center"></a>A) dans le centre de sécurité et de conformité
 

@@ -1,6 +1,6 @@
 ---
 title: Problèmes d’ouverture de fichiers à partir de SharePoint ou de OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/5/2018
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 5602212d4426d3f8cfb5a9f627fdaa47f5926532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548389"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753038"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problèmes d’ouverture de fichiers à partir de SharePoint ou de OneDrive 
 

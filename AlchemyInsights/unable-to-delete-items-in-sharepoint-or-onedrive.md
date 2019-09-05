@@ -1,6 +1,6 @@
 ---
 title: Impossible de supprimer des éléments dans SharePoint ou OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -11,20 +11,20 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: b25e6d144dcefcfed4258e78ad5cfd4089ba7d1e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cc168846999c6880b95edfaedb2df8cf6e843a6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558651"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748549"
 ---
 # <a name="unable-to-delete-items"></a>Impossible de supprimer les éléments
 
-Vous rencontrez des problèmes lors de la suppression d’éléments SharePoint?
+Vous rencontrez des problèmes lors de la suppression d’éléments SharePoint ?
 
 - Vérifiez toujours que vous disposez des [autorisations appropriées](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) pour supprimer l’élément ou que l' [administrateur](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) de la collection de sites tente de supprimer l’élément.
 
-- Assurez-vous qu’il n’y a pas de configuration de [stratégie](https://docs.microsoft.com/office365/securitycompliance/retention-policies) de rétention sur l’élément.
+- Assurez-vous qu’il n’y a pas de configuration de [stratégie de rétention](https://docs.microsoft.com/office365/securitycompliance/retention-policies) sur l’élément.
 
 - Vérifiez que l’élément n’est pas [extrait](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) pour un autre utilisateur.
 
