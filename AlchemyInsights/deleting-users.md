@@ -3,7 +3,6 @@ title: Suppression d’utilisateurs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: 96559948c0c7c127f3ccf6e00be4485ffe3df883
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: efc3680dccdf71b28049d31d86a6d5417437b769
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513049"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740499"
 ---
 # <a name="deleting-users"></a>Suppression d’utilisateurs
 
-Si vous souhaitez bloquer immédiatement l’accès des utilisateurs et qu’ils doivent conserver leurs informations, reportez-vous à la rubrique les [employés quittent et doivent bloquer l’accès aux données à un courrier électronique?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)
+Si vous souhaitez bloquer immédiatement l’accès des utilisateurs et qu’ils doivent conserver leurs informations, veuillez consulter la rubrique [bloquer l’accès d’un ancien employé aux données Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-office-365-data).
   
-Si vous souhaitez simplement supprimer l’utilisateur et que vous ne vous inquiétez pas de ses données, consultez [la rubrique supprimer un utilisateur de votre organisation](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e). Cette opération libère immédiatement sa licence.
+Si vous souhaitez simplement supprimer l’utilisateur et que vous ne vous inquiétez pas de ses données, consultez [la rubrique supprimer un utilisateur de votre organisation](https://docs.microsoft.com/office365/admin/add-users/delete-a-user). Cette opération libère immédiatement sa licence.
   

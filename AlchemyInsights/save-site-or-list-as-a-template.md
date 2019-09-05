@@ -1,18 +1,18 @@
 ---
 title: Enregistrer un site ou une liste en tant que modèle
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551629"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752030"
 ---
 # <a name="save-site-or-list-as-a-template"></a>Enregistrer un site ou une liste en tant que modèle
 
@@ -39,7 +39,7 @@ Le **bouton enregistrer le modèle de site/liste n’est pas disponible ou est m
 - Le site utilise peut-être trop de ressources et par conséquent le modèle de site dépasse la limite de 50 mégaoctets (Mo).
 
 
-- Il existe des problèmes lors de l’affichage des données d’une liste qui utilise une colonne de recherche. Pour plus d’informations, reportez-vous à [la rubrique liste générée par un modèle n’affiche pas les données de la liste de recherche correcte dans SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Il existe des problèmes lors de l’affichage des données d’une liste qui utilise une colonne de recherche. Pour plus d’informations, reportez-vous à [la rubrique liste générée par un modèle n’affiche pas les données de la liste de recherche correcte dans SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
 
 Pour plus d’informations sur les problèmes et solutions courants, reportez-vous à la référence, la [création et l’utilisation de modèles de sites](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).

@@ -1,6 +1,6 @@
 ---
 title: Restaurer un fichier ou un dossier supprimé
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 604690e62f09b7ca0618c4a581605e22f19a7732
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d9937c632212d12883a02860354b6112efd49a6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507449"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749906"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Restaurer un fichier ou un dossier supprimé
 
@@ -23,7 +23,7 @@ SharePoint Online conserve les sauvegardes de tout le contenu pendant 14 jours s
 
 Lorsque vous supprimez un élément ou un site à partir de SharePoint, il n’est pas supprimé immédiatement. Les éléments supprimés sont insérés dans la corbeille pendant un certain temps. Pendant ce temps, vous pouvez restaurer les éléments que vous avez supprimés à leur emplacement d’origine. Pour plus d’informations, consultez les liens ci-dessous.
 
-[Restaurer des éléments dans la corbeille d’un site SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US).
+[Restaurer des éléments dans la corbeille d’un site SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b).
 
 [Restaurer des fichiers ou des dossiers supprimés dans OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -39,5 +39,5 @@ Si un grand nombre de vos fichiers OneDrive ou SharePoint sont supprimés, rempl
 
 [Restaurer une bibliothèque OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-[Restaurer une bibliothèque de documents](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US.)
+[Restaurer une bibliothèque de documents](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 

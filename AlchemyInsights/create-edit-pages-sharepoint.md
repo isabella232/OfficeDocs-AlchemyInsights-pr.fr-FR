@@ -1,6 +1,6 @@
 ---
 title: Créer un site SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -8,12 +8,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: f5e39ee3f4b8f543987267e873ef24a8f452c209
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515481"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754802"
 ---
 # <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>Créer et modifier des pages modernes sur un site SharePoint
 

@@ -1,6 +1,6 @@
 ---
 title: S/MIME dans Outlook sur le Web
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6915470655b85922f6f97e8ca6fac353224b1ae0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666838"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752858"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Chiffrer les messages électroniques dans Outlook
 
@@ -22,7 +22,7 @@ Le chiffrement de messages Office 365 est basé sur Microsoft Azure Rights Manag
 
 En fonction des commentaires des clients, nous n’allons plus activer les règles de flux de messagerie Exchange pour chiffrer automatiquement les messages électroniques sortants contenant certains types d’informations sensibles dans votre client par défaut. Au lieu de cela, nous fournissons des instructions détaillées pour vous permettre de le faire. Pour plus d’informations sur la création d’une règle de transport pour chiffrer des informations sensibles, consultez [cet article](https://aka.ms/OmeEtr).
 
-- Si vous utilisez Outlook sur le Web (anciennement **owa**): lors de la composition d’un message électronique, cliquez simplement sur **protéger** dans OWA. Cette action s’applique à l’autorisation «ne pas transférer». Cliquez sur **modifier l’autorisation** et sélectionnez **chiffrer** pour uniquement chiffrer le message.
+- Si vous utilisez Outlook sur le Web (anciennement **owa**) : lors de la composition d’un message électronique, cliquez simplement sur **protéger** dans OWA. Cette action s’applique à l’autorisation « ne pas transférer ». Cliquez sur **modifier l’autorisation** et sélectionnez **chiffrer** pour uniquement chiffrer le message.
 
 - Si vous utilisez le **client Outlook**: pour envoyer un message chiffré à partir d’Outlook 2013 ou 2016, ou Outlook 2016 pour Mac, sélectionnez **options** > **autorisations**, puis sélectionnez l’option de protection dont vous avez besoin.
 

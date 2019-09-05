@@ -11,22 +11,22 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498413"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735387"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installation d’Office sur un serveur Terminal Server
 
-Pour déployer Office 365 ProPlus sur un serveur Windows à l’aide des services Bureau à distance (RDS), anciennement services Terminal Server:
+Pour déployer Office 365 ProPlus sur un serveur Windows à l’aide des services Bureau à distance (RDS), anciennement services Terminal Server :
   
 - Vous devez disposer d’un plan Office 365 qui inclut Office 365 ProPlus, comme Office 365 entreprise E3 ou entreprise E5. Les plans Office 365 Business et Office 365 Business Premium n’incluent pas Office 365 ProPlus.
 
 - Vous devez activer [l’activation d’ordinateurs partagés](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du portail Office 365, ***qui utilise les paramètres d’installation par défaut***, procédez comme suit:
+Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du centre d’administration de Microsoft 365, ***qui utilise les paramètres d’installation par défaut***, procédez comme suit :
   
 1. Consultez la planification d’Office 365. [Découvrez comment](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -34,11 +34,11 @@ Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du portail Offi
 
 3. Si Office est déjà installé sur le serveur RDS à l’aide d’autres plans Office 365, désinstallez-le. Par exemple, en accédant à panneau \> de configuration désinstaller un programme. Désinstallation à l’aide [de l’Assistant support et récupération Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) si vous rencontrez des problèmes.
 
-4. Sur le serveur RDS, connectez-vous au portail Office 365 avec votre compte d’administrateur et [Installez office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Sur le serveur RDS, connectez-vous au centre d’administration Microsoft 365 avec votre compte d’administrateur et [installez Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
 5. Une fois Office installé, ***ne pas ouvrir ou se connecter*** à une application Office.
 
-6. Sur le serveur RDS, activez l’activation d’ordinateurs partagés en modifiant le registre en procédant comme suit:
+6. Sur le serveur RDS, activez l’activation d’ordinateurs partagés en modifiant le registre en procédant comme suit :
 
 1. Cliquez avec le bouton droit sur le bouton Windows dans le coin inférieur gauche de votre écran et sélectionnez Exécuter. Dans la zone Ouvrir, tapez **regedit**, puis cliquez sur OK.
 

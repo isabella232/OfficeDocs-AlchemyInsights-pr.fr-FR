@@ -1,6 +1,6 @@
 ---
 title: Créer un site
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/6/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: 58cf404b092794218dea8b6b89a89d218a8bdd7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76f963d0efded0aadba1e10d217e7f146a8707f3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515854"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747530"
 ---
 # <a name="create-a-site"></a>Créer un site
 
@@ -21,7 +21,7 @@ ms.locfileid: "36515854"
     
 - Dans le nouveau centre d’administration SharePoint, dans la page sites, cliquez sur **créer**. 
     
- **Remarque:** Vous ne pouvez pas créer un nouveau site qui a la même URL qu’un site existant. 
+ **Remarque :** Vous ne pouvez pas créer un nouveau site qui a la même URL qu’un site existant. 
   
 Pour plus d’informations sur la création d’un site, voir [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).
   

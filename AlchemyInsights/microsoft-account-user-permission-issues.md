@@ -1,6 +1,6 @@
 ---
 title: Résoudre le problème-utilisateur introuvable dans l’annuaire
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544861"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754190"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Résoudre le problème-utilisateur introuvable dans l’annuaire
 
@@ -27,9 +27,9 @@ Pour plus d’informations, reportez-vous à la rubrique [gestion</a> des alias 
 
 - Accédez à chaque site (s) dans lequel l’utilisateur reçoit l’erreur. 
 
-Ajoutez «/_layouts/15/People.aspx/MembershipGroupId = 0» (dans les guillemets doubles) à la fin de l’URL du site. 
+Ajoutez « /_layouts/15/People.aspx/MembershipGroupId = 0 » (dans les guillemets doubles) à la fin de l’URL du site. 
 
-Exemple: https://< «contoso» >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Exemple : https://< « contoso » >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Sélectionnez l’utilisateur dans la liste.
 

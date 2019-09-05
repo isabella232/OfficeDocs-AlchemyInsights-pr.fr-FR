@@ -1,18 +1,18 @@
 ---
 title: Restreindre l’accès dans SharePoint ou OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504209"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751742"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Protection IRM aux fichiers SharePoint
 
@@ -23,7 +23,7 @@ Pour plus d’informations, voir :
 
 - [Prise en charge de la gestion des droits Azure par les applications et les services Office](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- Configurez la [gestion des droits relatifs à l’information (IRM) dans le centre d’administration SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [Configurez la gestion des droits relatifs à l’information (IRM) dans le centre d’administration SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
 - [Activer la gestion des droits relatifs à l’information dans les bibliothèques de documents et les listes SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 

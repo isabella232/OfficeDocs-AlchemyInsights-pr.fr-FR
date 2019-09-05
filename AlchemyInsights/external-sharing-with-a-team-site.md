@@ -1,6 +1,6 @@
 ---
 title: Partage externe avec un site d’équipe
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525963"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755882"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Partage externe avec un site d’équipe
 
-Pour activer le partage d’utilisateurs externes pour les sites d’équipe, procédez comme suit: 
+Pour activer le partage d’utilisateurs externes pour les sites d’équipe, procédez comme suit : 
   
 1. Dans le nouveau centre d’administration SharePoint, cliquez sur **sites actifs**.
   
@@ -27,6 +27,6 @@ Pour activer le partage d’utilisateurs externes pour les sites d’équipe, pr
   
  **Remarque**: par défaut, lorsqu’un site d’équipe moderne est créé, l’option de partage externe est définie sur utilisateurs externes nouveaux et existants. 
   
- **Remarque:** Si plusieurs sites sont sélectionnés, le bouton de **partage** apparaît désactivé. Sélectionnez un seul site. 
+ **Remarque :** Si plusieurs sites sont sélectionnés, le bouton de **partage** apparaît désactivé. Sélectionnez un seul site. 
   
 

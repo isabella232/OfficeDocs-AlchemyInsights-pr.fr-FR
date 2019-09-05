@@ -12,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666118"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744567"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Restaurer des éléments supprimés à partir de SharePoint
 
 Lorsque vous supprimez un élément ou un site à partir de SharePoint, il n’est pas supprimé immédiatement. Les éléments supprimés sont insérés dans la corbeille pendant un certain temps. Pendant ce temps, vous pouvez restaurer les éléments que vous avez supprimés à leur emplacement d’origine. Pour plus d’informations, consultez les liens ci-dessous.
 
-- [Restaurer des éléments à partir de la Corbeille d'un site SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Restaurer des éléments à partir de la Corbeille d'un site SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
 - [Restaurer des fichiers ou des dossiers supprimés dans OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -41,4 +41,4 @@ Si un grand nombre de vos fichiers OneDrive ou SharePoint sont supprimés, rempl
 
 - [Restaurer une bibliothèque OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Restaurer une bibliothèque de documents](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Restaurer une bibliothèque de documents](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

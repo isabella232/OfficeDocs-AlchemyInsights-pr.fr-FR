@@ -1,6 +1,6 @@
 ---
 title: Supprimer un site SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/24/2019
 ms.audience: ITPro
@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ba1fee33c3edaed2c320250004a91160f870f8c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513681"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747890"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Supprimer un site du nouveau centre d’administration SharePoint
 
 À l’aide du nouveau centre d’administration SharePoint, vous pouvez supprimer les sites classiques et modernes. Sélectionnez **sites actifs**, sélectionnez le site, puis cliquez sur **supprimer**. Pour [afficher et restaurer les sites supprimés dans le nouveau centre d’administration SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), sélectionnez **sites supprimés**. Pour plus d’informations, consultez [la rubrique supprimer un site dans le nouveau centre d’administration SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Important:** Si le site fait partie d’une stratégie de rétention, vous pouvez ne pas être en mesure de le supprimer tant que le site n’a pas été supprimé de la [stratégie Centre d’administration de conformité de sécurité &amp; ](https://protection.office.com/?rfr=AdminCenter#/homepage). Pour plus d’informations, consultez la rubrique [Overview of](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) Retention Policies. 
+**Important :** Si le site fait partie d’une stratégie de rétention, vous pouvez ne pas être en mesure de le supprimer tant que le site n’a pas été supprimé de la [stratégie Centre d’administration de conformité de sécurité &amp; ](https://protection.office.com/?rfr=AdminCenter#/homepage). Pour plus d’informations, consultez la rubrique [Overview of retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 
 Bourgeon
 - Les administrateurs SharePoint peuvent désormais supprimer des sites appartenant à des **groupes Office 365**. Cette opération supprime le groupe et toutes ses ressources, y compris la boîte aux lettres et le calendrier Outlook, ainsi que les chaînes Teams. Pour plus d’informations, consultez [la rubrique supprimer un site SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)

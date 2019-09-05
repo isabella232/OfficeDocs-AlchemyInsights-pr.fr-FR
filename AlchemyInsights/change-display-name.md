@@ -11,23 +11,23 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519801"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736719"
 ---
 # <a name="change-your-display-name"></a>Modifier votre nom d’affichage
   
 Pour modifier votre nom d’affichage dans Outlook, procédez comme suit.
   
-1. Dans Outlook, sélectionnez Paramètres du compte de **fichiers** \> **** \> ****.
+1. Dans Outlook, **sélectionnez Paramètres** **du compte de** \> **fichiers** \> .
 
 2. Sélectionnez le compte de messagerie, puis **modifier**.
 
     > [!NOTE]
-    > Si vous ne voyez pas l’option permettant de modifier votre nom d’affichage, vous utilisez probablement un compte de messagerie Microsoft Exchange. Dans ce cas, vous devez contacter votre administrateur pour modifier votre nom d’affichage. Voir [modifier un nom d’utilisateur et une adresse de messagerie dans Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Si vous ne voyez pas l’option permettant de modifier votre nom d’affichage, vous utilisez probablement un compte de messagerie Microsoft Exchange. Dans ce cas, vous devez contacter votre administrateur pour modifier votre nom d’affichage. Voir [modifier un nom d’utilisateur et une adresse de messagerie dans Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Une fois que vous avez modifié votre nom d’affichage, cliquez sur **OK** pour enregistrer vos modifications. Les modifications apportées à l’ensemble de votre organisation peuvent prendre quelques heures.
 

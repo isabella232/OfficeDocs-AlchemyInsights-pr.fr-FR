@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544645"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734451"
 ---
 # <a name="migrate-mailboxes-between-two-different-tenants"></a>Migrer des boîtes aux lettres entre deux clients différents
 
-Il se peut que vous deviez migrer des boîtes aux lettres entre deux clients différents dans Office 365, par exemple, lorsqu’il existe des fusions d’organisation. Ces migrations doivent être soigneusement planifiées. Consultez les conseils suivants:
+Il se peut que vous deviez migrer des boîtes aux lettres entre deux clients différents dans Office 365, par exemple, lorsqu’il existe des fusions d’organisation. Ces migrations doivent être soigneusement planifiées. Consultez les conseils suivants :
   
-[Comment migrer des boîtes aux lettres d’un client Office 365 à un autre](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Comment migrer des boîtes aux lettres d’un client Office 365 à un autre](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

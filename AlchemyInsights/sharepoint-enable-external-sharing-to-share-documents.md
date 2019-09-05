@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 31db17a45814355f9594a340881660ba7010b1a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f8772f614b3d33c4eb73c7645c9b09971619bcc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504245"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744495"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Partage externe dans SharePoint Online
 
@@ -36,7 +36,7 @@ Pour plus d’informations sur le partage externe, consultez les liens ci-dessou
 
 - [Partager des fichiers ou dossiers SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Arrêter de partager des fichiers ou dossiers OneDrive ou SharePoint, ou modifier des autorisations](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Arrêter de partager des fichiers ou dossiers OneDrive ou SharePoint, ou modifier des autorisations](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Accès invité dans Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 
@@ -44,11 +44,11 @@ Pour plus d’informations sur le partage externe, consultez les liens ci-dessou
 
 
 
-Réception d’une erreur avec un utilisateur externe? &nbsp;Cochez les liens ci-dessous.
+Réception d’une erreur avec un utilisateur externe ? &nbsp;Cochez les liens ci-dessous.
 
-- [Message d’erreur lorsqu’un utilisateur externe accepte une invitation SharePoint Online à l’aide d’un autre compte](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+- [Message d’erreur lorsqu’un utilisateur externe accepte une invitation SharePoint Online à l’aide d’un autre compte](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Accès refusé à un dossier partagé](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de)
+- [Accès refusé à un dossier partagé](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
 - [Erreurs de partage OSE dans SharePoint et OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

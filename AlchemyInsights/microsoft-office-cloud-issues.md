@@ -1,6 +1,6 @@
 ---
 title: Rôle d’administrateur et comment attribuer
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544609"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754082"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Vous rencontrez des problèmes avec un service Cloud?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Vous rencontrez des problèmes avec un service Cloud ?
 
 Si vous rencontrez des problèmes avec un service Cloud, vous pouvez vérifier l' [État du service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) dans le centre d’administration 365 de Microsoft pour déterminer s’il s’agit d’un problème connu avec une résolution en cours avant d’appeler le support ou de consacrer du temps à la résolution des problèmes. Le problème peut être très temporaire et déjà identifié par Microsoft, mais il peut arriver qu’il y ait intervalle de temps entre l’identification et la publication du problème dans le tableau de bord d’État du service. Continuez à consulter le tableau de bord de service pour d’autres mises à jour.
 

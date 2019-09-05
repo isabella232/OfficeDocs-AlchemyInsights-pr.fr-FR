@@ -12,15 +12,15 @@ ms.custom:
 - "743"
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: a0895e5e47ff9bc8451071026ecd33666785de47
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: aa594ead2f48bd6b6597746588b1edc16e08a14a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514797"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740607"
 ---
 # <a name="create-mailboxes-that-dont-require-licenses"></a>Créer des boîtes aux lettres qui ne nécessitent pas de licences
 
-- Si vous avez besoin d’une adresse de messagerie de groupe pour plusieurs personnes, consultez [la rubrique créer une boîte aux lettres partagée](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).
+- Si vous avez besoin d’une adresse de messagerie de groupe pour plusieurs personnes, consultez [la rubrique créer une boîte aux lettres partagée](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
 
 - Pour permettre à une équipe de personnes de collaborer et de partager des courriers électroniques et des fichiers, consultez la rubrique [en savoir plus sur les groupes Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

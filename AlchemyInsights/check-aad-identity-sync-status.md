@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520557"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738519"
 ---
 # <a name="check-aad-identity-sync-status"></a>Vérifier l’état de synchronisation d’identité AAD
 
-Vérifier l’état de synchronisation est facile:
+Vérifier l’état de synchronisation est facile :
   
-- Connectez-vous au centre d’administration Microsoft 365 et **** choisissez DirSync Status sur la page d’accueil.
+- Connectez-vous au centre d’administration Microsoft 365 et choisissez **DirSync Status** sur la page d’accueil.
 
 - Vous pouvez également accéder à utilisateurs \> actifs, puis, sur la page utilisateurs actifs, sélectionner plus \> de synchronisation d’annuaires.
 
 - Dans le volet synchronisation d’annuaires, sélectionnez accéder à la gestion DirSync.
 
-S’il y a un problème avec la synchronisation d’annuaires, les erreurs sont répertoriées sur cette page. Pour plus d’informations sur les différentes erreurs que vous pouvez rencontrer, consultez la rubrique [identifier les erreurs de synchronisation d’annuaires dans Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+S’il y a un problème avec la synchronisation d’annuaires, les erreurs sont répertoriées sur cette page. Pour plus d’informations sur les différentes erreurs que vous pouvez rencontrer, consultez la rubrique [afficher les erreurs de synchronisation d’annuaires dans Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

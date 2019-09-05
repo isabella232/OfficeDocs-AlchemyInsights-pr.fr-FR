@@ -12,12 +12,12 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498629"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735423"
 ---
 # <a name="office-installation-hangs-or-gets-stuck"></a>L’installation d’Office se bloque ou est bloquée
 
@@ -27,7 +27,7 @@ Ce comportement peut être dû à des paramètres de connectivité réseau, de l
 
 - Utiliser une connexion câblée
 
-- Si vous utilisez une connexion Internet lente, installez Office [à l’aide du programme d’installation d’Office en mode hors connexion](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) .[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Si vous utilisez une connexion Internet lente, installez Office [à l’aide du programme d’installation d’Office en mode hors connexion](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) .
 
 - Désactiver temporairement le logiciel antivirus
 

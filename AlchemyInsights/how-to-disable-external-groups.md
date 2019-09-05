@@ -11,18 +11,18 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540899"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739491"
 ---
 # <a name="how-to-disable-external-groups"></a>Désactivation des groupes externes
 
 La messagerie externe Yammer applique les règles de transport Exchange (ETR), un ensemble de contrôles proactifs pour empêcher le partage des informations de l’entreprise. Pour empêcher les utilisateurs de créer des groupes externes, vous devez configurer une règle de transport Exchange (ETR), puis configurer Yammer de façon à ce qu’il utilise la règle de transport Exchange pour bloquer la messagerie externe.
   
-Une fois que vous avez créé une règle dans le centre d’administration Exchange Online, procédez comme suit pour définir ETR à appliquer dans Yammer:
+Une fois que vous avez créé une règle dans le centre d’administration Exchange Online, procédez comme suit pour définir ETR à appliquer dans Yammer :
   
 - Connectez-vous à yammer en tant qu’administrateur vérifié, puis, dans le **Centre d’administration Yammer**, accédez à C **contenu \> and Security Security Settings.**
 
@@ -30,5 +30,5 @@ Une fois que vous avez créé une règle dans le centre d’administration Excha
 
 - Choisissez **Enregistrer**.
 
-Pour plus d’informations, reportez-vous à [la rubrique contrôler la messagerie externe dans un réseau Yammer avec des règles de transport Exchange](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
+Pour plus d’informations, consultez [la rubrique désactiver la messagerie externe dans un réseau Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   

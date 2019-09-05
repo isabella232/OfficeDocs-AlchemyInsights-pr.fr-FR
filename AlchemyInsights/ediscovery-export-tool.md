@@ -15,18 +15,18 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528261"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736323"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Vous ne parvenez pas à installer ou exécuter l’outil d’exportation de découverte électronique?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Vous ne parvenez pas à installer ou exécuter l’outil d’exportation de découverte électronique ?
 
-Si vous ne pouvez pas installer ou exécuter l’outil d’exportation de découverte électronique Office 365 pour télécharger les résultats de la recherche, vérifiez les points suivants:
+Si vous ne pouvez pas installer ou exécuter l’outil d’exportation de découverte électronique Office 365 pour télécharger les résultats de la recherche, vérifiez les points suivants :
   
-- L’ordinateur que vous utilisez répond aux conditions préalables suivantes:
+- L’ordinateur que vous utilisez répond aux conditions préalables suivantes :
 
   - versions 32 ou 64 bits de Windows 7 et versions ultérieures
 
@@ -44,7 +44,7 @@ Si vous ne pouvez pas installer ou exécuter l’outil d’exportation de décou
 
 - Votre organisation peut se connecter au point de terminaison dans Azure, c’est-à-dire ** \*. blob.Core.Windows.net** (le caractère générique représente un identificateur unique pour votre tâche d’exportation).
 
-- Vous avez reçu le rôle d’exportation dans le centre de &amp; sécurité conformité Office 365. Par défaut, ce rôle est uniquement attribué au groupe de rôles gestionnaire eDiscovery. Consultez la rubrique [attribution d’autorisations eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Vous avez reçu le rôle d’exportation dans le centre de &amp; sécurité conformité Office 365. Par défaut, ce rôle est uniquement attribué au groupe de rôles gestionnaire eDiscovery. Consultez la rubrique [attribution d’autorisations eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Pour plus d’informations, consultez la rubrique [exporter des résultats de recherche de contenu](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Pour plus d’informations, consultez la rubrique [exporter des résultats de recherche de contenu](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   
