@@ -11,14 +11,14 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 95406b0f4858372a18638f9280feccea41ee2710
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c72f7232818765b6eb38cf3e6296822e01317a02
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552745"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822016"
 ---
-# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="a87f5-102">Supprimer votre domaine GoDaddy d’Office 365</span><span class="sxs-lookup"><span data-stu-id="a87f5-102">Remove your GoDaddy domain from Office 365</span></span>
+# <a name="remove-your-godaddy-domain-from-office-365"></a><span data-ttu-id="85c93-102">Supprimer votre domaine GoDaddy d’Office 365</span><span class="sxs-lookup"><span data-stu-id="85c93-102">Remove your GoDaddy domain from Office 365</span></span>
 
-<span data-ttu-id="a87f5-103">Nous ne pouvons pas supprimer votre domaine GoDaddy d’Office 365 pour vous.</span><span class="sxs-lookup"><span data-stu-id="a87f5-103">We can't remove your GoDaddy domain from Office 365 for you.</span></span> <span data-ttu-id="a87f5-104">Appelez le [service client GoDaddy](https://www.godaddy.com/contact-us.aspx.aspx) pour obtenir de l’aide.</span><span class="sxs-lookup"><span data-stu-id="a87f5-104">Call [GoDaddy customer service](https://www.godaddy.com/contact-us.aspx.aspx) for help.</span></span>
+<span data-ttu-id="85c93-103">Nous ne pouvons pas supprimer votre domaine GoDaddy d’Office 365 pour vous.</span><span class="sxs-lookup"><span data-stu-id="85c93-103">We can't remove your GoDaddy domain from Office 365 for you.</span></span> <span data-ttu-id="85c93-104">Appelez le [service client GoDaddy](https://aka.ms/contact-godaddy) pour obtenir de l’aide.</span><span class="sxs-lookup"><span data-stu-id="85c93-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
   
