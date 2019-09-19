@@ -1,0 +1,23 @@
+---
+title: Courrier indésirable sortant
+ms.author: chrisda
+author: chrisda
+manager: dansimp
+ms.date: ''
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom:
+- "2643"
+ms.assetid: ''
+ms.openlocfilehash: 8688e0f57e3ec6da9a1fc3613b40aed37dba0bc3
+ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37026948"
+---
+# <a name="outbound-spam"></a>Courrier indésirable sortant
+
+Si vous constatez des faux positifs pour le courrier indésirable sortant (de bons messages sortants marqués comme courrier indésirable), ouvrez un ticket de support avec des messages d’exemple.
