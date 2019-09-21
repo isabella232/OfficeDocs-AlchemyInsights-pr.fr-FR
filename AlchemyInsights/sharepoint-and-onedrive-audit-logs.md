@@ -12,12 +12,12 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504389"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068021"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Journaux d’audit SharePoint et OneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "36504389"
 
 Aucune configuration supplémentaire n’est requise dans SharePoint ou OneDrive.
 
-- Utiliser la recherche dans la journalisation d’audit pour vérifier l’activité du (des) fichier (s), dossier (s), utilisateur (s), autorisations:
+- Utiliser la recherche dans la journalisation d’audit pour vérifier l’activité du (des) fichier (s), dossier (s), utilisateur (s), autorisations :
 
     - [Activités de fichier et de page](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
     - [Activités de dossier](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
@@ -38,9 +38,12 @@ Aucune configuration supplémentaire n’est requise dans SharePoint ou OneDrive
 
 **Journaux d’audit SharePoint classiques**
 
-- [Afficher et activer les journaux d’audit SharePoint classiques](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Nous avons migré l’audit hérité SPO vers le journal d’audit unifié. Cela signifie que tous les rapports d’audit hérités SPO seront désormais mis à l', et que les signaux d’audit hérités ont été migrés vers le port.
 
-L’audit doit être activé pour chaque collection de sites. 
+Modifications clés :
 
-**Remarque**: nous vous recommandons d’utiliser des journaux d’audit unifiés modernes pour des options d’audit avancées et améliorées par rapport à ces journaux d’audit classiques.
+- Le rognage en tant que fonctionnalité n’est pas disponible.
+- La section dans laquelle vous choisissez des événements spécifiques à auditr n’est pas disponible. Pour obtenir la liste complète des événements audités disponibles par défaut, reportez-vous à [ce document](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) .
+- L’option « emplacement » sous **rapports personnalisés** n’est pas disponible. 
+- Les événements « ouverture ou téléchargement de documents » ne sont pas disponibles. 
 
