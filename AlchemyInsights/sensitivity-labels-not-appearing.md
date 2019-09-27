@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744819"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207223"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Étiquettes de sensibilité non affichées
 
-Les étiquettes de sensibilité vous permettent de classer et de protéger votre contenu sensible. Pour en savoir plus sur cette fonctionnalité, reportez-vous à la rubrique [vue d’ensemble des étiquettes de confidentialité](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Les étiquettes de sensibilité vous permettent de classer et de protéger votre contenu sensible. Elles peuvent être créées dans le centre de conformité Microsoft 365, le centre de sécurité Microsoft 365 ou le centre de sécurité & de sécurité Office 365 sous classification > les étiquettes de sensibilité. Pour en savoir plus sur cette fonctionnalité, reportez-vous à la rubrique [vue d’ensemble des étiquettes de confidentialité](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Si vous avez configuré vos étiquettes de confidentialité mais qu’elles n’apparaissent pas dans les applications Office, vérifiez les points suivants :
 
@@ -32,5 +32,10 @@ Si vous avez configuré vos étiquettes de confidentialité mais qu’elles n’
 - Si vous [migrez des étiquettes Azure information protection](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), tenez compte des considérations indiquées [ici](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Prise en charge de la protection contre la perte de données (DLP) : actuellement, seules les étiquettes de rétention peuvent être utilisées comme condition dans les stratégies DLP.  La prise en charge des étiquettes de sensibilité dans une stratégie DLP n’est pas encore disponible, mais nous y travaillons.
+
+- Lorsque le chiffrement est activé sur une étiquette de sensibilité, vous pouvez choisir l’une des actions suivantes :
+    - Attribuer des autorisations maintenant
+    - Autoriser les utilisateurs à attribuer des autorisations
+
 
 Pour plus d’informations sur les problèmes éventuels, reportez-vous à [problèmes connus avec les étiquettes de confidentialité](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
