@@ -13,16 +13,33 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: f900287067e7f570de770f7e2098ba62b8086ef8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 222ad554de0d94dcfd4e34e9a2c6aa8ab4e6f81f
+ms.sourcegitcommit: d7e1b097d3866782f508527c797426dc56c6ba17
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508565"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "37488515"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Utiliser des listes et des bibliothèques volumineuses dans SharePoint
 
-Les listes et bibliothèques SharePoint peuvent contenir jusqu’à 30 millions éléments, mais lorsqu’ils ont plus de 5 000 éléments, vous pouvez voir une erreur de seuil d’affichage de liste lorsque vous essayez de les utiliser. Ce seuil est en place pour maintenir les performances du service. Il ne peut pas être modifié. Pour éviter d’atteindre ce seuil, vous pouvez [Ajouter un index](https://go.microsoft.com/fwlink/?linkid=867784), des [filtres utilisateur pour modifier l’affichage](https://go.microsoft.com/fwlink/?linkid=867786), organiser des éléments dans des dossiers ou utiliser des bibliothèques de documents synchronisées localement sur votre ordinateur.
-  
-[Conseils supplémentaires pour l’utilisation du seuil d’affichage de liste](https://go.microsoft.com/fwlink/?linkid=867787)
-  
+Les listes et bibliothèques SharePoint peuvent contenir jusqu’à 30 millions éléments, mais lorsqu’ils ont plus de 5 000 éléments, vous pouvez voir une erreur de seuil d’affichage de liste lorsque vous essayez de les utiliser. Ce seuil est en place pour maintenir les performances du service. Il ne peut pas être modifié. Pour éviter d’atteindre ce seuil, procédez comme suit :
+
+**Utiliser moderne**
+
+Les affichages présentant un grand nombre d’éléments fonctionnent mieux dans l’expérience moderne. [Utilisez l’expérience moderne](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) pour éviter les erreurs que vous pouvez voir dans l’expérience classique.
+
+**Ajouter des index**
+
+Lorsque vous filtrez ou triez sur une colonne qui n’a pas d’index, un message d’erreur peut s’afficher. [Ajoutez un index](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0) manuellement à partir des paramètres de la **liste** dans le menu paramètres, puis dans les **colonnes indexées**.
+
+**Modifier l’affichage de liste**
+
+Si une erreur se produit lorsque vous travaillez dans une grande liste, [Modifiez votre vue de liste](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372).
+
+Les quatre modifications suivantes suppriment les erreurs de seuil d’affichage de liste. Pour supprimer toutes les erreurs, effectuez les quatre modifications. Si vous obtenez toujours des erreurs, cochez [gérer les grandes listes et les bibliothèques](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59).
+
+1. Sélectionnez **aucun** dans **le premier tri par la colonne** , **puis triez par la colonne**.
+2. Sélectionnez **aucun** dans **le premier groupe par la colonne** , puis **regrouper sur la colonne**.
+3. Sélectionnez **aucun** pour toutes les colonnes de la section **totaux** .
+4. Désélectionnez toutes les colonnes sauf une pour l’affichage dans la section **colonnes** .
+
