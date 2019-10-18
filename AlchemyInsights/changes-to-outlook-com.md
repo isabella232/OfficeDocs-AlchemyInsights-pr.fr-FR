@@ -17,10 +17,10 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520629"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="08beb-102">En savoir plus sur la nouvelle version d’Outlook.com</span><span class="sxs-lookup"><span data-stu-id="08beb-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="1b179-102">En savoir plus sur la nouvelle version d’Outlook.com</span><span class="sxs-lookup"><span data-stu-id="1b179-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="08beb-103">[Découvrez](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) les modifications apportées à la nouvelle version d’Outlook.com ou lancez une recherche dans la zone ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="08beb-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="1b179-103">[Découvrez](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) les modifications apportées à la nouvelle version d’Outlook.com ou lancez une recherche dans la zone ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="1b179-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="08beb-104">Faites défiler vers le bas pour consulter les résultats.</span><span class="sxs-lookup"><span data-stu-id="08beb-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="1b179-104">Faites défiler vers le bas pour consulter les résultats.</span><span class="sxs-lookup"><span data-stu-id="1b179-104">Scroll down to see the results.</span></span>
   
 
