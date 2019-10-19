@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552978"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Restaurer des éléments dans SharePoint Online
 
-Lorsque vous supprimez des éléments dans SharePoint Online, ils sont conservés pendant 93 jours au total. Elles restent dans la corbeille du site toute la durée, sauf si vous les videz ou les supprimez. Dans ce cas, les éléments sont placés dans la corbeille de la collection de sites, où ils restent pendant les 93 jours. À la fin de l’heure, les éléments sont supprimés définitivement. Pour restaurer des éléments supprimés à partir de la corbeille du site:
+Lorsque vous supprimez des éléments dans SharePoint Online, ils sont conservés pendant 93 jours au total. Elles restent dans la corbeille du site toute la durée, sauf si vous les videz ou les supprimez. Dans ce cas, les éléments sont placés dans la corbeille de la collection de sites, où ils restent pendant les 93 jours. À la fin de l’heure, les éléments sont supprimés définitivement. Pour restaurer des éléments supprimés à partir de la corbeille du site :
   
 1. Accédez au site et cliquez sur **Corbeille** dans le volet de gauche. 
     

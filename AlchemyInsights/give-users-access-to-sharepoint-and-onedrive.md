@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
 ms.openlocfilehash: 1be9763ce7766c6261f0c1dae78ced6727c7a88d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36523761"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Donner aux utilisateurs l’accès à SharePoint et OneDrive
@@ -29,6 +29,6 @@ Si vous souhaitez que les utilisateurs de votre organisation puissent se connect
     
 2. Renseignez les informations de l’utilisateur et assurez-vous que sous **licences de produit**, une licence est attribuée et **SharePoint Online** est sélectionné. 
     
-Notez que si vous autorisez le partage externe dans votre organisation, les utilisateurs peuvent partager du contenu SharePoint et OneDrive avec des personnes extérieures à l’organisation. Vous n’avez pas besoin d’accorder ces licences aux utilisateurs externes. Vous n’avez pas non plus besoin d’ajouter des comptes pour ceux-ci, sauf si le partage est défini sur «uniquement les utilisateurs externes existants». Dans ce cas, si les personnes ne figurent pas dans l’annuaire de votre organisation, vous devez les ajouter en tant qu’utilisateurs invités dans le centre d’administration Azure AD.
+Notez que si vous autorisez le partage externe dans votre organisation, les utilisateurs peuvent partager du contenu SharePoint et OneDrive avec des personnes extérieures à l’organisation. Vous n’avez pas besoin d’accorder ces licences aux utilisateurs externes. Vous n’avez pas non plus besoin d’ajouter des comptes pour ceux-ci, sauf si le partage est défini sur « uniquement les utilisateurs externes existants ». Dans ce cas, si les personnes ne figurent pas dans l’annuaire de votre organisation, vous devez les ajouter en tant qu’utilisateurs invités dans le centre d’administration Azure AD.
   
 

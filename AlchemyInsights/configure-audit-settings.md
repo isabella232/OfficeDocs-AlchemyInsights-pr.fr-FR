@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
 ms.openlocfilehash: d5d1da516104d7c062038551142cdd9ccaad4407
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504965"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>Configurer les paramètres d’audit SharePoint
@@ -24,7 +24,7 @@ Les administrateurs de collections de sites SharePoint peuvent suivre les action
   
 1. Ouvrez le site SharePoint.
     
-2. Cliquez sur l’icône Paramètres, puis cliquez sur **paramètres du site**. Si «paramètres du site» n’apparaît pas, cliquez sur informations sur le **site**, puis sur **Afficher tous les paramètres du site**.
+2. Cliquez sur l’icône Paramètres, puis cliquez sur **paramètres du site**. Si « paramètres du site » n’apparaît pas, cliquez sur informations sur le **site**, puis sur **Afficher tous les paramètres du site**.
     
 3. Sous **administration**de la collection de sites, sélectionnez **paramètres d’audit des collections de sites**. (Si vous ne le voyez pas, cliquez d’abord sur **accéder aux paramètres du site de niveau supérieur** .) 
     

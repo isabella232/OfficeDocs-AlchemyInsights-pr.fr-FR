@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525146"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>Résoudre les problèmes de chargement de fichiers vers OneDrive
 
-Si un fichier ne peut pas être téléchargé, procédez comme suit:
+Si un fichier ne peut pas être téléchargé, procédez comme suit :
   
 - Renommez le fichier et réessayez. Certains noms de fichiers et caractères ne sont pas autorisés dans les noms de fichiers. 
     
-- Si vous synchronisez le fichier, déplacez-le de votre dossier OneDrive (par exemple, déplacez-le vers votre bureau) et lorsque l’état de la synchronisation de OneDrive apparaît sous la forme «à jour», déplacez-le de nouveau. 
+- Si vous synchronisez le fichier, déplacez-le de votre dossier OneDrive (par exemple, déplacez-le vers votre bureau) et lorsque l’état de la synchronisation de OneDrive apparaît sous la forme « à jour », déplacez-le de nouveau. 
     
 [Conseils supplémentaires pour la résolution des problèmes](https://go.microsoft.com/fwlink/?linkid=873155)
   

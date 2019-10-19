@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36526988"
 ---
-# <a name="error-attributevaluemustbeunique"></a>Erreur: AttributeValueMustBeUnique
+# <a name="error-attributevaluemustbeunique"></a>Erreur : AttributeValueMustBeUnique
 
-La raison la plus fréquente de l’erreur AttributeValueMustBeUnique est que deux objets avec des ancre source (immutableId) différents ont la même valeur pour les attributs ProxyAddresses et/ou UserPrincipalName. Pour corriger l’erreur AttributeValueMustBeUnique:
+La raison la plus fréquente de l’erreur AttributeValueMustBeUnique est que deux objets avec des ancre source (immutableId) différents ont la même valeur pour les attributs ProxyAddresses et/ou UserPrincipalName. Pour corriger l’erreur AttributeValueMustBeUnique :
   
 1. Identifiez la valeur d’attribut proxyAddresses, userPrincipalName ou autre qui est à l’origine de l’erreur. Identifiez également les deux (ou plusieurs) objets impliqués dans le conflit. Le rapport généré par Azure AD Connect Health for Sync peut vous aider à identifier les deux objets.
     

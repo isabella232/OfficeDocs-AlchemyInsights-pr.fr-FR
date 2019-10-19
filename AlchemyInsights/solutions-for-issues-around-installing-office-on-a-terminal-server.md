@@ -10,10 +10,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501473"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Solutions pour les problèmes relatifs à l’installation d’Office sur un serveur Terminal Server
@@ -24,13 +24,13 @@ Pour utiliser l’activation d’ordinateurs partagés, vous devez disposer d’
     
 - Vérifiez que l’activation d’Office 365 ProPlus a été effectuée
     
-- Examinez les messages d’erreur pour l’activation d’ordinateurs partagés:
+- Examinez les messages d’erreur pour l’activation d’ordinateurs partagés :
     
-  - «Les produits que nous avons trouvés dans votre compte ne peuvent pas être utilisés pour activer Office dans les scénarios d’ordinateur partagé»
+  - « Les produits que nous avons trouvés dans votre compte ne peuvent pas être utilisés pour activer Office dans les scénarios d’ordinateur partagé »
   
 Cette erreur signifie que vous n’avez pas de plan Office 365 incluant Office 365 ProPlus.
     
-  - «Produit sans licence»
+  - « Produit sans licence »
     
   - Vérifiez que la licence de l’utilisateur est attribuée à Office 365 ProPlus.
     
@@ -38,6 +38,6 @@ Cette erreur signifie que vous n’avez pas de plan Office 365 incluant Office 3
     
   - Vérifiez qu’il existe une connectivité entre l’ordinateur partagé et Internet.
     
-Pour d’autres conseils de résolution des problèmes, reportez-vous à la rubrique: [Troubleshoot Problems with Shared Computer activation for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Pour d’autres conseils de résolution des problèmes, reportez-vous à la rubrique : [Troubleshoot Problems with Shared Computer activation for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 
