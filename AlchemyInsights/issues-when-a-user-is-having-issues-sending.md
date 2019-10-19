@@ -12,12 +12,12 @@ ms.custom:
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
 ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661510"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="b2e38-102">Un utilisateur rencontre des problèmes lors de l’envoi de messages électroniques</span><span class="sxs-lookup"><span data-stu-id="b2e38-102">A user is having issues sending email messages</span></span>
+# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="bd3d3-102">Un utilisateur rencontre des problèmes lors de l’envoi de messages électroniques</span><span class="sxs-lookup"><span data-stu-id="bd3d3-102">A user is having issues sending email messages</span></span>
 
-<span data-ttu-id="b2e38-103">Il semble que vous ayez un problème de flux de messagerie.</span><span class="sxs-lookup"><span data-stu-id="b2e38-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="b2e38-104">Nous disposons de diagnostics qui permettent d’identifier un grand nombre de problèmes de flux de messagerie courants.</span><span class="sxs-lookup"><span data-stu-id="b2e38-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="b2e38-105">Cliquez sur **exécuter** les diagnostics ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="b2e38-105">Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="bd3d3-103">Il semble que vous ayez un problème de flux de messagerie.</span><span class="sxs-lookup"><span data-stu-id="bd3d3-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="bd3d3-104">Nous disposons de diagnostics qui permettent d’identifier un grand nombre de problèmes de flux de messagerie courants.</span><span class="sxs-lookup"><span data-stu-id="bd3d3-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="bd3d3-105">Cliquez sur **exécuter les diagnostics** ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="bd3d3-105">Click **Run Diagnostics** below.</span></span>

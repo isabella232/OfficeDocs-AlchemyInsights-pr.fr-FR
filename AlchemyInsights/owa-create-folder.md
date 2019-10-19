@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557247"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="ac2a7-102">Créer un dossier</span><span class="sxs-lookup"><span data-stu-id="ac2a7-102">Create a folder</span></span>
+# <a name="create-a-folder"></a><span data-ttu-id="16d74-102">Créer un dossier</span><span class="sxs-lookup"><span data-stu-id="16d74-102">Create a folder</span></span>
 
-1. <span data-ttu-id="ac2a7-103">En bas du volet des dossiers dans Outlook sur le Web, sélectionnez **nouveau dossier**.</span><span class="sxs-lookup"><span data-stu-id="ac2a7-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="ac2a7-104">Vous devrez peut-être faire défiler le volet des dossiers vers le bas pour afficher le bouton **nouveau dossier** .</span><span class="sxs-lookup"><span data-stu-id="ac2a7-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-1. <span data-ttu-id="ac2a7-105">Dans la zone de texte, entrez un nom pour le dossier, puis appuyez sur entrée.</span><span class="sxs-lookup"><span data-stu-id="ac2a7-105">In the text box, enter a name for the folder and then press Enter.</span></span>
+1. <span data-ttu-id="16d74-103">En bas du volet des dossiers dans Outlook sur le Web, sélectionnez **nouveau dossier**.</span><span class="sxs-lookup"><span data-stu-id="16d74-103">At the bottom of the folder pane in Outlook on the web, select **New folder**.</span></span> <span data-ttu-id="16d74-104">Vous devrez peut-être faire défiler le volet des dossiers vers le bas pour afficher le bouton **nouveau dossier** .</span><span class="sxs-lookup"><span data-stu-id="16d74-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+1. <span data-ttu-id="16d74-105">Dans la zone de texte, entrez un nom pour le dossier, puis appuyez sur entrée.</span><span class="sxs-lookup"><span data-stu-id="16d74-105">In the text box, enter a name for the folder and then press Enter.</span></span>
 
-<span data-ttu-id="ac2a7-106">Pour en savoir plus, consultez [la rubrique utilisation des dossiers de messages dans Outlook sur le Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="ac2a7-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="16d74-106">Pour en savoir plus, consultez [la rubrique utilisation des dossiers de messages dans Outlook sur le Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="16d74-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
