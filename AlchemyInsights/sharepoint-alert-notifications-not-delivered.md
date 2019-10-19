@@ -14,10 +14,10 @@ ms.custom:
 - "9000118"
 - "1655"
 ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36744639"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Notifications d’alerte SharePoint non remises
@@ -43,7 +43,7 @@ Informations supplémentaires :
 - **Alertes envoyées par protection avancée contre les menaces**: consultez la rubrique [ATP pour SharePoint et OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
 - **Alertes envoyées par les stratégies de protection contre la perte de données**: consultez la rubrique [notifications par courrier électronique pour les stratégies DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-## <a name="related-topics"></a>Rubriques connexes
+## <a name="related-topics"></a>Voir aussi
 
 Vous souhaitez essayer Microsoft Flow dans SharePoint Online ?
 

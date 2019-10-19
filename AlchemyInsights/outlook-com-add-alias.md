@@ -12,20 +12,20 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542699"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>Ajouter un alias de messagerie dans Outlook.com
 
 Un alias est une adresse de messagerie supplémentaire qui utilise la même boîte aux lettres, la même liste de contacts et les mêmes paramètres de compte que votre adresse de messagerie principale. Vous pouvez choisir l’adresse de messagerie à partir de laquelle vous souhaitez envoyer des messages, et vous pouvez vous connecter à votre compte Outlook.com à l’aide de l’un de vos alias, tous les utilisateurs qui utilisent le même mot de passe.
 
-Pour ajouter une adresse de messagerie:
+Pour ajouter une adresse de messagerie :
 
 1. Accédez à [Ajouter un alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Si vous y êtes invité, connectez-vous à votre compte Microsoft.
-2. Sous **Ajouter un alias**, vous pouvez:
+2. Sous **Ajouter un alias**, vous pouvez :
     1. Créer une adresse de messagerie Outlook.com et l’ajouter en tant qu’alias.
     2. Ajoutez une adresse de messagerie existante en tant qu’alias.
 3. Sélectionnez **Ajouter un alias**.

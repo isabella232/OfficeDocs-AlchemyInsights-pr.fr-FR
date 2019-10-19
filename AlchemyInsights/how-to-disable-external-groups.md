@@ -12,10 +12,10 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739491"
 ---
 # <a name="how-to-disable-external-groups"></a>Désactivation des groupes externes
@@ -28,7 +28,7 @@ Une fois que vous avez créé une règle dans le centre d’administration Excha
 
 - Sous **messagerie externe**, sélectionnez **appliquer vos règles de transport Exchange Online Exchange (ETR) dans Yammer.**
 
-- Choisissez **Enregistrer**.
+- Cliquez sur **Enregistrer**.
 
 Pour plus d’informations, consultez [la rubrique désactiver la messagerie externe dans un réseau Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   

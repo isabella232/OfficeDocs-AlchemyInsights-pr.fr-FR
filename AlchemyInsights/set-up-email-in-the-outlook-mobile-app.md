@@ -16,10 +16,10 @@ ms.custom:
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
 ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36734163"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Configurer le courrier électronique dans l’application mobile Outlook
@@ -38,7 +38,7 @@ ms.locfileid: "36734163"
 
 Obtenez des instructions de configuration détaillées pour [Outlook pour Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) ou [Outlook pour iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) ici.
   
- **Besoin d’aide ?**
+ **Vous avez besoin d’aide ?**
   
 - [Dépannage de la configuration du courrier électronique sur mobile](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
