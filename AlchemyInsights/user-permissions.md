@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531933"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Autorisations utilisateur dans SharePoint et OneDrive
@@ -23,7 +23,7 @@ Si un utilisateur de votre organisation ne parvient pas à accéder à SharePoin
     
 2. Assurez-vous que sous **licences de produit**, une licence est attribuée et **SharePoint Online** est sélectionné. 
     
- Pour accorder à un utilisateur l’autorisation d’accéder à un site SharePoint: 
+ Pour accorder à un utilisateur l’autorisation d’accéder à un site SharePoint : 
   
 1. Ouvrez le site dans un navigateur Web.
     

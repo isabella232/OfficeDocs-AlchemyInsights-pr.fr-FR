@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
 ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496414"
 ---
 # <a name="change-your-password-in-outlook"></a>Modifier votre mot de passe dans Outlook
 
-Si vous avez oublié votre mot de passe, accédez à la page de réinitialisation du [mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). Dans le cas contraire, suivez les instructions ci-dessous.
+Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation du mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909). Dans le cas contraire, suivez les instructions ci-dessous.
   
 1. Sélectionnez votre nom ou votre image de profil dans le coin supérieur droit et sélectionnez **afficher le compte**.
-2. Sous le Hello! , sélectionnez **modifier le mot de passe**.
+2. Sous le Hello ! , sélectionnez **modifier le mot de passe**.
 3. Choisissez un nouveau mot de passe, puis sélectionnez **Enregistrer**.
 
 Pour en savoir plus, consultez la rubrique [modifier mon mot de passe dans Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).

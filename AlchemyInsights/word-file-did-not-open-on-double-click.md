@@ -12,15 +12,15 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558183"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Le document Word est ouvert dans une application incorrecte ou n’a pas ouvert
 
-Essayez l’une des suggestions suivantes:
+Essayez l’une des suggestions suivantes :
 
 **Choisir Word comme valeur par défaut**
 
@@ -44,6 +44,6 @@ Essayez l’une des suggestions suivantes:
 
 **Exécuter cet utilitaire de résolution des problèmes pour définir les extensions de fichiers Office à ouvrir dans Office**
 
-1. Exécutez cet utilitaire de résolution https://aka.ms/diag_officefiledes problèmes:.
+1. Exécutez cet utilitaire de résolution https://aka.ms/diag_officefiledes problèmes :.
 
 2. En fonction de votre navigateur, **ouvrez** ou **Enregistrez** l’utilitaire de résolution des problèmes sur votre bureau, puis **Exécutez** -le.

@@ -12,10 +12,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514026"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Supprimer des sites appartenant à un groupe Office 365
@@ -28,9 +28,9 @@ Lorsque les utilisateurs créent un site d’équipe à partir de SharePoint Hom
     
 3. Sélectionnez **supprimer**.
     
-Remarque: lorsque vous supprimez un groupe, il peut y avoir un délai avant la suppression du site de SharePoint.
+Remarque : lorsque vous supprimez un groupe, il peut y avoir un délai avant la suppression du site de SharePoint.
   
-**Supprimer des sites de communication ou des sites classiques:**
+**Supprimer des sites de communication ou des sites classiques :**
 
 1. Accédez au site.
   
@@ -38,15 +38,15 @@ Remarque: lorsque vous supprimez un groupe, il peut y avoir un délai avant la s
   
 3. Cliquez sur **paramètres du site**. Sous **informations** sur le site ou **actions du site**, cliquez sur **supprimer ce site**, puis sur **supprimer**.
   
-**Supprimer une collection de sites SharePoint:**
+**Supprimer une collection de sites SharePoint :**
 
-Pour supprimer un site:
+Pour supprimer un site :
   
-1. Dans le nouveau centre d’administration SharePoint, sur la page sites, activez **** la case à cocher en regard du site que vous souhaitez supprimer. 
+1. Dans le nouveau centre d’administration SharePoint, sur la page sites, activez la case à **cocher** en regard du site que vous souhaitez supprimer. 
     
 2. Dans la barre d’outils du ruban, cliquez sur **Supprimer.**
     
-**Suppression d’un site par accident?**
+**Suppression d’un site par accident ?**
 
 Consultez [la rubrique restaurer une collection de sites supprimée](https://go.microsoft.com/fwlink/?linkid=867660).
   

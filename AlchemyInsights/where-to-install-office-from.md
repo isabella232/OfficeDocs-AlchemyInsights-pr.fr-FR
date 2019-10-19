@@ -12,17 +12,17 @@ ms.custom:
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
 ms.openlocfilehash: f920a41f3a6030263a7162d0ba060d9fe4e30f7b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36659530"
 ---
 # <a name="install-office"></a>Installation d’Office
 
 Pour installer Office, les utilisateurs doivent disposer d’un [produit office 365 Business](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) incluant les applications de bureau et une [licence attribuée](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
-Office peut ensuite être installé en suivant les étapes ci-dessous:
+Office peut ensuite être installé en suivant les étapes ci-dessous :
   
 1. Accédez à [Portal.Office.com/ols/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
 

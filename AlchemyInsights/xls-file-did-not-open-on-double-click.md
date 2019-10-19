@@ -12,15 +12,15 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530745"
 ---
 # <a name="excel-file-doesnt-open"></a>Impossible d’ouvrir le fichier Excel
 
-Essayez l’une des suggestions suivantes:
+Essayez l’une des suggestions suivantes :
 
 **Choisir Excel comme valeur par défaut**
 
@@ -44,6 +44,6 @@ Essayez l’une des suggestions suivantes:
 
 **Exécuter cet utilitaire de résolution des problèmes pour définir les extensions de fichiers Office à ouvrir dans Office**
 
-1. Exécutez cet utilitaire de résolution https://aka.ms/diag_officefiledes problèmes:.
+1. Exécutez cet utilitaire de résolution https://aka.ms/diag_officefiledes problèmes :.
 
 2. En fonction de votre navigateur, **ouvrez** ou **Enregistrez** l’utilitaire de résolution des problèmes sur votre bureau, puis **Exécutez** -le.

@@ -12,15 +12,15 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661222"
 ---
 # <a name="give-users-permissions-in-project-online"></a>Accorder des autorisations aux utilisateurs dans Project Online
 
-Donner aux utilisateurs l’accès à un site Project Web App à l’aide du mode d’autorisation SharePoint:
+Donner aux utilisateurs l’accès à un site Project Web App à l’aide du mode d’autorisation SharePoint :
 
 1. Connectez-vous à Project Online en tant qu’administrateur.
 2. Sur la page d’accueil de Project Web App, sélectionnez **partager** dans le coin supérieur droit.

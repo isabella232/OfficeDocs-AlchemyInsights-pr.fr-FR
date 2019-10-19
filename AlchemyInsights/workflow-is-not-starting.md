@@ -13,10 +13,10 @@ ms.custom:
 - "9000144"
 - "1670"
 ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738087"
 ---
 # <a name="workflow-is-not-starting"></a>Le flux de travail ne démarre pas
@@ -42,7 +42,7 @@ ms.locfileid: "36738087"
         Pour plus d’informations : [purger l’historique du flux de travail](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
-## <a name="related-topics"></a>Sujets associés
+## <a name="related-topics"></a>Voir aussi
 Vous souhaitez essayer Microsoft Flow dans SharePoint Online ?
 - [Créer un flux](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint et flux](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516315"
 ---
 # <a name="create-an-office-365-group-connected-team-site"></a>Créer un site d’équipe connecté à un groupe Office 365
@@ -26,6 +26,6 @@ ms.locfileid: "36516315"
   
 3. Suivez les étapes indiquées à l’écran pour nommer le site et créer une adresse de messagerie pour le groupe Office 365, puis cliquez sur **suivant**. Vous pouvez également ajouter d’autres propriétaires et membres de groupe. Cliquez sur**Terminer**.
   
- **Remarque:** Pour créer un site d’équipe sans connexion de groupe, suivez les étapes ci-dessus, mais au lieu de sélectionner site d’équipe à l’étape 2. Sélectionnez d’autres options. Cela vous guidera tout au long de la création d’un site d’équipe sans groupe. 
+ **Remarque :** Pour créer un site d’équipe sans connexion de groupe, suivez les étapes ci-dessus, mais au lieu de sélectionner site d’équipe à l’étape 2. Sélectionnez d’autres options. Cela vous guidera tout au long de la création d’un site d’équipe sans groupe. 
     
 

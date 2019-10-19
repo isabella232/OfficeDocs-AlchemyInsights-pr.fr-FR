@@ -15,15 +15,15 @@ ms.custom:
 - "9000203"
 - "9000215"
 ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546674"
 ---
 # <a name="filtering-in-outlookcom"></a>Filtrage dans Outlook.com
 
-Vous pouvez filtrer vos messages électroniques de plusieurs façons dans Outlook.com:
+Vous pouvez filtrer vos messages électroniques de plusieurs façons dans Outlook.com :
 
 1. [Modifier le mode de tri de votre courrier électronique](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
 2. [Bloquer une adresse de messagerie ou un domaine de messagerie](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)

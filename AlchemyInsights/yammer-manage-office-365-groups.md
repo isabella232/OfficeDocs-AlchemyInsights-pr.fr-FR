@@ -12,10 +12,10 @@ ms.custom:
 - "995"
 - "6000003"
 ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530929"
 ---
 # <a name="manage-office-365-groups-in-yammer"></a>Gérer les groupes Office 365 dans Yammer
@@ -26,7 +26,7 @@ Voici quelques réponses aux problèmes les plus fréquents avec les groupes Off
 
 * Vous pouvez déterminer si un groupe Yammer est connecté à des groupes Office 365 lorsque vous voyez la section **ressources office 365** (SharePoint, OneNote, planificateur) dans le volet de navigation de droite. Si les ressources ne sont pas disponibles, vérifiez les points suivants.
 
-  1. Le réseau Yammer doit se trouver dans une configuration réseau 1 client: 1. pour vérifier que vous êtes dans une configuration 1:1, utilisez l' **outil de migration réseau** comme décrit dans [Network migration-consolider plusieurs réseaux Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Le réseau Yammer doit se trouver dans une configuration réseau 1 client : 1. pour vérifier que vous êtes dans une configuration 1:1, utilisez l' **outil de migration réseau** comme décrit dans [Network migration-consolider plusieurs réseaux Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
   2. Accédez à **administrateur réseau, paramètre de sécurité**et assurez-vous que l' **identité Office 365** est appliquée pour les utilisateurs de Yammer.
 

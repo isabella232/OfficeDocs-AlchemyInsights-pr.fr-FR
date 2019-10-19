@@ -11,12 +11,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 4fdcae9dbe524f5e552c8b4c8736d6795c394348
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509906"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745467"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Solutions recommandées pour la synchronisation côté serveur Dynamics Server
 
@@ -26,7 +26,7 @@ ms.locfileid: "36509906"
 
 * [Procédure d’effacement du cache côté serveur d’un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Procédure de modification de l’audience et du type d’un portail Dynamics 365](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Procédure de modification de l’audience et du type d’un portail Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [Procédure de modification de l’URL de base d’un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 

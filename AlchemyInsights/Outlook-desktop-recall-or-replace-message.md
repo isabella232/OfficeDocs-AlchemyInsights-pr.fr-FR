@@ -10,10 +10,10 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496109"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Rappeler ou remplacer un message électronique Outlook
@@ -22,7 +22,7 @@ ms.locfileid: "36496109"
 - Vous pouvez **uniquement rappeler les messages qui sont envoyés à des personnes de votre organisation**. Si le message a été envoyé à une adresse Gmail, par exemple, vous ne pouvez pas le rappeler.
 - Vous pouvez **uniquement rappeler les messages envoyés à partir d’Outlook 2016 sur le PC**. Si un utilisateur envoie un message à l’aide d’Outlook pour Mac ou d’Outlook sur le Web, vous ne pouvez pas le rappeler.
 
-Pour rappeler ou remplacer un message électronique:
+Pour rappeler ou remplacer un message électronique :
 
 1. Dans le volet des dossiers situé à gauche de la fenêtre Outlook, sélectionnez le dossier éléments envoyés.
 1. Double-cliquez sur le message que vous souhaitez rappeler pour l’ouvrir.

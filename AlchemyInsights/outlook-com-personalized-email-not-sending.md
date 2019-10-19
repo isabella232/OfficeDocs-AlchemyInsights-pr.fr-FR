@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545869"
 ---
 # <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Mon adresse de messagerie Outlook.com personnalisée n’envoie pas ou ne reçoit pas
 
 Sélectionnez l’icône losange dans la barre d’outils pour ouvrir le tableau de bord Premium.
 
-Si vous ne voyez pas d’icône en forme de losange dans votre boîte de réception (et que vous voyez les publicités), cela signifie que votre abonnement Office 365 a expiré.  [https://account.microsoft.com/services](https://account.microsoft.com/services) Accédez à la réactivation de votre abonnement, puis reconnectez votre domaine à l’aide des étapes décrites dans la section «prise en main».
+Si vous ne voyez pas d’icône en forme de losange dans votre boîte de réception (et que vous voyez les publicités), cela signifie que votre abonnement Office 365 a expiré.  [https://account.microsoft.com/services](https://account.microsoft.com/services) Accédez à la réactivation de votre abonnement, puis reconnectez votre domaine à l’aide des étapes décrites dans la section « prise en main ».
 
-Si l’onglet «adresse de messagerie personnalisée» contient une barre d’état rouge, votre domaine a peut-être expiré.
+Si l’onglet « adresse de messagerie personnalisée » contient une barre d’état rouge, votre domaine a peut-être expiré.
 
 Pour en savoir plus, consultez la rubrique Dépannage des [adresses de messagerie personnalisées dans Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

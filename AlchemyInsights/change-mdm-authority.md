@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519297"
 ---
 # <a name="change-intune-mdm-authority"></a>Modifier l’autorité MDM Intune
 
-Vous pouvez modifier votre autorité MDM sans ouvrir de cas de support. Pour obtenir des instructions, consultez les documents suivants:
+Vous pouvez modifier votre autorité MDM sans ouvrir de cas de support. Pour obtenir des instructions, consultez les documents suivants :
   
 - [Modifier l’autorité MDM du gestionnaire de configuration vers Intune standalone](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
@@ -29,6 +29,6 @@ Vous pouvez modifier votre autorité MDM sans ouvrir de cas de support. Pour obt
     
 - Les administrateurs qui disposent déjà d’Office 365 MDM active peuvent simplement marquer Intune MDM comme étant actif à partir du portail Azure.
     
-- Si vous disposez de Intune MDM mais souhaitez utiliser Office 365 MDM: veuillez ouvrir un ticket ci-dessous et un agent de support vous aidera à l’activer pour vous.
+- Si vous disposez de Intune MDM mais souhaitez utiliser Office 365 MDM : veuillez ouvrir un ticket ci-dessous et un agent de support vous aidera à l’activer pour vous.
     
 

@@ -14,10 +14,10 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660970"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Ajouter des sièges à un abonnement prépayé
@@ -28,7 +28,7 @@ Les licences Office 365 prépayées vous sont émises sous la forme d’un code 
 
 2. Recherchez l’abonnement auquel vous voulez ajouter des licences. Dans la section **licences** , sélectionnez **ajouter d’autres licences**.
 
-3. Dans le volet **Ajouter des licences supplémentaires** , sélectionnez **utiliser une clé de produit nouvelle et**inutilisée, puis sélectionnez **suivant**.
+3. Dans le volet **Ajouter des licences supplémentaires** , sélectionnez **utiliser une clé de produit nouvelle et inutilisée**, puis sélectionnez **suivant**.
 
 4. Entrez la clé de produit, puis cliquez sur **suivant**.
 

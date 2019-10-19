@@ -10,10 +10,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557211"
 ---
 # <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Modifier votre image de profil dans Outlook sur le Web
@@ -23,6 +23,6 @@ ms.locfileid: "36557211"
 1. Dans la boîte de dialogue **modifier votre photo** , sélectionnez **Télécharger une nouvelle photo**.
 1. Choisissez une photo à télécharger et sélectionnez **appliquer**.
 
-*Remarque:* Votre nouvelle photo apparaîtra lors de votre prochaine connexion à Office 365.
+*Remarque :* Votre nouvelle photo apparaîtra lors de votre prochaine connexion à Office 365.
 
 Pour plus d’informations, consultez [la rubrique modifier vos informations de photo et de compte dans Outlook sur le Web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

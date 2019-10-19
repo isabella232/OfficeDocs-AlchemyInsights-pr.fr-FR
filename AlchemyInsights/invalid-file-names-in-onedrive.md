@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498197"
 ---
 # <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Noms de fichiers et de dossiers non valides dans OneDrive et SharePoint
 
-Ces caractères ne sont pas autorisés dans les noms de \* fichier \< \> et de dossier «:? / \ | 
+Ces caractères ne sont pas autorisés dans les noms de \* fichier \< \> et de dossier « :? / \ | 
   
 Certaines organisations n’ont pas encore pris en charge les services # et% activés. Pour savoir comment autoriser ces caractères au sein de votre organisation, consultez la rubrique activation de la [prise en charge de # et%](https://go.microsoft.com/fwlink/?linkid=862611). 
   
