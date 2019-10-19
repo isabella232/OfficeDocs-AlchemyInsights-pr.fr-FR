@@ -12,17 +12,17 @@ ms.custom:
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754838"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="14b00-102">Comment utiliser le magasin de termes SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="14b00-102">How to use the SharePoint Online Term store</span></span>
+# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="29bed-102">Comment utiliser le magasin de termes SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="29bed-102">How to use the SharePoint Online Term store</span></span>
 
-<span data-ttu-id="14b00-103">Le magasin de termes est disponible pour un administrateur général Office 365, un administrateur SharePoint et un administrateur de magasin de termes et se trouve dans le nouveau centre d’administration SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="14b00-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
+<span data-ttu-id="29bed-103">Le magasin de termes est disponible pour un administrateur général Office 365, un administrateur SharePoint et un administrateur de magasin de termes et se trouve dans le nouveau centre d’administration SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="29bed-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
   
-<span data-ttu-id="14b00-104">Pour plus d’informations sur l’utilisation du magasin de termes et de la taxonomie SharePoint Online dans SharePoint Online, voir [Introduction to Managed Metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="14b00-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
+<span data-ttu-id="29bed-104">Pour plus d’informations sur l’utilisation du magasin de termes et de la taxonomie SharePoint Online dans SharePoint Online, voir [Introduction to Managed Metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="29bed-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="14b00-105">Si vous rencontrez un problème où les termes ne s’affichent pas ou ne s’affichent pas de façon intermittente, nous vous recommandons d’attendre 24 heures, puis de consigner une demande de support si le problème persiste.</span><span class="sxs-lookup"><span data-stu-id="14b00-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="14b00-106">Même si 24 heures peuvent être longues, il peut y avoir un problème de mise en cache ou une solution à ce problème.</span><span class="sxs-lookup"><span data-stu-id="14b00-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
+<span data-ttu-id="29bed-105">Si vous rencontrez un problème où les termes ne s’affichent pas ou ne s’affichent pas de façon intermittente, nous vous recommandons d’attendre 24 heures, puis de consigner une demande de support si le problème persiste.</span><span class="sxs-lookup"><span data-stu-id="29bed-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="29bed-106">Même si 24 heures peuvent être longues, il peut y avoir un problème de mise en cache ou une solution à ce problème.</span><span class="sxs-lookup"><span data-stu-id="29bed-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
   

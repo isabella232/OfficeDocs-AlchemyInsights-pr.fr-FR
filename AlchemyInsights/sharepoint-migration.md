@@ -8,27 +8,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
 ms.openlocfilehash: 5bff8e0d8b0869ea975772d944c3885a3a4cbad5
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36751382"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="04d12-102">Migrer des options vers SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="04d12-102">Migrate options to SharePoint Online</span></span>
+# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="18cfe-102">Migrer des options vers SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="18cfe-102">Migrate options to SharePoint Online</span></span>
 
-<span data-ttu-id="04d12-103">Il existe différentes options disponibles pour migrer du contenu vers SharePoint Online, en fonction de la taille et de la quantité de fichiers que vous devez déplacer, consultez la liste des options [qui se trouvent ici](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="04d12-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move , please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+<span data-ttu-id="18cfe-103">Il existe différentes options disponibles pour migrer du contenu vers SharePoint Online, en fonction de la taille et de la quantité de fichiers que vous devez déplacer, consultez la liste des options [qui se trouvent ici](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="18cfe-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move , please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
 
-<span data-ttu-id="04d12-104">Pour plus d’informations sur la migration de contenu, consultez les liens ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="04d12-104">For more information on content migration, please visit the links below.</span></span>
+<span data-ttu-id="18cfe-104">Pour plus d’informations sur la migration de contenu, consultez les liens ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="18cfe-104">For more information on content migration, please visit the links below.</span></span>
 
-- [<span data-ttu-id="04d12-105">Outil de migration SharePoint</span><span class="sxs-lookup"><span data-stu-id="04d12-105">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="18cfe-105">Outil de migration SharePoint</span><span class="sxs-lookup"><span data-stu-id="18cfe-105">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-- [<span data-ttu-id="04d12-106">Vitesse de migration de SharePoint Online et d’ODB</span><span class="sxs-lookup"><span data-stu-id="04d12-106">Sharepoint Online and ODB Migration Speed</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [<span data-ttu-id="18cfe-106">Vitesse de migration de SharePoint Online et d’ODB</span><span class="sxs-lookup"><span data-stu-id="18cfe-106">Sharepoint Online and ODB Migration Speed</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- <span data-ttu-id="04d12-107">[Migration de données et limitation du service SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).</span><span class="sxs-lookup"><span data-stu-id="04d12-107">[Data Migration and SPO Service Throttling](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).</span></span>
+- <span data-ttu-id="18cfe-107">[Migration de données et limitation du service SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).</span><span class="sxs-lookup"><span data-stu-id="18cfe-107">[Data Migration and SPO Service Throttling](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).</span></span>
 
 
-- [<span data-ttu-id="04d12-108">Comment éviter d’être limité ou bloqué dans SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="04d12-108">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [<span data-ttu-id="18cfe-108">Comment éviter d’être limité ou bloqué dans SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="18cfe-108">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- [<span data-ttu-id="04d12-109">Outil d’évaluation de la migration SharePoint (SMAT)</span><span class="sxs-lookup"><span data-stu-id="04d12-109">SharePoint Migration Assessment Tool (SMAT)</span></span>](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
+- [<span data-ttu-id="18cfe-109">Outil d’évaluation de la migration SharePoint (SMAT)</span><span class="sxs-lookup"><span data-stu-id="18cfe-109">SharePoint Migration Assessment Tool (SMAT)</span></span>](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
-<span data-ttu-id="04d12-110">**Remarque**: actuellement, l’outil de migration SharePoint prend en charge uniquement les migrations à partir de SharePoint 2010 et 2013.</span><span class="sxs-lookup"><span data-stu-id="04d12-110">**Note**: Currently the SharePoint Migration tool only support migrations from SharePoint 2010  and 2013.</span></span> <span data-ttu-id="04d12-111">La version 2016 ou 2019 ne sont pas prises en charge pour le moment.</span><span class="sxs-lookup"><span data-stu-id="04d12-111">Version 2016 or 2019 are not supported at this time.</span></span>
+<span data-ttu-id="18cfe-110">**Remarque**: actuellement, l’outil de migration SharePoint prend en charge uniquement les migrations à partir de SharePoint 2010 et 2013.</span><span class="sxs-lookup"><span data-stu-id="18cfe-110">**Note**: Currently the SharePoint Migration tool only support migrations from SharePoint 2010  and 2013.</span></span> <span data-ttu-id="18cfe-111">La version 2016 ou 2019 ne sont pas prises en charge pour le moment.</span><span class="sxs-lookup"><span data-stu-id="18cfe-111">Version 2016 or 2019 are not supported at this time.</span></span>
