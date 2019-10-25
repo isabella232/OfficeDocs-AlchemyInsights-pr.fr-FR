@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637775"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654254"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Paramètres de la salle d’attente de contrôle et niveau de participation
 
@@ -24,7 +24,7 @@ Si vous souhaitez autoriser tout le monde, y compris les utilisateurs d’appels
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Cette applet de commande requiert actuellement l’utilisation du module Skype entreprise PowerShell. Pour obtenir le programme d’installation de cette cmdlet, consultez la rubrique gestion des stratégies via PowerShell.
+Cette applet de commande requiert actuellement l’utilisation du module Skype entreprise PowerShell. Pour obtenir le programme d’installation de cette cmdlet, consultez la rubrique [gestion des stratégies via PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Vous pouvez configurer une nouvelle stratégie, que vous devrez ensuite appliquer à vos utilisateurs. Si vous modifiez la stratégie globale, elle s’applique automatiquement aux utilisateurs. Pour toute modification de stratégie, vous devez attendre au moins 4 heures et jusqu’à 24 heures pour que les stratégies prennent effet.
 
