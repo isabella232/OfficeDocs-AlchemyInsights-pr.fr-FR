@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 0d91638e3b4f3ab0912730dbda47c42d9ae19c16
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36512781"
 ---
-# <a name="enable-seamless-sso"></a><span data-ttu-id="e021a-102">Activer l’authentification unique transparente</span><span class="sxs-lookup"><span data-stu-id="e021a-102">Enable Seamless SSO</span></span>
+# <a name="enable-seamless-sso"></a><span data-ttu-id="f4c04-102">Activer l’authentification unique transparente</span><span class="sxs-lookup"><span data-stu-id="f4c04-102">Enable Seamless SSO</span></span>
 
-<span data-ttu-id="e021a-103">Azure Active Directory (Azure AD) l’authentification unique transparente (SSO) se connecte automatiquement aux utilisateurs lorsqu’ils se trouvent sur leurs ordinateurs de bureau connectés à votre réseau d’entreprise.</span><span class="sxs-lookup"><span data-stu-id="e021a-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
+<span data-ttu-id="f4c04-103">Azure Active Directory (Azure AD) l’authentification unique transparente (SSO) se connecte automatiquement aux utilisateurs lorsqu’ils se trouvent sur leurs ordinateurs de bureau connectés à votre réseau d’entreprise.</span><span class="sxs-lookup"><span data-stu-id="f4c04-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
   
-[<span data-ttu-id="e021a-104">Suivez les étapes décrites dans cet article pour activer l’authentification unique transparente</span><span class="sxs-lookup"><span data-stu-id="e021a-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[<span data-ttu-id="f4c04-104">Suivez les étapes décrites dans cet article pour activer l’authentification unique transparente</span><span class="sxs-lookup"><span data-stu-id="f4c04-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

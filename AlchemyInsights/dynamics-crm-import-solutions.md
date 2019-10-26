@@ -12,21 +12,21 @@ ms.custom:
 - "1078"
 - "6200003"
 ms.openlocfilehash: 0c705cda207c7696840a2cb1c773c643c60814b5
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36528441"
 ---
-# <a name="dynamics-crm-import-solutions"></a><span data-ttu-id="8ad2e-102">Solutions d’importation Dynamics CRM</span><span class="sxs-lookup"><span data-stu-id="8ad2e-102">Dynamics CRM Import Solutions</span></span>
+# <a name="dynamics-crm-import-solutions"></a><span data-ttu-id="e4d59-102">Solutions d’importation Dynamics CRM</span><span class="sxs-lookup"><span data-stu-id="e4d59-102">Dynamics CRM Import Solutions</span></span>
 
-* [<span data-ttu-id="8ad2e-103">La solution ne peut pas être supprimée en raison des dépendances</span><span class="sxs-lookup"><span data-stu-id="8ad2e-103">Solution cannot be deleted due to dependencies</span></span>](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
+* [<span data-ttu-id="e4d59-103">La solution ne peut pas être supprimée en raison des dépendances</span><span class="sxs-lookup"><span data-stu-id="e4d59-103">Solution cannot be deleted due to dependencies</span></span>](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
 
-* [<span data-ttu-id="8ad2e-104">Erreur d’assembly version importation de la solution</span><span class="sxs-lookup"><span data-stu-id="8ad2e-104">Assembly version error importing solution</span></span>](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
+* [<span data-ttu-id="e4d59-104">Erreur d’assembly version importation de la solution</span><span class="sxs-lookup"><span data-stu-id="e4d59-104">Assembly version error importing solution</span></span>](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
 
-* [<span data-ttu-id="8ad2e-105">Échec de l’exportation de l’erreur de processus d’entreprise</span><span class="sxs-lookup"><span data-stu-id="8ad2e-105">Failed to export Business Process error</span></span>](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
+* [<span data-ttu-id="e4d59-105">Échec de l’exportation de l’erreur de processus d’entreprise</span><span class="sxs-lookup"><span data-stu-id="e4d59-105">Failed to export Business Process error</span></span>](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
 
-* [<span data-ttu-id="8ad2e-106">Échec de l’installation ou de la suppression de la solution en raison de l’installation ou de la suppression d’une autre solution en même temps</span><span class="sxs-lookup"><span data-stu-id="8ad2e-106">Solution installation or removal failed due to the installation or removal of another solution at the same time</span></span>](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
+* [<span data-ttu-id="e4d59-106">Échec de l’installation ou de la suppression de la solution en raison de l’installation ou de la suppression d’une autre solution en même temps</span><span class="sxs-lookup"><span data-stu-id="e4d59-106">Solution installation or removal failed due to the installation or removal of another solution at the same time</span></span>](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
 
-* [<span data-ttu-id="8ad2e-107">Installer, mettre à jour ou supprimer une solution préférée</span><span class="sxs-lookup"><span data-stu-id="8ad2e-107">Install, update, or remove a preferred solution</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
+* [<span data-ttu-id="e4d59-107">Installer, mettre à jour ou supprimer une solution préférée</span><span class="sxs-lookup"><span data-stu-id="e4d59-107">Install, update, or remove a preferred solution</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
   
