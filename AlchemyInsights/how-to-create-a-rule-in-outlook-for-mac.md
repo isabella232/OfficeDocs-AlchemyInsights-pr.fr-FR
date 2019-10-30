@@ -2,7 +2,6 @@
 title: 1800021 comment créer une règle dans Outlook pour Mac
 ms.author: supravee
 author: supravee
-ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +10,16 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541115"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769085"
 ---
 # <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Procédure de création d’une règle dans Outlook pour Mac
 
 1. Pour créer un dossier contenant les messages électroniques envoyés par la règle, sélectionnez la boîte aux lettres racine, sous l’onglet **organiser** , cliquez sur **nouveau dossier**, tapez le nom du dossier, puis appuyez sur entrée.
-
-    Si vous avez 
 
 2. Dans la liste des messages, cliquez sur un message électronique pour lequel vous souhaitez créer une règle.
 

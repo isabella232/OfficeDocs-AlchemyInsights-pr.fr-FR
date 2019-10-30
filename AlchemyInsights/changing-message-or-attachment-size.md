@@ -2,7 +2,6 @@
 title: Modification de la taille des messages ou des pièces jointes
 ms.author: pebaum
 author: pebaum
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +10,18 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 7c891034ac8d41bca4c4ee32130bcff306f9ed24
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520665"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769661"
 ---
 # <a name="changing-message-or-attachment-size"></a>Modification de la taille des messages ou des pièces jointes
 
 En tant qu’administrateur Office 365, vous pouvez modifier la taille maximale/minimale des messages (qui inclut les pièces jointes) que vos utilisateurs envoient. Vous pouvez effectuer cette opération pour des utilisateurs individuels ou pour tous les utilisateurs (par défaut de l’organisation). Une fois que vous avez modifié ce paramètre, l’opération prend environ 30 minutes.
   
-- Pour modifier la taille des messages pour un utilisateur spécifique, accédez **** \> à la **boîte aux lettres**des utilisateurs Exchange des boîtes aux lettres des **destinataires** \> **Exchange** \> . Sélectionnez la boîte aux lettres d’un utilisateur. Cliquez sur l’icône modifier, puis sous **restrictions de taille des messages**, sélectionnez Afficher les **Détails** et spécifiez la nouvelle taille maximale des messages.
+- Pour modifier la taille des messages pour un utilisateur spécifique, accédez **à** \> la boîte aux lettres des utilisateurs **Exchange** \> des **boîtes aux lettres**des **destinataires** \> Exchange. Sélectionnez la boîte aux lettres d’un utilisateur. Sélectionnez l’icône modifier, sélectionnez **fonctionnalités de boîte aux lettres**, puis sous **restrictions de taille des messages**, sélectionnez Afficher les **Détails** et spécifiez la nouvelle taille maximale des messages.
 
 - Pour savoir comment modifier ces informations pour toutes les boîtes aux lettres, reportez-vous à [cet article](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 

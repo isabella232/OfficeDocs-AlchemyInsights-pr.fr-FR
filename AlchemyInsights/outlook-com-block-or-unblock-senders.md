@@ -15,25 +15,25 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643692"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768726"
 ---
 # <a name="block-or-unblock-senders"></a>Bloquer ou débloquer les expéditeurs
 
-Les messages provenant d’adresses de messagerie ou de domaines de vos expéditeurs bloqués sont directement placés dans votre dossier courrier indésirable. Le courrier électronique est automatiquement supprimé du dossier courrier indésirable après 30 jours et n’est pas récupérable. Se; ect élément à afficher lorsqu’il est supprimé.
+Les messages provenant d’adresses de messagerie ou de domaines de vos expéditeurs bloqués sont directement placés dans votre dossier de courrier indésirable Outlook. Le courrier électronique est automatiquement supprimé du dossier courrier indésirable après 30 jours et n’est pas récupérable. Sélectionnez un élément à afficher lorsqu’il sera supprimé.
 
-**À partir de votre boîte de réception:**
+**À partir de votre boîte de réception :**
 
-- Dans la liste des messages, sélectionnez le message, puis cliquez sur**blocage**du **courrier** > indésirable.
-- **Remarque:** Le blocage d’un élément déjà présent dans le dossier courrier indésirable ne le supprime pas.
+- Dans la liste des messages, sélectionnez le message, puis cliquez sur**blocage**du **courrier indésirable** > .
+- **Remarque :** Le blocage d’un élément déjà présent dans le dossier courrier indésirable ne le supprime pas.
 
-**Dans les paramètres:**
+**Dans les paramètres :**
 
-1. Ouvrez les paramètres du [courrier](https://outlook.live.com/mail/options/mail/junkEmail) indésirable.
+1. Ouvrez les paramètres du [courrier indésirable](https://outlook.live.com/mail/options/mail/junkEmail) .
 2. Sous **expéditeurs et domaines bloqués**, sélectionnez **Ajouter**.
 3. Tapez l’adresse de messagerie du domaine que vous voulez bloquer, puis appuyez sur entrée.
 4. Cliquez sur **Enregistrer**.

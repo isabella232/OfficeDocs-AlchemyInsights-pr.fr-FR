@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754190"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768799"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Résoudre le problème-utilisateur introuvable dans l’annuaire
 
-Si les utilisateurs reçoivent un message d’erreur indiquant que l’utilisateur est introuvable dans l’annuaire. Réessayez là où le type de problème est utilisateur non dans le répertoire.
+Si les utilisateurs reçoivent un message d’erreur indiquant que l’utilisateur est introuvable dans le répertoire, réessayez en indiquant que le type de problème est User not in Directory.
 
 Vous pouvez effectuer les étapes suivantes pour résoudre le problème.
 

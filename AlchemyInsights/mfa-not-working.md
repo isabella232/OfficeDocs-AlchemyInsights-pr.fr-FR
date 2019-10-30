@@ -11,14 +11,14 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545162"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768835"
 ---
-# <a name="issues-with-mfa"></a>Problèmes liés à l’authentification multifacteur
+# <a name="issues-with-azure-mfa"></a>Problèmes avec Azure MFA
 Il existe deux éléments à vérifier si les utilisateurs ne peuvent pas se connecter à l’aide de l’authentification multifacteur (MFA)
 
 1. L’utilisateur affecté peut être bloqué dans le portail Azure Active Directory. Si c’est le cas, les tentatives d’authentification pour cet utilisateur spécifique seront refusées automatiquement. [Suivez les étapes décrites dans cet article pour les débloquer.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)

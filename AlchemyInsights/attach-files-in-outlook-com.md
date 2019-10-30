@@ -3,7 +3,6 @@ title: 8000052 joindre des fichiers dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +11,14 @@ ms.custom:
 - "857"
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: d27757e8e10be75ec9ed7b14ba8ad965d6b3fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07f80551d99f26002dd5559b4b76acfea8e7bf5a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517641"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768330"
 ---
-# <a name="how-to-attach-files"></a>Comment joindre des fichiers
+# <a name="how-to-attach-files-in-outlook"></a>Procédure de rattachement de fichiers dans OUtlook 
 
 1. Rédigez un nouveau message ou répondez à un message.
 

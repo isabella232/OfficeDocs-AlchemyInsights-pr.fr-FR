@@ -1,9 +1,8 @@
 ---
-title: Où est Power Pivot?
+title: Où est Power Pivot ?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,16 +14,16 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530943"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769841"
 ---
-# <a name="where-is-power-pivot"></a>Où est Power Pivot?
+# <a name="where-is-power-pivot"></a>Où est Power Pivot ?
 
-Il existe trois raisons pour lesquelles vous ne voyez pas Power Pivot:
+Il existe trois raisons pour lesquelles vous pouvez ne pas voir Power Pivot :
   
 **Votre version d’Excel ne l’inclut pas**
   
@@ -32,7 +31,7 @@ Toutes les versions d’Excel ne comprennent pas PowerPivot. Vous devrez effectu
   
 **Vous n’avez pas activé PowerPivot**
   
-Si vous utilisez une version d’Excel qui prend en charge Power Pivot, vérifiez que le complément est activé:
+Si vous utilisez une version d’Excel qui prend en charge Power Pivot, vérifiez que le complément est activé :
   
 1. Choisissez **** \> **** options \> **de fichier-compléments**.
 
