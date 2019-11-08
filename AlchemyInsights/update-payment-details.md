@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660934"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921812"
 ---
 # <a name="update-payment-details"></a>Mettre à jour les détails de paiement
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660934"
 4. Vérifiez les mises à jour, puis **enregistrer**.
 
 5. Pour supprimer ce mode de paiement, sélectionnez **supprimer**.
+
+**Résolution des problèmes**
+
+Si vous ne réussissez pas à charger une page, essayez d’ouvrir la page web dans un autre navigateur, ou de l’ouvrir dans une fenêtre de navigation privée, telle qu’une fenêtre InPrivate dans Microsoft Edge ou une fenêtre en mode navigation privée dans Google Chrome. 
 
 Pour plus d’informations, voir [Ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)et[Résolution des problèmes liés aux cartes bancaires et aux comptes bancaires](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
