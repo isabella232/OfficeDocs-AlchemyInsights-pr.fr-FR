@@ -13,15 +13,15 @@ ms.custom:
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
 ms.openlocfilehash: ac301788593c33d7a305f984d2caa00c9d25ea58
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769445"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="3f7d9-102">Création de règles de boîte de réception pour les boîtes aux lettres partagées</span><span class="sxs-lookup"><span data-stu-id="3f7d9-102">Creating Inbox rules for shared mailboxes</span></span>
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="e063d-102">Création de règles de boîte de réception pour les boîtes aux lettres partagées</span><span class="sxs-lookup"><span data-stu-id="e063d-102">Creating Inbox rules for shared mailboxes</span></span>
 
-<span data-ttu-id="3f7d9-103">Vous pouvez ajouter des règles sur une boîte aux lettres partagée à laquelle vous avez accès, de la même manière que pour ajouter des règles à leur propre compte.</span><span class="sxs-lookup"><span data-stu-id="3f7d9-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
+<span data-ttu-id="e063d-103">Vous pouvez ajouter des règles sur une boîte aux lettres partagée à laquelle vous avez accès, de la même manière que pour ajouter des règles à leur propre compte.</span><span class="sxs-lookup"><span data-stu-id="e063d-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
   
-<span data-ttu-id="3f7d9-104">Vérifiez que vous êtes membre de la boîte aux lettres partagée en question, puis suivez les étapes décrites dans cet article : [Ajouter des règles à une boîte aux lettres partagée](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="3f7d9-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
+<span data-ttu-id="e063d-104">Vérifiez que vous êtes membre de la boîte aux lettres partagée en question, puis suivez les étapes décrites dans cet article : [Ajouter des règles à une boîte aux lettres partagée](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="e063d-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
   

@@ -12,17 +12,17 @@ ms.custom:
 - "8000059"
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
 ms.openlocfilehash: 67ed45120474b6b85971e5ba44e2d77ebe0ed283
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769481"
 ---
-# <a name="create-a-new-folder-in-outlookcom"></a><span data-ttu-id="439d1-102">Créer un dossier dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="439d1-102">Create a new folder in Outlook.com</span></span>
+# <a name="create-a-new-folder-in-outlookcom"></a><span data-ttu-id="71432-102">Créer un dossier dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="71432-102">Create a new folder in Outlook.com</span></span>
 
-1. <span data-ttu-id="439d1-103">Sous **dossiers** dans le volet de navigation, sélectionnez **nouveau dossier**.</span><span class="sxs-lookup"><span data-stu-id="439d1-103">Under **Folders** in the navigation pane, select **New folder**.</span></span>
+1. <span data-ttu-id="71432-103">Sous **dossiers** dans le volet de navigation, sélectionnez **nouveau dossier**.</span><span class="sxs-lookup"><span data-stu-id="71432-103">Under **Folders** in the navigation pane, select **New folder**.</span></span>
 
-2. <span data-ttu-id="439d1-104">Tapez un nom pour le dossier, puis appuyez sur entrée.</span><span class="sxs-lookup"><span data-stu-id="439d1-104">Type a name for the folder and press Enter.</span></span>
+2. <span data-ttu-id="71432-104">Tapez un nom pour le dossier, puis appuyez sur entrée.</span><span class="sxs-lookup"><span data-stu-id="71432-104">Type a name for the folder and press Enter.</span></span>
 
-<span data-ttu-id="439d1-105">Pour en savoir plus, consultez [la rubrique créer un dossier dans Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="439d1-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="71432-105">Pour en savoir plus, consultez [la rubrique créer un dossier dans Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="71432-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
