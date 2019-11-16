@@ -10,12 +10,12 @@ ms.custom:
 - "1467"
 - "6200018"
 ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769373"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="91dec-102">La règle métier ne se déclenche pas pour un formulaire</span><span class="sxs-lookup"><span data-stu-id="91dec-102">Business rule not firing for a form</span></span>
+# <a name="business-rule-not-firing-for-a-form"></a><span data-ttu-id="2c21f-102">La règle métier ne se déclenche pas pour un formulaire</span><span class="sxs-lookup"><span data-stu-id="2c21f-102">Business rule not firing for a form</span></span>
 
-<span data-ttu-id="91dec-103">Une règle d’entreprise peut ne pas s’exécuter car le champ référencé dans la règle d’entreprise n’est pas inclus dans le formulaire.</span><span class="sxs-lookup"><span data-stu-id="91dec-103">A business rule may not execute because the field referenced in the business rule isn’t included with the form.</span></span> <span data-ttu-id="91dec-104">Pour plus d’informations, consultez [la rubrique votre règle d’entreprise ne se déclenche pas pour un formulaire ?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).</span><span class="sxs-lookup"><span data-stu-id="91dec-104">For more information, see [Is your business rule not firing for a form?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).</span></span>
+<span data-ttu-id="2c21f-103">Une règle d’entreprise peut ne pas s’exécuter car le champ référencé dans la règle d’entreprise n’est pas inclus dans le formulaire.</span><span class="sxs-lookup"><span data-stu-id="2c21f-103">A business rule may not execute because the field referenced in the business rule isn’t included with the form.</span></span> <span data-ttu-id="2c21f-104">Pour plus d’informations, consultez [la rubrique votre règle d’entreprise ne se déclenche pas pour un formulaire ?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).</span><span class="sxs-lookup"><span data-stu-id="2c21f-104">For more information, see [Is your business rule not firing for a form?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).</span></span>

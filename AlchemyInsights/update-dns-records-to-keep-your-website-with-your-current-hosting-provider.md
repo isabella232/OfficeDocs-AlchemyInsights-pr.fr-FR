@@ -14,20 +14,20 @@ ms.custom:
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
 ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36742263"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="1bd00-102">Mettre à jour les enregistrements DNS pour conserver votre site web chez votre fournisseur d'hébergement actuel</span><span class="sxs-lookup"><span data-stu-id="1bd00-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="e6c87-102">Mettre à jour les enregistrements DNS pour conserver votre site web chez votre fournisseur d'hébergement actuel</span><span class="sxs-lookup"><span data-stu-id="e6c87-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-<span data-ttu-id="1bd00-103">Dans le cadre du processus de migration de votre site Web public Office 365 vers un autre fournisseur d’hébergement, vous devrez probablement modifier vos enregistrements de domaine.</span><span class="sxs-lookup"><span data-stu-id="1bd00-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
+<span data-ttu-id="e6c87-103">Dans le cadre du processus de migration de votre site Web public Office 365 vers un autre fournisseur d’hébergement, vous devrez probablement modifier vos enregistrements de domaine.</span><span class="sxs-lookup"><span data-stu-id="e6c87-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
   
-1. <span data-ttu-id="1bd00-104">Dans le centre d’administration, accédez à **configuration** \> **Domains** , puis choisissez le nom de domaine que vous souhaitez modifier.</span><span class="sxs-lookup"><span data-stu-id="1bd00-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span>
+1. <span data-ttu-id="e6c87-104">Dans le centre d’administration, accédez à **configuration** \> **Domains** , puis choisissez le nom de domaine que vous souhaitez modifier.</span><span class="sxs-lookup"><span data-stu-id="e6c87-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span>
 
-2. <span data-ttu-id="1bd00-105">Entrez les informations qui s’alignent sur votre site Web avec votre nouveau fournisseur d’hébergement.</span><span class="sxs-lookup"><span data-stu-id="1bd00-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
+2. <span data-ttu-id="e6c87-105">Entrez les informations qui s’alignent sur votre site Web avec votre nouveau fournisseur d’hébergement.</span><span class="sxs-lookup"><span data-stu-id="e6c87-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
 
-<span data-ttu-id="1bd00-106">Pour en savoir plus, consultez [la rubrique mettre à jour les enregistrements DNS pour conserver votre site Web avec votre fournisseur d’hébergement actuel](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="1bd00-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span></span>
+<span data-ttu-id="e6c87-106">Pour en savoir plus, consultez [la rubrique mettre à jour les enregistrements DNS pour conserver votre site Web avec votre fournisseur d’hébergement actuel](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="e6c87-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span></span>
   
-<span data-ttu-id="1bd00-107">Pour en savoir plus sur le déroulement du site public, consultez la rubrique [sites Web publics SharePoint Online à cesser de fonctionner](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span><span class="sxs-lookup"><span data-stu-id="1bd00-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span></span>
+<span data-ttu-id="e6c87-107">Pour en savoir plus sur le déroulement du site public, consultez la rubrique [sites Web publics SharePoint Online à cesser de fonctionner](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span><span class="sxs-lookup"><span data-stu-id="e6c87-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span></span>
