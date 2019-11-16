@@ -12,10 +12,10 @@ ms.custom:
 - "9000191"
 - "2382"
 ms.openlocfilehash: d271206230148f2a6b95fb4e12682feefc02274f
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769193"
 ---
 # <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>L’utilisateur externe ne peut pas accéder au contenu SharePoint ou OneDrive

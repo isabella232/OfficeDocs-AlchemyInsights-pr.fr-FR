@@ -11,10 +11,10 @@ ms.custom:
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37205407"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installation d’Office sur un serveur Terminal Server
@@ -46,7 +46,7 @@ Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du centre d’a
 
 2. Sélectionnez Oui lorsque vous êtes invité à autoriser l’éditeur du Registre à effectuer des modifications sur votre appareil.
 
-3. Dans l’éditeur du Registre, ajoutez une valeur de chaîne de **SharedComputerLicensing** avec un paramètre de 1 sous HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Dans l’éditeur du Registre, ajoutez une valeur de chaîne de **SharedComputerLicensing** avec un paramètre de 1 sous HKEY_LOCAL_MACHINE \Software\Microsoft \Office\ClickToRun\Configuration.
 
 7. Sur le serveur RDS, ***Connectez-vous en tant qu’utilisateur final*** et [Vérifiez que l’activation d’ordinateurs partagés est activée pour Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
