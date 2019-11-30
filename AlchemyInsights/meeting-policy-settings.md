@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376628"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627572"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Gérer les stratégies de réunion dans Microsoft teams
 
@@ -24,7 +24,7 @@ Les stratégies de réunion sont utilisées pour contrôler les fonctionnalités
 
 Pour plus d’informations sur les stratégies de réunion, consultez les ressources suivantes :
 
-- Pour en savoir plus sur la création de stratégies, l’apport de modifications et l’affectation d’utilisateurs à la stratégie, consultez la rubrique [gérer les stratégies de réunion dans teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- Pour en savoir plus sur la création de stratégies, l’apport de modifications et l’affectation d’utilisateurs à la stratégie, consultez la rubrique [gérer les stratégies de réunion dans teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Pour effectuer des modifications de stratégie à l’aide des cmdlets PowerShell, voir [teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
     - Vous devez utiliser le [module Skype entreprise PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) pour les stratégies de réunion Teams. 

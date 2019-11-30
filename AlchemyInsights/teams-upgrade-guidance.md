@@ -11,18 +11,18 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7c60869897cacd688f32b2e8f28b9fcd934aa510
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469098"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626310"
 ---
 # <a name="microsoft-teams-upgrade"></a>Mise à niveau de Microsoft teams
 
-Que vous soyez débutant avec teams et que vous utilisiez déjà teams parallèlement Skype entreprise ou prêt à effectuer une mise à niveau, nous souhaitons vous assurer que vous disposez de tout ce dont vous avez besoin pour réussir votre transition vers Teams. Pour plus d’informations, consultez les liens ci-dessous.
+Que vous débutiez avec Teams, que vous utilisiez déjà Teams en parallèle de Skype Entreprise, ou que vous soyez prêt à procéder à la mise à niveau, nous voulons nous assurer que vous disposez de tout ce dont vous avez besoin pour migrer efficacement vers Teams. Pour plus d’informations, consultez les liens ci-dessous.
 
-[Prise en main de la mise à niveau de Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Prise en main de votre mise à niveau vers Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Planifier la mise à niveau](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
@@ -32,4 +32,4 @@ Que vous soyez débutant avec teams et que vous utilisiez déjà teams parallèl
 
 [Effectuer la mise à niveau de Skype entreprise en local vers teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Vérifier l’état de Skype entreprise Online vers la mise à niveau des équipes avec PowerShell](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Vérifier l’état de Skype entreprise Online vers la mise à niveau des équipes avec PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
