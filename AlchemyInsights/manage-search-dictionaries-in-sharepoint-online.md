@@ -1,7 +1,7 @@
 ---
 title: Gérer les dictionnaires de recherche dans SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 322ba8ede9e12bc2f24411deed89d3f8d65b2407
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36754406"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049227"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="1e2ed-102">Gérer les dictionnaires de recherche</span><span class="sxs-lookup"><span data-stu-id="1e2ed-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="4efde-102">Gérer les dictionnaires de recherche</span><span class="sxs-lookup"><span data-stu-id="4efde-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="1e2ed-103">Les dictionnaires de recherche dans SharePoint Online sont gérés dans le magasin de termes SharePoint Online qui se trouve dans le nouveau centre d’administration SharePoint.</span><span class="sxs-lookup"><span data-stu-id="1e2ed-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="1e2ed-104">Pour plus d’informations sur la façon d’ajouter ou de modifier des dictionnaires de recherche, consultez la rubrique [gérer les dictionnaires de recherche](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1e2ed-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="4efde-103">Les dictionnaires de recherche dans SharePoint Online sont gérés dans le magasin de termes SharePoint Online qui se trouve dans le nouveau centre d’administration SharePoint.</span><span class="sxs-lookup"><span data-stu-id="4efde-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="4efde-104">Pour plus d’informations sur la façon d’ajouter ou de modifier des dictionnaires de recherche, consultez la rubrique [gérer les dictionnaires de recherche](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="4efde-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="1e2ed-105">Si l’ensemble de termes du dictionnaire de recherche ne s’affiche pas dans le magasin de termes, patientez 24 heures.</span><span class="sxs-lookup"><span data-stu-id="1e2ed-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="1e2ed-106">Si le dictionnaire ne s’affiche toujours pas après 24 heures, veuillez consigner un ticket de support.</span><span class="sxs-lookup"><span data-stu-id="1e2ed-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="4efde-105">Si l’ensemble de termes du dictionnaire de recherche ne s’affiche pas dans le magasin de termes, patientez 24 heures.</span><span class="sxs-lookup"><span data-stu-id="4efde-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="4efde-106">Si le dictionnaire ne s’affiche toujours pas après 24 heures, veuillez consigner un ticket de support.</span><span class="sxs-lookup"><span data-stu-id="4efde-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   
