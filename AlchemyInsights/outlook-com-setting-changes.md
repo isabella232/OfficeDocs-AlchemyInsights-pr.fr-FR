@@ -1,7 +1,7 @@
 ---
 title: Paramètres Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386363"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053259"
 ---
 # <a name="settings-in-outlookcom"></a>Paramètres dans Outlook.com
 
-Si le destinataire est interne ou externe à votre organisation et s’il utilise un compte de messagerie Office 365 ou Outlook.com, les clients suivants ne doivent pas effectuer une action spéciale pour ouvrir le message : **outlook 2016, Outlook sur le Web/Outlook Web App Application mobile Outlook**
+Si le destinataire est interne ou externe à votre organisation et s’il utilise un compte de messagerie Office 365 ou Outlook.com, les clients suivants ne doivent pas effectuer une action spéciale pour ouvrir le message : **outlook 2016, Outlook sur le Web/Outlook Web App, application mobile Outlook**
 
 Des **délégués** d’utilisateurs auxquels des messages protégés ont été envoyés ne peuvent pas ouvrir les messages protégés. Seuls les destinataires d’origine (personne ayant reçu l’e-mail protégé) peuvent consulter les informations contenues dans le message électronique.
 

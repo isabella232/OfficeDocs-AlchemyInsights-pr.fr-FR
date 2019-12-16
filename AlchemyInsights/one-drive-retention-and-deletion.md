@@ -1,7 +1,7 @@
 ---
 title: Rétention et suppression de OneDrive
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521565"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053331"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Rétention et suppression de OneDrive
 
 - Vous pouvez [restaurer les utilisateurs supprimés de OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Elles se trouvent dans la corbeille pendant 93 jours. 
 
-- Consultez [cet article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) pour en savoir plus:
+- Consultez [cet article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) pour en savoir plus :
     - Comment donner à un autre utilisateur l’accès à l’espace OneDrive d’un utilisateur supprimé.
     - Ce qu’il advient du OneDrive d’un utilisateur lorsque vous supprimez le compte Office 365 de l’utilisateur pour votre organisation.
     - Configurer la délégation d’accès automatique.
     - Fonctionnement du processus de suppression de OneDrive.
 
-- Vous êtes intéressé par la rétention et la conservation du centre de sécurité et de conformité?
+- Vous êtes intéressé par la rétention et la conservation du centre de sécurité et de conformité ?
     - [Stratégies de rétention pour OneDrive et les sites SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
     - [conservation eDiscovery pour les sites OneDrive et SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 

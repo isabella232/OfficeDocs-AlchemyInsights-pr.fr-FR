@@ -1,7 +1,7 @@
 ---
 title: Activer ou désactiver le partage externe pour SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750914"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053907"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Message d’avertissement : les stratégies de votre organisation ne vous permettent pas de partager avec ces utilisateurs
 

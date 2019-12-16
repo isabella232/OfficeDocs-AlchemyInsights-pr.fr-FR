@@ -1,7 +1,7 @@
 ---
 title: Supprimer un site de groupe
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513717"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053043"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Supprimer un site SharePoint qui appartient à un groupe Office 365
 
@@ -28,7 +28,7 @@ Les administrateurs globaux et les administrateurs SharePoint peuvent désormais
 Important :
 
 - Vous pouvez récupérer des sites supprimés pendant 93 jours. Pour plus d’informations, consultez la rubrique afficher et restaurer des sites supprimés. Notez que les groupes supprimés doivent être restaurés dans les 30 jours.
-- Si le site fait partie d’une stratégie de rétention, vous pouvez ne pas être en mesure de le supprimer tant que le site n’a pas été supprimé du [Centre d’administration de conformité de sécurité &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). Pour plus d’informations, consultez la rubrique [Overview of](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) Retention Policies.
+- Si le site fait partie d’une stratégie de rétention, vous pouvez ne pas être en mesure de le supprimer tant que le site n’a pas été supprimé du [Centre d’administration de conformité de sécurité &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). Pour plus d’informations, consultez la rubrique [Overview of retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
   
 Pour [afficher et restaurer les sites supprimés dans le nouveau centre d’administration SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), sélectionnez **sites supprimés**. Sélectionnez le site qui a été supprimé et choisissez restaurer ou supprimer (ce qui supprimera définitivement le site). Pour supprimer un site actif, sélectionnez sites **actifs** , sélectionnez le site et sélectionnez **supprimer**. Pour plus d’informations, consultez [la rubrique gérer les sites dans le nouveau centre d’administration SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

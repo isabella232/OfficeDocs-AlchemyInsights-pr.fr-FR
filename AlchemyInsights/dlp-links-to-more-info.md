@@ -1,7 +1,7 @@
 ---
 title: Plus d’informations sur les problèmes liés à DLP
-ms.author: stephow
-author: stephow-MSFT
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665198"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052287"
 ---
 # <a name="information-about-dlp-issues"></a>Informations sur les problèmes liés à DLP
 
 Avec une stratégie DLP, vous pouvez identifier, surveiller et protéger automatiquement les informations sensibles dans Office 365.
 
-Pour plus d’informations, consultez les liens suivants:
+Pour plus d’informations, consultez les liens suivants :
 
 - [Vue d’ensemble de la protection contre la perte de données](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
 - [Éléments recherchés par les types d’informations sensibles](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
