@@ -1,7 +1,7 @@
 ---
 title: Associer un site hub
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: ec9b1a8541b1f54f93f38814a402d516788312c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ff623699d54700c781d64fb4e0d5df0edb675a37
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517821"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050343"
 ---
 # <a name="associate-a-hub-site"></a>Associer un site hub
 
-Pour associer un site existant à votre site Hub, procédez comme suit:
+Pour associer un site existant à votre site Hub, procédez comme suit :
   
 1. Sur votre site, sélectionnez **paramètres** (icône représentant un engrenage dans le coin supérieur droit), puis sélectionnez **informations sur le site**.
 

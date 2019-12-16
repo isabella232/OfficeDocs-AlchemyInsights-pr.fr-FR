@@ -1,23 +1,23 @@
 ---
 title: Activer le partage externe dans SharePoint Online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744423"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051675"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Activer le partage externe dans SharePoint Online
 
-Si votre organisation effectue un travail qui implique le partage de documents ou la collaboration directe avec des fournisseurs, des clients ou des clients, vous pouvez utiliser les [fonctionnalités de partage externe de SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) pour partager du contenu avec des personnes en dehors de votre Département.
+Si votre organisation effectue un travail qui implique le partage de documents ou la collaboration directe avec des fournisseurs, des clients ou des clients, vous pouvez utiliser les [fonctionnalités de partage externe de SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) pour partager du contenu avec des personnes extérieures à votre organisation.
 
 Pour plus d’informations sur le partage externe (invités), consultez les liens ci-dessous.
 
