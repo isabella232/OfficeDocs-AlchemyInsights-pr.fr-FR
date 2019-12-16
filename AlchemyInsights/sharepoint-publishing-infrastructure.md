@@ -1,34 +1,34 @@
 ---
 title: Infrastructure de publication avec un site de communication
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 0a8c8338d7c0678074cc38a68804f9cef66e1ec6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750070"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044077"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="6f726-102">Infrastructure de publication SharePoint</span><span class="sxs-lookup"><span data-stu-id="6f726-102">SharePoint Publishing Infrastructure</span></span>
+# <a name="sharepoint-publishing-infrastructure"></a><span data-ttu-id="190fc-102">Infrastructure de publication SharePoint</span><span class="sxs-lookup"><span data-stu-id="190fc-102">SharePoint Publishing Infrastructure</span></span>
 
 
-<span data-ttu-id="6f726-103">SharePoint inclut un ensemble de fonctionnalités classiques qui vous permettent de créer et de publier des pages Web enrichies pour votre intranet.</span><span class="sxs-lookup"><span data-stu-id="6f726-103">SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="6f726-104">Activez l’infrastructure de publication SharePoint au niveau de la collection de sites pour les activer.</span><span class="sxs-lookup"><span data-stu-id="6f726-104">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
+<span data-ttu-id="190fc-103">SharePoint inclut un ensemble de fonctionnalités classiques qui vous permettent de créer et de publier des pages Web enrichies pour votre intranet.</span><span class="sxs-lookup"><span data-stu-id="190fc-103">SharePoint includes a classic set of features that enable you to author and publish rich webpages for your intranet.</span></span> <span data-ttu-id="190fc-104">Activez l’infrastructure de publication SharePoint au niveau de la collection de sites pour les activer.</span><span class="sxs-lookup"><span data-stu-id="190fc-104">Activate the SharePoint Publishing Infrastructure at the site collection level to turn them on.</span></span>
 
-<span data-ttu-id="6f726-105">Pour plus d’informations, consultez les liens ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="6f726-105">For more information please visit the links below.</span></span>
+<span data-ttu-id="190fc-105">Pour plus d’informations, consultez les liens ci-dessous.</span><span class="sxs-lookup"><span data-stu-id="190fc-105">For more information please visit the links below.</span></span>
 
-[<span data-ttu-id="6f726-106">Activer les fonctionnalités de publication</span><span class="sxs-lookup"><span data-stu-id="6f726-106">Enable publishing features</span></span>](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
+[<span data-ttu-id="190fc-106">Activer les fonctionnalités de publication</span><span class="sxs-lookup"><span data-stu-id="190fc-106">Enable publishing features</span></span>](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
 
-[<span data-ttu-id="6f726-107">Fonctionnalités de publication</span><span class="sxs-lookup"><span data-stu-id="6f726-107">Publishing features</span></span>](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
+[<span data-ttu-id="190fc-107">Fonctionnalités de publication</span><span class="sxs-lookup"><span data-stu-id="190fc-107">Publishing features</span></span>](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
-<span data-ttu-id="6f726-108">Remarques :</span><span class="sxs-lookup"><span data-stu-id="6f726-108">Notes:</span></span>
+<span data-ttu-id="190fc-108">Remarques :</span><span class="sxs-lookup"><span data-stu-id="190fc-108">Notes:</span></span>
 
-- <span data-ttu-id="6f726-109">Les modèles de site de publication classiques incluent les fonctionnalités de publication par défaut.</span><span class="sxs-lookup"><span data-stu-id="6f726-109">The classic publishing site templates include the publishing features by default.</span></span>
+- <span data-ttu-id="190fc-109">Les modèles de site de publication classiques incluent les fonctionnalités de publication par défaut.</span><span class="sxs-lookup"><span data-stu-id="190fc-109">The classic publishing site templates include the publishing features by default.</span></span>
 
-- <span data-ttu-id="6f726-110">Les fonctionnalités de publication classiques ne sont pas disponibles sur les sites modernes.</span><span class="sxs-lookup"><span data-stu-id="6f726-110">Classic publishing features are not available on modern sites.</span></span> <span data-ttu-id="6f726-111">Les sites modernes fournissent une alternative plus récente par défaut.</span><span class="sxs-lookup"><span data-stu-id="6f726-111">Modern sites provide a newer alternative by default.</span></span>
+- <span data-ttu-id="190fc-110">Les fonctionnalités de publication classiques ne sont pas disponibles sur les sites modernes.</span><span class="sxs-lookup"><span data-stu-id="190fc-110">Classic publishing features are not available on modern sites.</span></span> <span data-ttu-id="190fc-111">Les sites modernes fournissent une alternative plus récente par défaut.</span><span class="sxs-lookup"><span data-stu-id="190fc-111">Modern sites provide a newer alternative by default.</span></span>
 
