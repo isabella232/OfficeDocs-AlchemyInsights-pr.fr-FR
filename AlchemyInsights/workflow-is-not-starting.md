@@ -1,7 +1,7 @@
 ---
 title: Le flux de travail ne démarre pas
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 8/2/2019
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738087"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049335"
 ---
 # <a name="workflow-is-not-starting"></a>Le flux de travail ne démarre pas
 
@@ -42,7 +42,7 @@ ms.locfileid: "36738087"
         Pour plus d’informations : [purger l’historique du flux de travail](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
-## <a name="related-topics"></a>Sujets associés
+## <a name="related-topics"></a>Voir aussi
 Vous souhaitez essayer Microsoft Flow dans SharePoint Online ?
 - [Créer un flux](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint et flux](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
