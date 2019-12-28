@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626346"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889080"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Paramètres de la salle d’attente de contrôle et niveau de participation
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Contrôler les paramètres de la salle d’attente et le niveau de participation dans teams
 
-Si vous souhaitez autoriser tout le monde, y compris les utilisateurs d’appels entrants, externes et anonymes à contourner la salle d’attente dans Microsoft Teams, vous pouvez utiliser PowerShell pour effectuer cette tâche. Voici un exemple de modification de la stratégie de réunion globale pour votre organisation :
+Si vous souhaitez autoriser tout le monde, y compris les utilisateurs d’appels entrants, externes et anonymes, à **contourner la salle d’attente**, utilisez PowerShell pour accomplir cette tâche. Voici un exemple de modification de la stratégie de réunion globale pour votre organisation.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Cette applet de commande requiert actuellement l’utilisation du module Skype entreprise PowerShell. Pour obtenir le programme d’installation de cette cmdlet, consultez la rubrique [gestion des stratégies via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Cette applet de commande requiert actuellement l’utilisation du module Skype entreprise PowerShell. Pour configurer l’utilisation de cette cmdlet, consultez la rubrique [gestion des stratégies via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Vous pouvez configurer une nouvelle stratégie, que vous devrez ensuite appliquer à vos utilisateurs. Si vous modifiez la stratégie globale, elle s’applique automatiquement aux utilisateurs. Pour toute modification de stratégie, vous devez attendre au moins 4 heures et jusqu’à 24 heures pour que les stratégies prennent effet.
+Une fois que vous avez configuré une stratégie, vous devez l’appliquer aux utilisateurs ; ou, si vous avez modifié la stratégie globale, elle s’applique automatiquement aux utilisateurs. Pour toute modification de stratégie, vous devez attendre au moins **4 heures jusqu’à 24 heures** pour que les stratégies prennent effet. 
 
 Veillez à consulter la documentation ci-dessous avant de faire en sorte que ces modifications comprennent exactement ce que cela autorise.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Présentation des contrôles de stratégie de salle d’attente de réunion teams
+
+Ces paramètres contrôlent les participants à la réunion qui attendent dans la salle d’attente avant d’être admis à la réunion et le niveau de participation qu’ils sont autorisés à participer à une réunion. Vous pouvez utiliser PowerShell pour mettre à jour les paramètres de stratégie de réunion qui n’ont pas encore été mis en œuvre (étiqueté « bientôt disponible ») dans le centre d’administration Teams. Voir ci-dessous un exemple d’applet de commande PowerShell qui permet à tous les utilisateurs de contourner la salle d’attente.
 
 - L' [admission automatique des personnes](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) est une stratégie par organisateur qui contrôle si les personnes rejoignent une réunion directement ou attendent dans la salle d’attente jusqu’à ce qu’elles soient admises par un utilisateur authentifié.
 
