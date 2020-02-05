@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541708"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771033"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a><span data-ttu-id="950df-102">Comment fermer votre compte analyse de bureau</span><span class="sxs-lookup"><span data-stu-id="950df-102">How to close your Desktop Analytics account</span></span>
+# <a name="how-to-close-your-desktop-analytics-account"></a><span data-ttu-id="53ce6-102">Comment fermer votre compte analyse de bureau</span><span class="sxs-lookup"><span data-stu-id="53ce6-102">How to close your Desktop Analytics account</span></span>
 
-<span data-ttu-id="950df-103">Si vous configurez l’analyse du bureau dans votre environnement, puis que vous décidez de la supprimer, utilisez le processus dans le lien suivant:</span><span class="sxs-lookup"><span data-stu-id="950df-103">If you set up Desktop Analytics in your environment, and then decide you need to remove it, use the process in the following link:</span></span>
+<span data-ttu-id="53ce6-103">Si vous configurez l’analyse du bureau dans votre environnement, puis que vous décidez de la supprimer, utilisez le processus dans le lien suivant :</span><span class="sxs-lookup"><span data-stu-id="53ce6-103">If you set up Desktop Analytics in your environment, and then decide you need to remove it, use the process in the following link:</span></span>
 
-[<span data-ttu-id="950df-104">Comment fermer votre compte</span><span class="sxs-lookup"><span data-stu-id="950df-104">How to close your account</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[<span data-ttu-id="53ce6-104">Comment fermer votre compte</span><span class="sxs-lookup"><span data-stu-id="53ce6-104">How to close your account</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-<span data-ttu-id="950df-105">La première étape consiste à contacter le support technique Microsoft.</span><span class="sxs-lookup"><span data-stu-id="950df-105">The first step is to contact Microsoft Support.</span></span> <span data-ttu-id="950df-106">Ouvrez un cas de support technique pour fermer votre compte d’analyse de bureau.</span><span class="sxs-lookup"><span data-stu-id="950df-106">Open a support case to close your Desktop Analytics account.</span></span> <span data-ttu-id="950df-107">Ne poursuivez pas d’étapes supplémentaires jusqu’à ce que vous receviez une confirmation de la fermeture de votre compte par Microsoft.</span><span class="sxs-lookup"><span data-stu-id="950df-107">Don't continue with additional steps until you receive confirmation that Microsoft closed your account.</span></span>
+<span data-ttu-id="53ce6-105">La première étape consiste à contacter le support technique Microsoft.</span><span class="sxs-lookup"><span data-stu-id="53ce6-105">The first step is to contact Microsoft Support.</span></span> <span data-ttu-id="53ce6-106">Ouvrez un cas de support technique pour fermer votre compte d’analyse de bureau.</span><span class="sxs-lookup"><span data-stu-id="53ce6-106">Open a support case to close your Desktop Analytics account.</span></span> <span data-ttu-id="53ce6-107">Ne poursuivez pas d’étapes supplémentaires jusqu’à ce que vous receviez une confirmation de la fermeture de votre compte par Microsoft.</span><span class="sxs-lookup"><span data-stu-id="53ce6-107">Don't continue with additional steps until you receive confirmation that Microsoft closed your account.</span></span>
