@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049407"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771141"
 ---
 # <a name="why-cant-i-edit-files"></a>Pourquoi ne puis-je pas modifier les fichiers ?
 
-Si un document, une feuille de calcul ou une présentation est verrouillé pour modification et ne peut pas être ouverte dans les applications de bureau Windows, il est possible que le fichier soit déjà en cours de modification par une autre personne ou que le fichier soit extrait. Examinons brièvement les raisons [pour lesquelles vous ne pourrez peut-être pas modifier le fichier](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Examinez rapidement [les raisons pour lesquelles vous ne pourrez peut-être pas modifier le fichier](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Si vous avez des bibliothèques avec des colonnes de **validation** , des colonnes **obligatoires** ou des métadonnées ou des métadonnées, ou lorsque la sécurité d’un **élément de brouillon** est définie sur **uniquement les utilisateurs pouvant modifier** ou **uniquement les utilisateurs pouvant approuver des éléments** dans les paramètres de version de la bibliothèque :
 

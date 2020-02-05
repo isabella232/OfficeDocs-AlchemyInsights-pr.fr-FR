@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519297"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770961"
 ---
 # <a name="change-intune-mdm-authority"></a>Modifier l’autorité MDM Intune
 
 Vous pouvez modifier votre autorité MDM sans ouvrir de cas de support. Pour obtenir des instructions, consultez les documents suivants :
   
-- [Modifier l’autorité MDM du gestionnaire de configuration vers Intune standalone](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Modifier votre autorité MDM depuis le gestionnaire de configuration vers la version Intune autonome](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Modifier l’autorité MDM de Intune autonome vers le gestionnaire de configuration](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Modifier votre autorité MDM à partir de Intune autonome vers le gestionnaire de configuration](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
  **Coexistence de l’autorité MDM**
   

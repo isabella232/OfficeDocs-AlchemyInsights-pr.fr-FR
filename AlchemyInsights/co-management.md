@@ -11,27 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: fe7dcebf847fbd7d91632e93e2253bf62ac659aa
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910276"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770889"
 ---
 # <a name="co-management"></a>Co-Management
 
 **Conditions préalables à la migration du gestionnaire de configuration hybride vers Intune**
 
-- Consultez [cet article](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
+- Consultez [cet article](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
 - [Ajoutez une licence Intune à vos utilisateurs](https://docs.microsoft.com/intune/licenses-assign).
 - Utilisez le [navigateur Edge](https://www.microsoft.com/windows/microsoft-edge) lors de la configuration de la co-gestion.
 
 **Comment installer le client du gestionnaire de configuration sur les appareils gérés par Intune**
 
-Voir [INTUNE MDM-gestion des appareils Windows](https://docs.microsoft.com/sccm/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Voir [INTUNE MDM-gestion des appareils Windows](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
 **Que se passe-t-il si je souhaite simplement modifier l’autorité MDM ?**
 
 Vous pouvez modifier l’autorité MDM sans avoir à ouvrir un cas de support technique. Consultez la documentation suivante pour vous aider à modifier votre autorité MDM :
-- [Modifier l’autorité MDM du gestionnaire de configuration vers Intune standalone](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
-- [Modifier l’autorité MDM de la version de Intune autonome vers le gestionnaire de configuration](https://docs.microsoft.com/intune-classic/deploy-use/prerequisites-for-enrollment#what-to-do-if-you-choose-the-wrong-mdm-authority-setting)
+
+- [Modifier l’autorité MDM depuis le gestionnaire de configuration vers la version Intune autonome](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Modifier l’autorité MDM de Intune autonome vers le gestionnaire de configuration](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
