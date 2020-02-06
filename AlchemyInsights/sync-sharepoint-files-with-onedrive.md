@@ -3,7 +3,7 @@ title: Résoudre les problèmes « Ouvrir avec l’Explorateur » dans SharePo
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/7/19
+ms.date: 08/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,26 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 21a0c193b752342d47189dda73d171249153f7fc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 09d0d76f8c61f7fcd21a58527e220b65f123654d
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050811"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770277"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Résoudre les problèmes « Ouvrir avec l’Explorateur » dans SharePoint Online
 
-La commande Ouvrir avec l’Explorateur ouvre une instance locale de l’Explorateur Windows qui affiche la structure de dossiers sur le serveur qui héberge le site SharePoint. Cela dit, nous vous recommandons de [synchroniser les fichiers SharePoint avec le nouveau client de synchronisation OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> qui offre les [fichiers à la demande](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) en assurant l’accès local à vos fichiers et les meilleures performances.
+Nous vous recommandons de [synchroniser les fichiers SharePoint avec le nouveau Client de synchronisation OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) qui offre les [fichiers à la demande](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) en assurant l’accès local à vos fichiers et les meilleures performances.
 
-
-Si vous avez choisi d’utiliser le mode Explorateur au lieu d’utiliser le nouveau client de synchronisation OneDrive, veillez à suivre les étapes et les pratiques décrites dans les articles suivants :
+Pour résoudre les problèmes d’ouverture avec l’Explorateur, suivez les étapes et pratiques recommandées dans les articles suivants :
 
 - [Utiliser la commande « Ouvrir avec l’Explorateur » pour résoudre des problèmes dans SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
-
 - [Copier ou déplacer des fichiers de bibliothèque à l’aide de la commande Ouvrir avec l’Explorateur](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
-> [!Note]  
-> Le bouton **Ouvrir avec l’Explorateur** ne s’affiche pas dans la nouvelle expérience de bibliothèque. Sélectionnez la liste déroulante **Affichage** dans l’angle supérieur droit (le nom de la liste déroulante change en fonction de votre affichage actuel), puis cliquez sur **Afficher dans l’Explorateur de fichiers**.
+> **Remarque :**
 >
- >Ouvrir avec l’Explorateur dans SharePoint utilise des contrôles ActiveX. Il n’est donc pris en charge que dans Internet Explorer 10 ou 11. Ouvrir avec l’Explorateur ne fonctionne pas dans Windows avec Microsoft Edge, Google Chrome, Mozilla Firefox ni sur la plateforme Mac. Pour cette raison, il est possible que l’option Mode Explorateur soit grisée.
+>- Le bouton Ouvrir avec l’Explorateur ne s’affiche pas dans la nouvelle expérience de bibliothèque. Sélectionnez la liste déroulante **Affichage** dans l’angle supérieur droit (le nom de la liste déroulante change en fonction de votre affichage actuel), puis cliquez sur **Afficher dans l’Explorateur de fichiers**.
 >
-> - [Pourquoi des boutons du ruban SharePoint sont indisponibles ou grisés](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
-  
+>- L’ouverture avec l’Explorateur est prise en charge uniquement dans Internet Explorer 10 ou 11. Ouvrir avec l’Explorateur ne fonctionne pas dans Windows avec Microsoft Edge, Google Chrome, Mozilla Firefox ni sur la plateforme Mac. Pour cette raison, il est possible que l’option Mode Explorateur soit grisée.
+
 
