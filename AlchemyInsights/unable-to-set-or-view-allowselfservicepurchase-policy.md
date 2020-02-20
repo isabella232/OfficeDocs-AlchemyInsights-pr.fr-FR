@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091698"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158559"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Impossible de définir ou d’afficher la stratégie AllowSelfServicePurchase
 
@@ -29,11 +29,11 @@ Cela peut être dû à une version plus ancienne de TLS (Transport Layer Securit
 Procédez comme suit pour activer/définir le protocole TLS sur 1,2, vérifiez et recommencez.
  1. À l’invite de commandes PowerShell (PS C\) : entrez la commande suivante pour définir le protocole TLS sur la version 1,2 :
 
-    \[NET. ServicePointManager] :: SecurityProtocol = \[net. SecurityProtocolType] :: Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. Vérifiez que les protocoles TLS sont utilisés, à l’aide de la commande suivante :
 
-    \[NET. ServicePointManager] :: SecurityProtocol 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. Recommencez les commandes obtenir ou mettre à jour selon vos besoins.
 
