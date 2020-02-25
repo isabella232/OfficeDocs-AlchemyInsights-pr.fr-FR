@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 90c33249ee17ff65ece33d38f4722d57f214939c
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: a1c4f18633765c4990d2c0866a28f100555862e4
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305365"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42264978"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>Activer les communications externes et ajouter des contacts
 
-Dans Skype entreprise, vous pouvez ajouter des personnes à votre liste de contacts de manière à ce qu’ils soient un simple clic. Chaque contact que vous ajoutez est affecté à un ou à plusieurs de vos groupes de contacts. Pour plus d’informations, consultez [la partie relative à l’ajout d’un contact dans pour Skype entreprise](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) . 
+Dans Skype entreprise, vous pouvez ajouter des personnes à votre liste de contacts de manière à ce qu’ils soient un simple clic. Chaque contact que vous ajoutez est affecté à un ou à plusieurs de vos groupes de contacts. Pour plus d’informations, consultez [la partie relative à l’ajout d’un contact dans Skype entreprise](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) . 
 
 Assurez-vous que votre administrateur client a suivi les étapes pour [autoriser les communications externes](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
