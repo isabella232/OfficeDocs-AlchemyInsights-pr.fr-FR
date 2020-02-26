@@ -3,6 +3,7 @@ title: Videz le dossier éléments supprimés dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768690"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277929"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Vider le dossier éléments supprimés
 
-Pour purger tous les messages Outlook supprimés, accédez à votre [dossier éléments supprimés](https://outlook.live.com/mail/deleteditems)et sélectionnez **dossier vide**, puis sélectionnez **récupérer les éléments supprimés de ce dossier** au-dessus de la liste des messages, puis sélectionnez de nouveau le **dossier** vide.
+1. Ouvrez le dossier éléments supprimés et sélectionnez **Vider le dossier**.
+2. Sélectionnez **éléments récupérables** en haut de la page, puis cliquez de nouveau sur **Vider le dossier** .
 
-Si vous avez supprimé un grand nombre de messages, le déplacement ou la suppression des éléments du dossier éléments supprimés peut prendre un certain temps. Laissez la fenêtre du navigateur ouverte jusqu’à ce que les éléments soient supprimés.
+**Impossible de vider le dossier éléments supprimés**
 
-Si les messages ne parviennent pas à se supprimer correctement, essayez de supprimer un plus petit nombre de messages.
+- Si vous avez supprimé un grand nombre de courriers électroniques, le déplacement ou la suppression de ces éléments vers le dossier éléments supprimés peut prendre un certain temps. Laissez la fenêtre du navigateur ouverte pendant que la suppression a lieu.
+- Si le message électronique ne parvient toujours pas à être supprimé correctement, sélectionnez un lot plus petit à supprimer.
+- Si les messages supprimés sont renvoyés, cela peut être dû au fait que vous avez récemment supprimé un grand nombre de messages électroniques. Veuillez réessayer ultérieurement.
