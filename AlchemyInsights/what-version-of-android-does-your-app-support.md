@@ -1,0 +1,41 @@
+---
+title: Quelle version d’Android votre application prend-elle en charge ?
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9001178"
+- "3430"
+ms.openlocfilehash: a4c2b4a58a2688ea8c968970f0aee4264eb939d9
+ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "42409052"
+---
+# <a name="what-version-of-android-does-your-app-support"></a><span data-ttu-id="4b7ad-102">Quelle version d’Android votre application prend-elle en charge ?</span><span class="sxs-lookup"><span data-stu-id="4b7ad-102">What version of Android does your app support?</span></span>
+
+<span data-ttu-id="4b7ad-103">Pour des performances optimales, notre application fonctionne sur n’importe quel appareil doté d’Android version 5,0 et versions ultérieures.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-103">For the best performance, our app works on any device with Android version 5.0 and above.</span></span>
+
+<span data-ttu-id="4b7ad-104">Si vous êtes à jour sur votre système d’exploitation Android, mais que vous recevez toujours des notifications indiquant que le système d’exploitation est incompatible avec votre appareil, essayez d’effacer le cache et les données de l’application Play Store.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-104">If you are up to date on your Android OS but are still receiving notifications about the OS being incompatible with your device, please try to clear the cache and data of the Play Store app.</span></span>
+
+<span data-ttu-id="4b7ad-105">Pour ce faire, procédez comme suit :</span><span class="sxs-lookup"><span data-stu-id="4b7ad-105">To do so:</span></span> 
+
+1. <span data-ttu-id="4b7ad-106">Sur votre **tablette ou téléphone** Android, ouvrez **paramètres** , puis applications ou **applications**.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-106">On your Android phone or tablet, open **Settings** and then **Apps** or **Applications**.</span></span>
+
+2. <span data-ttu-id="4b7ad-107">En haut de l’écran, cliquez sur **plus** (il peut s’agir également d’un bouton de sélection, ou de trois points verticaux), puis **afficher le système**.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-107">At the top of the screen, tap **More** (this could also be an ellipsis, or three vertical dots) and then **Show system**.</span></span> 
+
+3. <span data-ttu-id="4b7ad-108">Faites défiler vers le bas et appuyez sur **Google Play services**.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-108">Scroll down and tap **Google Play services**.</span></span> 
+
+4. <span data-ttu-id="4b7ad-109">Appuyez sur **stockage** , puis **videz le cache**.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-109">Tap **Storage** and then **Clear Cache**.</span></span> 
+
+5. <span data-ttu-id="4b7ad-110">Appuyez sur **gérer l’espace** , puis **Effacez toutes les données**.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-110">Tap **Manage Space** and then **Clear all Data**.</span></span> 
+
+6. <span data-ttu-id="4b7ad-111">Ouvrez le **Google Play Store**.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-111">Open the **Google Play Store**.</span></span> 
+
+7. <span data-ttu-id="4b7ad-112">Patientez 5 minutes, puis réessayez.</span><span class="sxs-lookup"><span data-stu-id="4b7ad-112">Wait for 5 minutes, then try again.</span></span> 
