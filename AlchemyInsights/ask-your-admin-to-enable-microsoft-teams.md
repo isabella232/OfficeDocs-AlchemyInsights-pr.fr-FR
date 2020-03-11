@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962295"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573130"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Vous n’êtes pas absent ! Demander à votre administrateur d’activer Microsoft teams
 
-Les enseignants et le personnel peuvent-ils accéder aux équipes, mais pas aux étudiants ou les utilisateurs sous licence F1 ne peuvent-ils pas accéder à teams ?
+Si vous avez un client EDU, vous devez activer Microsoft teams manuellement. Pour ce faire, accédez au centre d’administration 365 de Microsoft > **services et compléments > Microsoft teams**. Si vous utilisez le nouveau centre d’administration Teams, vous devez désactiver **essayez le nouveau centre** d’administration pour trouver des **services et des compléments**. 
 
-Les équipes doivent être explicitement activées pour les étudiants et les licences F1. Vous trouverez des instructions plus détaillées sur la façon d’activer teams pour votre école dans [configurer teams pour l’éducation](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**Important**: vous devrez peut-être patienter jusqu’à 24 heures pour que vos modifications prennent effet.

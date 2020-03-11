@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 0467bd04eb2f46a88f7e429aa7cf6d085d416dbc
-ms.sourcegitcommit: 867184426f2ed48e3e845544d7ce185d731c2fb3
+ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
+ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39814280"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42574369"
 ---
 # <a name="change-account-picture"></a>Modifier l’image du compte
 
-Si vous utilisez un nom d’utilisateur et un mot de passe pour vous connecter à Windows 10, vous utilisez un compte local. Pour modifier l’image de votre compte local :
+Si vous utilisez un nom d’utilisateur et un mot de passe pour vous connecter à Windows 10, vous utilisez un compte local. **Pour modifier l’image de votre compte local**:
 
 1. Accédez à **** > **paramètres** > de démarrage**comptes** > **vos informations**.
-2. Sous **créer votre image**, sélectionnez **Parcourir**. Ou, si votre appareil est doté d’un appareil photo, sélectionnez **appareil photo** et prenez une auto-offre. 
-    Remarque : Windows se souvient des trois dernières images que vous avez utilisées. Sélectionnez l’image sur la page **vos informations** pour passer à celle-ci.
+2. Sous **créer votre image**, cliquez sur **Rechercher**. Ou, si votre appareil est doté d’un appareil photo, cliquez sur **appareil photo** et faites une auto-apprentissage. 
+    **Remarque**: Windows se souvient des trois dernières images que vous avez utilisées. Cliquez sur l’image sur la page de vos informations pour passer à celle-ci.
 
 Si vous utilisez une adresse de messagerie et un mot de passe pour vous connecter, vous utilisez un compte Microsoft. Pour modifier votre image de compte Microsoft :
 
 1. Connectez-vous à la page **vos informations** à l’aide de votre compte Microsoft.
-2. Sélectionnez **Ajouter une image** ou **modifier l’image**, puis suivez les instructions.
+2. Cliquez sur **Ajouter une image** ou modifier l' **image**, puis suivez les instructions.
 
-[Obtenir plus d’aide sur la configuration et la gestion de votre compte Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account)
+[Obtenir plus d’aide sur la configuration et la gestion de votre compte Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account).
