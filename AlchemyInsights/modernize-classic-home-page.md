@@ -11,18 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322752"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600562"
 ---
 # <a name="modernize-the-classic-home-page"></a>Moderniser la page d’accueil classique
 
 Une mise à jour récente des pages d’accueil des sites d’équipe SharePoint classiques affecte la page d’accueil des sites d’équipe classiques (STS # 0) lorsqu’une page d’accueil *ne contient que des composants WebPart par défaut* , tels que la mise en route, la bibliothèque de documents et le flux d’actualités.
 
-Affichez une étape de la modification [ici](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Affichez une étape de la modification [ici](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Remarque : les sites d’équipe classiques qui contiennent du contenu personnalisé ne seront pas mis à jour automatiquement.**
 

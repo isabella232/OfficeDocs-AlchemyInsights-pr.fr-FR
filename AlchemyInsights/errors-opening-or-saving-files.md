@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031612"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600130"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Résoudre les erreurs d’ouverture ou d’enregistrement des fichiers Word
 
@@ -25,7 +25,7 @@ Si vous rencontrez des problèmes lors de l’ouverture ou de l’enregistrement
 - [Installez les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Pour obtenir la liste des dernières mises à jour d’Office, consultez la rubrique [dernières mises à jour](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Résoudre les problèmes liés aux documents endommagés dans Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Réparez une application Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Si le document contient des marques de révision, utilisez les suggestions de [Word lentes ou cessent de répondre s’il y a des modifications ou des commentaires excessifs](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) pour résoudre le problème.
+- Si le document contient des marques de révision, utilisez les suggestions de [Word lentes ou cessent de répondre s’il y a des modifications ou des commentaires excessifs](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) pour résoudre le problème.
 
 Si vous avez reçu une erreur semblable à l’une des suivantes, utilisez le [message d’erreur suggestions dans Office lorsqu’un fichier est bloqué par les paramètres de stratégie de Registre](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 

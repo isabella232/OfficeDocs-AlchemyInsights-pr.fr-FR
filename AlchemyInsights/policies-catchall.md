@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274877"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599950"
 ---
 # <a name="teams-policies"></a>Stratégies teams
 
@@ -27,7 +27,7 @@ Les paramètres de Microsoft teams sont contrôlés par des stratégies. Pour ef
 Les stratégies de teams sont réparties dans les domaines suivants :
 
 - Les [stratégies teams](https://docs.microsoft.com/MicrosoftTeams/teams-policies) contrôlent la découverte des utilisateurs de teams privées lors de la recherche et de la création de canaux privés.  
-- Les [stratégies de réunion](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) contrôlent ce que les utilisateurs peuvent faire avec les réunions Teams, y compris le contrôle de la salle d’attente. Pour obtenir de l’aide sur les problèmes liés à la salle d’attente, comme la configuration de teams pour admettre tout le monde, voir [paramètres de la salle d’attente et niveaux de participation](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby)
+- Les [stratégies de réunion](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) contrôlent ce que les utilisateurs peuvent faire avec les réunions Teams, y compris le contrôle de la salle d’attente. Pour obtenir de l’aide sur les problèmes liés à la salle d’attente, comme la configuration de teams pour admettre tout le monde, voir [paramètres de la salle d’attente et niveaux de participation](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
 - Les [stratégies de messagerie](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) contrôlent ce que les utilisateurs peuvent faire de la conversation et des messages, notamment activer ou désactiver le mode conversation, supprimer des conversations, demander des confirmations de lecture, utiliser des images giphy et des autocollants, et bien plus encore.
 - Les [stratégies de configuration d’application](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) contrôlent les applications disponibles pour les utilisateurs, notamment les applications personnalisées et tierces, ainsi que l’ordre dans lequel elles apparaissent.  
 - Les [stratégies de rétention](https://docs.microsoft.com/microsoftteams/retention-policies) des données pour teams se trouvent dans le centre de sécurité et conformité Office 365.
