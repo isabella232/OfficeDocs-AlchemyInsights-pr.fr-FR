@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745002"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856465"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Problèmes courants de Teams et résolutions
 
@@ -36,12 +36,12 @@ Pour tous les clients Teams :
 
     Pour vérifier que l’utilisateur dispose d’une licence pour l’audioconférence et possède un numéro payant par défaut :
     1.    Accédez à utilisateurs actifs, puis sélectionnez l’utilisateur concerné.
-    2.    Selon la version du centre d’administration, choisissez licences et applications ou cliquez sur modifier sur les licences de produits.
-    3.    Vérifiez que l’utilisateur a sélectionné des licences pour Audioconférence, Microsoft Teams et Skype Entreprise Online (plan 2).
-    4.    Utilisateur les Centres d’administration : cliquez sur Afficher tout, puis sur Teams.
-    5.    Dans le centre d’administration Microsoft Teams, cliquez sur Portail hérité.
-    6.    Dans le centre d’administration Skype Entreprise, cliquez sur Audioconférence, puis sur Utilisateurs.
-    7.    Sélectionnez l’utilisateur concerné et vérifiez que l’utilisateur dispose d’un numéro payant par défaut.
+    2.    Selon la version du centre d’administration, choisissez **Licences et applications** ou cliquez sur **Modifier** dans **Licences de produits**.
+    3.    Vérifiez que l’utilisateur a sélectionné des licences pour l’Audioconférence, Microsoft Teams et Skype Entreprise Online (plan 2).
+    4.    Les centres d'administration des utilisateurs cliquent sur **Afficher tout**, puis sur **Teams**.
+    5.    Dans le centre d’administration Microsoft Teams, cliquez sur **Portail hérité**.
+    6.    Dans le centre d’administration Skype Entreprise, cliquez sur **Audioconférence**, puis sur **Utilisateurs**.
+    7.    Sélectionnez l’utilisateur concerné et vérifiez que celui-ci dispose d’un numéro payant par défaut.
     
     Pour plus d’informations, voir [Plans d’appels pour Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou appelez l’équipe de facturation Microsoft Commerce pour obtenir de l’aide sur les questions liées à la gestion des licences.
 
