@@ -10,18 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 830b39c51658cbc02f4be81acdfdf3b164a8df70
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: d54d3adbaa697c4abda7cb52214c79f136b37daa
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932728"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958608"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Migrer des options vers SharePoint Online
 
-**Important**: de nombreux clients SharePoint Online et OneDrive exécutent des applications métiers critiques contre le service exécuté en arrière-plan. Ces applications incluent la migration de contenu, la protection contre la perte de données (DLP) et les solutions de sauvegarde. Pendant ces périodes inégalées, nous mettons tout en œuvre pour garantir un haut niveau de disponibilité et de fiabilité des services SharePoint Online et OneDrive à vos utilisateurs qui comptent plus que jamais sur le service dans les scénarios de travail à distance.
-
-Dans le cadre de cet objectif, nous avons implémenté des limitations plus strictes pour les applications d’arrière-plan (solutions de migration, de protection contre la perte de données et de sauvegarde) pendant les heures de la semaine. Selon toute probabilité, ces applications offriront un débit très limité pendant ces horaires. Toutefois, pendant les heures de soirée et de week-end pour la région, le service sera prêt à traiter un volume considérablement plus important de demandes d’applications d’arrière-plan.
+**Important**: pendant ces temps inégalés, nous faisons en sorte de s’assurer que les services SharePoint Online et OneDrive restent hautement disponibles : consultez les [ajustements de fonctionnalité temporaire SharePoint Online](https://aka.ms/ODSPAdjustments) pour plus d’informations.
 
 **Options de migration**
 
@@ -33,7 +31,7 @@ Pour plus d’informations sur la migration de contenu, consultez les liens ci-d
 
 - [Prise en main du Gestionnaire de migration](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-- [Vitesse de migration de SharePoint Online et d’ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Vitesse de migration de SharePoint Online et ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Comment éviter d’être limité ou bloqué dans SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 

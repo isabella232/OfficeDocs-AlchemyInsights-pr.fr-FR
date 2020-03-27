@@ -12,18 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: 7e12c74d33e3cee7c626ad899a4e7f2f0a409bca
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 05e816141a5b9cf484a647f8154110cd999ff6ef
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931656"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958680"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>Limitation de la migration SharePoint avec 503 Erreurs
 
-**Important**: de nombreux clients SharePoint Online et OneDrive exécutent des applications métiers critiques contre le service exécuté en arrière-plan. Ces applications incluent la migration de contenu, la protection contre la perte de données (DLP) et les solutions de sauvegarde. Pendant ces périodes inégalées, nous mettons tout en œuvre pour garantir un haut niveau de disponibilité et de fiabilité des services SharePoint Online et OneDrive à vos utilisateurs qui comptent plus que jamais sur le service dans les scénarios de travail à distance.
-
-Dans le cadre de cet objectif, nous avons implémenté des limitations plus strictes pour les applications d’arrière-plan (solutions de migration, de protection contre la perte de données et de sauvegarde) pendant les heures de la semaine. Selon toute probabilité, ces applications offriront un débit très limité pendant ces horaires. Toutefois, pendant les heures de soirée et de week-end pour la région, le service sera prêt à traiter un volume considérablement plus important de demandes d’applications d’arrière-plan.
+**Important**: pendant ces temps inégalés, nous faisons en sorte de s’assurer que les services SharePoint Online et OneDrive restent hautement disponibles : consultez les [ajustements de fonctionnalité temporaire SharePoint Online](https://aka.ms/ODSPAdjustments) pour plus d’informations.
 
 **503 Erreurs lors de la migration vers SharePoint Online**
 
