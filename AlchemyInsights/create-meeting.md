@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376631"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105345"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Planifier une réunion dans teams
+
+**Important**: Si vous rencontrez des problèmes lors de la création d’une réunion ou si vous ne trouvez pas l’option de réunion dans Teams, vérifiez que les utilisateurs concernés [disposent d’une licence pour une boîte aux lettres Exchange Online et que la boîte aux lettres est activée](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
 Vous pouvez planifier une réunion de deux manières : 
 
@@ -29,4 +31,6 @@ Vous pouvez planifier une réunion de deux manières :
 
 Sur le côté droit du formulaire de planification, vous pouvez ajouter un canal ou des personnes individuelles, ou laisser les deux vides pour planifier un rendez-vous privé.
 
-Pour plus d’informations sur la création et la planification de réunions dans Microsoft Teams, voir [planifier une réunion dans teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+- Pour plus d’informations sur la création et la planification de réunions dans Microsoft Teams, voir [planifier une réunion dans teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+- Pour connaître les limites et les spécifications des réunions, reportez-vous à la rubrique [limites et spécifications pour Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).

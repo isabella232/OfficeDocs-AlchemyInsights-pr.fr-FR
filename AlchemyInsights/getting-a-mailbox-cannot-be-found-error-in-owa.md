@@ -1,5 +1,5 @@
 ---
-title: 126 l’obtention d’une boîte aux lettres est introuvable. erreur dans OWA?
+title: 126 l’obtention d’une boîte aux lettres est introuvable. erreur dans OWA ?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523869"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105237"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Erreur lors de l’obtention d’une boîte aux lettres introuvable dans Outlook sur le Web?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Erreur lors de l’obtention d’une boîte aux lettres introuvable dans Outlook sur le Web ?
 
-Si vous utilisez Outlook sur le Web et que vous obtenez une **boîte aux lettres introuvable pour** erreur, le compte que vous avez utilisé pour vous connecter à Outlook sur le Web ne dispose pas d’une licence Exchange Online et, par conséquent, aucune boîte aux lettres n’est associée au compte. Votre administrateur peut attribuer une licence à votre compte en procédant comme suit:
+Si vous utilisez Outlook sur le Web et que vous obtenez une **boîte aux lettres introuvable pour** erreur, le compte que vous avez utilisé pour vous connecter à Outlook sur le Web ne dispose pas d’une licence Exchange Online et, par conséquent, aucune boîte aux lettres n’est associée au compte. Votre administrateur peut attribuer une licence à votre compte en procédant comme suit :
 
-1. Ouvrez le [Centre d’administration Microsoft 365](https://portal.office.com/adminportal/home#/homepage) et sous **utilisateurs actifs**, sélectionnez **modifier un utilisateur**.
+1. Ouvrez le [Centre d’administration Microsoft 365](https://portal.office.com/adminportal/home#/homepage) et accédez à **utilisateurs actifs** sous la section **utilisateurs** , puis sélectionnez l’utilisateur qui voit l’erreur.
 
-2. Dans la page **modifier un utilisateur** qui s’ouvre, sélectionnez l’utilisateur. Dans la page de propriétés utilisateur qui s’ouvre, cliquez sur **modifier** pour **licences de produits**.
-
-3. Dans la page **licences de produit** qui s’ouvre, sélectionnez la valeur d' **emplacement** appropriée et attribuez une licence qui contient Exchange Online (développez la licence pour afficher ses détails). Lorsque vous avez terminé, cliquez sur **Enregistrer**.
+2. Dans la page utilisateur qui s’ouvre, accédez à la section **licences et applications** , sélectionnez la valeur d' **emplacement** appropriée et attribuez une licence qui contient Exchange Online (développez la licence pour afficher ses détails). Lorsque vous avez terminé, cliquez sur **enregistrer les modifications**.
