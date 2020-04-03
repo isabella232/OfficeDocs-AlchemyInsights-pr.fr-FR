@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: b12540bbd7e7e3524f259736fec440b712289754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 14c1c3af556eff16abbc4d1e0f8046ce1aa8343f
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664462"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100289"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Comment ajouter une carte bancaire ?
 
 1. Dans le Centre d’administration Microsoft 365, choisissez la page **Facturation** \> [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Sélectionnez **Ajouter ou sélectionner un mode de paiement**.
+2. Cliquez sur **Ajouter un mode de paiement**.
 
 3. Sur la page **Modes de paiement**, sélectionnez un mode de paiement dans le menu déroulant.
 
-4. Entrez les informations de la nouvelle carte bancaire ou du nouveau compte bancaire, puis sélectionnez **Enregistrer**.
+4. Entrez les informations de la nouvelle carte bancaire ou du nouveau compte bancaire, puis cliquez sur **Enregistrer**.
 
 Pour en savoir plus, consultez l’article [Ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire dans Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
