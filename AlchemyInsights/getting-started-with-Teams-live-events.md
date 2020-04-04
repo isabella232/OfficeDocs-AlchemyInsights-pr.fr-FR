@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034200"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142987"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Prise en main des événements en direct Teams
 
@@ -24,7 +24,7 @@ Les événements en direct Microsoft Teams sont une extension des réunions Team
 
 Pour créer un événement en direct, vous devez disposer des éléments suivants :
 
-- Une [licence Office 365 Entreprise E1, E3 ou E5, ou une licence Office 365 A3 ou A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses)
+- Une [licence Office 365 Entreprise E1, E3 ou E5, ou une licence Office 365 A3 ou A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) **Remarque** : en raison d’une hausse récente de l’utilisation de Teams, lorsque vous attribuez une licence Teams à un utilisateur, sa configuration complète peut prendre environ 24 heures. En attendant, vous ne serez pas en mesure d’affecter des stratégies Teams à celui-ci, et il ne pourra peut-être pas accéder à certaines fonctionnalités de Teams telles que l’appel et l’audioconférence.
 
 - L’autorisation de [créer des événements en direct dans le centre d’administration Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy)
 
