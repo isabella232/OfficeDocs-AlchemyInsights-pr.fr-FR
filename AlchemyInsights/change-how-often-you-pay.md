@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386899"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195016"
 ---
 # <a name="change-how-often-you-pay"></a>Modifier la fréquence de paiement
 
- **Vous voulez modifier la fréquence de paiement ?** Si vous souhaitez modifier la fréquence de paiement de votre abonnement Office 365 pour les entreprises, de la valeur annuelle à mensuelle ou mensuelle, nous pouvons vous aider. Vous devrez acheter le même abonnement avec la nouvelle périodicité de paiement et annuler l’ancien abonnement. Veuillez utiliser l’option «nous contacter» pour contacter un ingénieur du support technique.
+Lorsque vous achetez un abonnement, vous choisissez la facturation mensuelle ou annuelle. Pour modifier la fréquence de facturation d’un abonnement, procédez comme suit.
+
+1. Dans le centre d’administration, accédez à la page produits de la **> de facturation [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+
+2. Recherchez l’abonnement que vous souhaitez modifier. Dans la section **facturation** , à côté de **facturé mensuel** ou **facturé annuellement**, cliquez sur **modifier**.
+
+3. Choisissez l’option de fréquence de facturation, puis sélectionnez **modifier**.
