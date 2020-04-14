@@ -14,18 +14,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: da90d6d9edbfa28e230200d552aa44565b434d9e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: bece763f0408199aadbd76899b2c59a3f05e0f94
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36818964"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286312"
 ---
 # <a name="set-passwords-to-never-expire"></a>Définir les mots de passe de sorte qu’ils n’expirent jamais
 
 Pour définir tous les mots de passe de sorte qu’ils n’expirent jamais, dans le centre d’administration 365 de Microsoft, accédez à la page **paramètres** > de confidentialité de la[sécurité &amp; ](https://portal.office.com/adminportal/home#/settings/security) . Sélectionnez **modifier** en regard de **stratégie de mot de passe**, puis faites basculer le curseur **sur activé**.
   
-Pour plus d’informations, consultez la rubrique relative à [la définition de la stratégie d’expiration de mot de passe pour votre organisation.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+Pour plus d’informations, voir : 
+
+- [Définissez la stratégie d’expiration de mot de passe pour votre organisation.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Définir le mot de passe pour qu’il n’expire jamais pour des utilisateurs spécifiques](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [Définir le mot de passe pour qu’il n’expire jamais pour des utilisateurs spécifiques](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+
+- [Le mot de passe doit respecter des exigences de complexité](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

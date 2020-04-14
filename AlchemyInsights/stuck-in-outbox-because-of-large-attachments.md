@@ -13,28 +13,28 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 4f69de167dc51961fa7cf71b4d73ca7ee3ed4d55
+ms.sourcegitcommit: 57fb994ddd3854d06faa67680c971b003b06bf83
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232628"
+ms.lasthandoff: 04/13/2020
+ms.locfileid: "43241250"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Corriger les messages bloqués dans la boîte d’envoi
 
-Nous vous recommandons de commencer par exécuter le scénario [« je rencontre des problèmes lors de l’envoi, de la réception ou de la recherche de messages électroniques »](https://aka.ms/SaRA-OutlookSendReceive) à partir de l’outil de [support et de récupération Microsoft](https://diagnostics.office.com/#/) sur l’ordinateur affecté.
+Nous vous recommandons de commencer par exécuter le scénario [« je rencontre des problèmes lors de l’envoi, de la réception ou de la recherche de messages électroniques »](https://aka.ms/SaRA-OutlookSendReceive) à partir de l’outil de [support et de récupération Microsoft](https://diagnostics.office.com/#/) .
 
 Lorsqu’un message est bloqué dans votre boîte d’envoi, la cause la plus probable est une pièce jointe de grande taille ou l’option « envoyer immédiatement une fois connecté » n’est pas activée.
 
 **Supprimer la pièce jointe de grande taille**
 
-1.  > Cliquez **sur****travailler en mode hors connexion**. 
-2. Dans le volet de navigation, cliquez sur **boîte d’envoi**. À partir de là, vous pouvez : 
-    - Supprimez le message. Sélectionnez-le et cliquez sur **supprimer**.
-    - Faites glisser le message vers votre **dossier Brouillons**, double-cliquez pour ouvrir le message et supprimez la pièce jointe (cliquez dessus, puis cliquez sur **supprimer**).
-3. Si une erreur indique que Outlook tente de transmettre le message, fermez Outlook. La fermeture peut prendre quelques instants. Si Outlook ne se ferme pas, appuyez sur **Ctrl + Alt + Suppr** , puis cliquez sur **Démarrer le gestionnaire des tâches**. Dans le gestionnaire des tâches, sélectionnez l’onglet **processus** , faites défiler vers le bas jusqu’à Outlook. exe, puis cliquez sur **terminer le processus**.
-4. Après avoir fermé Outlook, redémarrez Outlook et répétez les étapes 2-3. 
-5. Après avoir supprimé la pièce jointe **, cliquez sur** > **travailler en mode hors connexion** pour désélectionner le bouton et continuer à travailler en ligne. 
+1. Dans Outlook **, sélectionnez** > **travailler en mode hors connexion**. 
+2. Dans le volet de navigation, sélectionnez **boîte d’envoi**. À partir de là, vous pouvez : 
+    - Supprimez le message (sélectionnez-le, puis sélectionnez **supprimer**).
+    - Faites glisser le message vers votre dossier Brouillons, double-cliquez dessus pour l’ouvrir, puis supprimez la pièce jointe sélectionnez-la, puis sélectionnez **supprimer**).
+3. Si vous recevez une erreur indiquant qu’Outlook tente de transmettre le message, fermez Outlook. La fermeture peut prendre quelques instants. Si Outlook ne se ferme pas, appuyez sur CTRL + ALT + SUPPR et sélectionnez **Démarrer le gestionnaire des tâches**. Dans le gestionnaire des tâches, sélectionnez l’onglet **processus** , faites défiler vers le bas jusqu’à Outlook. exe et sélectionnez **terminer le processus**.
+4. Après avoir fermé Outlook, redémarrez-le et répétez les étapes 2 et 3. 
+5. Après avoir supprimé la pièce jointe **, cliquez sur** > **travailler en mode hors connexion** pour reprendre votre travail en ligne. 
 
 Les messages sont également bloqués dans la boîte d’envoi lorsque vous cliquez sur **Envoyer**, mais vous n’êtes pas connecté. Cliquez sur **Envoyer/recevoir** , puis examinez le bouton **travailler hors connexion** . S’il est bleu, c’est que vous êtes déconnecté. Cliquez dessus pour vous connecter (le bouton active le blanc), puis cliquez sur **envoyer tout**.
  
