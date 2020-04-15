@@ -21,8 +21,8 @@ ms.locfileid: "43154230"
 ---
 # <a name="pstn-calling-plans"></a>Forfaits d’appels RTC
 
-Les appels passés à d’autres utilisateurs de Skype Entreprise et de Microsoft Teams sont gratuits, mais si vous souhaitez que les utilisateurs puissent appeler des téléphones standard et que vous n’avez pas de fournisseur de services pour passer des appels vocaux, vous devez acheter un forfait d’appels. 
+Les appels vers d’autres utilisateurs de Skype Entreprise et de Microsoft Teams sont gratuits, mais si vous souhaitez que les utilisateurs puissent appeler des téléphones standard et que vous n’avez pas de fournisseur de services pour passer des appels vocaux, vous devez acquérir la fonctionnalité Forfait d’appels. 
 
-- Pour démarrer le processus d’achat, veuillez consulter la page [Comment acheter un forfait d’appels](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Pour démarrer le processus d’achat, veuillez consulter la page [Versions de la fonctionnalité Forfait d’appel pour Office 365](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
 
-- Pour plus d’information, veuillez consulter la page [Système téléphonique et forfaits d’appels](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Si vous souhaitez en savoir plus, veuillez consulter la page [Quelle version de la fonctionnalité Forfait d’appels vous conviendrait ?](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
