@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591523"
+ms.locfileid: "43599387"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>Restreindre les autorisations de chargement vidéo par défaut
 
