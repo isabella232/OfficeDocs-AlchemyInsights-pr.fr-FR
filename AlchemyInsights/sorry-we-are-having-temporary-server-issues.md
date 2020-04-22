@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 4b90f843843416408d7f3091325fe436dc3ec9df
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627988"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764115"
 ---
 # <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Correction des applications Office « Désolé, nous rencontrons des problèmes de serveur temporaires »
 
 Si vous recevez ce message, procédez comme suit :
 
-1. Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès Internet aux applications Office. Voir [URL et plages d’adresses IP Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès Internet aux applications Office. Voir [URL et plages d’adresses IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 2. Accédez à **Démarrer** > l'**exécution**, puis tapez **services. msc**. Assurez-vous que les services suivants sont en cours d’exécution :
     - Configuration automatique des périphériques connectés au réseau
@@ -36,4 +36,4 @@ Si l’un de ces services n’est pas en cours d’exécution, essayez de le dé
 
 Une fois que cette commande est terminée, redémarrez l’ordinateur.
 
-Pour plus d’informations, consultez [la rubrique «Désolé, nous ne pouvons pas vous connecter à votre compte. Veuillez réessayer plus tard» lorsque vous activez Office à partir d’Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Pour plus d’informations, consultez [la rubrique «Désolé, nous ne pouvons pas vous connecter à votre compte. Réessayez ultérieurement» lorsque vous procédez à l’activation](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

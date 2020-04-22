@@ -1,5 +1,5 @@
 ---
-title: Basculer vers une autre offre Office 365 pour les entreprises
+title: Basculer vers un autre plan Microsoft 365 pour les entreprises
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547996"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763791"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Basculer vers une autre offre Office 365 pour les entreprises
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Basculer vers un autre abonnement Microsoft 365 pour les entreprises
 
-Lorsque votre entreprise change ou que vous avez besoin de fonctionnalités Office 365 supplémentaires, vous pouvez effectuer une mise à niveau vers un nouveau plan.
+Lorsque votre entreprise change ou que vous avez besoin de davantage de fonctionnalités, vous pouvez effectuer une mise à niveau vers un nouveau plan.
   
 1. Dans le centre d’administration, accédez **à \> facturation [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

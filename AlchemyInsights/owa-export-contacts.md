@@ -1,9 +1,9 @@
 ---
-title: '8000020: Comment exporter des contacts'
+title: '8000020 : Comment exporter des contacts'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "8000020"
 - "2003"
 ms.assetid: ''
-ms.openlocfilehash: 5a85092f4ec2463e86d0a100cfb30a3f9defa4b2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c8cc1f36b9956de76a4a217a4baaf254dddd9643
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768507"
 ---
 # <a name="export-contacts"></a>Exporter des contacts
 
@@ -26,7 +26,7 @@ ms.locfileid: "36510369"
  **Personnes**.
 2. Dans la barre d’outils, sélectionnez **gérer** > les**contacts d’exportation**. 
 3. Choisissez d’exporter tous les contacts ou uniquement les contacts d’un dossier spécifique, puis sélectionnez **Exporter**.
-4. Au bas de la page, sélectionnez **Enregistrer** pour enregistrer «contacts. csv» dans votre dossier téléchargements par défaut. Sinon, sélectionnez la flèche en regard de **Enregistrer** , puis sélectionnez **Enregistrer sous**.
+4. Au bas de la page, sélectionnez **Enregistrer** pour enregistrer « contacts. csv » dans votre dossier téléchargements par défaut. Sinon, sélectionnez la flèche en regard de **Enregistrer** , puis sélectionnez **Enregistrer sous**.
 
 Pour plus d’informations, consultez la rubrique [exporter des contacts à partir d’Outlook](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web).
 

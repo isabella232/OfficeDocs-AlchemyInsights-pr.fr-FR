@@ -10,33 +10,33 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37205407"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763215"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installation d’Office sur un serveur Terminal Server
 
-Pour déployer Office 365 ProPlus sur un serveur Windows à l’aide des services Bureau à distance (RDS), anciennement services Terminal Server :
+Pour déployer des applications Microsoft 365 pour Enterprise sur un serveur Windows à l’aide des services Bureau à distance (RDS), anciennement services Terminal Server :
   
-- Vous devez disposer d’un plan Office 365 qui inclut Office 365 ProPlus, comme Office 365 entreprise E3 ou entreprise E5. Les plans Office 365 Business et Office 365 Business Premium n’incluent pas Office 365 ProPlus.
+- Vous devez disposer d’un abonnement Microsoft 365 qui inclut les applications Microsoft 365 pour les entreprises, comme Office 365 entreprise E3 ou entreprise E5. Les applications Microsoft 365 Apps for Business et Microsoft 365 pour les offres Business Premium n’incluent pas les applications Microsoft 365 pour les entreprises.
 
 - Vous devez activer [l’activation d’ordinateurs partagés](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du centre d’administration de Microsoft 365, ***qui utilise les paramètres d’installation par défaut***, procédez comme suit.
+Si vous souhaitez installer Microsoft 365 apps pour Enterprise sur RDS à partir du centre d’administration de Microsoft 365, ***qui utilise les paramètres d’installation par défaut***, procédez comme suit.
 
 > [!TIP]
-> Vous pouvez également télécharger et exécuter l' [Assistant support et récupération Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) pour installer Office 365 ProPlus en mode d’activation d’ordinateur partagé.
+> Vous pouvez également télécharger et exécuter l' [Assistant support et récupération Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) pour installer les applications Microsoft 365 pour Enterprise en mode d’activation d’ordinateur partagé.
   
-1. Consultez la planification d’Office 365. [Découvrez comment](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Vérifiez l’abonnement Microsoft 365 que vous avez. [Découvrez comment](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Si nécessaire, passez à une autre offre Office 365. [Découvrez comment](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Si nécessaire, passez à un autre abonnement Microsoft 365. [Découvrez comment](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Si Office est déjà installé sur le serveur RDS à l’aide d’autres plans Office 365, désinstallez-le. Par exemple, en accédant à panneau \> de configuration désinstaller un programme. Désinstallation à l’aide [de l’Assistant support et récupération Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) si vous rencontrez des problèmes.
+3. Si Office est déjà installé sur le serveur RDS à l’aide d’autres abonnements Microsoft 365, désinstallez-le. Par exemple, en accédant à panneau \> de configuration désinstaller un programme. Désinstallation à l’aide [de l’Assistant support et récupération Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) si vous rencontrez des problèmes.
 
-4. Sur le serveur RDS, connectez-vous au centre d’administration Microsoft 365 avec votre compte d’administrateur et [installez Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Sur le serveur RDS, connectez-vous au centre d’administration Microsoft 365 avec votre compte d’administrateur et [Installez microsoft 365 apps pour entreprises](https://portal.office.com/OLS/MySoftware.aspx).
 
 5. Une fois Office installé, ***ne pas ouvrir ou se connecter*** à une application Office.
 
@@ -48,9 +48,9 @@ Si vous souhaitez installer Office 365 ProPlus sur RDS à partir du centre d’a
 
 3. Dans l’éditeur du Registre, ajoutez une valeur de chaîne de **SharedComputerLicensing** avec un paramètre de 1 sous HKEY_LOCAL_MACHINE \Software\Microsoft \Office\ClickToRun\Configuration.
 
-7. Sur le serveur RDS, ***Connectez-vous en tant qu’utilisateur final*** et [Vérifiez que l’activation d’ordinateurs partagés est activée pour Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Sur le serveur RDS, ***Connectez-vous en tant qu’utilisateur final*** et [Vérifiez que l’activation d’ordinateurs partagés est activée pour les applications Microsoft 365 pour entreprises](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Pour plus d’informations sur les conditions préalables, les instructions de configuration et des conseils sur les installations personnalisées à l’aide de l’outil déploiement d’Office, consultez la rubrique [Deploy office 365 ProPlus à l’aide des services Bureau à distance](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Pour plus d’informations sur les conditions préalables, les instructions de configuration et des conseils sur les installations personnalisées à l’aide de l’outil déploiement d’Office, consultez la rubrique [Deploy Microsoft 365 Apps for Enterprise by using Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Pour résoudre les erreurs liées à l’activation d’ordinateurs partagés, voir [résoudre les problèmes liés à l’activation d’ordinateurs partagés pour Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Pour résoudre les erreurs liées à l’activation d’ordinateurs partagés, consultez la rubrique [Troubleshoot Problems with Shared Computer activation for Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

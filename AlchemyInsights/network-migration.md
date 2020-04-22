@@ -2,7 +2,7 @@
 title: Migration réseau
 ms.author: pebaum
 author: pebaum
-ms.date: 7/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734703"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761812"
 ---
 # <a name="network-migration"></a>Migration réseau
 
-Votre client O365 est probablement associé à plusieurs réseaux Yammer dans un client 1 : de nombreuses configurations réseau. À partir du 16 octobre 2018, Yammer ne prend plus en charge plusieurs réseaux Yammer associés à un client Office 365. Vous pouvez effectuer une migration réseau pour accéder à une configuration par défaut de 1:1.
+Votre client O365 est probablement associé à plusieurs réseaux Yammer dans un client 1 : de nombreuses configurations réseau. À partir du 16 octobre 2018, Yammer ne prend plus en charge plusieurs réseaux Yammer associés à un client. Vous pouvez effectuer une migration réseau pour accéder à une configuration par défaut de 1:1.
   
-- Pour afficher la liste des réseaux associés à votre client, connectez-vous à yammer en tant qu’administrateur général Office 365 et accédez à administrateur **réseau**, puis **migration réseau**. Cliquez sur **Suivant**.
+- Pour afficher la liste des réseaux associés à votre client, connectez-vous à yammer en tant qu’administrateur général et accédez à administrateur **réseau**, puis **migration réseau**. Cliquez sur **Suivant**.
 
 - Si plusieurs réseaux sont affichés à l’étape 2 sur 3, cela signifie que vous avez plusieurs réseaux Yammer associés à votre client O365.
 
