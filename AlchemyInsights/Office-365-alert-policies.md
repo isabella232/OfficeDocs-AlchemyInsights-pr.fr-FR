@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661294"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687616"
 ---
-# <a name="office-365-alert-policies"></a>Stratégies d’alerte Office 365
+# <a name="alert-policies"></a>Stratégies d’alerte
 
-Le centre de sécurité & conformité Office 365 propose des [stratégies d’alerte par défaut](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) qui déclenchent des alertes pour les organisations disposant d’un abonnement Office 365 Enterprise ou Office 365 Government gouvernement E1/G1, E3/G3 ou E5/G5. Par conséquent, les administrateurs peuvent recevoir une notification par courrier électronique d’alerte envoyée par Office365Alerts@microsoft.com avec une ligne d’objet telle que « alerte de faible gravité : *nom de la stratégie d’alerte*». Les notifications d’alerte sont envoyées lorsque des alertes sont déclenchées pour des activités courantes, comme quand les utilisateurs :
+Le centre de sécurité & conformité Microsoft 365 propose des [stratégies d’alerte par défaut](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) qui déclenchent des alertes pour les organisations disposant d’un abonnement Office 365 Enterprise ou Office 365 Government gouvernement E1/G1, E3/G3 ou E5/G5. Par conséquent, les administrateurs peuvent recevoir une notification par courrier électronique d’alerte envoyée par Office365Alerts@microsoft.com avec une ligne d’objet telle que « alerte de faible gravité : *nom de la stratégie d’alerte*». Les notifications d’alerte sont envoyées lorsque des alertes sont déclenchées pour des activités courantes, comme quand les utilisateurs :
 
 - Créer des règles de boîte de réception qui transfèrent le courrier électronique.
 - Attribuer des autorisations à leur boîte aux lettres.

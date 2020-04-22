@@ -3,7 +3,7 @@ title: 1245-Import-PST-services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496343"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687760"
 ---
-# <a name="office-365-import-service"></a>Service d’importation Office 365
+# <a name="microsoft-365-import-service"></a>Service d’importation Microsoft 365
 
-Le service d’importation Office 365 vous permet d’importer en bloc plusieurs fichiers PST dans des boîtes aux lettres Exchange Online.
+Le service d’importation Microsoft 365 vous permet d’importer en bloc plusieurs fichiers PST dans des boîtes aux lettres Exchange Online.
 
-Pour accéder au service d’importation et démarrer le processus d’importation:
+Pour accéder au service d’importation et démarrer le processus d’importation :
 
-1. Accédez au [Centre de sécurité & conformité](https://protection.office.com) et connectez-vous à l’aide des informations d’identification d’un compte d’administrateur de votre organisation Office 365.
+1. Accédez au [Centre de sécurité & conformité](https://protection.office.com) et connectez-vous à l’aide des informations d’identification d’un compte d’administrateur de votre organisation.
 
 2. Dans le volet gauche du **Centre de sécurité & conformité**, cliquez sur **administration des données > importer**.
 

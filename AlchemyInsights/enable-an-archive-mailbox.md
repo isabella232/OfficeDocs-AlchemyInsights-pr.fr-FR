@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132609"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703677"
 ---
 # <a name="enable-an-archive-mailbox"></a>Activer une boîte aux lettres d’archivage
 
@@ -25,7 +25,7 @@ Voici comment créer une boîte aux lettres d’archivage :
   
 1. Accédez à [https://protection.office.com](https://protection.office.com).
 
-2. Connectez-vous à Office 365 à l’aide de votre compte d’administrateur.
+2. Connectez-vous à Microsoft 365 à l’aide de votre compte d’administrateur.
 
 3. Dans le volet gauche du centre de &amp; sécurité conformité, sélectionnez **Information governance** \> **Archive**de gouvernance des informations.
 
@@ -51,6 +51,6 @@ Pour activer l’archivage pour une boîte aux lettres partagée :
 
 Si vous souhaitez en savoir plus, consultez les articles : 
   
-- [Activer les boîtes aux lettres d’archivage dans Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Activer des boîtes aux lettres d’archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Configurer une stratégie d’archivage et de suppression dans Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Configurer une stratégie d’archivage et de suppression](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

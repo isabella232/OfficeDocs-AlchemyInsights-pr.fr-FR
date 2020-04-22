@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053907"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692871"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Message d’avertissement : les stratégies de votre organisation ne vous permettent pas de partager avec ces utilisateurs
 
-Les utilisateurs peuvent être confronté à un message d’avertissement lors d’une tentative de partage avec des utilisateurs externes de votre organisation. Le message indique **que les stratégies de votre organisation ne vous permettent pas de partager avec ces utilisateurs. Accédez au partage externe dans le centre d’administration Office 365 pour l’activer**. Cela se produit souvent lors de la tentative initiale de partage avec des utilisateurs externes ou lors du partage avec des utilisateurs externes.
+Les utilisateurs peuvent être confronté à un message d’avertissement lors d’une tentative de partage avec des utilisateurs externes de votre organisation. Le message indique **que les stratégies de votre organisation ne vous permettent pas de partager avec ces utilisateurs. Accédez à partage externe dans le centre d’administration Microsoft 365 pour l’activer**. Cela se produit souvent lors de la tentative initiale de partage avec des utilisateurs externes ou lors du partage avec des utilisateurs externes.
 
 Vérifiez les **paramètres de partage externe de OneDrive et de SharePoint** pour votre organisation.
 

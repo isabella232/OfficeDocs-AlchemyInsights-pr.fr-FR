@@ -3,7 +3,7 @@ title: DLP ne fonctionne pas comme prévu
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,16 +13,16 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 574a8a43d8264e98c6af2bfeb1bb472475e6e334
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704411"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP ne fonctionne pas comme prévu
 
-**Important** : dans cette situation sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint Online et OneDrive demeurent très disponibles – Veuillez consulter [Ajustements temporaire des fonctionnalités SharePoint Online](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
+**Important**: En ces temps sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint en ligne et OneDrive demeurent très disponibles – Veuillez consulter [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
 
  **Configuration de DLP**
 
@@ -32,7 +32,7 @@ Les stratégies DLP vous permettent d’identifier et de protéger les informati
   
  **Stratégies DLP**
   
-Lors de l’utilisation des **types d’informations sensibles intégrés** dans le centre de sécurité et de conformité Office 365, les stratégies DLP recherchent des éléments et des modèles spécifiques lors de la détection de ces types sensibles.
+Lors de l’utilisation des **types d’informations sensibles intégrés** dans les centres de sécurité et de conformité, les stratégies DLP recherchent des éléments et des modèles spécifiques lors de la détection de ces types sensibles.
   
 - **Types d’informations sensibles intégrés**
 

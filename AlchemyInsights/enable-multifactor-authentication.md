@@ -2,7 +2,7 @@
 title: Activer l’authentification multifacteur
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,18 +16,18 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527469"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703460"
 ---
 # <a name="enable-multi-factor-authentication"></a>Activer l’authentification multifacteur
 
-Pour activer l’authentification multifacteur dans le centre d’administration 365 de Microsoft:
+Pour activer l’authentification multifacteur dans le centre d’administration 365 de Microsoft :
 
-1. Accédez à la **** \> page utilisateurs **actifs** .
+1. Accédez **à la** \> page utilisateurs **actifs** .
     
 2. En haut de la page, sélectionnez **Multi-Factor Authentication**. 
     

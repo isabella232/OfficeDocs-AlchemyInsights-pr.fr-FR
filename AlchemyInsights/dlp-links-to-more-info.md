@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977472"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704523"
 ---
 # <a name="information-about-dlp-issues"></a>Informations sur les problèmes liés à DLP
 
-**Important** : dans cette situation sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint Online et OneDrive demeurent très disponibles – Veuillez consulter [Ajustements temporaire des fonctionnalités SharePoint Online](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
+**Important**: En ces temps sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint en ligne et OneDrive demeurent très disponibles – Veuillez consulter [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
 
 **Informations sur la stratégie DLP**
 
-Avec une stratégie DLP, vous pouvez identifier, surveiller et protéger automatiquement les informations sensibles dans Office 365.
+Avec une stratégie DLP, vous pouvez identifier, surveiller et protéger automatiquement les informations sensibles dans Microsoft 365.
 
 Pour plus d’informations, consultez les liens suivants :
 

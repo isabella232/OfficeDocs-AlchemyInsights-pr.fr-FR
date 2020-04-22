@@ -1,5 +1,5 @@
 ---
-title: Configurer DKIM dans Office 365
+title: Configurer DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,38 +9,38 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666262"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645670"
 ---
-# <a name="setup-dkim-in-office-365"></a>Configurer DKIM dans Office 365
+# <a name="setup-dkim"></a>Configurer DKIM
 
-[Voici](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)les instructions complètes de configuration de DKIM pour les domaines personnalisés dans Office 365.
+Les instructions complètes de configuration de DKIM pour les domaines personnalisés dans Microsoft 365 [sont les](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)mêmes.
 
-1. Pour **chaque** domaine personnalisé, vous devez créer **deux** enregistrements CNAME DKIM au niveau du service d’hébergement DNS de votre domaine (généralement, le Bureau d’enregistrement de domaines). Par exemple, contoso.com et fourthcoffee.com requièrent quatre enregistrements CNAMe DKIM: deux pour contoso.com et deux pour fourthcoffee.com.
+1. Pour **chaque** domaine personnalisé, vous devez créer **deux** enregistrements CNAME DKIM au niveau du service d’hébergement DNS de votre domaine (généralement, le Bureau d’enregistrement de domaines). Par exemple, contoso.com et fourthcoffee.com requièrent quatre enregistrements CNAMe DKIM : deux pour contoso.com et deux pour fourthcoffee.com.
 
-   Les enregistrements CNAMe DKIM pour **chaque** domaine personnalisé utilisent les formats suivants:
+   Les enregistrements CNAMe DKIM pour **chaque** domaine personnalisé utilisent les formats suivants :
 
-   - **Nom**de l’hôte:`selector1._domainkey.<CustomDomain>`
+   - **Nom**de l’hôte :`selector1._domainkey.<CustomDomain>`
 
      **Pointe vers l’adresse ou la valeur**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   - **Nom**de l’hôte:`selector2._domainkey.<CustomDomain>`
+   - **Nom**de l’hôte :`selector2._domainkey.<CustomDomain>`
 
      **Pointe vers l’adresse ou la valeur**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> est le texte à gauche de `.mail.protection.outlook.com` dans l’enregistrement MX personnalisé pour le domaine personnalisé (par exemple, `contoso-com` pour le domaine contoso.com). \<InitialDomain\> est le domaine que vous avez utilisé lorsque vous vous êtes inscrit à Office 365 (par exemple, contoso.onmicrosoft.com).
+   \<DomainGUID\> est le texte à gauche de `.mail.protection.outlook.com` dans l’enregistrement MX personnalisé pour le domaine personnalisé (par exemple, `contoso-com` pour le domaine contoso.com). \<InitialDomain\> est le domaine que vous avez utilisé lorsque vous vous êtes inscrit à Microsoft 365 (par exemple, contoso.onmicrosoft.com).
 
-2. Une fois que vous avez créé les enregistrements CNAMe pour vos domaines personnalisés, procédez comme suit:
+2. Une fois que vous avez créé les enregistrements CNAMe pour vos domaines personnalisés, procédez comme suit :
 
-   a. [Connectez-vous à Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) à l'aide de votre compte professionnel ou scolaire.
+   a. [Connectez-vous à Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) avec votre compte professionnel ou scolaire.
 
    b. Sélectionnez l’icône du lanceur d’applications située en haut à gauche et choisissez **Administrateur**.
 

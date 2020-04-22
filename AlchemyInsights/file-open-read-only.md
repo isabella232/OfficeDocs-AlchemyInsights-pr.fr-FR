@@ -3,7 +3,7 @@ title: Fichier ouvert en lecture seule
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702772"
 ---
 # <a name="file-open-read-only"></a>Fichier ouvert en lecture seule
 
@@ -37,7 +37,7 @@ Les fichiers provenant d’Internet et d’autres emplacements potentiellement d
   
  **OneDrive est-il plein ?**
   
-Si le fichier est stocké sur OneDrive et que votre espace de stockage OneDrive est plein, vous ne pourrez pas enregistrer le document tant que vous n’aurez pas sous votre espace alloué. Vous pouvez vérifier votre espace libre sur OneDrive en cliquant sur l’icône OneDrive dans le centre de notification et en sélectionnant gérer le stockage, [http://onedrive.live.com](http://onedrive.live.com)ou vous pouvez accéder à, vous connecter et noter la quantité d’espace utilisé dans le coin inférieur gauche de l’écran.
+Si le fichier est stocké sur OneDrive et que votre espace de stockage OneDrive est plein, vous ne pourrez pas enregistrer le document tant que vous n’aurez pas sous votre espace alloué. Vous pouvez vérifier votre espace libre sur OneDrive en cliquant sur l’icône OneDrive dans le centre de notification et en sélectionnant gérer le stockage, [https://onedrive.live.com](https://onedrive.live.com)ou vous pouvez accéder à, vous connecter et noter la quantité d’espace utilisé dans le coin inférieur gauche de l’écran.
   
  **Office est-il activé ?**
   

@@ -2,18 +2,18 @@
 title: Restreindre l’accès dans SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053763"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692763"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restreindre l’accès dans SharePoint ou OneDrive
 
@@ -31,7 +31,7 @@ Dans SharePoint Online et OneDrive entreprise, nous restreignons l’accès à d
 
 - [Contrôler l’accès depuis des appareils enregistrés](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-En tant qu’administrateur SharePoint ou global dans Office 365, vous pouvez bloquer ou limiter l’accès au contenu SharePoint et OneDrive à partir d’appareils non gérés (ceux qui ne sont pas des services AD hybrides ou conformes dans Intune).
+En tant qu’administrateur SharePoint ou global, vous pouvez bloquer ou limiter l’accès au contenu SharePoint et OneDrive à partir d’appareils non gérés (ceux qui ne sont pas des services AD hybrides ou conformes dans Intune).
 
 **Restriction d’emplacement réseau**
 
@@ -43,5 +43,5 @@ Dans SharePoint Online, vous avez la possibilité de verrouiller une collection 
 
 **Empêcher les utilisateurs de créer des sites ou des sous-sites**
 
-En tant qu’administrateur SharePoint ou administrateur général Office 365, vous pouvez permettre à vos utilisateurs de créer et d’administrer leurs propres sites SharePoint, de déterminer le type de sites qu’ils peuvent créer et de spécifier l’emplacement des sites. Pour plus d’informations, consultez la rubrique [gérer la création de sites dans SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation) .
+En tant qu’administrateur SharePoint ou administrateur général, vous pouvez permettre à vos utilisateurs de créer et d’administrer leurs propres sites SharePoint, de déterminer le type de sites qu’ils peuvent créer et de spécifier l’emplacement des sites. Pour plus d’informations, consultez la rubrique [gérer la création de sites dans SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation) .
 
