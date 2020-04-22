@@ -2,7 +2,7 @@
 title: Code d’erreur 550 accès refusé 5.7.501, courrier indésirable détecté
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740139"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703024"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="6ff3f-102">550 5.7.501 accès refusé, indésirable de courrier indésirable détecté</span><span class="sxs-lookup"><span data-stu-id="6ff3f-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="b5352-102">550 5.7.501 accès refusé, indésirable de courrier indésirable détecté</span><span class="sxs-lookup"><span data-stu-id="b5352-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="6ff3f-103">En règle générale, ce message s’affiche lorsque les utilisateurs envoient des messages électroniques à partir d’adresses IP à l’aide du domaine initial *. onmicrosoft.com* attribué aux nouveaux clients dans Office 365.</span><span class="sxs-lookup"><span data-stu-id="6ff3f-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="6ff3f-104">La manière la plus simple de résoudre ce problème est la suivante :</span><span class="sxs-lookup"><span data-stu-id="6ff3f-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="b5352-103">En règle générale, ce message s’affiche lorsque les utilisateurs envoient des messages électroniques à partir d’adresses IP à l’aide du domaine initial *. onmicrosoft.com* attribué aux nouveaux clients dans Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b5352-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Microsoft 365.</span></span> <span data-ttu-id="b5352-104">La manière la plus simple de résoudre ce problème est la suivante :</span><span class="sxs-lookup"><span data-stu-id="b5352-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="6ff3f-105">[Ajoutez un domaine à votre client](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="6ff3f-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
+1. <span data-ttu-id="b5352-105">[Ajoutez un domaine à votre client](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="b5352-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="6ff3f-106">[Modifiez l’adresse de messagerie principale de vos utilisateurs](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) sur le nouveau domaine personnalisé que vous venez d’ajouter.</span><span class="sxs-lookup"><span data-stu-id="6ff3f-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="b5352-106">[Modifiez l’adresse de messagerie principale de vos utilisateurs](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) sur le nouveau domaine personnalisé que vous venez d’ajouter.</span><span class="sxs-lookup"><span data-stu-id="b5352-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
