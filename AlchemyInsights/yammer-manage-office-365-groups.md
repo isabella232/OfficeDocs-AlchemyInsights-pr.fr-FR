@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0257be866d6f6c654a28a4109ca7c9e6c34fc376
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715846"
 ---
 # <a name="manage-office-365-groups-in-yammer"></a>Gérer les groupes Office 365 dans Yammer
 
@@ -30,4 +30,4 @@ Voici quelques réponses aux problèmes les plus fréquents avec les groupes Off
 
   2. Accédez à **administrateur réseau, paramètre de sécurité**et assurez-vous que l' **identité Office 365** est appliquée pour les utilisateurs de Yammer.
 
-Pour plus d’informations sur les groupes Office 365 et Yammer, consultez les [groupes Yammer et office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Pour plus d’informations sur la gestion d’un groupe, voir [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) .
+Pour plus d’informations sur les groupes Office 365 et Yammer, consultez les [groupes Yammer et office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Pour plus d’informations sur la gestion d’un groupe, voir [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2) .

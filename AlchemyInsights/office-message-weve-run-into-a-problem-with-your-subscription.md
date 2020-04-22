@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 28e72f734d4b1c9abefa3d9c7cefad4eb95d7c93
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182661"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713248"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Message sur les applications Office : Désolé... Nous avons rencontré un problème lié à votre abonnement
 
@@ -26,7 +26,7 @@ ms.locfileid: "43182661"
 
 - Supprimez et [Attribuez la licence Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) pour l’utilisateur concerné. 
 
-- Ouvrez une application Office, accédez à **Fichier > Compte**, puis déconnectez-vous de tous les comptes. Reconnectez-vous à l’aide d’un compte d’utilisateur disposant d’une licence valide. Si vous souhaitez en savoir plus, consultez l’article [Les comptes dans Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Ouvrez une application Office, accédez à **Fichier > Compte**, puis déconnectez-vous de tous les comptes. Reconnectez-vous à l’aide d’un compte d’utilisateur disposant d’une licence valide. Si vous souhaitez en savoir plus, consultez l’article [Les comptes dans Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Exécutez l’[Utilitaire de résolution des problèmes liés à l’activation](https://aka.ms/SARA-OfficeActivation-Alchemy) et redémarrez l’ordinateur.
 

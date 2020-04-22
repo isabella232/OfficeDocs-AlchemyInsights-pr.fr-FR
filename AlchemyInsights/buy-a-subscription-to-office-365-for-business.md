@@ -1,5 +1,5 @@
 ---
-title: Acheter un abonnement à Office 365 pour les entreprises
+title: Acheter un abonnement à Microsoft 365 pour les entreprises à partir de votre version d’évaluation gratuite
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218121"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712205"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Acheter un abonnement à Office 365 pour les entreprises
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Acheter un abonnement à Microsoft 365 à partir de votre version d’évaluation gratuite
 
-Vous avez essayé Office 365 et vous êtes maintenant prêt à l’acheter. Deux options s'offrent à vous lorsque vous achetez Office 365 à partir de votre version d'évaluation :
+Vous avez essayé Microsoft 365 et vous êtes maintenant prêt à acheter. Deux options s’offrent à vous lorsque vous achetez Microsoft 365 à partir de votre version d’évaluation :
   
  **Acheter la même offre que votre version d’évaluation**
   
@@ -35,7 +35,7 @@ Vous avez essayé Office 365 et vous êtes maintenant prêt à l’acheter. Deu
 
 3. Recherchez l’abonnement que vous souhaitez acheter, sélectionnez **acheter**, puis suivez les étapes d’extraction.
 
-Pour en savoir plus, consultez [la rubrique acheter un abonnement à Office 365 pour les entreprises à partir de votre version d’évaluation gratuite](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Pour en savoir plus, consultez [la rubrique acheter un abonnement à Microsoft 365 pour les entreprises à partir de votre version d’évaluation gratuite](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Résolution des problèmes**
 

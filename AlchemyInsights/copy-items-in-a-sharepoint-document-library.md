@@ -3,7 +3,7 @@ title: Copier des éléments dans une bibliothèque de documents SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: fa9be5b2b929b62d1383176c6c30c6bc9ecb1859
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711790"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715702"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Copier des éléments dans une bibliothèque de documents SharePoint
 
@@ -39,7 +39,7 @@ ms.locfileid: "38711790"
 > [!NOTE]
 > Vous pouvez copier jusqu’à 500 Mo de fichiers et dossiers à la fois. > lorsque vous utilisez la fonction **Copier vers** avec des documents qui ont un historique des versions, seule la dernière version est copiée.
   
-Pour plus d’informations, voir :
+Si vous souhaitez en savoir plus, consultez les articles : 
 
  - [Déplacer ou copier des fichiers dans SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (article de support Office)
- - [Déplacer des fichiers à partir de n’importe quel dossier dans Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (article du blog de la communauté Microsoft Tech)   
+ - [Déplacer des fichiers à partir de n’importe quel dossier](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (article de blog de la communauté Microsoft Tech)   

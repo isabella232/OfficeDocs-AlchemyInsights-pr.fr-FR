@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 237121fa451fb9a05ca5ca496b92e743730656ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600598"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714732"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Découverte électronique dans les réseaux Yammer
 
-Vous pouvez désormais effectuer des recherches de découverte électronique pour du contenu Yammer dans Office 365.  Pour effectuer des recherches eDiscovery ou des exportations sur du contenu Yammer, vous devez :
+Vous pouvez désormais effectuer des recherches de découverte électronique pour le contenu Yammer.  Pour effectuer des recherches eDiscovery ou des exportations sur du contenu Yammer, vous devez :
 
-1. Vous devez d’abord migrer votre réseau d’entreprise Yammer vers le mode natif pour pouvoir détecter vos messages et fichiers Yammer. **Remarque : Si vous êtes un nouveau client Office 365 à compter du 1er janvier 2020 et que votre réseau Yammer est déjà en mode natif, vos données sont désormais détectables avec eDiscovery**.
+1. Vous devez d’abord migrer votre réseau d’entreprise Yammer vers le mode natif pour pouvoir détecter vos messages et fichiers Yammer. **Remarque : Si vous êtes un nouveau client de Jan. 9 2020 et que votre réseau Yammer est déjà en mode natif, vos données sont désormais détectables avec eDiscovery**.
 
 2. Pour quitter les clients, eDiscovery pour Yammer est disponible une fois l’outil d’alignement en mode natif publié et la migration en mode natif se termine pour Yammer dans le client.
 
@@ -30,4 +30,4 @@ Pour plus d’informations sur :
 
 - Mode natif dans Yammer, voir : [vue d’ensemble du mode natif](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
 - Découverte électronique dans les réseaux Yammer, voir : [vue d’ensemble de la fonctionnalité eDiscovery dans les réseaux Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery dans Office 365, consultez la rubrique [eDiscovery dans office 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- eDiscovery dans Microsoft 365, consultez la rubrique [eDiscovery dans microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

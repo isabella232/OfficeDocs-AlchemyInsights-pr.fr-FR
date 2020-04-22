@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 2017b2d50b7170a6435ad8119b2a72f6066f89fa
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: cb9fef505e35e9d5888ab995d5cd3a43392b682f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554397"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713536"
 ---
-# <a name="office-365-multi-geo"></a>Office 365 multigéographique
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 multi-géo
 
-Avec Office 365 multigéographique, votre organisation peut étendre sa présence Office 365 à plusieurs régions ou pays au sein de votre client existant. Pour plus d’informations, consultez les liens ci-dessous.
+Avec Microsoft 365 multi-géo, votre organisation peut étendre sa présence Microsoft 365 à plusieurs régions géographiques et/ou pays au sein de votre client existant. Pour plus d’informations, consultez les liens ci-dessous.
 
-- [Office 365 Multi-Géo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Microsoft 365 multi-géo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
 - [Fonctionnalités multigéographiques dans OneDrive et SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
 - [Fonctionnalités multi-localisés dans Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
-- [Planifier le déploiement d’Office 365 multigéographique](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Planification de Microsoft 365 multi-géo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
 - [Configurer multi-géo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

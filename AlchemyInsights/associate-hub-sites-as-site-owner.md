@@ -3,7 +3,7 @@ title: Associer des sites hub en tant que propriétaire de site
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: ecf505a0a3a7851c919f3949321c6b048b904780
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122472"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712492"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>Associer des sites hub en tant que propriétaire de site
 
 [Centre de messages 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) partagé Comment rejoindre un concentrateur SharePoint peut maintenant être effectué par les propriétaires du site. Si votre organisation souhaite gérer des personnes spécifiques pouvant être associées à un concentrateur, procédez comme suit : 
 
-1. Connectez-vous à Office 365[https://portal.office.com](https://portal.office.com)() avec des droits d’administrateur.
+1. Connectez-vous à[https://portal.office.com](https://portal.office.com)() avec des droits d’administrateur.
 2. Sélectionnez le **lanceur d’applications** (icône avec neuf carrés) en haut à gauche de l’écran, puis sélectionnez **administrateur**.
 3. Sélectionnez **Centre d’administration** dans le menu situé à gauche de l’écran, puis sélectionnez **SharePoint**.
 4. À partir de la bannière bleue en haut de l’écran, sélectionnez **lancer l’application maintenant** pour afficher le nouveau centre d’administration SharePoint.

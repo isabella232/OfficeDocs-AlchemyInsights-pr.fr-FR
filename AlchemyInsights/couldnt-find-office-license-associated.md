@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627916"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715630"
 ---
 # <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Correction des applications Office « impossible de trouver les licences Office associées » message
 
 Si vous recevez ce message, procédez comme suit :
 
-1. Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès Internet aux applications Office. Voir [URL et plages d’adresses IP Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès Internet aux applications Office. Voir [URL et plages d’adresses IP Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Supprimez et [réaffectez la licence Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) pour l’utilisateur concerné. 
 3. Ouvrez une application Office et [déconnectez-vous](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) de tous les comptes d’utilisateurs existants.
 4. Accédez à paramètres **Windows >** > comptes de **& de messagerie**et supprimez tous les comptes de travail sauf le compte affecté.

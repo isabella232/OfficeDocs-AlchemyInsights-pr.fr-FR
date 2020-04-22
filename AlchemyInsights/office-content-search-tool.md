@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053475"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713284"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Outil de recherche de contenu pour trouver des informations pertinentes
 
@@ -26,6 +26,6 @@ Avant d’utiliser la [recherche de contenu](https://sip.protection.office.com/c
 
 En savoir plus sur la recherche de contenu en examinant les [exigences et les limites](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), en examinant les [éléments partiellement indexés](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) et d’autres résultats à prendre en compte.
 
-Une fois que vous avez vérifié les paramètres de configuration et les restrictions de la recherche de contenu, reportez-vous à la rubrique [utilisation de la</a> recherche de contenu pour rechercher des éléments sur place tels que des courriers électroniques, des documents et des conversations de messagerie instantanée dans votre organisation Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Après avoir consulté les paramètres de configuration et les restrictions de la recherche de contenu, reportez-vous à la rubrique [utilisation de la</a> recherche de contenu pour rechercher des éléments sur place, tels que des courriers électroniques, des documents et des conversations de messagerie instantanée dans votre organisation](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Pour obtenir une étape par étape de la recherche de contenu, voir [Rechercher du contenu dans Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) pour plus d’informations.

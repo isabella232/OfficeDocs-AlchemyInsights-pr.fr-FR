@@ -3,7 +3,7 @@ title: Identification de l’adresse IP et du client dans les journaux d’audit
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539027"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716386"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identification de l’adresse IP et du client dans les journaux d’audit
 
-L’adresse IP qui correspond à une activité par un utilisateur ou un administrateur Office 365 est affichée dans les journaux d’audit. Les informations sur le client sont également consignées. Voici les étapes à suivre pour identifier ces informations
+L’adresse IP correspondant à une activité par un utilisateur ou un administrateur Microsoft 365 est affichée dans les journaux d’audit. Les informations sur le client sont également consignées. Voici les étapes à suivre pour identifier ces informations
 
-1. Connectez-vous au [Centre de sécurité & conformité Office 365](https://protection.office.com/).
+1. Connectez-vous au [Centre de conformité & Microsoft 365 Security](https://protection.office.com/).
 
 2. Accédez à la page de**recherche du journal d’audit** de la **recherche** > .
 

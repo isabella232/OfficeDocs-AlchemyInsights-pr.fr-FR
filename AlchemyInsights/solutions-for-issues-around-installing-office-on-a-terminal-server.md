@@ -3,41 +3,34 @@ title: Solutions pour les problèmes relatifs à l’installation d’Office sur
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: da69592fd0f55a4bfce45d271aeca5cde1f659b2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36501473"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712672"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Solutions pour les problèmes relatifs à l’installation d’Office sur un serveur Terminal Server
 
-Pour utiliser l’activation d’ordinateurs partagés, vous devez disposer d’un plan Office 365 qui inclut Office 365 ProPlus.
+Pour utiliser l’activation d’ordinateurs partagés, vous devez disposer d’un abonnement incluant les applications Microsoft 365 pour entreprises.
   
-- Vérifiez que l’activation d’ordinateurs partagés est mise en place pour Office 365 ProPlus
-    
-- Vérifiez que l’activation d’Office 365 ProPlus a été effectuée
-    
+- Vérifier que l’activation d’ordinateurs partagés est activée
+- Vérifier que l’activation a réussi
 - Examinez les messages d’erreur pour l’activation d’ordinateurs partagés :
-    
-  - « Les produits que nous avons trouvés dans votre compte ne peuvent pas être utilisés pour activer Office dans les scénarios d’ordinateur partagé »
+- « Les produits que nous avons trouvés dans votre compte ne peuvent pas être utilisés pour activer Office dans les scénarios d’ordinateur partagé »
   
-Cette erreur signifie que vous n’avez pas de plan Office 365 incluant Office 365 ProPlus.
-    
-  - « Produit sans licence »
-    
-  - Vérifiez que la licence de l’utilisateur est attribuée à Office 365 ProPlus.
-    
-  - Vérifier que l’utilisateur se connecte avec son compte d’utilisateur pour Office 365
-    
-  - Vérifiez qu’il existe une connectivité entre l’ordinateur partagé et Internet.
-    
-Pour d’autres conseils de résolution des problèmes, reportez-vous à la rubrique : [Troubleshoot Problems with Shared Computer activation for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
-  
+Cette erreur signifie que vous n’avez pas d’abonnement incluant les applications Microsoft 365 pour Enterprise.
 
+« Produit sans licence »
+
+- Vérifiez que l’utilisateur se voit attribuer une licence pour les applications Microsoft 365 pour entreprises.
+- Vérifiez que l’utilisateur se connecte à l’aide de son compte d’utilisateur.
+- Vérifiez qu’il existe une connectivité entre l’ordinateur partagé et Internet.
+
+Pour d’autres conseils de résolution des problèmes, voir : [résoudre les problèmes liés à l’activation d’ordinateurs partagés](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
