@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: d03f9cd62a1867619f0b7ed8f449ff638164a836
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 2e3f9b789db6d8e581440c6decc4a1ea748eabf6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744605"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709657"
 ---
-# <a name="activating-windows-10-subscriptions"></a>Activation des abonnements Windows 10
+# <a name="activating-windows-10-subscriptions"></a>Activation des abonnements Windows 10
 
-Microsoft 365 Business, Microsoft 365 éducation, Microsoft 365 et Enterprise fournissent des licences numériques pour Windows 10 dans le cadre de l’abonnement. Pour activer l’abonnement, votre appareil doit déjà avoir activé Windows 10 Pro (1703 ou version ultérieure). Pour afficher une liste complète des conditions requises pour activer un abonnement Windows 10, voir [Configuration requise pour l’activation d’abonnement Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).
+Microsoft 365 Business Premium, Microsoft 365 éducation, Microsoft 365 et Enterprise fournissent des licences numériques pour Windows 10 dans le cadre de l’abonnement. Pour activer l’abonnement, votre appareil doit déjà fonctionner avec une version activée de Windows 10 Professionnel (1703 ou version ultérieure). Pour afficher une liste complète des conditions requises pour activer un abonnement Windows 10, voir [Configuration requise pour l’activation d’abonnement Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).
