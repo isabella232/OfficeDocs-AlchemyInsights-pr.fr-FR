@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737114"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708353"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Étapes de dépannage de blocage Outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>Étapes de dépannage d’incident Outlook
 
-Si vous rencontrez des problèmes liés au blocage du Bureau Outlook, commencez par suivre les trois étapes ci-dessous, qui sont toutes répertoriées en détail dans cet article : [Comment résoudre les problèmes liés à Outlook pour se bloquer ou cesser de répondre lorsqu’ils sont utilisés avec Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Si vous rencontrez des problèmes liés au blocage du Bureau Outlook, commencez par suivre les trois étapes ci-dessous, qui sont toutes répertoriées en détail dans cet article : [Comment résoudre les problèmes liés à Outlook pour se bloquer ou cesser de répondre.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Étape 1 : enquêter sur les problèmes possibles avec les compléments.
   
@@ -30,5 +30,5 @@ Si vous rencontrez des problèmes liés au blocage du Bureau Outlook, commencez 
   
 Étape 3 : créez un nouveau profil Outlook ou exécutez l' [outil de profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) sur l’ordinateur affecté.
   
-Si le problème est survenu après une mise à jour et si les étapes ci-dessus ne fonctionnent pas, vous devrez peut-être revenir à une version précédente. Découvrez [Comment revenir à une version antérieure d’Office 2016 « démarrer en un clic »](https://support.microsoft.com/help/2770432).
+Si le problème s’est produit après une mise à jour et si les étapes décrites ci-dessus ne fonctionnent pas, il se peut que vous deviez revenir à une build précédente. Découvrez [Comment revenir à une version antérieure d’Office 2016 « démarrer en un clic »](https://support.microsoft.com/help/2770432).
   

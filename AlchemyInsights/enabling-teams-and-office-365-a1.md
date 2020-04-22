@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: d1625793baf17749415abc304d16e885ffffeeea
-ms.sourcegitcommit: 5aa4a4f40cf064f0cdb944ef35054719e87eeda3
+ms.openlocfilehash: 08a6cb319b3aea720178a8ef988482140fc44856
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42699623"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703316"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Activer Teams et Office 365 A1
 
@@ -25,6 +25,3 @@ Si vous avez un client EDU, vous devez activer Microsoft Teams manuellement. Pou
 **Important** : vous devrez peut-être patienter 24 heures pour que vos modifications prennent effet. 
 
 En savoir plus sur [l’enseignement à distance et les formations dans Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), des conseils informatiques dans [Prise en main de Microsoft Teams pour l’apprentissage à distance](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) et [Transition vers l’apprentissage à distance](https://www.microsoft.com/education/remote-learning).
-
- 
-

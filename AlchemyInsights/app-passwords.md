@@ -3,7 +3,7 @@ title: Mots de passe d’application 500
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 735e8f1db5107b502c5624689cb38abfbec04502
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517785"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707837"
 ---
 # <a name="app-passwords"></a>Mots de passe d’application
 
-Un mot de passe d’application est un code qui donne à une application ou à un appareil l’autorisation d’accéder à votre compte professionnel ou scolaire Office 365. Si votre compte nécessite l’authentification multifacteur (MFA) et que l’application se connecte à votre compte, vous devez générer un mot de passe d’application pour permettre à l’application de se connecter à Office 365. Par exemple, Outlook 2016 et les versions antérieures d’Outlook de requièrent un mot de passe d’application.
+Un mot de passe d’application est un code qui donne à une application ou à un appareil l’autorisation d’accéder à votre compte professionnel ou scolaire Microsoft. Si votre compte nécessite l’authentification multifacteur (MFA) et que l’application se connecte à votre compte, vous devez générer un mot de passe d’application pour permettre à l’application de se connecter à Microsoft. Par exemple, Outlook 2016 et les versions antérieures d’Outlook de requièrent un mot de passe d’application.
 
- **Remarque**: avant d’effectuer les étapes suivantes, vérifiez auprès de votre administrateur Office 365 que l’authentification multifacteur est requise pour votre compte. Si ce n’est pas le cas, les options décrites dans les étapes ne sont pas disponibles.
+ **Remarque**: avant d’effectuer les étapes suivantes, vérifiez auprès de votre administrateur Microsoft 365 que l’authentification multifacteur est requise pour votre compte. Si ce n’est pas le cas, les options décrites dans les étapes ne sont pas disponibles.
 
-1. Connectez-vous à Office 365 avec votre compte professionnel ou scolaire et votre mot de passe.
+1. Connectez-vous à l’aide de votre compte professionnel ou scolaire et de votre mot de passe.
 
 2. Choisissez **le configurer maintenant**.
 

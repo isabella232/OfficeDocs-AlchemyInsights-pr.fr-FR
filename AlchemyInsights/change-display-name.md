@@ -2,7 +2,7 @@
 title: 959 modifier le nom d’affichage
 ms.author: pdigia
 author: pebaum
-ms.date: 7/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736719"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706969"
 ---
 # <a name="change-your-display-name"></a>Modifier votre nom d’affichage
   
@@ -27,7 +27,7 @@ Pour modifier votre nom d’affichage dans Outlook, procédez comme suit.
 2. Sélectionnez le compte de messagerie, puis **modifier**.
 
     > [!NOTE]
-    > Si vous ne voyez pas l’option permettant de modifier votre nom d’affichage, vous utilisez probablement un compte de messagerie Microsoft Exchange. Dans ce cas, vous devez contacter votre administrateur pour modifier votre nom d’affichage. Voir [modifier un nom d’utilisateur et une adresse de messagerie dans Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Si vous ne voyez pas l’option permettant de modifier votre nom d’affichage, vous utilisez probablement un compte de messagerie Microsoft Exchange. Dans ce cas, vous devez contacter votre administrateur pour modifier votre nom d’affichage. Voir [modifier un nom d’utilisateur et une adresse de messagerie](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Une fois que vous avez modifié votre nom d’affichage, cliquez sur **OK** pour enregistrer vos modifications. Les modifications apportées à l’ensemble de votre organisation peuvent prendre quelques heures.
 

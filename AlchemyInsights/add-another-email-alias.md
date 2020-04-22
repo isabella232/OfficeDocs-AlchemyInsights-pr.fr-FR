@@ -3,7 +3,7 @@ title: Ajouter un autre alias de messagerie
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737331"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708517"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Créer ou ajouter un alias de messagerie pour un utilisateur
 
@@ -30,7 +30,7 @@ Vous avez besoin de créer un alias de messagerie pour un utilisateur ou d’ajo
     
 4. Dans la zone **alias** , tapez un nouveau message électronique, puis choisissez **Ajouter**. Si vous achetez votre abonnement auprès de GoDaddy ou d'un autre partenaire, vous devez accéder à la console de gestion de GoDaddy ou du partenaire pour définir le nouvel alias comme alias principal. 
     
-    **IMPORTANT**: si le message d'erreur « **Impossible de trouver un paramètre correspondant au nom "EmailAddresses"** » s'affiche, cela signifie qu'Office 365 a besoin d'un peu plus de temps pour configurer votre client, ou votre domaine personnalisé si vous venez d'en ajouter un. Le processus de configuration peut prendre jusqu'à 4 heures. Patientez le temps que le processus de configuration ait le temps de terminer, puis réessayez. Si le problème persiste, appelez le support technique qui se chargera d'effectuer une synchronisation complète pour vous.
+    **Important**: Si vous obtenez le message d’erreur « **Impossible de trouver un paramètre correspondant au nom de paramètre «EmailAddresses**», il est plus long que Microsoft termine la configuration de votre client ou de votre domaine personnalisé si vous en avez récemment ajouté un. Le processus de configuration peut prendre jusqu'à 4 heures. Patientez le temps que le processus de configuration ait le temps de terminer, puis réessayez. Si le problème persiste, appelez le support technique qui se chargera d'effectuer une synchronisation complète pour vous.
     
     Il faut généralement environ 30 minutes pour que le nouvel alias prenne effet.
     

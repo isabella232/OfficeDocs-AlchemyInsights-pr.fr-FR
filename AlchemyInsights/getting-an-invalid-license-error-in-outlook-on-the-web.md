@@ -1,9 +1,9 @@
 ---
-title: 125 obtention d’une erreur de licence non valide dans Outlook sur le Web?
+title: 125 obtention d’une erreur de licence non valide dans Outlook sur le Web ?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523797"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708829"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Vous obtenez une erreur de licence non valide dans Outlook sur le Web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Vous obtenez une erreur de licence non valide dans Outlook sur le Web ?
 
-Si vous utilisez Outlook sur le Web et que vous obtenez une erreur «un problème est **survenu** » qui contient **X-OWA-Error: Microsoft. Exchange. Data. Storage. InvalidLicenseException**, votre licence Exchange Online n’est pas correctement attribuée ou a récemment expiré. Votre administrateur peut vous attribuer une licence en procédant comme suit:
+Si vous utilisez Outlook sur le Web et que vous obtenez une erreur « un problème est **survenu** » contenant **X-OWA-Error : Microsoft. Exchange. Data. Storage. InvalidLicenseException**, votre licence Exchange Online n’est pas correctement affectée ou a expiré récemment. Votre administrateur peut vous attribuer une licence en procédant comme suit :
   
 1. Ouvrez le [Centre d’administration Microsoft 365](https://portal.office.com/adminportal/home#/homepage) et sous **utilisateurs actifs**, sélectionnez **modifier un utilisateur**.
 

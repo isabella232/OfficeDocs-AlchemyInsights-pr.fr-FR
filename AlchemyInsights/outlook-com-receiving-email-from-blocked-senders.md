@@ -3,7 +3,7 @@ title: Réception de messages électroniques provenant d’expéditeurs bloqués
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: b0610e1eb58a080e4acc334658286e8fdf3ecb50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56989e57c590fa8c16dbff493b1de88cc4424f18
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535569"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709333"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Réception de messages électroniques provenant d’expéditeurs bloqués
 
-Si le courrier provenant d’un expéditeur bloqué apparaît toujours dans votre boîte de réception Outlook.com, il se peut que l’expéditeur masque son adresse de messagerie réelle. Pour vérifier l’adresse de messagerie réelle d’un expéditeur:
+Si le courrier provenant d’un expéditeur bloqué apparaît toujours dans votre boîte de réception Outlook.com, il se peut que l’expéditeur masque son adresse de messagerie réelle. Pour vérifier l’adresse de messagerie réelle d’un expéditeur :
   
 1. Sélectionner les trois points <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
  en haut de la fenêtre de message et sélectionnez **afficher la source du message**.

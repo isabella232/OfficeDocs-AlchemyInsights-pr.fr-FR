@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547960"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708685"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Correction des applications Office « votre compte est dans un état incorrect »
 
@@ -27,5 +27,5 @@ Pour corriger cette erreur, essayez les options suivantes sur l’ordinateur con
   **Remarque :** Les chemins d’accès au registre pour Office 2016 ont été modifiés en 16,0. Par exemple, \Software\Microsoft\Office\16.0\Common\Identity\
 - Si l’erreur se produit lors de la connexion à Office 365 à l’aide d’Office 2013, [activez l’authentification moderne](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) pour le client Office.
 
-Pour plus d’informations, consultez [la rubrique résolution des problèmes liés aux applications non-navigateur qui ne peuvent pas se connecter à Office 365, Azure ou Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
+Pour plus d’informations, consultez [la rubrique résolution des problèmes liés aux applications non-navigateur qui ne peuvent pas se connecter à Microsoft 365, Azure ou Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
 

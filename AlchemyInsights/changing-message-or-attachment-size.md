@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769661"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706360"
 ---
 # <a name="changing-message-or-attachment-size"></a>Modification de la taille des messages ou des pièces jointes
 
-En tant qu’administrateur Office 365, vous pouvez modifier la taille maximale/minimale des messages (qui inclut les pièces jointes) que vos utilisateurs envoient. Vous pouvez effectuer cette opération pour des utilisateurs individuels ou pour tous les utilisateurs (par défaut de l’organisation). Une fois que vous avez modifié ce paramètre, l’opération prend environ 30 minutes.
+En tant qu’administrateur 365 de Microsoft, vous pouvez modifier la taille maximale/minimale des messages (qui inclut les pièces jointes) que vos utilisateurs envoient. Vous pouvez effectuer cette opération pour des utilisateurs individuels ou pour tous les utilisateurs (par défaut de l’organisation). Une fois que vous avez modifié ce paramètre, l’opération prend environ 30 minutes.
   
 - Pour modifier la taille des messages pour un utilisateur spécifique, accédez **à** \> la boîte aux lettres des utilisateurs **Exchange** \> des **boîtes aux lettres**des **destinataires** \> Exchange. Sélectionnez la boîte aux lettres d’un utilisateur. Sélectionnez l’icône modifier, sélectionnez **fonctionnalités de boîte aux lettres**, puis sous **restrictions de taille des messages**, sélectionnez Afficher les **Détails** et spécifiez la nouvelle taille maximale des messages.
 

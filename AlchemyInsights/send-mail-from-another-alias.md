@@ -3,7 +3,7 @@ title: Envoyer un message à partir d’un autre alias
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551521"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709189"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Envoyer un message électronique à partir d’un alias ou d’une adresse secondaire
 
-Office 365 ne prend actuellement pas en charge l’envoi de courrier électronique à partir d’un alias ou d’une adresse de messagerie secondaire. Les alias de messagerie ne peuvent être utilisés que pour recevoir des courriers électroniques. Si vous souhaitez envoyer un courrier électronique à partir d’une autre adresse de messagerie, vous devez créer une boîte aux lettres partagée. La boîte aux lettres partagée vous donnera une autre adresse de messagerie, sans requérir une autre licence.
+Microsoft 365 ne prend actuellement pas en charge l’envoi de courrier électronique à partir d’un alias ou d’une adresse de messagerie secondaire. Les alias de messagerie ne peuvent être utilisés que pour recevoir des courriers électroniques. Si vous souhaitez envoyer un courrier électronique à partir d’une autre adresse de messagerie, vous devez créer une boîte aux lettres partagée. La boîte aux lettres partagée vous donnera une autre adresse de messagerie, sans requérir une autre licence.
   
 - [Cliquez ici pour créer une boîte aux lettres partagée.](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 

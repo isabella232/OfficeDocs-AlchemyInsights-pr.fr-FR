@@ -3,25 +3,25 @@ title: Configurer la surveillance
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813833"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705911"
 ---
 # <a name="configure-supervision-policies"></a>Configurer les stratégies de surveillance
 
-Les stratégies de surveillance dans Microsoft 365 et Office 365 vous permettent de surveiller la messagerie Exchange, Skype entreprise Online, Microsoft teams et les communications tierces envoyées à l’intérieur et à l’extérieur de votre organisation. Les réviseurs désignés peuvent examiner les messages surveillés afin de s’assurer qu’ils sont conformes aux stratégies de votre organisation, à la gestion des risques et aux normes de conformité réglementaire et de les résoudre avec un type de classification.
+Les stratégies de surveillance de Microsoft 365 vous permettent de surveiller la messagerie Exchange, Skype entreprise Online, Microsoft teams et les communications tierces envoyées à l’intérieur et à l’extérieur de votre organisation. Les réviseurs désignés peuvent examiner les messages surveillés afin de s’assurer qu’ils sont conformes aux stratégies de votre organisation, à la gestion des risques et aux normes de conformité réglementaire et de les résoudre avec un type de classification.
 
-Pour utiliser les stratégies de surveillance dans votre organisation, vous devez:
+Pour utiliser les stratégies de surveillance dans votre organisation, vous devez :
 
 - Déterminez les communications à surveiller.
 - Déterminez qui effectuera l’examen des communications.

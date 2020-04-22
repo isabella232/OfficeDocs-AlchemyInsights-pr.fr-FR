@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274878"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706163"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Conformité de la communication dans Microsoft 365
 
-La conformité de la communication est une nouvelle solution de conformité Microsoft 365 qui aide les organisations à répondre aux exigences de conformité de surveillance et à minimiser les risques de communication. Elle est basée sur la fonctionnalité de surveillance dans Office 365 et contient de nouvelles améliorations, notamment :
+La conformité de la communication est une nouvelle solution de conformité Microsoft 365 qui aide les organisations à répondre aux exigences de conformité de surveillance et à minimiser les risques de communication. Elle repose sur la fonctionnalité de surveillance et contient de nouvelles améliorations, notamment :
 
 - Modèles personnalisables intelligents
 - Flux de travail de correction flexibles
 - Informations exploitables
 
-Si vous utilisez actuellement des [stratégies de surveillance dans Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), nous vous recommandons d’utiliser la nouvelle conformité de communication pour répondre aux besoins de réglementation.
+Si vous utilisez actuellement des [stratégies de surveillance](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), nous vous recommandons d’utiliser la nouvelle conformité de communication pour répondre aux besoins de réglementation.
 
 Pour configurer la conformité de communication, consultez [la rubrique Configure communication Compliance](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
