@@ -3,7 +3,7 @@ title: Licences requises pour Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552169"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722654"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Licences requises pour Microsoft ToDo
 
 [Licences requises pour Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Un utilisateur doit disposer de l’une des licences suivantes pour utiliser Microsoft ToDo:
+Un utilisateur doit disposer de l’une des licences suivantes pour utiliser Microsoft ToDo :
   
 - Business Essentials
 
@@ -46,7 +46,7 @@ Un utilisateur doit disposer de l’une des licences suivantes pour utiliser Mic
 
 - Microsoft 365 A5
 
-En plus d’une licence de produit valide, l’une des versions suivantes d’Exchange Online est nécessaire pour que les utilisateurs puissent synchroniser les données utilisateur:
+En plus d’une licence de produit valide, l’une des versions suivantes d’Exchange Online est nécessaire pour que les utilisateurs puissent synchroniser les données utilisateur :
   
 - Exchange Online (plan 1)
 

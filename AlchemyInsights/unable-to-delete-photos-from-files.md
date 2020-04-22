@@ -3,7 +3,7 @@ title: 8000031 impossible de supprimer des photos des fichiers
 ms.author: daeite
 author: daeite
 manager: dansimp
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,16 +14,16 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ceb489be5100a16eafdb9adb0f38eb472852e48
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533121"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731506"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>Impossible de supprimer des photos des fichiers
 
-Pour supprimer les photos des fichiers dans Outlook.com:
+Pour supprimer les photos des fichiers dans Outlook.com :
   
 1. Accédez à votre dossier **boîte de réception** ou **éléments envoyés** et supprimez le message électronique auquel ils sont attachés.
 

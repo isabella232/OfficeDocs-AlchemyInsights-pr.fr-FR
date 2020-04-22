@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: d4ccaf4928fb041ec7914b95520c4e7ccdac208c
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741171"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726210"
 ---
 # <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Utilisation de Microsoft Edge basé sur des navigateurs de chrome pour l’exportation eDiscovery
 
-En raison d’une modification récente, les navigateurs Microsoft Edge ne disposent plus de la prise en charge ClickOnce activée par défaut. Pour continuer à utiliser l’outil d’exportation de découverte électronique de Microsoft Office 365, vous devez utiliser Microsoft Internet Explorer ou activer la prise en charge ClickOnce dans Microsoft Edge. 
+En raison d’une modification récente, les navigateurs Microsoft Edge ne disposent plus de la prise en charge ClickOnce activée par défaut. Pour continuer à utiliser l’outil d’exportation de découverte électronique 365 de Microsoft, vous devez utiliser Microsoft Internet Explorer ou activer la prise en charge ClickOnce dans Microsoft Edge. 
 
 Pour activer la prise en charge de ClickOnce dans Microsoft Edge en fonction du chrome : 
 1. Dans votre navigateur Microsoft Edge, rendez-vous sur edge://flags/#edge-Click-once.

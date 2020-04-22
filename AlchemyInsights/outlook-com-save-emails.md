@@ -3,7 +3,7 @@ title: 8000088 enregistrer le courrier électronique dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: de5147c772b499e6ac494ff17039d192c690b9b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b04901aa77135da48df9ce56f0af11b9ea77bbaf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521277"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759040"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Enregistrement de messages dans Outlook.com
 
@@ -35,6 +35,6 @@ L’utilitaire d’impression au format PDF de Microsoft inclus dans Windows 10 
 4. Sélectionnez **Imprimer**.
 5. Entrez un nom de fichier, puis sélectionnez **Enregistrer**.
 
-**Remarque:** Cette option n’est pas recommandée sur les ordinateurs publics ou partagés car les autres utilisateurs peuvent avoir accès à tout fichier PDF enregistré sur le PC et ne pas supprimer.
+**Remarque :** Cette option n’est pas recommandée sur les ordinateurs publics ou partagés car les autres utilisateurs peuvent avoir accès à tout fichier PDF enregistré sur le PC et ne pas supprimer.
 
 Pour plus d’informations sur l’impression, voir [imprimer des messages électroniques, des pièces jointes et des calendriers dans Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).

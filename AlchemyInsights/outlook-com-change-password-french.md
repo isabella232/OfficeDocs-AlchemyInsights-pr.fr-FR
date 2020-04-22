@@ -3,7 +3,7 @@ title: Outlook.com modifier le mot de passe-français
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: b665e1385c77a59b8af96031ae3369d55bf0a737
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537417"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721923"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer de mot de passe dans Outlook.com
 
@@ -25,7 +25,7 @@ Votre propre mot de passe Outlook.com est le même que votre propre mot de passe
 
 1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **sécurité du MD de passe**.
 2. Par mesure de sécurité, pouvez être invité à la à la identité à l’Aide d’un code de sécurité.
-3. Entrez à votre propre mot de passe actuel, à nouveau mot de passe, **** puis sélectionnez enregistres.
+3. Entrez à votre propre mot de passe actuel, à nouveau mot de passe, puis sélectionnez **enregistres**.
 
 Si avez oublié à la page MD MD de passe, accédez à la [page de réinitialisation de MD de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invitations.
 

@@ -3,7 +3,7 @@ title: 9000202 Outlook.com options
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/27/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1770"
 - "9000202"
-ms.openlocfilehash: 6e52fd9f095464d158ade14ea4b51a0401d0f57e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ed0f85745754914291d4abeedca92c3204b28672
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535876"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745537"
 ---
 # <a name="how-to-find-options-in-outlookcom-settings"></a>Comment rechercher des options dans les paramètres Outlook.com
 

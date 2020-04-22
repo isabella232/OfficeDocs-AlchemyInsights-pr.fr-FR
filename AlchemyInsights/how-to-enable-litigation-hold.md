@@ -3,7 +3,7 @@ title: 976-activer-mettre en attente pour litige
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398625"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720730"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Placer une boîte aux lettres en conservation légale
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398625"
 
 - Pour activer la conservation pour litige pour un seul utilisateur, [procédez comme suit](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Lorsque la conservation pour litige est activée, tout le contenu de la boîte aux lettres est préservé.
 
-- Pour conserver le contenu de toutes les boîtes aux lettres de votre organisation, vous pouvez utiliser une [stratégie de rétention Office 365](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)à l’échelle de l’organisation. Notez que pour les stratégies de rétention à l’échelle de l’organisation, les nouveaux utilisateurs sont automatiquement attribués à la stratégie.
+- Pour conserver le contenu de toutes les boîtes aux lettres de votre organisation, vous pouvez utiliser une [stratégie de rétention](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)à l’échelle de l’organisation. Notez que pour les stratégies de rétention à l’échelle de l’organisation, les nouveaux utilisateurs sont automatiquement attribués à la stratégie.
