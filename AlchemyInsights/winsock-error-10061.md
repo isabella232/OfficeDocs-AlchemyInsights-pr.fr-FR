@@ -3,7 +3,7 @@ title: 1554 erreur Winsock 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530786"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766167"
 ---
 # <a name="winsock-error-10061"></a>Erreur Winsock 10061
 
-Ce code d’erreur signifie qu’Office 365 n’a pas pu établir de socket TCP (connexion) avec l’hôte cible. La cause la plus probable de cette erreur est un problème avec la configuration de votre pare-feu. Pour résoudre le problème, vérifiez les paramètres suivants:
+Ce code d’erreur signifie que Microsoft n’a pas pu établir un socket TCP (connexion) avec l’hôte cible. La cause la plus probable de cette erreur est un problème avec la configuration de votre pare-feu. Pour résoudre le problème, vérifiez les paramètres suivants :
 
-- Vérifier la configuration de votre pare-feu avec les informations contenues dans les [URL et plages d’adresses IP Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Vérifier la configuration de votre pare-feu avec les informations contenues dans les [URL et plages d’adresses IP de Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
 - Si l’erreur est spécifique à Exchange Online Protection (EOP), vous devriez avoir été préalablement notifié à une modification apportée aux [adresses IP d’Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
@@ -31,4 +31,4 @@ Ce code d’erreur signifie qu’Office 365 n’a pas pu établir de socket TCP 
 
 - Vérifiez les paramètres de l’hôte actif et du serveur cible dans vos connecteurs.
 
-Notez qu’Office 365 ne bloque pas les connexions *entrantes* de cette manière.
+Notez que Microsoft 365 ne bloque pas les connexions *entrantes* de cette manière.

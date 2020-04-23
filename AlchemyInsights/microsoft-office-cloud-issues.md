@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054772"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762351"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Vous rencontrez des problèmes avec un service Cloud ?
 
@@ -23,5 +23,5 @@ Si vous rencontrez des problèmes avec un service Cloud, vous pouvez vérifier l
 
 **Stratégie de notification**
 
-Quand un incident de service se produit, Microsoft reconnaît que les communications ciblées, précises et fournies en temps utile sont critiques pour les clients. Microsoft informe les administrateurs d’Office 365 en mettant à jour le tableau de bord d’intégrité du service propre au client [(validation)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) sur le portail d’administration d’Office 365. Les mises à jour des incidents de service sont fournies à une cadence horaire ou, si une cadence différente est requise, elles seront indiquées dans la publication de communication validation. Pour plus d’informations, consultez [la rubrique How to check Office 365 service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Quand un incident de service se produit, Microsoft reconnaît que les communications ciblées, précises et fournies en temps utile sont critiques pour les clients. Microsoft informe les administrateurs en mettant à jour le tableau de bord d’intégrité du service propre au client [(validation)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) sur le portail d’administration Microsoft 365. Les mises à jour des incidents de service sont fournies à une cadence horaire ou, si une cadence différente est requise, elles seront indiquées dans la publication de communication validation. Pour plus d’informations, consultez [la rubrique How to check Microsoft 365 service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

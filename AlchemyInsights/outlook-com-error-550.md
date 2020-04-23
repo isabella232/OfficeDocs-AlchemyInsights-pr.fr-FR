@@ -3,7 +3,7 @@ title: Erreur Outlook.com 550
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 9fa9e477528fb07afa66273d317ada5dd0ba4cc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef4298dfbc3a386ad938d811bd112179f0d1009
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723410"
 ---
 # <a name="error-550553-in-outlookcom"></a>Erreur 550/553 dans Outlook.com
 

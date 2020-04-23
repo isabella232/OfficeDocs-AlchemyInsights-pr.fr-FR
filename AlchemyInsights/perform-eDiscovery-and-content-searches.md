@@ -3,7 +3,7 @@ title: 1488-Perform-eDiscovery-and-content-recherches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555231"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764726"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Comment effectuer des recherches de contenu et des recherches de découverte électronique
 
-Utilisez l’outil de recherche de contenu dans le centre de sécurité & conformité pour trouver rapidement des messages électroniques dans des boîtes aux lettres Exchange, des documents dans des sites SharePoint et des comptes OneDrive, et des conversations de messagerie instantanée dans Skype entreprise. Vous pouvez également utiliser l’outil de recherche de contenu pour rechercher des courriers électroniques, des documents et des conversations de messagerie instantanée dans les outils de collaboration Office 365 tels que les groupes Microsoft teams et Office 365.
+Utilisez l’outil de recherche de contenu dans le centre de sécurité & conformité pour trouver rapidement des messages électroniques dans des boîtes aux lettres Exchange, des documents dans des sites SharePoint et des comptes OneDrive, et des conversations de messagerie instantanée dans Skype entreprise. Vous pouvez également utiliser l’outil de recherche de contenu pour rechercher des courriers électroniques, des documents et des conversations de messagerie instantanée dans les outils de collaboration Microsoft 365 tels que les groupes Microsoft teams et Office 365.
 
 **Pour effectuer une recherche de contenu**
 

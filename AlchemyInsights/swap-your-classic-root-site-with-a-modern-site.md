@@ -2,7 +2,7 @@
 title: Échangez votre site racine classique avec un site moderne
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042925"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741542"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Échangez votre site racine classique avec un site moderne
 
@@ -28,7 +28,7 @@ Si votre environnement a été configuré avant le 2019 avril, vous pouvez rempl
 
 - Des fonctionnalités supplémentaires seront bientôt introduites, qui vous permettront de continuer à utiliser le contenu sur le site, mais convertissez le site existant en un site de communication. 
 >[!Important]
->Ces fonctionnalités seront déployées graduellement. Continuez à consulter le centre de messages Office 365 pour les mises à jour. 
+>Ces fonctionnalités seront déployées graduellement. Continuez à vérifier le centre de messages pour les mises à jour. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Problèmes connus liés à l’échange de sites
 
@@ -37,8 +37,3 @@ Si votre environnement a été configuré avant le 2019 avril, vous pouvez rempl
 - Tout ce qui dépend de liens « statiques » (tels que la synchronisation de fichiers et les fichiers OneNote) doit être corrigé manuellement.
 - Si le site source était un site de News de l’organisation, mettez à jour l’URL.Obtenir la liste de tous les sites d’actualité de l’organisation.
 - Les sites Project Server peuvent avoir besoin d’être validés pour s’assurer qu’ils sont toujours correctement associés.
-
-
-
-
-

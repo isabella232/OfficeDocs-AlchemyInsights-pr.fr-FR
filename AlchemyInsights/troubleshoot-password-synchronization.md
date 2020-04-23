@@ -3,7 +3,7 @@ title: Résoudre les problèmes de synchronisation de mot de passe
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732508"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Résoudre les problèmes de synchronisation de mot de passe
 
-Pour résoudre les problèmes où aucun mot de passe n’est synchronisé avec Azure AD Connect version 1.1.614.0 ou ultérieure:
+Pour résoudre les problèmes où aucun mot de passe n’est synchronisé avec Azure AD Connect version 1.1.614.0 ou ultérieure :
   
 1. Ouvrez une nouvelle session Windows PowerShell sur votre serveur Azure AD Connect avec l’option **exécuter en tant qu’administrateur** .
 
@@ -40,20 +40,20 @@ Pour résoudre les problèmes où aucun mot de passe n’est synchronisé avec A
 
 **Comprendre les résultats de la tâche de résolution des problèmes**
   
-La tâche de résolution des problèmes effectue les vérifications suivantes:
+La tâche de résolution des problèmes effectue les vérifications suivantes :
   
 - Vérifie que la fonctionnalité de synchronisation de mot de passe est activée pour votre client Azure AD.
 
 - Vérifie que le serveur Azure AD Connect n’est pas en mode intermédiaire.
 
-- Pour chaque connecteur Active Directory local existant (ce qui correspond à une forêt Active Directory existante):
+- Pour chaque connecteur Active Directory local existant (ce qui correspond à une forêt Active Directory existante) :
 
 - 
   - Vérifie que la fonctionnalité de synchronisation de mot de passe est activée.
 
   - Recherche les événements de pulsation de synchronisation de mot de passe dans les journaux d’événements d’applications Windows.
 
-  - Pour chaque domaine Active Directory sous le connecteur Active Directory local:
+  - Pour chaque domaine Active Directory sous le connecteur Active Directory local :
 
   - Vérifie que le domaine est accessible à partir du serveur Azure AD Connect.
 

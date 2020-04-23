@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765549"
 ---
 # <a name="teams-policies"></a>Stratégies teams
 
@@ -30,5 +30,5 @@ Les stratégies de teams sont réparties dans les domaines suivants :
 - Les [stratégies de réunion](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) contrôlent ce que les utilisateurs peuvent faire avec les réunions Teams, y compris le contrôle de la salle d’attente. Pour obtenir de l’aide sur les problèmes liés à la salle d’attente, comme la configuration de teams pour admettre tout le monde, voir [paramètres de la salle d’attente et niveaux de participation](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
 - Les [stratégies de messagerie](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) contrôlent ce que les utilisateurs peuvent faire de la conversation et des messages, notamment activer ou désactiver le mode conversation, supprimer des conversations, demander des confirmations de lecture, utiliser des images giphy et des autocollants, et bien plus encore.
 - Les [stratégies de configuration d’application](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) contrôlent les applications disponibles pour les utilisateurs, notamment les applications personnalisées et tierces, ainsi que l’ordre dans lequel elles apparaissent.  
-- Les [stratégies de rétention](https://docs.microsoft.com/microsoftteams/retention-policies) des données pour teams se trouvent dans le centre de sécurité et conformité Office 365.
+- Les [stratégies de rétention](https://docs.microsoft.com/microsoftteams/retention-policies) des données pour teams se trouvent dans le centre de sécurité et de conformité Microsoft 365.
 - Les stratégies de carnet d’adresses teams sont définies par le biais de la recherche dans l' [Annuaire](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

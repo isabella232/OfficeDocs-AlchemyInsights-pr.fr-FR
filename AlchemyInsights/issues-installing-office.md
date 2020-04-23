@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43053951"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765807"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Solutions aux problèmes lors de l’installation d’Office
 
@@ -29,7 +29,7 @@ Essayez une de ces solutions pour résoudre votre erreur liée à Office :
 - Nettoyez les traces antérieures d’Office et réinstallez-le à l’aide de l’Assistant Support et récupération (SaRA). 
 
     - Téléchargez et installez l’[Assistant Support et récupération](https://aka.ms/SARA-OfficeUninstall-Alchemy). Lorsqu’il s’ouvre, à partir de **Désinstallation des produits Office** sélectionnez la version que vous voulez désinstaller (le cas échéant), puis cliquez sur **Suivant**. Continuez à parcourir les écrans, puis redémarrez votre ordinateur à l’invite. Une fois le redémarrage terminé, l’assistant SaRA se rouvre automatiquement pour terminer le processus de désinstallation.
-    - Utilisez l’assistant SaRA pour [réinstaller Office](http://aka.ms/sara-officeinstall). **Remarque**: pour configurer Visio ou Project à l’aide de l’assistant SaRA, utilisez [Installer Visio](https://aka.ms/SaRA-VisioSetupScenario) ou [Installer Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Utilisez l’assistant SaRA pour [réinstaller Office](https://aka.ms/sara-officeinstall). **Remarque**: pour configurer Visio ou Project à l’aide de l’assistant SaRA, utilisez [Installer Visio](https://aka.ms/SaRA-VisioSetupScenario) ou [Installer Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Utilisez le programme d’installation en mode hors connexion](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) pour installer Office.
 

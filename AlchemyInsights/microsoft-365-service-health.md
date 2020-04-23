@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600490"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762387"
 ---
 # <a name="microsoft-365-service-health"></a>État du service Microsoft 365
 
@@ -29,4 +29,4 @@ Vérifiez l’état du service de n’importe quel service à partir du [tableau
 
 - Sélectionnez **historique** pour consulter l’historique d’intégrité du service de votre organisation. 
 
-Pour plus d’informations, consultez [la rubrique How to check Office 365 service Health](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Pour plus d’informations, consultez [la rubrique How to check Microsoft 365 service Health](https://docs.microsoft.com/office365/enterprise/view-service-health). 

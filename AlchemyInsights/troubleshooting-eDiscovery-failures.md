@@ -3,7 +3,7 @@ title: 1490-dépannage-échecs de découverte électronique
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559371"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759582"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Résoudre les erreurs de recherche de contenu
 
-Rencontrez-vous des problèmes avec la recherche de contenu dans Office 365 ou des échecs lors de l’exportation des résultats de la recherche?
+Rencontrez-vous des problèmes avec la recherche de contenu ou lorsque vous exportez des résultats de recherche ?
 
-Par exemple, avez-vous reçu les informations suivantes lors de l’exécution des recherches?
+Par exemple, avez-vous reçu les informations suivantes lors de l’exécution des recherches ?
 
 - Erreurs CS008 ou CS012
 
@@ -32,6 +32,6 @@ Par exemple, avez-vous reçu les informations suivantes lors de l’exécution d
 
 - Une erreur d’application s’est produite
 
-Ou lorsque vous recherchez ou exportez des résultats à partir d’un grand nombre de boîtes aux lettres (plus de 100 000 boîtes aux lettres), recevez-vous des erreurs d’exportation?
+Ou lorsque vous recherchez ou exportez des résultats à partir d’un grand nombre de boîtes aux lettres (plus de 100 000 boîtes aux lettres), recevez-vous des erreurs d’exportation ?
 
 Pour ces types d’erreurs, essayez de relancer la recherche pour les emplacements de contenu ayant échoué. Pour plus d’informations, consultez [cet article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .

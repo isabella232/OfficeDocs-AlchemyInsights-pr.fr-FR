@@ -15,12 +15,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 18e56305b60469422a154ffa1b097c238baaae16
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666370"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764654"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Restaurer une boîte aux lettres supprimée
 
@@ -28,9 +28,9 @@ Lorsqu’un utilisateur perd une licence Exchange Online, sa boîte aux lettres 
   
  *Cette opération fonctionnera dans les 30 jours seulement.*  
   
-1. Dans le centre d’administration Microsoft 365, accédez à **** \> la page utilisateurs **actifs** . Sélectionnez l’utilisateur en question.
+1. Dans le centre d’administration Microsoft 365, accédez à **la** \> page utilisateurs **actifs** . Sélectionnez l’utilisateur en question.
 
 2. Dans l’onglet **licences et applications** , affectez la licence Exchange Online et sélectionnez **enregistrer les modifications**.
 
-Si vous essayez de récupérer une boîte aux lettres partagée, elle est également récupérable pendant 30 jours. Vous pouvez les trouver sous **utilisateurs** \> **supprimés**par les utilisateurs; les boîtes aux lettres partagées ne nécessitent pas de licence. Si vous réalisez que vous devez restaurer un utilisateur supprimé, reportez-vous à [la rubrique restaurer un utilisateur dans Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
+Si vous essayez de récupérer une boîte aux lettres partagée, elle est également récupérable pendant 30 jours. Vous pouvez les trouver sous **utilisateurs** \> **supprimés**par les utilisateurs ; les boîtes aux lettres partagées ne nécessitent pas de licence. Si vous réalisez que vous devez restaurer un utilisateur supprimé, reportez-vous à [la rubrique restaurer un utilisateur](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   

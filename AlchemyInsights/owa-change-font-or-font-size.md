@@ -3,7 +3,7 @@ title: Modifier la police ou la taille de police dans Outlook sur le Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: 28efa991c3449716af7453051e2cfd7ceea56467
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 266af20d0c47f328685b190562521227e01635f6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557396"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764798"
 ---
 # <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Modifier la police ou la taille de police dans Outlook sur le Web
 
 Lors de la lecture du courrier électronique, vous pouvez utiliser la fonction zoom de votre navigateur pour agrandir ou réduire la taille du texte à l’écran.
   
-Pour modifier la police ou la taille de police lors de la composition d’un message:
+Pour modifier la police ou la taille de police lors de la composition d’un message :
   
 1. En bas du volet de composition, sélectionnez <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gQYEyoUnKTM5QAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABiElEQVQ4ja2UoY7CQBCGPy4IRDFVSOoQFbwAqgaBbRPeAJ6AOgSqj0GQayqaJiQIEhQOA1nXuqJQKypI9lQbSukdF+5Xm5mdL//s7G5La635R309B1arFYvF4v+ASikAhBCfAwtIp9NBSvk5UEqJYRjYtl06/QiolGIwGOA4TsXxo3zfJ47j34FFseM4mKaJYRi1tuM4RmvN8XhsBLaLhZSSdrvN+XwGoNvtkmVZZXMByvOcNE3p9/vNDpVS3O93oigiiqISVjhP05Q8z7EsC4AwDJsdFkWTyaSS3O12ZdthGGKaJp7nEQRBzX0FWEx3NBpVktfrtVxnWcZ8Psc0TSzLIkkShBC4rltvuZjus1zXxXVdhBAYhlGemed5AJxOp1pN65237Ps+Tdum0ynD4bDa8k86HA5orcthPCpJErbb7d+A+/0ey7KYzWa13HK55Ha7VWK1z+FRaZqilGI8Hr/M27YNwHq9fg+42WwAXl5ggF6vB8DlciljjUN59ScGQfBr/q0p/0Xfs0y4AjOuEswAAAAASUVORK5CYII=' />
  **Police** ou <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QoUABonkSD1XgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABL0lEQVQ4jaWSsU7DMBCGv1YVUrsms9e0azKBmh3E0ofIAA/RpW+AGHiCPEAkGDogIbllSzsmXT03a4yQqBmQI6ymKBX/5Dudv7vfvp4xxvAPDboWXt2/OPHFoM/b4w39roD3p1snfn24/jmYM3Q4GHN592w+Pr+aXO/UG8znc6qqIgxDkiQ5OVmrhc1mQ1VVABRFQV3X5wMAhBBorZFSdgfUdU1RFHiex2w2A2C73XYHSCnRWhNFEePxGM/zUEqhlOoGsN3CMARgOp06tv4ElGWJUgohBEIIAKIoAiDP81aA841pmrJer1sLAZIkaSazclbZjrlYLPB9v8kvl0uyLENKeQRoLKxWK7TWBEHgXAaI45jhcMhut2O/37cDrEfr+bdGoxGTycSpszq5yl31DXVws+8Srp81AAAAAElFTkSuQmCC' /> **Taille**de la police.

@@ -3,7 +3,7 @@ title: Corriger les problèmes de synchronisation dans Outlook sur le Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9000641"
 - "2478"
-ms.openlocfilehash: c3e5a2c8a4f01df1553dfc1b20a064353165ad65
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 480984de4ddc7a888de3ea5cfdf5395fb51cb0cd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556851"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768435"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Corriger les problèmes de synchronisation d’Outlook sur le Web
 
@@ -31,4 +31,4 @@ Outlook sur le Web affiche les appareils mobiles que vous utilisez pour vous con
 
 Pour en savoir plus, consultez [la rubrique corriger les problèmes de synchronisation de messagerie ou supprimer un appareil de votre boîte aux lettres Outlook sur le Web](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)
 
-*Remarque:* Les comptes connectés ne sont plus pris en charge dans Outlook sur le Web. Pour en savoir plus, consultez [la rubrique les comptes connectés ne sont plus pris en charge dans Outlook sur le Web](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
+*Remarque :* Les comptes connectés ne sont plus pris en charge dans Outlook sur le Web. Pour en savoir plus, consultez [la rubrique les comptes connectés ne sont plus pris en charge dans Outlook sur le Web](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
