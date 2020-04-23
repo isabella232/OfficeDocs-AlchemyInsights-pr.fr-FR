@@ -3,7 +3,7 @@ title: Comment faire ressembler le nouveau Outlook.com comme l’ancien
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497513"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721722"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Comment faire ressembler le nouveau Outlook.com à l’ancienne version
 
-Voici quelques paramètres que vous pouvez modifier pour faire en sorte que le nouvel Outlook.com ressemble à l’ancienne version:
+Voici quelques paramètres que vous pouvez modifier pour faire en sorte que le nouvel Outlook.com ressemble à l’ancienne version :
 
 1. Accédez à [paramètres de la mise en page](https://outlook.live.com/mail/options/mail/layout).
 1. Sous **boîte de réception prioritaire**, sélectionnez **ne pas trier mes messages**.

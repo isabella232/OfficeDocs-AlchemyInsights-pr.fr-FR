@@ -12,16 +12,16 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735459"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759150"
 ---
 # <a name="how-to-install-office"></a>Comment installer Office
 
-Pour installer les applications clientes Office, vous devez disposer d’un abonnement professionnel tel qu’Office 365 Business Premium, Office 365 Business ou Office 365 Éducation.
+Pour installer les applications clientes Office, vous devez disposer d’un abonnement professionnel tel que Microsoft 365 Business Premium, Applications Microsoft 365 pour les entreprises ou Office 365 Éducation.
   
 *REMARQUE : [Office Famille et Petite Entreprise](https://products.office.com/home-and-business) est un produit [Office pour les particuliers](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) non associé à un abonnement professionnel. Pour obtenir des instructions spécifiques sur Visio ou Project, consultez [Installer Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ou [Installer Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
