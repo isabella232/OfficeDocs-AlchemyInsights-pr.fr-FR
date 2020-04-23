@@ -1,8 +1,8 @@
 ---
-title: Préparer l’utilisation de TLS 1.2 dans Office 365
+title: Préparer l’utilisation de TLS 1.2 dans Microsoft 365
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: ef04b5b6ab6c365359b6973cbd56d5d1e833554b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 319a5b089da94c8a2dcf7aef7d9e1bf791490d08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554763"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666899"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Préparer l’utilisation de TLS 1.2 dans Office 365
+# <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Préparer l’utilisation de TLS 1.2 dans Microsoft 365
 
-En date du 31 octobre 2018, la transition d’Office 365 vers TLS 1.2 se poursuit. Dès lors, Microsoft ne résoudra pas les nouveaux problèmes détectés au niveau des clients, des appareils ou des services qui se connectent à Office 365 à l’aide de TLS 1.0 et 1.1. **Office 365 ne bloquera pas les connexions TLS 1.0 et 1.1 pour autant.** La date de dépréciation finale sera déterminée selon l’utilisation des clients et l’état actuel de la sécurité TLS héritée. Une fois la décision arrêtée, une annonce sera effectuée six mois à l’avance, sauf si nous avons connaissance d’une compromission connue, auquel cas nous devrons peut-être agir dans un délai inférieur afin de protéger les clients qui utilisent les services.
+En date du 31 octobre 2018, la transition de Microsoft 365 vers TLS 1.2 se poursuit. Dès lors, Microsoft ne résoudra pas les nouveaux problèmes détectés au niveau des clients, des appareils ou des services qui se connectent à Office 365 à l’aide de TLS 1.0 et 1.1. **Microsoft 365 ne bloque pas les connexions TLS 1.0 et 1.1 pour autant.** La date de dépréciation finale sera déterminée selon l’utilisation des clients et l’état actuel de la sécurité TLS héritée. Une fois la décision arrêtée, une annonce sera effectuée six mois à l’avance, sauf si nous avons connaissance d’une compromission connue, auquel cas nous devrons peut-être agir dans un délai inférieur afin de protéger les clients qui utilisent les services.
   
-Il est vivement recommandé aux serveurs et clients qui se connectent à Office 365 d’activer TLS 1.2 dès que possible.
+Il est vivement recommandé aux serveurs et clients qui se connectent à Microsoft 365 d’activer TLS 1.2 dès que possible.
   
-Pour plus d’informations, voir [Préparer l’utilisation de TLS 1.2 dans Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+Pour plus d’informations, voir [Préparer l’utilisation de TLS 1.2 dans Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
   
