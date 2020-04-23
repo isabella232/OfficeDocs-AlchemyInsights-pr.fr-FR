@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709937"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams : audioconférence
 
-Vous avez besoin d’aide pour activer ou configurer l’audioconférence dans Microsoft Teams ? Cet utilisateur a-t-il été créé récemment ?  Si c’est le cas, vous devrez attendre 2 à 24 heures pour que les paramètres prennent effet.    
+Vous avez besoin d’aide pour activer ou configurer l’audioconférence dans Microsoft Teams ? Cet utilisateur a-t-il été créé récemment ?  Si c’est le cas, vous devrez attendre 2 à 24 heures pour que les paramètres prennent effet.
 
 Pour vérifier que l’utilisateur dispose d’une licence pour l’audioconférence et possède un numéro payant par défaut :
 
@@ -39,4 +39,4 @@ Pour vérifier que l’utilisateur dispose d’une licence pour l’audioconfér
 
 7. Sélectionnez l’utilisateur concerné et vérifiez que l’utilisateur dispose d’un **numéro payant par défaut**.
 
-Pour plus d’informations, consultez [Plans d’appels pour Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou appelez l’équipe de facturation Microsoft Commerce pour obtenir de l’aide sur les questions liées à la gestion des licences.
+Pour plus d’informations, consultez [Plans d’appels](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou appelez l’équipe de facturation Microsoft Commerce pour obtenir de l’aide sur les questions liées à la gestion des licences.

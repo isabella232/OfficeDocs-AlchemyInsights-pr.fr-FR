@@ -3,7 +3,7 @@ title: Modifier les serveurs de noms
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736647"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706753"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Mettre à jour les serveurs de noms de votre domaine vers Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Mettre à jour vos serveurs de noms de votre domaine de manière à ce qu’ils pointent vers Microsoft
 
 Remarque : le Serveur de noms modifications peut prendre jusqu'à 48 heures.
   
-Pour configurer votre domaine dans Office 365, les serveurs de noms de votre bureau d’enregistrement doivent être mis à jour. Créez ou modifiez vos enregistrements de serveur de noms auprès de votre bureau d’enregistrement de domaine.
+Pour configurer votre domaine dans Microsoft 365, les serveurs de noms de votre bureau d’enregistrement doivent être mis à jour. Créez ou modifiez vos enregistrements de serveur de noms auprès de votre bureau d’enregistrement de domaines.
   
 1. Accédez au site web de votre bureau d’enregistrement de domaines et recherchez la zone dans laquelle vous pouvez modifier les serveurs de noms.
   
@@ -35,5 +35,5 @@ Pour configurer votre domaine dans Office 365, les serveurs de noms de votre bu
 
 3. Enregistrez les modifications.
 
-Vous trouverez également des instructions détaillées dans cet article : [Modifier les serveurs de noms de manière à configurer Office 365 avec n’importe quel bureau d’enregistrement de domaines](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Vous trouverez également des instructions détaillées dans cet article : [Modifier les serveurs de noms avec n’importe quel bureau d’enregistrement de domaines](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   
