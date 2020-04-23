@@ -1,9 +1,9 @@
 ---
-title: Quand la déclaration de facturation est-elle générée?
+title: Quand la déclaration de facturation est-elle générée ?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530860"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759366"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Quand le relevé de facturation est-il généré?
+# <a name="when-is-the-billing-statement-generated"></a>Quand le relevé de facturation est-il généré ?
 
 Chaque mois, vous recevez un courrier électronique qui vous indique que votre nouvelle déclaration de facturation est disponible dans le centre d’administration 365 de Microsoft. Votre facture contient deux pages. Page 1 contient un résumé de la facture, ainsi que des informations générales sur la facture, la commande, le montant à payer, les méthodes de paiement et la façon de contacter le support technique. La page 2 contient des informations relatives à l'activité de facturation de chaque abonnement.
   

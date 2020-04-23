@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: ed6981629941e2f2ecc348effe98eaa6388a14d8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278925"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758788"
 ---
 # <a name="products--services"></a>Produits & services
 
@@ -24,7 +24,7 @@ Vous pouvez trouver les abonnements appartenant à votre organisation sur la pag
 
 1. Gérez le nombre de licences achetées pour chaque abonnement, ainsi que le nombre de licences en cours d’utilisation.  **Remarque**: les licences qui ne sont pas en cours d’utilisation (non attribuées à un utilisateur) sont toujours facturées.  Pour ne pas être facturé pour les licences inutilisées, réduisez le nombre de licences achetées. Pour plus d’informations sur l’ajout ou la suppression de licences d’un abonnement, voir [comment ajouter ou réduire](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)des licences.
 
-2. Afficher la date de renouvellement ou d’expiration de l’abonnement.  Vous pouvez gérer le renouvellement en cliquant sur le lien **modifier** en regard de la date à la date d' **expiration/** date.  Pour plus d’informations sur la gestion de la facturation périodique, reportez-vous à la rubrique [renouvelle Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=2119216) .
+2. Afficher la date de renouvellement ou d’expiration de l’abonnement.  Vous pouvez gérer le renouvellement en cliquant sur le lien **modifier** en regard de la date à la date d' **expiration/** date.  Pour plus d’informations sur la gestion de la facturation périodique, reportez-vous à la rubrique [Renew Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=2119216) .
 
 3. [Réactiver un abonnement expiré ou désactivé](https://go.microsoft.com/fwlink/?linkid=2117519).
 

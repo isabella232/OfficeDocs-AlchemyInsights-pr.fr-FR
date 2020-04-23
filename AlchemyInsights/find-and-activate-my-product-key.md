@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 8b661671afe9fa670decce63b9eb030b35cf072d
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417717"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716134"
 ---
 # <a name="find-and-activate-my-product-key"></a>Rechercher et activer ma clé de produit
 
-Si vous avez acheté Office 365 pour les entreprises via un [programme de licence Microsoft Open](https://go.microsoft.com/fwlink/p/?LinkID=613298), voici comment trouver et activer votre clé de produit.
+Si vous avez acheté Microsoft 365 pour les entreprises via un [programme de licence Microsoft Open](https://go.microsoft.com/fwlink/p/?LinkID=613298), voici comment trouver et activer votre clé de produit.
 
-1. Si vous avez acheté une clé auprès d'un partenaire Office 365, recherchez un message électronique de Microsoft contenant un lien d'activation dans votre boîte de réception.  **Remarque**: le courrier électronique est envoyé à la personne mentionnée en tant qu’administrateur en ligne dans le contrat de licence en volume.  Si vous ne connaissez pas la personne désignée comme administrateur en ligne, contactez votre partenaire Office 365.
+1. Une fois que vous avez acheté une clé auprès d’un partenaire Microsoft 365, vérifiez si votre boîte de réception contient un message électronique de Microsoft contenant un lien d’activation.  **Remarque**: le courrier électronique est envoyé à la personne mentionnée en tant qu’administrateur en ligne dans le contrat de licence en volume.  Si vous ne savez pas qui est désigné en tant qu’administrateur en ligne, demandez à votre partenaire Microsoft 365.
 
-2. Suivez le lien figurant dans le message électronique pour vous connecter avec votre compte professionnel ou scolaire, acceptez le contrat de licence Open et renouvelez l’abonnement.  Pour obtenir une procédure pas à pas, téléchargez le guide PDF, [activer les services en ligne : abonnement Office 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Suivez le lien figurant dans le message électronique pour vous connecter avec votre compte professionnel ou scolaire, acceptez le contrat de licence Open et renouvelez l’abonnement.  Pour obtenir une procédure pas à pas, téléchargez le guide PDF, [activer les services en ligne : abonnement Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
 **Remarque**: les clients de licences en volume peuvent également choisir d’activer les abonnements dans le centre de gestion des [licences en volume](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Pour savoir comment procéder, téléchargez le guide PDF, [active Online Services dans le centre de gestion des licences en volume](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Si vous avez acheté Office 365 Business Premium auprès d’un détaillant, procédez comme suit pour prolonger la date d’expiration ou ajouter une licence à un abonnement existant.
+Si vous avez acheté Microsoft 365 Business Premium standard auprès d’un détaillant, procédez comme suit pour prolonger la date d’expiration ou ajouter une licence à un abonnement existant.
 
-**Remarque**: pour utiliser une clé de produit afin d’étendre la date d’expiration ou d’ajouter une licence à votre abonnement Office 365 Business Premium existant, vous avez besoin d’une clé nouvelle et inutilisée pour le même plan Office 365.  L'utilisation de votre clé de produit Office 365 d'origine ne fonctionnera pas, car une clé déjà échangée ne peut pas être réutilisée.
+**Remarque**: pour utiliser une clé de produit afin d’étendre la date d’expiration ou d’ajouter une licence à votre abonnement Microsoft 365 Business Premium standard existant, vous avez besoin d’une clé nouvelle et inutilisée pour le même abonnement Microsoft 365.  La saisie de votre clé de produit Microsoft 365 ne fonctionnera pas, car une clé qui a déjà été échangée ne peut pas être réutilisée.
 
 1. Dans le centre d’administration, accédez à la page produits de **facturation** > [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
