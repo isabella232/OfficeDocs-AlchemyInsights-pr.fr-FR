@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713248"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787728"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Message sur les applications Office : Désolé... Nous avons rencontré un problème lié à votre abonnement
 
-- Si vous avez changé d’offre ou d’abonnement Office 365 récemment, procédez de la manière décrite dans [La mention « Avis sur le compte » apparaît dans Office suite au changement d’offre Office 365](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)pour réinstaller ou mettre à jour Office.
+- Si vous avez changé d’offre ou d’abonnement récemment, procédez de la manière décrite dans [La mention « Avis sur le compte » apparaît dans Office suite au changement d’offre](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)pour réinstaller ou mettre à jour Office.
 
-- Consultez [Erreur Office «Avis sur le compte : Désolé... Nous avons rencontré un problème lié à votre abonnement à Office 365 »](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
+- Voir [Erreur Office «Avis sur le compte : Désolé... Nous avons rencontré un problème lié à votre abonnement »](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
 - Supprimez et [Attribuez la licence Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) pour l’utilisateur concerné. 
 
@@ -34,6 +34,6 @@ ms.locfileid: "43713248"
 
 Pour plus d’informations, consultez les rubriques suivantes : 
 
-[Un avis d’abonnement apparaît lorsque j’ouvre une application Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Un avis d’abonnement apparaît lorsque j’ouvre une application Microsoft](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Résoudre les problèmes liés à l’activation d’Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059972"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784545"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurer la gestion des risques internes
 
@@ -26,13 +26,13 @@ Utilisez les stratégies de gestion des risques internes pour identifier les act
 
 - Abonnement **Microsoft 365 E3** avec le module complémentaire de conformité Microsoft E5.
 
-Si vous n’avez pas de plan **Microsoft 365 E5** existant et que vous voulez essayer la gestion des risques internes, vous pouvez ajouter Microsoft 365 à votre abonnement Office 365 existant ou vous inscrire à un essai de Microsoft 365 Entreprise E5.
+Si vous n’avez pas de plan **Microsoft 365 E5** existant et que vous voulez essayer la gestion des risques internes, vous pouvez ajouter Microsoft 365 à votre abonnement existant ou vous inscrire à un essai de Microsoft 365 Entreprise E5.
 
 Les étapes de base de l’utilisation de la gestion des risques internes sont les suivantes :
 
 1. Activez les autorisations pour la gestion des risques internes.
 
-2. Activez le journal d’audit Office 365.
+2. Activer le journal d’audit.
 
 3. Configurez les conditions préalables du modèle (facultatif).
 
