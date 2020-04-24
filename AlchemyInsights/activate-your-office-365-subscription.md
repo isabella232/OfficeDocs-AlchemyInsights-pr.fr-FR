@@ -1,5 +1,5 @@
 ---
-title: Activer votre abonnement Office 365
+title: Activer votre abonnement Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191064"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784005"
 ---
-# <a name="activate-your-office-365-subscription"></a>Activer votre abonnement Office 365
+# <a name="activate-your-subscription"></a>Activer un abonnement
 
 **Activer un abonnement**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191064"
 
 **Réactiver un abonnement**
 
-Si votre abonnement vient à expirer ou a été désactivé par Microsoft ou si vous l'avez annulé au milieu de la période d'abonnement, vous pouvez le réactiver dans le Centre d'administration Office 365.
+Si votre abonnement vient à expirer ou a été désactivé par Microsoft ou si vous l’avez annulé au milieu de la période d’abonnement, vous pouvez le réactiver dans le Centre d’administration Microsoft 365.
 
-- Dans le centre d’administration Office 365, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) (ou cliquez sur **Abonnements > Facturation**).
+- Dans le centre d’administration Microsoft 365, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) (ou cliquez sur **Abonnements > Facturation**).
 
 - Sélectionnez l'abonnement que vous voulez réactiver, puis cliquez sur **Réactiver**. Si l'option **Réactiver** n'apparaît pas comme action disponible, [contactez le support](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) pour réactiver votre abonnement.
 
@@ -42,6 +42,6 @@ Pour plus d’informations, consultez l’article [Réactiver votre abonnement](
 
 **Activer un nouvel abonnement avec une clé de produit**
 
-- Pour activer un nouvel abonnement Office 365 avec votre clé de produit, commencez [ici](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Pour activer un nouvel abonnement Microsoft 365 avec votre clé de produit, commencez [ici](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Entrez votre clé de produit Office 365 et suivez les messages d'invite pour activer votre abonnement. Si vous rencontrez des problèmes d'activation, consultez cette [liste des erreurs courantes liées aux clés de produit et les solutions associées](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Entrez votre clé de produit Microsoft 365 et suivez les messages d’invite pour activer votre abonnement. Si vous rencontrez des problèmes d'activation, consultez cette [liste des erreurs courantes liées aux clés de produit et les solutions associées](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
