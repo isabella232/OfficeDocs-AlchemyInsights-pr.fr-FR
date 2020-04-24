@@ -13,25 +13,25 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709549"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799157"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Comment attribuer une licence à un utilisateur
 
-Un utilisateur a besoin d’une licence pour avoir accès aux services. Voici les étapes à suivre pour ajouter, modifier ou supprimer une licence d’un utilisateur.
+Un utilisateur a besoin d’une licence pour avoir accès aux services. Voici les étapes à suivre pour **Ajouter, modifier ou supprimer** une licence d’un utilisateur.
   
-1. Dans le Centre d’administration, accédez à la page **Utilisateurs >** \> [Utilisateurs actifs](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Dans le **Centre d’administration, accédez à** \> utilisateurs [actifs](https://go.microsoft.com/fwlink/p/?linkid=834822).
 
-2. Sélectionnez le nom de l’utilisateur auquel vous souhaitez attribuer, modifier ou supprimer une licence.
+2. Sélectionnez le nom de l’utilisateur pour lequel vous souhaitez attribuer, modifier ou supprimer une licence.
 
-3. Sous l’onglet **licences et applications** , sélectionnez la licence que vous souhaitez attribuer à cet utilisateur.
+3. Cliquez sur **gérer les licences des produits**, puis sélectionnez la licence que vous souhaitez attribuer à cet utilisateur.
 
     Par défaut, tous les services associés à cette licence sont automatiquement attribués à l'utilisateur. Pour limiter les services disponibles pour l’utilisateur, désactivez la case à cocher correspondant aux services que vous ne voulez pas que cet utilisateur ait.
 
-4. En bas du volet, choisissez **enregistrer les modifications**.
+4. En bas du volet, cliquez sur **enregistrer les modifications**.
 
 Pour plus d’informations, consultez la rubrique [attribuer des licences aux utilisateurs](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)et [supprimer des licences d’utilisateurs](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
