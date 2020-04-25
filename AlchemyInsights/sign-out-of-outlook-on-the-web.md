@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 2eac0cafc0fed6fe813d3820044a407e200955f3
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: a3d9adbea318e4302490e52d190d93607ce9fd4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100449"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789048"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Se déconnecter d’Outlook sur le web
 
 1. Cliquez sur l’image de votre compte/initiales dans le coin supérieur droit de l’écran. Si votre image n’apparaît pas en haut de l’écran, vérifiez si le logiciel anti-publicité est activé. Cela peut empêcher l’affichage de l’image.
 
-2. Cliquez sur **Se déconnecter**. (Pour empêcher Outlook sur le web de vous connecter automatiquement à votre compte professionnel ou scolaire, décochez la case **Maintenir la connexion** lors de votre prochaine connexion à Office 365).
+2. Cliquez sur **Se déconnecter**. (Pour empêcher Outlook sur le web de vous connecter automatiquement à votre compte professionnel ou scolaire, décochez la case **Maintenir la connexion** lors de votre prochaine connexion).
 
 3. Si l’option de déconnexion est manquante, il s’agit d’un problème connu sur lequel nous travaillons pour publier un correctif dans une prochaine version.  Essayez de vider le cache de votre navigateur et les cookies pour vérifier si cela résout le problème.  Si tel n’est pas le cas, vous pouvez [vous déconnecter de votre compte manuellement](https://login.live.com/logout.srf) et fermer toutes les fenêtres du navigateur.
 

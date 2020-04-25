@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002325"
 - "4514"
-ms.openlocfilehash: 72f5eed00e11139c445b631236e4bee2fff33238
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: bc5ce953272fb13540c340cec1ab8143af398d51
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027930"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788808"
 ---
 # <a name="common-password-issues-and-resolutions"></a>Problèmes courants liés aux mots de passe et leur résolution
 
@@ -28,10 +28,10 @@ Voici quelques-uns des problèmes courants liés aux mots de passe et leur réso
 
 - [Réinitialiser mon mot de passe d’administrateur oublié lorsque le mot de passe est encore en mémoire cache dans le navigateur](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide#reset-my-office-365-tenant-admin-password).
 
-- **Réinitialisation du mot de passe en libre-service** : [permettez aux utilisateurs de réinitialiser leur mot de passe dans Office 365 et Azure](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset). Pour obtenir des instructions plus détaillées, voir [Autorisez les utilisateurs à réinitialiser leur mot de passe](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords).
+- **Réinitialisation du mot de passe en libre-service** : [permettez aux utilisateurs de réinitialiser leur mot de passe dans Microsoft 365 et Azure](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset). Pour obtenir des instructions plus détaillées, voir [Autorisez les utilisateurs à réinitialiser leur mot de passe](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords).
 
 - [Mise à jour les informations de contact pour la réinitialisation du mot de passe en libre-service](https://go.microsoft.com/fwlink/?linkid=849451) : SSPR est activé pour les administrateurs par défaut. 
 
 - **Définition d’une stratégie d’expiration de mot de passe** : **Paramètres > Sécurité et confidentialité > [Stratégie d’expiration de mot de passe](https://admin.microsoft.com/AdminPortal/Home#/SettingsMultiPivot/:/Settings/L1/PasswordPolicy)**
 
-Pour d’autres scénarios de réinitialisation de mot de passe, essayez [Réinitialiser les mots de passe Office 365](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) ou tapez une description plus spécifique du problème.
+Pour d’autres scénarios de réinitialisation de mot de passe, essayez [Réinitialiser les mots de passe Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) ou tapez une description plus spécifique du problème.

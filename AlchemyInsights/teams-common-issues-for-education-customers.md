@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856788"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739434"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problèmes courants de Teams pour les clients du secteur de l’éducation
 
@@ -34,7 +34,7 @@ Si vous avez besoin d’aide pour déployer Teams afin de prendre en charge la f
 - **Activer l’accès invité Teams** : consultez la [liste de contrôle d’accès invité Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) et vérifier que toutes les étapes ont été effectuées.
     - [Comprendre l'accès invité dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)
     - [Configuration : Liste de contrôle d'accès invité Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-    - [Comment un invité rejoint une équipe](https://docs.microsoft.com/microsoftteams/guest-joins)
+    - [Comment un invité rejoint une Équipe](https://docs.microsoft.com/microsoftteams/guest-joins)
 
 - **Réunions et rendez-vous Teams** : Avez-vous besoin d’aide pour activer ou configurer l’audioconférence dans Microsoft Teams ? Cet utilisateur a-t-il été créé récemment ? Si c’est le cas, vous devrez attendre 2 à 24 heures pour que les paramètres prennent effet. Pour vérifier que l’utilisateur dispose d’une licence pour l’audioconférence et possède un numéro payant par défaut :
     1. Accédez aux Utilisateurs actifs, puis sélectionnez l’utilisateur concerné.
@@ -43,14 +43,14 @@ Si vous avez besoin d’aide pour déployer Teams afin de prendre en charge la f
     4. Les centres d'administration des utilisateurs cliquent sur **Afficher tout**, puis sur **Teams**.
     5. Dans le centre d’administration Microsoft Teams, cliquez sur **Portail hérité**.
     6. Dans le centre d’administration Skype Entreprise, cliquez sur **Audioconférence**, puis sur **Utilisateurs**.
-    7. Sélectionnez l’utilisateur concerné et vérifiez que celui-ci dispose d’un numéro payant par défaut.
+    7. Sélectionnez l’utilisateur concerné et vérifiez que l’utilisateur dispose d’un numéro payant par défaut.
 
-    Pour plus d’informations, voir [Plans d’appels pour Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou appelez l’équipe de facturation Microsoft Commerce pour obtenir de l’aide sur les questions liées à la gestion des licences.
+    Pour plus d’informations, consultez [Plans d’appels](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou appelez l’équipe de facturation Microsoft Commerce pour obtenir de l’aide sur les questions liées à la gestion des licences.
 
     Ressources supplémentaires
 
     - [Réunions et conférences dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Audioconférence dans Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audioconférence](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Stratégies de réunion** : les stratégies de réunion sont utilisées pour contrôler les fonctionnalités disponibles pour les participants aux réunions planifiées par les utilisateurs au sein de votre organisation. Après avoir créé une stratégie et apporté vos modifications, vous pouvez affecter des utilisateurs à la stratégie.
 
@@ -76,7 +76,7 @@ Si vous avez besoin d’aide pour déployer Teams afin de prendre en charge la f
 
     Pour attribuer une stratégie à plusieurs utilisateurs à la fois, consultez l’article [Modifier en masse les paramètres utilisateur Teams](https://docs.microsoft.com/microsoftteams/edit-user-settings-in-bulk).
 
-    Vous pouvez également effectuer les opérations suivantes :
+    Vous pouvez effectuer les opérations suivantes :
     1. Dans le volet de navigation gauche du centre d’administration Microsoft Teams, accédez aux **Réunions > Stratégies de réunion**.
     2. Sélectionnez la stratégie en cliquant à gauche du nom de celle-ci.
     3. Cliquez sur **Gérer les utilisateurs**.

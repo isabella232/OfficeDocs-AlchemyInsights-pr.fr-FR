@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509492"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788880"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Définir des réponses automatiques pour la boîte aux lettres d'un utilisateur
 
 **Méthode 1**
 
-1. Se connecter au portail Office 365.
+1. Connectez-vous au portail Microsoft 365.
 
 2. Accédez à **Utilisateurs > Utilisateurs actifs** (ou **Groupes > Boîtes aux lettres partagées** si vous les configurez dans une boîte aux lettres partagée).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509492"
 
 **Méthode 2**
 
-1. Connectez-vous au Portail d’administration Office 365 à l’aide des informations d’identification d’administrateur.
+1. Connectez-vous au portail d’administration de Microsoft 365 à l’aide des informations d’identification d’administrateur.
 
 2. Développez **Centres d’administration**, puis cliquez sur **Exchange**.
 

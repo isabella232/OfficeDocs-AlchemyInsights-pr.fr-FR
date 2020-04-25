@@ -1,5 +1,5 @@
 ---
-title: Acheter les offres Office 365 Éducation
+title: Acheter des offres Microsoft 365 Éducation
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195155"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789372"
 ---
-# <a name="purchase-office-365-education-plans"></a>Acheter les offres Office 365 Éducation
+# <a name="purchase-microsoft-365-education-plans"></a>Acheter des offres Microsoft 365 Éducation
 
-Vous êtes éligible à Office 365 Éducation.  Pour acheter :
+Vous avez été approuvé pour Microsoft 365 Éducation.  Pour acheter :
 
 1. Accédez à **[Facturation > Acheter des services](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
@@ -35,6 +35,6 @@ Vous êtes éligible à Office 365 Éducation.  Pour acheter :
 
 **Enseignement et formation à distance**
 
-- Consultez l’article [Enseignement et formation à distance dans Office 365 Éducation](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) pour découvrir les conseils les plus récents sur la mise en place de la planification de vos cours, les réunions virtuelles et le partage de contenu avec les étudiants.
+- Consultez l’article [Enseignement et formation à distance dans Microsoft 365 Éducation](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) pour découvrir les conseils les plus récents sur la mise en place de la planification de vos cours, les réunions virtuelles et le partage de contenu avec les étudiants.
 
 - Pour plus de conseils en informatique, voir [Prise en main de Microsoft Teams pour l’apprentissage à distance](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) et [Transition vers l’apprentissage à distance](https://www.microsoft.com/education/remote-learning).

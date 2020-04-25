@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002287"
 - "4420"
-ms.openlocfilehash: 6ca5ab985543e81108c85094f34bae84668c9978
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 45f7c4c14287125fd928f13c08d459dd204409cc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102576"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784257"
 ---
 # <a name="cancel-microsoft-subscription"></a>Annuler l’abonnement Microsoft
 
-Si vous souhaitez annuler un abonnement Microsoft ou un abonnement d’évaluation, y compris Xbox Live et Office 365, veuillez consulter la page [Annuler votre abonnement Microsoft](https://support.microsoft.com/help/4027815).
+Si vous souhaitez annuler un abonnement Microsoft ou un abonnement d’évaluation, y compris Xbox Live et Microsoft 365, veuillez consulter la page [Annuler votre abonnement Microsoft](https://support.microsoft.com/help/4027815).
 
 **Remarque** : Pour les remboursements, les retours ou les échanges, veuillez consulter la page [Retour d’articles achetés auprès de Microsoft Store pour échange ou remboursement](https://support.microsoft.com/help/10558). Vous pouvez consulter votre [historique des commandes](https://account.microsoft.com/billing/orders/) pour vérifier ce que vous avez commandé auprès de Microsoft. 
 

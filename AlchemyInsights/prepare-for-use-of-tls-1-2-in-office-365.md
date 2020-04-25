@@ -11,16 +11,16 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 319a5b089da94c8a2dcf7aef7d9e1bf791490d08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4d4206036e293419e4bc2400296ed4b0bd67e0f7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666899"
+ms.locfileid: "43785265"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Préparer l’utilisation de TLS 1.2 dans Microsoft 365
 
-En date du 31 octobre 2018, la transition de Microsoft 365 vers TLS 1.2 se poursuit. Dès lors, Microsoft ne résoudra pas les nouveaux problèmes détectés au niveau des clients, des appareils ou des services qui se connectent à Office 365 à l’aide de TLS 1.0 et 1.1. **Microsoft 365 ne bloque pas les connexions TLS 1.0 et 1.1 pour autant.** La date de dépréciation finale sera déterminée selon l’utilisation des clients et l’état actuel de la sécurité TLS héritée. Une fois la décision arrêtée, une annonce sera effectuée six mois à l’avance, sauf si nous avons connaissance d’une compromission connue, auquel cas nous devrons peut-être agir dans un délai inférieur afin de protéger les clients qui utilisent les services.
+En date du 31 octobre 2018, la transition de Microsoft 365 vers TLS 1.2 se poursuit. Dès lors, Microsoft ne résoudra pas les nouveaux problèmes détectés au niveau des clients, des appareils ou des services qui se connectent à Microsoft 365 à l’aide de TLS 1.0 et 1.1. **Microsoft 365 ne bloque pas les connexions TLS 1.0 et 1.1 pour autant.** La date de dépréciation finale sera déterminée selon l’utilisation des clients et l’état actuel de la sécurité TLS héritée. Une fois la décision arrêtée, une annonce sera effectuée six mois à l’avance, sauf si nous avons connaissance d’une compromission connue, auquel cas nous devrons peut-être agir dans un délai inférieur afin de protéger les clients qui utilisent les services.
   
 Il est vivement recommandé aux serveurs et clients qui se connectent à Microsoft 365 d’activer TLS 1.2 dès que possible.
   
