@@ -11,18 +11,20 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626310"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908785"
 ---
 # <a name="microsoft-teams-upgrade"></a>Mise à niveau de Microsoft teams
 
+**Important**: nous pouvons vous aider à résoudre ce problème pour vous en utilisant un diagnostic du support technique, mais il semble que vous n’utilisiez pas le nouveau centre d’administration. Pour utiliser le nouveau centre d’administration, faites glisser le bouton bascule en haut à droite qui indique **nouveau centre d’administration** à droite. À l’aide du nouveau centre d’administration, cliquez sur le widget **besoin d’aide ?** , tapez « mise à niveau de teams », puis suivez les invites pour exécuter le diagnostic.
+
 Que vous débutiez avec Teams, que vous utilisiez déjà Teams en parallèle de Skype Entreprise, ou que vous soyez prêt à procéder à la mise à niveau, nous voulons nous assurer que vous disposez de tout ce dont vous avez besoin pour migrer efficacement vers Teams. Pour plus d’informations, consultez les liens ci-dessous.
 
-[Prise en main de votre mise à niveau vers Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Bien démarrer avec votre mise à niveau de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Planifier la mise à niveau](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 

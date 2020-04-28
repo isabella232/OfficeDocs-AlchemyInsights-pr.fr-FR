@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053115"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908702"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Limite de messagerie quotidienne dépassée. Le flux de travail est suspendu.
 
@@ -27,7 +27,7 @@ Cette erreur peut être reçue dans les scénarios suivants :
 - Lorsque vous exécutez le flux de travail, le message électronique n’est pas envoyé et vous remarquez le comportement suivant :
     - Pour un flux de travail qui utilise le type de plateforme SharePoint 2013, accédez à la page **État du flux de travail** . Dans la page État du flux de travail, le **statut interne** est défini sur **démarré**, et la bulle d’informations affiche **Impossible d’envoyer à un destinataire**.
 
-Pour contourner ce problème, configurez votre flux de travail pour qu’il envoie des messages électroniques sans dépasser les limites de l' [expéditeur Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Par exemple, utilisez une pause dans le flux de travail, envoyez le courrier électronique à un groupe Office 365, à un groupe de distribution ou à un groupe de sécurité à extension messagerie, ou envoyez le message à un nombre de destinataires inférieur à 200 à la fois.
+Pour contourner ce problème, configurez votre flux de travail pour qu’il envoie des messages électroniques sans dépasser les limites de l' [expéditeur Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Par exemple, utilisez une pause dans le flux de travail, envoyez l’e-mail à un groupe de sécurité Microsoft 365, à un groupe de distribution ou à un groupe de sécurité à extension messagerie, ou envoyez le message à moins de 200 destinataires à la fois.
 
 
 Pour plus d’informations, consultez l' [article](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)suivant.

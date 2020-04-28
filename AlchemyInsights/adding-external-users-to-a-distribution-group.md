@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737871"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910930"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Ajouter des utilisateurs externes à un groupe de distribution
 
@@ -40,5 +40,5 @@ L’ajout d’un contact externe à un groupe de distribution (DG) est un proces
     
 Si, après avoir suivi ces étapes, vos utilisateurs externes ne peuvent pas envoyer de courriers électroniques au DG ou ne reçoivent pas de courriers électroniques, il est possible que le DG soit marqué pour autoriser uniquement les messages provenant d’utilisateurs internes. Vous pouvez vérifier cette configuration et la corriger en suivant les instructions fournies [ici](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online).
   
- **Remarque :** Ces instructions ne s’appliquent pas si le type de votre groupe est « groupe Office 365 » au lieu de « groupe de distribution ». Dans ce cas, vous pouvez ajouter l’utilisateur externe directement au groupe à partir d’Outlook. Vous trouverez des informations détaillées sur les groupes Office 365 invités ainsi que des instructions pour l’ajout d’invités externes dans [cet article](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Remarque :** Ces instructions ne s’appliquent pas si le type de votre groupe est « groupe Microsoft 365 » au lieu de « groupe de distribution ». Dans ce cas, vous pouvez ajouter l’utilisateur externe directement au groupe à partir d’Outlook. Vous trouverez des informations détaillées sur les invités des groupes Microsoft 365, ainsi que des instructions pour l’ajout d’invités externes dans [cet article](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

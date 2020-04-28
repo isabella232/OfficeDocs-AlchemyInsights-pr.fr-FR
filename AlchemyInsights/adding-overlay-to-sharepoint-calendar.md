@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709405"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908846"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Ajout d’une superposition à un calendrier SharePoint
 
-Les calendriers SharePoint sont des types de liste classiques qui sont parfois confondus avec les calendriers de groupe Office 365.
+Les calendriers SharePoint sont des types de liste classiques qui sont parfois confondus avec les calendriers de groupe Microsoft 365.
  
 Si vous utilisez un calendrier SharePoint sur votre site, vous pouvez superposer votre propre calendrier Exchange sur celui-ci pour créer un affichage de calendrier combiné. Vous pouvez également superposer un autre calendrier SharePoint tant que les deux calendriers SharePoint se trouvent dans la même collection de sites.
  
