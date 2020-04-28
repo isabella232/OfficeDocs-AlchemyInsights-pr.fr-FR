@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 7778ce6afd7dd92d62bda85a978637608b187107
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715522"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911650"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Créer un site d’équipe connecté à un groupe Office 365
+# <a name="create-an-microsoft-365-group-connected-team-site"></a>Créer un site d’équipe connecté à un groupe Microsoft 365
 
 1. Cliquez sur le lanceur d’applications dans l’angle supérieur gauche et sélectionnez **SharePoint**. Si vous ne voyez pas la vignette SharePoint, cliquez sur **toutes les applications**.
     
@@ -24,7 +24,7 @@ ms.locfileid: "43715522"
     > [!NOTE]
     > Si vous ne voyez pas la commande créer un site, la création de sites n’est peut-être pas activée dans votre organisation. Pour l’activer, consultez la rubrique [Manage site Creation](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Suivez les étapes indiquées à l’écran pour nommer le site et créer une adresse de messagerie pour le groupe Office 365, puis cliquez sur **suivant**. Vous pouvez également ajouter d’autres propriétaires et membres de groupe. Cliquez sur**Terminer**.
+3. Suivez les étapes indiquées à l’écran pour nommer le site et créer une adresse de messagerie pour le groupe Microsoft 365, puis cliquez sur **suivant**. Vous pouvez également ajouter d’autres propriétaires et membres de groupe. Cliquez sur**Terminer**.
   
  **Remarque :** Pour créer un site d’équipe sans connexion de groupe, suivez les étapes ci-dessus, mais au lieu de sélectionner site d’équipe à l’étape 2. Sélectionnez d’autres options. Cela vous guidera tout au long de la création d’un site d’équipe sans groupe. 
     

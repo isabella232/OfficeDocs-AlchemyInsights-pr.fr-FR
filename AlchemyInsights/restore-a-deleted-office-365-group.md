@@ -1,5 +1,5 @@
 ---
-title: Restaurer un groupe Office 365 supprimé
+title: Restaurer un groupe Microsoft 365 supprimé
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758752"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912709"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Restaurer un groupe Office 365 supprimé
+# <a name="restore-a-deleted-microsoft-365-group"></a>Restaurer un groupe Microsoft 365 supprimé
 
 Les groupes supprimés sont conservés pendant 30 jours. Pour restaurer un groupe supprimé :
   
@@ -28,5 +28,5 @@ Les groupes supprimés sont conservés pendant 30 jours. Pour restaurer un group
 
 2. Sélectionnez le groupe, puis cliquez sur **restaurer** dans la barre de commandes, ou cliquez sur le lien « cliquez ici pour restaurer » dans le volet d’informations.
 
-Pour plus d’informations ou pour apprendre à restaurer des groupes à l’aide de PowerShell, consultez [la rubrique Restore a Deleted Office 365 Group](https://go.microsoft.com/fwlink/?linkid=867802).
+Pour plus d’informations ou pour apprendre à restaurer des groupes à l’aide de PowerShell, consultez [la rubrique Restore a Deleted Microsoft 365 Group](https://go.microsoft.com/fwlink/?linkid=867802).
   

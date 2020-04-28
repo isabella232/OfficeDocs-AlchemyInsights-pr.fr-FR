@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 2ab08cfa4d0cc7d39962f91dd60fd96d046b2ded
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704975"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911542"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Supprimer un site du nouveau centre d’administration SharePoint
 
@@ -23,7 +23,7 @@ ms.locfileid: "43704975"
 **Important :** Si le site fait partie d’une stratégie de rétention, vous pouvez ne pas être en mesure de le supprimer tant que le site n’a pas été supprimé de la [stratégie Centre d’administration de conformité de sécurité &amp; ](https://protection.office.com/?rfr=AdminCenter#/homepage). Pour plus d’informations, consultez la rubrique [Overview of retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 
 Bourgeon
-- Les administrateurs SharePoint peuvent désormais supprimer des sites appartenant à des **groupes Office 365**. Cette opération supprime le groupe et toutes ses ressources, y compris la boîte aux lettres et le calendrier Outlook, ainsi que les chaînes Teams. Pour plus d’informations, consultez [la rubrique supprimer un site SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Les administrateurs SharePoint peuvent désormais supprimer des sites appartenant à des **groupes Microsoft 365**. Cette opération supprime le groupe et toutes ses ressources, y compris la boîte aux lettres et le calendrier Outlook, ainsi que les chaînes Teams. Pour plus d’informations, consultez [la rubrique supprimer un site SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
 - Vous pouvez récupérer des sites supprimés pendant 93 jours. Notez que les groupes supprimés doivent être restaurés dans les 30 jours. Pour plus d’informations, consultez la rubrique [afficher et restaurer des sites supprimés](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
 - Pour supprimer définitivement un site, reportez-vous à [la rubrique Suppression définitive d’un site](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Cette étape est obligatoire si vous envisagez de réutiliser l’URL. 
 - Pour supprimer un sous-site, consultez [la rubrique supprimer un site ou un sous-site Quicksteps](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

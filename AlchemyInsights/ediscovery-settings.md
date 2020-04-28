@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714400"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911146"
 ---
 # <a name="ediscovery-settings"></a>Paramètres eDiscovery
 
-les recherches de découverte électronique/de contenu vous permettent de rechercher, de mettre en attente et d’exporter du contenu à partir de boîtes aux lettres Exchange Online, de sites SharePoint Online et OneDrive entreprise, de conversations Skype entreprise, de Microsoft teams et de groupes Office 365.
+les recherches de découverte électronique/de contenu vous permettent de rechercher, de conserver et d’exporter du contenu à partir de boîtes aux lettres Exchange Online, de sites SharePoint Online et OneDrive entreprise, de conversations Skype entreprise, de Microsoft teams et de groupes Microsoft 365.
 
 - Si vous recherchez les options de menu de découverte électronique ou de recherche de contenu, consultez la rubrique [problèmes eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Découvrez les autorisations nécessaires pour effectuer des recherches de découverte électronique à partir des [autorisations requises pour les recherches de découverte électronique](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

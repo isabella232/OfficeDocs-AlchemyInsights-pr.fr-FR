@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710513"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912892"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Autorisations utilisateur dans SharePoint et OneDrive
 
@@ -27,7 +27,7 @@ Si un utilisateur de votre organisation ne parvient pas à accéder à SharePoin
   
 1. Ouvrez le site dans un navigateur Web.
     
-2. Si le site appartient à un groupe Office 365, cliquez sur l’icône des paramètres dans le coin supérieur droit, puis cliquez sur **autorisations de site**. Cliquez sur **inviter des personnes**, puis ajoutez des membres au groupe Office 365 ou partagez uniquement le site. 
+2. Si le site appartient à un groupe Microsoft 365, cliquez sur l’icône des paramètres dans le coin supérieur droit, puis cliquez sur **autorisations de site**. Cliquez sur **inviter des personnes**, puis ajoutez des membres au groupe Microsoft 365 ou partagez uniquement le site. 
     
     Pour un site de communication, cliquez sur **partager le site** dans le coin supérieur droit, entrez le nom de la personne, puis sélectionnez le niveau d’autorisation (lecture, modification ou contrôle total). 
     

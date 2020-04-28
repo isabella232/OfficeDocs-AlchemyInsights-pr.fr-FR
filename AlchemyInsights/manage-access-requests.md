@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721748"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912401"
 ---
 # <a name="manage-access-requests"></a>Gérer les demandes d’accès
 
@@ -26,7 +26,7 @@ Lorsqu’un utilisateur tente d’accéder à un élément dans SharePoint et qu
     
 2. Sous **Utilisateurs et autorisations**, cliquez sur **Demandes d'accès et invitations**. (Si cela ne s’affiche pas, aucune demande d’accès n’a été effectuée.)
     
-3. Pour accorder l’autorisation individuelle à l’utilisateur, cliquez sur **approuver** ou **refuser**. Pour sélectionner un niveau d’autorisation spécifique, cliquez d’abord sur les points de suspension (...) en regard du nom de la personne. Vous pouvez également ajouter l’utilisateur à un groupe disposant d’autorisations sur le site. Pour les sites de communication et les sites d’équipe classiques, vous pouvez le faire dans la page Paramètres du site. Pour les sites appartenant à un groupe Office 365, vous pouvez ajouter l’utilisateur au groupe.
+3. Pour accorder l’autorisation individuelle à l’utilisateur, cliquez sur **approuver** ou **refuser**. Pour sélectionner un niveau d’autorisation spécifique, cliquez d’abord sur les points de suspension (...) en regard du nom de la personne. Vous pouvez également ajouter l’utilisateur à un groupe disposant d’autorisations sur le site. Pour les sites de communication et les sites d’équipe classiques, vous pouvez le faire dans la page Paramètres du site. Pour les sites appartenant à un groupe Microsoft 365, vous pouvez ajouter l’utilisateur au groupe.
     
     [Gérer les demandes d’accès](https://go.microsoft.com/fwlink/?linkid=2008747)
     

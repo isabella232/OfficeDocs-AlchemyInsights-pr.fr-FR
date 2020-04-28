@@ -1,5 +1,5 @@
 ---
-title: 'Différer la mise à niveau des équipes '
+title: Différer la mise à niveau des équipes
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 37263aefe56b673429eb773719413688b72457e7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43785337"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912509"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Ajournement de la mise à niveau des équipes basées sur Microsoft
+
+**Important**: nous pouvons vous aider à résoudre ce problème pour vous en utilisant un diagnostic du support technique, mais il semble que vous n’utilisiez pas le nouveau centre d’administration. Pour utiliser le nouveau centre d’administration, faites glisser le bouton bascule en haut à droite qui indique **nouveau centre d’administration** à droite. À l’aide du nouveau centre d’administration, cliquez sur le widget **besoin d’aide ?** , tapez « différer la mise à niveau des équipes », puis suivez les invites pour exécuter le diagnostic.
 
 Si vous avez reçu une communication sur une mise à niveau automatisée basée sur Microsoft de Skype entreprise vers Microsoft teams et que vous souhaitez reporter la mise à niveau automatique à une date ultérieure, votre administrateur général peut se connecter au [portail d’administration de teams](https://admin.teams.microsoft.com/dashboard) et, après avoir sélectionné le bouton **Actualiser** dans la section mise à niveau de Microsoft Teams, sélectionnez le bouton **reporter** . Pour afficher la nouvelle date de mise à niveau automatisée de votre client vers Microsoft Teams, actualisez la page du portail d’administration de teams.
 

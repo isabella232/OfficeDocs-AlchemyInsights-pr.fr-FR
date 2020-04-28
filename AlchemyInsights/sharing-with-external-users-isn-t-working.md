@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767247"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913000"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Résoudre les problèmes de partage de contenu SharePoint avec des utilisateurs externes
 
@@ -32,7 +32,7 @@ Assurez-vous que le partage externe est activé pour le site. Pour une collectio
     
 2. Sélectionnez le ou les sites et, dans le ruban, cliquez sur **partage**.
     
-Pour un site d’équipe appartenant à un groupe Office 365 ou à un site de communication :
+Pour un site d’équipe appartenant à un groupe Microsoft 365 ou à un site de communication :
   
 - Ces nouveaux types de sites ont le même paramètre de partage que votre paramètre à l’échelle de votre organisation, sauf si le paramètre à l’échelle de l’organisation autorise le partage de fichiers à l’aide de liens ne nécessitant pas de connexion. Dans ce cas, les sites autorisent le partage avec des utilisateurs externes nouveaux et existants qui se connectent. Pour modifier le paramètre de sites spécifiques, utilisez le nouveau centre d’administration SharePoint ou PowerShell. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871863).
     

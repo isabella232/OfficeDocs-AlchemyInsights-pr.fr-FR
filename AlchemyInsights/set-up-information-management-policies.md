@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: cef833cfe39cc7f7fc01f19019f56f7675d24733
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 329f8273b287f2b8d137098d29933afa4ce6188f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767535"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912748"
 ---
 # <a name="set-up-information-management-policies"></a>Configurer des stratégies de gestion des informations
 
 1. Si le site SharePoint comporte des sous-sites, accédez au site de niveau supérieur.
     
-2. Cliquez sur **Paramètres**, puis sur **Paramètres du site**. Si le site est un site connecté à un groupe Office 365, cliquez sur **paramètres**, sur **contenu du site**, puis sur **paramètres du site**.
+2. Cliquez sur **Paramètres**, puis sur **Paramètres du site**. Si le site est un site connecté à un groupe Microsoft 365, cliquez sur **paramètres**, sur **contenu du site**, puis sur **paramètres du site**.
     
 3. Sous **Administration de la collection de sites**, cliquez sur **Fonctionnalités de la collection de sites**.
     
