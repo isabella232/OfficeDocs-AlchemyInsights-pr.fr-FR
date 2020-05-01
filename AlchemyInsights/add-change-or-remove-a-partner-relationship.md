@@ -11,17 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: a6f909aebe87e1398cfc76c5a577ea73c11d253c
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: c388609ebb1c2cc9506ea1f95f5fa692ef95b24f
+ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409014"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43955451"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Ajouter, modifier ou supprimer une relation partenaire
 
 En tant qu’administrateur, vous pouvez collaborer avec un partenaire pour acheter, activer et renouveler des abonnements Microsoft 365. 
 
-- Si vous souhaitez modifier votre relation partenaire existante, reportez-vous à la rubrique [Ajouter, modifier ou supprimer un partenaire consultatif d’abonnement](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide). 
+- Si vous souhaitez modifier votre relation partenaire existante, reportez-vous à la rubrique [Ajouter, modifier ou supprimer un partenaire consultatif d’abonnement](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
 
-- Si vous souhaitez trouver un partenaire Microsoft, reportez-vous à [la rubrique trouver votre partenaire ou revendeur microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide). 
+- Si vous souhaitez trouver un partenaire Microsoft, reportez-vous à [la rubrique trouver votre partenaire ou revendeur microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+
+Si vous êtes un partenaire Microsoft existant ou que vous souhaitez en devenir un, consultez le [Centre partenaires Microsoft](https://support.microsoft.com/help/4499930/partner-center-overview) pour plus d’informations sur les avantages ou pour obtenir de l’aide auprès du [support partenaires Microsoft](https://aka.ms/partnersupport).

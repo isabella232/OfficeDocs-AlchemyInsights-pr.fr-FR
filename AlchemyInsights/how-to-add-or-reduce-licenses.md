@@ -1,5 +1,5 @@
 ---
-title: Comment ajouter ou réduire des licences
+title: Ajouter ou supprimer des licences pour votre abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bf92bc9d6bfc8d7a07bff02d18fda7a8800247d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709585"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957832"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Comment ajouter ou réduire des licences
+# <a name="add-or-remove-licenses-for-your-subscription"></a>Ajouter ou supprimer des licences pour votre abonnement
 
 Voici comment ajouter/supprimer des licences.
   
 1. Accédez à **> [abonnements](https://portal.office.com/adminportal/home#/subscriptions)de facturation**.
 
-2. Sélectionnez l’abonnement à partir duquel vous souhaitez ajouter ou supprimer des licences.
+2. Choisissez l’abonnement pour lequel vous souhaitez ajouter/supprimer des licences.
 
 3. Cliquez sur **Ajouter/supprimer des licences**.
 
@@ -41,6 +41,6 @@ Pour plus d’informations sur l’attribution des licences, voir [attribuer des
   
 - [Gérer les licences d’abonnement-acheter ou supprimer](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Annuler votre abonnement Office 365 pour les entreprises](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Annuler Microsoft 365 pour les entreprises](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Acheter un autre abonnement Office 365 pour les entreprises](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Acheter un autre abonnement Microsoft 365 pour les entreprises](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)

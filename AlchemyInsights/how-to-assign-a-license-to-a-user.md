@@ -1,5 +1,5 @@
 ---
-title: Comment attribuer une licence à un utilisateur
+title: Affecter ou annuler l’attribution de licences aux utilisateurs
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799157"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957868"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Comment attribuer une licence à un utilisateur
+# <a name="assign-or-unassign-licenses-to-users"></a>Affecter ou annuler l’attribution de licences aux utilisateurs
 
 Un utilisateur a besoin d’une licence pour avoir accès aux services. Voici les étapes à suivre pour **Ajouter, modifier ou supprimer** une licence d’un utilisateur.
   
