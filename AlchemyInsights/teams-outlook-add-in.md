@@ -11,15 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000736"
 - "3536"
-ms.openlocfilehash: d13012e5a92dd1258f6e9cfacad55fba57dc3b4b
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+- "9002573"
+- "4990"
+ms.openlocfilehash: dcfab01d7614f353bf76446c1e5c1a83e670f8d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158701"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957940"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="47086-102">Complément Outlook teams</span><span class="sxs-lookup"><span data-stu-id="47086-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="00fa7-102">Complément Outlook teams</span><span class="sxs-lookup"><span data-stu-id="00fa7-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="47086-103">Si vos utilisateurs ne voient pas le complément teams d’Outlook après avoir accédé à un mode de mise à niveau de teams pris en charge (TeamsOnly, SfBWithTeamsCollabAndMeetings ou îles), il se peut que le chargement du complément échoue.</span><span class="sxs-lookup"><span data-stu-id="47086-103">If your users do not see the Teams Outlook add-in after moving to a supported Teams Upgrade Mode (TeamsOnly, SfBWithTeamsCollabAndMeetings, or Islands) then the add-in may have failed to load properly.</span></span>  <span data-ttu-id="47086-104">Consultez l’article suivant pour résoudre le problème :</span><span class="sxs-lookup"><span data-stu-id="47086-104">Check out the following article to troubleshoot the issue:</span></span> 
+<span data-ttu-id="00fa7-103">Plusieurs facteurs peuvent empêcher l’affichage de votre complément teams et ils sont tous répertoriés [ici](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0).</span><span class="sxs-lookup"><span data-stu-id="00fa7-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0).</span></span>
 
-- [<span data-ttu-id="47086-105">Pourquoi ne puis-je pas voir le complément réunion Microsoft teams pour Outlook ?</span><span class="sxs-lookup"><span data-stu-id="47086-105">Why can't I see the Microsoft Teams Meeting add-in for Outlook?</span></span>](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/why-can-t-i-see-the-microsoft-teams-meeting-add-in-for-outlook/ba-p/174630) 
+<span data-ttu-id="00fa7-104">**Nous vous recommandons de vérifier d’abord que le complément n’est pas désactivé :**</span><span class="sxs-lookup"><span data-stu-id="00fa7-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
+
+- <span data-ttu-id="00fa7-105">Dans Outlook, cliquez sur **fichier** , puis sur **options**.</span><span class="sxs-lookup"><span data-stu-id="00fa7-105">In Outlook, click **File** and then **Options**.</span></span>
+- <span data-ttu-id="00fa7-106">Sélectionnez l’onglet **compléments** de la boîte de dialogue **options Outlook** .</span><span class="sxs-lookup"><span data-stu-id="00fa7-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
+- <span data-ttu-id="00fa7-107">Vérifiez que le **complément réunion Microsoft teams pour Microsoft Office** est répertorié dans la liste **compléments d’applications actifs** .</span><span class="sxs-lookup"><span data-stu-id="00fa7-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
+- <span data-ttu-id="00fa7-108">Si le complément réunion teams est répertorié dans la liste des **compléments d’applications désactivés** , sélectionnez **compléments COM** dans **gérer** , puis cliquez sur **OK...**</span><span class="sxs-lookup"><span data-stu-id="00fa7-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
+- <span data-ttu-id="00fa7-109">Définissez la case à cocher en regard de **complément de réunion Microsoft teams pour Microsoft Office**.</span><span class="sxs-lookup"><span data-stu-id="00fa7-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
+- <span data-ttu-id="00fa7-110">Cliquez sur **OK** dans toutes les boîtes de dialogue et redémarrez Outlook.</span><span class="sxs-lookup"><span data-stu-id="00fa7-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>
