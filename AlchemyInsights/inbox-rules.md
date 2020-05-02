@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724554"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005256"
 ---
-# <a name="inbox-rules"></a>Règles de la boîte de réception
+# <a name="inbox-rules-in-outlook-desktop"></a>Règles de boîte de réception dans le bureau Outlook
 
-Pour plus d’informations sur l’utilisation des règles de boîte de réception dans votre propre boîte aux lettres, voir :
+1. Accédez à **fichier > gérer les règles & alertes** pour ouvrir la boîte de dialogue **règles et alertes** .
+2. Sous l’onglet **règles du courrier électronique** , cliquez sur **nouvelle règle**.
+3. Sélectionnez l’un des modèles de l' **étape 1**. Pour démarrer à partir d’une règle vide, sélectionnez **appliquer la règle sur les messages que je reçois ou appliquer la règle pour les messages que j’envoie**.
+4. Dans la **zone étape 2 : modifier la description de la règle**, cliquez sur les options soulignées pour les définir. Par exemple, si vous avez sélectionné **marquer les messages provenant d’une personne pour le suivi** à l’étape 1, cliquez sur **personnes ou groupe public** pour sélectionner les messages des expéditeurs que vous souhaitez marquer. Ensuite, cliquez sur **assurer un suivi** pour sélectionner un indicateur et une date de suivi.
+5. Cliquez sur **Suivant**.
 
-- [Gérer les messages électroniques à l’aide de règles dans Outlook pour PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Gérer vos messages à l’aide de règles de boîte de réception dans Outlook sur le Web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Vous pouvez également gérer les règles de boîte de réception dans Exchange Online PowerShell. Pour plus d’informations, reportez-vous à la rubrique [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (View), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (Modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Disable existing) et [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (Enable existing).
+Pour plus d’informations sur l’utilisation des règles de boîte de réception, consultez la rubrique [gérer les messages électroniques à l’aide de règles](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
