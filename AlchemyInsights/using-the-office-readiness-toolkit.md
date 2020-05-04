@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: 869e00dd187e8bd2bf9c37c8e4574902db3cd6e8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f6ead7c1f0e146056c008226c5689b912fd1fdf5
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766383"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010684"
 ---
 # <a name="using-the-office-readiness-toolkit"></a>Utilisation d’Office Readiness Toolkit
 
-Pour plus d’informations sur l’utilisation d’Office Readiness Toolkit, reportez-vous [à la rubrique utilisation de la boîte à outils de préparation pour évaluer la compatibilité des applications pour les applications Microsoft 365 pour les entreprises](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).
+Pour plus d’informations sur l’utilisation d’Office Readiness Toolkit, reportez-vous [à la rubrique utilisation de la boîte à outils de préparation pour évaluer la compatibilité des applications pour les applications Microsoft 365](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
 
 Si vous avez des suggestions ou des questions sur le Kit de ressources de préparation, merci de nous envoyer un e-mail à l’adresse ReadyForOffice@microsoft.com.

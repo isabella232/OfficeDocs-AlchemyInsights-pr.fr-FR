@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 5a1184201e5d9bd58837cb28072da0bf972e16dc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0500e998a457c074517b098e95acbd698c4e6b08
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766815"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010559"
 ---
 # <a name="fixing-the-office-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>Résolution des applications Office « les produits que nous avons trouvés dans votre compte ne peuvent pas être utilisés pour activer »
 
@@ -29,8 +29,8 @@ Si vous recevez ce message, procédez comme suit :
 - Exécutez l’[Utilitaire de résolution des problèmes liés à l’activation](https://aka.ms/SARA-OfficeActivation-Alchemy) et redémarrez l’ordinateur.
 - Sur la machine affectée, [réinitialisez l’état d’activation d’Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-Pour les scénarios d’ordinateur partagé, consultez la rubrique [Troubleshoot Problems with Shared Computer activation for Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/deployoffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Pour les scénarios d’ordinateur partagé, consultez la rubrique [Troubleshoot Problems with Shared Computer activation for Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation).
 
-Si vous souhaitez en savoir plus, consultez les articles :  
-- [Une notification d’abonnement s’affiche lorsque j’ouvre une application Microsoft 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+Pour plus d’informations, reportez-vous aux rubriques suivantes : 
+- [Un avis d’abonnement apparaît lorsque j’ouvre une application Microsoft 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - [Résoudre les problèmes d’activation d’Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

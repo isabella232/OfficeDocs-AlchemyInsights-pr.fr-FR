@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: c6d5c0233acb8fb71127dcb54c719b71aa1a5bcb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769805"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010297"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Désinstaller ou exclure des équipes de nouvelles installations Office ou existantes
 
-Microsoft teams est inclus dans le cadre d’Office 365 ProPlus, Office 365 Business et Office pour Mac.
+Microsoft teams est inclus dans le cadre des applications Microsoft 365 pour les entreprises, de Microsoft 365 applications pour les entreprises et d’Office pour Mac.
 
-- Utilisez l' [outil déploiement d’Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) pour exclure teams de nouvelles installations d’Office.
+- Utilisez l' [outil déploiement d’Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) pour exclure teams de nouvelles installations d’Office.
 - Pour *désinstaller* teams d’un appareil exécutant Windows, reportez-vous à la rubrique [Uninstall Microsoft teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Pour nettoyer Microsoft teams de plusieurs ordinateurs cibles ou utilisateurs, consultez la rubrique [nettoyage du déploiement de Microsoft teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 - Utilisez l’option [PreventTeamsInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
 ) pour empêcher Microsoft teams de s’installer automatiquement avec Office.
