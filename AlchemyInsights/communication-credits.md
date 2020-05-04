@@ -26,7 +26,7 @@ En tant qu’administrateur, vous pouvez ajouter des fonds manuellement ou confi
 
 1. Si vous souhaitez ajouter des fonds sans configurer la recharge automatique, dans la zone Consommation, cliquez sur **Ajouter des fonds**, puis entrez le montant que vous voulez ajouter.
 
-2. Pour configurer la recharge automatique ou modifier les montants de la recharge automatique ou son seuil de déclenchement, dans la section Facturation, cliquez sur **Modifier les paramètres de la recharge automatique** ou, en bas de la page, cliquez sur **Paramètres de la recharge automatique**.  
+2. Pour configurer la recharge automatique ou modifier les montants de la recharge automatique ou son seuil de déclenchement, dans la section Facturation, cliquez sur **Modifier les paramètres de recharge automatique** ou, en bas de la page, cliquez sur **Paramètres de recharge automatique**.  
 
 3. Entrez le montant de la recharge.  Il s’agit de la quantité d’argent qui sera ajoutée à chaque recharge.  
 
