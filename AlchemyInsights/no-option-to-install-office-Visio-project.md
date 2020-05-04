@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218137"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010144"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Aucune option d’installation d’Office, de Visio ou de Project
 
-Pour installer les applications clientes Office, assurez-vous d’avoir un abonnement Office 365 ou Microsoft 365 qui [inclut les applications clientes Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), par exemple, Office 365 Business Premium, Office 365 Business ou Office 365 ProPlus.
+Pour installer les applications clientes Office, assurez-vous d’avoir un abonnement Office 365 ou Microsoft 365 [qui inclut les applications clientes Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), comme par exemple, Microsoft 365 Business Premium, les Applications Microsoft 365 pour les PME ou les Applications Microsoft 365 pour les grandes entreprises.
 
 **Remarque** : [Office Famille et Petite Entreprise](https://products.office.com/home-and-business) est un produit [Office pour les particuliers](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) qui ne fait pas partie d’un abonnement pour les entreprises. Project Online Essentials n’incluant pas de version de bureau de Project, aucune installation n’est requise. Les utilisateurs de Visio Plan 1 peuvent accéder à Visio sur le web, car le plan n’inclut pas l’application de version de bureau de Visio. Les applications de bureau Project et Visio ne sont pas disponibles sur Mac
 

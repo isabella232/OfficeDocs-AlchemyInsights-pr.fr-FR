@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713320"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010792"
 ---
 # <a name="office-activation-errors"></a>Erreurs d’activation d’Office
 
-1. Dans **Panneau de configuration > Programmes et fonctionnalités**, recherchez **Office**. Vous devriez voir **Microsoft Office 365 ProPlus** ou **Microsoft Office 365 Business**. Si vous voyez plusieurs versions d’Office répertoriées, désinstallez la version que vous n’utilisez pas. Si vous ne parvenez pas à désinstaller correctement à l’aide du Panneau de configuration, utilisez l’Assistant support et récupération (SaRA) pour [désinstaller](https://aka.ms/SARA-OfficeUninstall-Alchemy) la version que vous n’utilisez pas. Redémarrez ensuite Office et connectez-vous à l’aide de votre compte professionnel ou scolaire si vous y êtes invité. 
+1. Dans **Panneau de configuration > Programmes et fonctionnalités**, recherchez **Office**. Vous devriez voir **Microsoft 365 pour les grandes entreprises** ou **Microsoft 365 pour les PME**. Si vous voyez plusieurs versions d’Office répertoriées, désinstallez la version que vous n’utilisez pas. Si vous ne parvenez pas à désinstaller correctement à l’aide du Panneau de configuration, utilisez l’Assistant support et récupération (SaRA) pour [désinstaller](https://aka.ms/SARA-OfficeUninstall-Alchemy) la version que vous n’utilisez pas. Redémarrez ensuite Office et connectez-vous à l’aide de votre compte professionnel ou scolaire si vous y êtes invité. 
 
 2. Si Office est toujours sans licence, revenez à **Panneau de configuration > Programmes et fonctionnalités**, cliquez avec le bouton droit sur le reste de l’installation d’Office, cliquez sur **Modifier** (ou **Modifier**), puis cliquez sur **Réparation en ligne**. La réparation en ligne peut prendre un certain temps. Redémarrez ensuite Office et connectez-vous à l’aide de votre compte professionnel ou scolaire si vous y êtes invité. 
 
