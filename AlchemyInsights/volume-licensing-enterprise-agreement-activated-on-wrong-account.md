@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716206"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021532"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Accord entreprise de licences en volume activé sur un compte incorrect
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Accord Enterprise de licence en volume activé sur un compte incorrect ou transfert de licences d’un compte à un autre
 
-Si vous trouvez que vos abonnements achetés par le biais d’un contrat Enterprise de licence en volume ont été activés sur le mauvais client, utilisez l’option « nous contacter » pour contacter un ingénieur du support technique.
+Si vous trouvez vos abonnements achetés via un **contrat Enterprise de licence en volume** a été activé sur le **mauvais client**ou si vous souhaitez **transférer des licences** d’un client à un autre, contactez le centre de gestion des [licences en volume Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).

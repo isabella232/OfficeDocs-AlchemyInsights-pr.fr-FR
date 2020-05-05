@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005328"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016866"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Prolonger votre version d’évaluation de Microsoft 365 pour les entreprises
 
-Vous pouvez prolonger votre version d’évaluation pendant une période de 30 jours. Une fois que votre version d’évaluation passe à une [période de grâce](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)de 30 jours. Procédez comme suit pour prolonger votre version d’évaluation :
+Vous pouvez prolonger votre version d’évaluation gratuite pendant une période supplémentaire de 30 jours. Une fois que votre version d’évaluation passe dans une [période de grâce](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)de 30 jours. Procédez comme suit pour prolonger votre version d’évaluation :
   
 1. Dans le centre d’administration, accédez à **facturation** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions).
 
