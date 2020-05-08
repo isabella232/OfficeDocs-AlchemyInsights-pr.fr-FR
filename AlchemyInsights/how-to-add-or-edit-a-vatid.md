@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709621"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063579"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Procédure d’ajout ou de modification d’un VatID
 
-**Remarque**: Si vous êtes dans un pays qui utilise une taxe à valeur ajoutée (TVA), telle que le Royaume-Uni, la facturation Microsoft calcule la TVA pour vous et applique le montant à vos factures. Pour plus d’informations, consultez la rubrique [Echange de responsabilité](https://go.microsoft.com/fwlink/?LinkID=841741) publié par la Commission européenne.
+**Remarque**: Si vous êtes dans un pays qui utilise une taxe à valeur ajoutée (TVA), telle que le Royaume-Uni, la facturation Microsoft calcule la TVA pour vous et applique le montant à vos factures. Pour plus d’informations, consultez la rubrique [Echange de responsabilité](https://go.microsoft.com/fwlink/p/?LinkID=841741) publié par la Commission européenne.
 
 **Ajout ou modification d’une VatID**
 
-1. Dans le centre d’administration Microsoft 365, accédez à la page des produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration Microsoft 365, accédez à la page **facturation** \> [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Recherchez la carte d’abonnement pour l’abonnement que vous souhaitez mettre à jour.
 

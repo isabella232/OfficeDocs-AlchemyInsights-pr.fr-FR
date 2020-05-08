@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714040"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064227"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Basculer les abonnements pour augmenter la taille de la boîte aux lettres
 
@@ -25,7 +25,7 @@ Si la taille de votre boîte aux lettres est déjà de 100 Go, il n’est pas po
   
 Si la taille de la boîte aux lettres est de 50 Go, vous pouvez l’augmenter à 100 Go en basculant vers [office 365 entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou [Office 365 entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Voici les étapes à suivre pour basculer vers un autre abonnement :
   
-1. Dans le centre d’administration Microsoft 365, accédez à la page des produits de **facturation** \> [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration Microsoft 365, accédez à la page **facturation** \> **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Sélectionnez l’abonnement que vous souhaitez mettre à niveau.
 

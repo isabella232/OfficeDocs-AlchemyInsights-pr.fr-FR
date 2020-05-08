@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417718"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061777"
 ---
 # <a name="billing-and-payment"></a>Facturation et paiement
 
@@ -34,13 +34,13 @@ Si vous payez par carte de crédit ou compte bancaire, le mode de paiement assoc
 
 Si vous avez ajouté une nouvelle carte et que vous recevez toujours une notification de refus sur l’ancienne carte de crédit, vous devrez peut-être associer cette nouvelle carte à l’abonnement.
 
-1. Accédez aux services de **facturation** > [& aux services](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Accédez à **facturation** > de**[vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Sélectionnez l’abonnement que vous souhaitez payer avec la nouvelle carte ou le nouveau compte bancaire. Sous la section **facturation** , en regard de mode de paiement, cliquez sur **modifier**.
+2. Sélectionnez l’abonnement que vous voulez régler avec la nouvelle carte ou le nouveau compte bancaire. Sous la section **Facturation**, en regard du mode de paiement, cliquez sur **Modifier**.
 
-3. Cliquez sur **modifier** en regard du mode de paiement actuel.
+3. Cliquez sur **Modifier** en regard du mode de paiement actuel.
 
-4. Dans le menu déroulant, sélectionnez un autre mode de paiement ou ajoutez un nouveau mode de paiement.
+4. Dans le menu déroulant, sélectionnez un autre mode de paiement ou ajoutez-en un nouveau.
 
 Voir [Ajouter, mettre à jour ou supprimer vos modes de paiement](https://go.microsoft.com/fwlink/?linkid=2118133).
 
