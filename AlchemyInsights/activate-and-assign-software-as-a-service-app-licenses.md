@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766313"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062138"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activer et affecter des licences d’application logicielles en tant que service 
 
 ## <a name="to-activate-apps"></a>Pour activer les applications
 
-1. Dans le centre d’administration, accédez à la page produits de **facturation** > [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) , puis sélectionnez l’onglet **applications** .
+1. Dans le centre d’administration, accédez à la page **facturation** > **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** , puis choisissez l’onglet **applications** .
 
 2. Recherchez et sélectionnez l’application que vous souhaitez gérer.
 
@@ -30,7 +30,7 @@ ms.locfileid: "37766313"
 
 ## <a name="to-assign-app-licenses"></a>Pour attribuer des licences d’application
 
-1. Dans le centre d’administration, accédez à la page produits de **facturation** > [& services](https://go.microsoft.com/fwlink/p/?linkid=842054) , puis sélectionnez l’onglet **applications** .
+1. Dans le centre d’administration, accédez à la page **facturation** > **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** , puis choisissez l’onglet **applications** .
 
 2. Recherchez et sélectionnez l’application que vous souhaitez gérer.  
 

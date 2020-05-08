@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711413"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086672"
 ---
 # <a name="canceling-your-subscription"></a>Vous annulez votre abonnement ?
 
@@ -25,9 +25,9 @@ Nous sommes navrés de voir-vous, mais si vous souhaitez annuler votre abonnemen
   
 - Si vous êtes un client d’évaluation, il n’y a rien à annuler. Les abonnements à la version d’évaluation expirent automatiquement sauf si vous fournissez un mode de paiement.
 
-- Si vous avez moins de 25 licences attribuées, vous pouvez annuler votre abonnement en ligne. Accédez à la page des [produits & services](https://go.microsoft.com/fwlink/p/?linkid=842054) de **facturation** \> . Dans la section **paramètres & Actions** , sélectionnez **Annuler l’abonnement**.
+- Si vous avez moins de 25 licences attribuées, vous pouvez annuler votre abonnement en ligne. Accédez à la page **facturation** \> **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Dans la section **paramètres & Actions** , sélectionnez **Annuler l’abonnement**.
 
-- Si vous avez plus de 25 licences attribuées, vous pouvez supprimer des utilisateurs jusqu’à 25 ou utiliser l’option « laissez-nous vous appeler » pour contacter un ingénieur du support technique.
+- Si vous avez plus de 25 licences attribuées, vous pouvez supprimer des utilisateurs jusqu’à ce que vous ayez moins de 25.
   
 **Remboursement : tout crédit au prorata vous sera renvoyé au cours du cycle de facturation suivant.** 
 

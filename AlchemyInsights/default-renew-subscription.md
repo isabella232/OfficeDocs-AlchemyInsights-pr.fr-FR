@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549668"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062246"
 ---
 # <a name="renewing-your-subscription"></a>Renouvellement de votre abonnement
 
@@ -26,6 +26,6 @@ Si vous avez prépayé votre abonnement avec une clé de produit, votre abonneme
 
 Pour activer la facturation périodique, procédez comme suit : 
 
-1. Accédez aux services de **facturation** > **& aux services**.
+1. Accédez à **facturation** > de**[vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Choisissez l’abonnement pour lequel vous souhaitez gérer la facturation périodique.
 3. Sous **facturation**, sélectionnez **modifier** et effectuez vos modifications dans la fenêtre **paramètres de facturation périodique** . 

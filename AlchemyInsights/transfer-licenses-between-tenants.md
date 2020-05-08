@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e3bbe36ff57038caa2541fe4456a1363c91995d7
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789444"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016902"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Transférer des licences entre les clients
 
-Il n’est pas possible de transférer des licences entre 2 organisations (locataires). 
+Il n’est **pas possible** de transférer des licences entre 2 organisations (locataires). Si vous êtes un client de licence en volume, contactez le [Centre VLSC (Volume License Service Center)](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center). Dans le cas contraire, suivez la procédure décrite ci-dessous : 
 
 - Si vous n’envisagez plus d’utiliser le client que vous voulez transférer, vous pouvez [Annuler l’abonnement](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) et [Acheter un nouveau](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) locataire (cible).
 
