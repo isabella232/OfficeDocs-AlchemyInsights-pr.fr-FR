@@ -13,17 +13,17 @@ ms.custom:
 - "9000564"
 - "2423"
 ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062534"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Modifier le profil de facturation pour les applications
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Pour modifier le profil de facturation sur les applications
 
-1. Accédez à la page **facturation** > **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** , puis choisissez l’onglet **applications** .
+1. Accédez à la page **facturation**  >  **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** , puis choisissez l’onglet **applications** .
 
 2. Recherchez et sélectionnez l’application que vous souhaitez gérer.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "44062534"
 
 ## <a name="edit-billing-profiles"></a>Modifier les profils de facturation
 
-1. Accédez **à la** > page**[factures & paiement](https://go.microsoft.com/fwlink/p/?linkid=848039)** , puis choisissez **profils de facturation**.
+1. Accédez **à la**  >  page**[factures & paiement](https://go.microsoft.com/fwlink/p/?linkid=848039)** , puis choisissez **profils de facturation**.
 
 2. Sélectionnez le profil de facturation dans la liste à modifier.

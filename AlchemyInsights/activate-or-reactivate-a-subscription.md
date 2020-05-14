@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062102"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Activer ou réactiver un abonnement
@@ -33,7 +33,7 @@ ms.locfileid: "44062102"
 
 Si votre abonnement expire, a été désactivé par Microsoft ou vous l’avez annulé au milieu d’un abonnement, vous pouvez le réactiver dans le centre d’administration.
   
-1. Dans le centre d’administration Microsoft 365, accédez à la page **facturation** > [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration Microsoft 365, accédez à la page **facturation**  >  [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Choisissez l’abonnement que vous souhaitez réactiver, puis sélectionnez **réactiver**. Si l'option **Réactiver** n'apparaît pas comme action disponible, [contactez le support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) pour réactiver votre abonnement.
 

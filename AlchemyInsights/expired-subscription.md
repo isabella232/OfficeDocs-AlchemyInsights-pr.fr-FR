@@ -14,10 +14,10 @@ ms.custom:
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063471"
 ---
 # <a name="expired-subscription"></a>Abonnement expiré
@@ -38,7 +38,7 @@ Pour en savoir plus, consultez l’article [Réactiver votre abonnement](https:/
 
 **Créer un nouvel achat**
   
-1. Dans le centre d’administration, accédez à la page **[services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433)** de **facturation** \> .
+1. Dans le centre d’administration, accédez à **Billing** la \> page **[services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433)** de facturation.
 
 2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **acheter**.
 

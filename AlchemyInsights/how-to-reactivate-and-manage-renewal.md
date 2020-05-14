@@ -14,10 +14,10 @@ ms.custom:
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
 ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064083"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Comment réactiver et gérer la facturation périodique
@@ -40,10 +40,10 @@ Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désact
 
 2. Sélectionnez l’abonnement pour lequel gérer la facturation récurrente.
 
-3. Sous **facturation**, en regard **de la**case à cocher **refaire,** sélectionnez **modifier**.
+3. Sous **Facturation**, en regard de **Renouvellement automatique le** ou **Expiration le**, sélectionnez **Modifier**.
 
-4. Dans le volet **paramètres de facturation périodique** , sélectionnez **Désactiver** pour le désactiver. Si la facturation périodique est déjà désactivée, sélectionnez une fois par **mois** ou **une fois** pour l’activer.
+4. Dans le volet **Paramètres de facturation périodique**, sélectionnez **Désactiver** pour la désactiver. Si la facturation périodique est déjà désactivée, sélectionnez **Mensuelle** ou **Une fois** pour l’activer.
 
-5. Sélectionnez **soumettre la modification**.
+5. Sélectionnez **Envoyer la modification**.
 
 Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

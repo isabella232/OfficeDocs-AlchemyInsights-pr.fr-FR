@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
 ms.openlocfilehash: 74bbfc03335ece92c09805f419a5d9544e8c7506
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064283"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Planifier la mise à niveau pour augmenter la taille de la boîte aux lettres
 
 Si la taille des boîtes aux lettres est de 50 Go, vous pouvez faire passer leur taille à 100 Go en choisissant l'offre [Office 365 Entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ou [Office 365 Entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Voici les étapes à suivre pour basculer vers un autre abonnement :
   
-1. Dans le centre d’administration Microsoft 365, accédez à la page **facturation** > [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Dans le centre d’administration Microsoft 365, accédez à la page **facturation**  >  [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Sélectionnez l’abonnement à mettre à niveau, puis sélectionnez l’onglet **mise à niveau** pour afficher la liste des nouveaux plans disponibles.
 

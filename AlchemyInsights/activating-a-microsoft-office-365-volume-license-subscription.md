@@ -14,10 +14,10 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062030"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Activation d’un abonnement de licence en volume Microsoft
@@ -30,6 +30,6 @@ ms.locfileid: "44062030"
 
 4. Le courrier électronique d’activation vous propose deux options : s' **inscrire**ou **se connecter**. Si vous avez déjà créé une version d’évaluation, sélectionnez **se connecter**. Si vous n’avez pas encore de client Microsoft 365, sélectionnez s' **inscrire**.
 
-5. Connectez-vous au centre d’administration Microsoft 365[https://admin.microsoft.com](https://admin.microsoft.com)() à l’aide de vos informations d’identification d’administrateur existantes. Une fois connecté, vous recevrez un autre message électronique confirmant votre achat.
+5. Connectez-vous au centre d’administration Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) à l’aide de vos informations d’identification d’administrateur existantes. Une fois connecté, vous recevrez un autre message électronique confirmant votre achat.
 
-6. Une fois connecté, vous pouvez accéder à la page **facturation** \> de [vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) pour vérifier que vos abonnements achetés sont activés au sein de votre client. (Vous pouvez également choisir l’onglet **abonnement** dans le VLSC pour afficher les détails vérifiant que votre abonnement a été déposé.)
+6. Une fois connecté, vous pouvez accéder à la page **facturation** de \> [vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) pour vérifier que vos abonnements achetés sont activés au sein de votre client. (Vous pouvez également choisir l’onglet **abonnement** dans le VLSC pour afficher les détails vérifiant que votre abonnement a été déposé.)
