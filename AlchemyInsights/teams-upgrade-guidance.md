@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908785"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254747"
 ---
 # <a name="microsoft-teams-upgrade"></a>Mise à niveau de Microsoft teams
 
-**Important**: nous pouvons vous aider à résoudre ce problème pour vous en utilisant un diagnostic du support technique, mais il semble que vous n’utilisiez pas le nouveau centre d’administration. Pour utiliser le nouveau centre d’administration, faites glisser le bouton bascule en haut à droite qui indique **nouveau centre d’administration** à droite. À l’aide du nouveau centre d’administration, cliquez sur le widget **besoin d’aide ?** , tapez « mise à niveau de teams », puis suivez les invites pour exécuter le diagnostic.
+**Important**: Si vous avez été mis à niveau de Skype entreprise Online vers Microsoft teams en mode teams uniquement, mais que vous n’êtes pas encore prêt, nous pouvons vous aider à résoudre ce problème pour vous à l’aide d’un diagnostic du support technique. Assurez-vous que vous utilisez le nouveau centre d’administration en faisant glisser le bouton bascule en haut à droite qui indique **nouveau centre d’administration**à droite. À l’aide du nouveau centre d’administration, cliquez sur le widget **besoin d’aide ?** , tapez «**mise à niveau de teams**», puis suivez les invites pour exécuter le diagnostic.
 
 Que vous débutiez avec Teams, que vous utilisiez déjà Teams en parallèle de Skype Entreprise, ou que vous soyez prêt à procéder à la mise à niveau, nous voulons nous assurer que vous disposez de tout ce dont vous avez besoin pour migrer efficacement vers Teams. Pour plus d’informations, consultez les liens ci-dessous.
 
