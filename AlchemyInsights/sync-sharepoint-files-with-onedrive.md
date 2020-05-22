@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767031"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343166"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Résoudre les problèmes « Ouvrir avec l’Explorateur » dans SharePoint Online
 
@@ -28,9 +28,6 @@ Pour résoudre les problèmes d’ouverture avec l’Explorateur, suivez les ét
 - [Copier ou déplacer des fichiers de bibliothèque à l’aide de la commande Ouvrir avec l’Explorateur](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Remarque :**
+>- L’ouverture avec l’Explorateur est prise en charge uniquement dans Internet Explorer 10 ou 11. Ouvrir avec l’Explorateur ne fonctionne pas dans Windows avec Microsoft Edge, Google Chrome, Mozilla Firefox ni sur la plateforme Mac. Pour cette raison, il est possible que l’option Mode Explorateur soit grisée.
 >
 >- Le bouton Ouvrir avec l’Explorateur ne s’affiche pas dans la nouvelle expérience de bibliothèque. Sélectionnez la liste déroulante **Affichage** dans l’angle supérieur droit (le nom de la liste déroulante change en fonction de votre affichage actuel), puis cliquez sur **Afficher dans l’Explorateur de fichiers**.
->
->- L’ouverture avec l’Explorateur est prise en charge uniquement dans Internet Explorer 10 ou 11. Ouvrir avec l’Explorateur ne fonctionne pas dans Windows avec Microsoft Edge, Google Chrome, Mozilla Firefox ni sur la plateforme Mac. Pour cette raison, il est possible que l’option Mode Explorateur soit grisée.
-
-

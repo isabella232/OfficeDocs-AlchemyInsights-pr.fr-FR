@@ -13,23 +13,19 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 83932ba5857df7bd65a5544a7dde8be5cdd58ccd
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787908"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225266"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Comment mettre à jour les informations de ma carte bancaire ?
 
-1. Dans le Centre d’administration Microsoft 365, choisissez la page **Facturation** \> [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Dans le Centre d’administration, accédez à la page **Facturation** > **Factures et paiements** > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+2. Sélectionnez la ligne du mode de paiement à mettre à jour. Dans le volet droit, sélectionnez **Modifier**.
+3. Mettez à jour les informations relatives au mode de paiement, notamment le nom figurant sur la carte de crédit ou de débit, l’adresse de facturation ou la date d’expiration, puis sélectionnez **Enregistrer**.
 
-2. Sur la page **Modes de paiement**, sélectionnez la carte bancaire ou le compte bancaire à mettre à jour.
-
-3. Pour modifier les informations de la carte bancaire ou du compte bancaire, sélectionnez **Modifier les détails du paiement**.
-
-4. Mettez à jour vos informations de carte bancaire ou de compte bancaire (nom sur la carte bancaire ou du compte bancaire, adresse de facturation, numéro de téléphone ou date d’expiration) au besoin, puis sélectionnez **Enregistrer** > **Terminé**.
-
-Pour en savoir plus, consultez l’article [Ajouter, mettre à jour ou supprimer une carte bancaire ou un compte bancaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Pour plus d’informations, consultez [Gérer les modes de paiement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Remarque** : si un autre administrateur a acheté l'abonnement, vous ne serez pas en mesure de mettre à jour les informations de carte bancaire ou de compte bancaire pour cet abonnement. Si cette carte est sur le point d'expirer et que l'autre administrateur n'est pas en mesure de mettre à jour les informations qui lui sont associées, vous pouvez éviter une interruption du service en ajoutant une autre carte bancaire ou un autre compte bancaire pour l'abonnement.
