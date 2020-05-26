@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 986e625e4b7ec5615d2b19927749e5efc627f691
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160981"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225135"
 ---
 # <a name="your-payment-was-declined"></a>Votre paiement a été refusé
 
@@ -24,20 +24,31 @@ Microsoft essaiera de débiter votre carte plusieurs fois au cours des 3 à 4 s
 
 **Important** : Si vous avez ajouté une nouvelle carte et que vous recevez toujours une notification de refus sur l’ancienne carte de crédit, vous devrez peut-être associer cette nouvelle carte à l’abonnement.
 
-1. Accédez à **Facturation > [Produits et services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Changer le mode de paiement pour tous les éléments**
 
-2. Sélectionnez l’abonnement que vous voulez régler avec la nouvelle carte ou le nouveau compte bancaire. Sous la section **Facturation**, en regard du mode de paiement, cliquez sur **Modifier**.
+1. Dans le Centre d’administration, accédez à la page **Facturation** > **Factures et paiements** > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-3. Cliquez sur **Modifier** en regard du mode de paiement actuel.
+2. Sélectionnez la ligne du mode de paiement à changer. Le volet droit répertorie tous les profils de facturation et les abonnements individuels qui utilisent le moyen de paiement sélectionné.
 
-4. Dans le menu déroulant, sélectionnez un autre mode de paiement ou ajoutez-en un nouveau.
+3. Dans le volet droit, sélectionnez **Changer le mode de paiement pour tous les éléments**.
 
-**Mettre à jour ou ajouter un nouveau mode de paiement**
+4. Pour utiliser un mode de paiement existant, choisissez-le dans la liste déroulante, puis sélectionnez **Remplacer**.
 
-1. Accédez à la page **Facturation > Factures et paiements > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte de débit ou de crédit pour les régler. Si vous avez des comptes bancaires répertoriés sur la page **Modes de paiement**, vous ne pouvez pas les sélectionner dans la liste déroulante.
 
-2. Cliquez sur **Ajouter un mode de paiement**, sélectionnez la carte ou le compte bancaire à mettre à jour, puis cliquez sur **Modifier**.
+5. Pour ajouter un nouveau mode de paiement, sélectionnez **Ajouter un mode de paiement**.
 
-3. Mettez à jour les informations relatives à votre mode de paiement (nom sur la carte ou nom du compte bancaire, adresse de facturation, numéro de téléphone ou date d’expiration), puis cliquez sur **Enregistrer**.
+6. Dans le volet **Ajouter un mode de paiement**, entrez les informations de compte, puis sélectionnez **Enregistrer**. Vous devez utiliser un mode de paiement provenant du même pays que celui de votre client.
 
-4. N’oubliez pas d’utiliser ce nouveau mode de paiement pour votre ou vos nouveaux abonnements. Pour plus d’informations, veuillez consulter la page [Ajouter, mettre à jour ou supprimer vos modes de paiement](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Le nouveau mode de paiement est déjà sélectionné dans la liste déroulante. Sélectionnez **Remplacer**.
+
+**Mettre à jour les informations sur le mode de paiement**
+
+1. Dans le Centre d’administration, accédez à la page **Facturation** > **Factures et paiements** > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+
+2. Sélectionnez la ligne du mode de paiement à mettre à jour. Dans le volet droit, sélectionnez **Modifier**.
+
+3. Mettez à jour les informations relatives au mode de paiement, notamment le nom figurant sur la carte de crédit ou de débit, l’adresse de facturation ou la date d’expiration, puis sélectionnez **Enregistrer**.
+
+Pour plus d’informations, consultez [Gérer les modes de paiement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

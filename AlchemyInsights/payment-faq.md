@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991234"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263946"
 ---
 # <a name="payment-faq"></a>FAQ sur les paiements
 
 Gérez les paiements dans le **Centre d’administration Microsoft 365**. 
 
-1. Accédez à **Facturation > [Produits et services](https://go.microsoft.com/fwlink/p/?linkid=842054)** pour attribuer ou modifier des modes de paiement d’abonnement.
-2. Accédez à **Facturation > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806)** pour ajouter/mettre à jour/supprimer des modes de paiement.
-
-**Problèmes et résolutions courants**
+- Accédez à **Facturation > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** pour attribuer ou modifier des modes de paiement par abonnement.
+- Accédez à **Facturation > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806)** pour ajouter/mettre à jour/supprimer des modes de paiement.
 
 - **Modes de paiement** : si vous payez par carte bancaire ou compte bancaire, le mode de paiement associé à vos abonnements est débité dans un délai de quelques jours après la création de la facture. En cas d’échec du paiement, mettez à jour votre mode de paiement. Pour plus d’informations, consultez [Ajouter, mettre à jour ou supprimer vos modes de paiement](https://go.microsoft.com/fwlink/?linkid=2118133).
 
