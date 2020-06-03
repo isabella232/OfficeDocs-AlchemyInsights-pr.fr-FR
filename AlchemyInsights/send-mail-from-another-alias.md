@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 17dfcdb03e875c05116a3553e3160947a5957938
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709189"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505269"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Envoyer un message électronique à partir d’un alias ou d’une adresse secondaire
 
@@ -26,4 +26,4 @@ Microsoft 365 ne prend actuellement pas en charge l’envoi de courrier électro
   
 - [Cliquez ici pour créer une boîte aux lettres partagée.](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Vous pouvez également lire l’article [créer une boîte aux lettres partagée](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) qui vous dira tout ce que vous devez savoir sur les boîtes aux lettres partagées, notamment comment les utiliser.
+Vous pouvez également lire l’article [créer une boîte aux lettres partagée](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) qui vous dira tout ce que vous devez savoir sur les boîtes aux lettres partagées, notamment comment les utiliser.

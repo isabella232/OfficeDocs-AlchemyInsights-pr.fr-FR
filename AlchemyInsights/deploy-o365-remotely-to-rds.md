@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010252"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507584"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Déploiement d’applications Microsoft 365 pour Enterprise pour une utilisation partagée sur RDS, Terminal Server ou VDI
 
@@ -38,9 +38,9 @@ Pour corriger les erreurs liées à l’activation d’ordinateurs partagés :
 
 Si vous souhaitez installer Microsoft 365 apps pour Enterprise sur RDS à partir du centre d’administration de Microsoft 365, ***qui utilise les paramètres d’installation par défaut***, procédez comme suit :
 
-1.    Vérifiez l’abonnement dont vous disposez. [Découvrir comment](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Si nécessaire, basculez vers un autre abonnement. [Découvrir comment](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Si Office est déjà installé sur le serveur RDS à l’aide d’autres abonnements Microsoft, désinstallez-le. Par exemple, en accédant à **panneau de configuration** > **désinstaller un programme**. Désinstallation à l’aide [de l’Assistant support et récupération Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) si vous rencontrez des problèmes.
+1.    Vérifiez l’abonnement dont vous disposez. [Découvrir comment](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Si nécessaire, basculez vers un autre abonnement. [Découvrir comment](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Si Office est déjà installé sur le serveur RDS à l’aide d’autres abonnements Microsoft, désinstallez-le. Par exemple, en accédant à **panneau de configuration**  >  **désinstaller un programme**. Désinstallation à l’aide [de l’Assistant support et récupération Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) si vous rencontrez des problèmes.
 4.    Sur le serveur RDS, connectez-vous au centre d’administration Microsoft 365 avec votre compte d’administrateur et [Installez microsoft 365 apps pour entreprises](https://portal.office.com/OLS/MySoftware.aspx).
 5.    Une fois Office installé, ***ne pas ouvrir ou se connecter*** à une application Office.
 6.    Sur le serveur RDS, activez l’activation d’ordinateurs partagés en modifiant le registre en procédant comme suit :

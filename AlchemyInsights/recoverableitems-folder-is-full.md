@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720250"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510750"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Le dossier éléments récupérables est plein
 
@@ -33,12 +33,12 @@ Lorsque le dossier éléments récupérables atteint la limite de stockage, la f
 
 - Pour les boîtes aux lettres pour lesquelles l’enregistrement d’audit de boîte aux lettres est activé, aucune entrée de journal d’audit de boîte aux lettres ne peut être enregistrée dans le sous-dossier audits du dossier éléments récupérables.
 
-Pour les boîtes aux lettres qui ne sont pas en attente, `Search-Mailbox -SearchDumpsterOnly -DeleteContent` les administrateurs peuvent utiliser la commande dans Exchange Online PowerShell pour supprimer des éléments dans le dossier éléments récupérables. Pour plus d’informations, voir les rubriques suivantes :
+Pour les boîtes aux lettres qui ne sont pas en attente, les administrateurs peuvent utiliser la `Search-Mailbox -SearchDumpsterOnly -DeleteContent` commande dans Exchange Online PowerShell pour supprimer des éléments dans le dossier éléments récupérables. Pour plus d’informations, voir les rubriques suivantes :
 
-- [Rechercher et supprimer des messages](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Rechercher et supprimer des messages](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Pour les boîtes aux lettres en attente, les administrateurs doivent supprimer le blocage avant de pouvoir supprimer des éléments du dossier éléments récupérables. Pour plus d’informations, consultez [la rubrique supprimer des éléments dans le dossier éléments récupérables des boîtes aux lettres en nuage en conservation](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Pour les boîtes aux lettres en attente, les administrateurs doivent supprimer le blocage avant de pouvoir supprimer des éléments du dossier éléments récupérables. Pour plus d’informations, consultez [la rubrique supprimer des éléments dans le dossier éléments récupérables des boîtes aux lettres en nuage en conservation](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Pour éviter que le dossier éléments récupérables ne devienne saturé, les administrateurs peuvent augmenter la limite de stockage du dossier éléments récupérables pour les boîtes aux lettres en attente et configurer une stratégie de rétention de boîte aux lettres qui déplace les éléments du dossier éléments récupérables vers la boîte aux lettres d’archivage de l’utilisateur. Voir [augmenter le quota des éléments récupérables pour les boîtes aux lettres en attente](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Pour éviter que le dossier éléments récupérables ne devienne saturé, les administrateurs peuvent augmenter la limite de stockage du dossier éléments récupérables pour les boîtes aux lettres en attente et configurer une stratégie de rétention de boîte aux lettres qui déplace les éléments du dossier éléments récupérables vers la boîte aux lettres d’archivage de l’utilisateur. Voir [augmenter le quota des éléments récupérables pour les boîtes aux lettres en attente](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

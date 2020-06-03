@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9f91abfa512b67120d09c5c5a2903517fbae82b1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 534173990542144db018a4c3c6fb3bde2fd79f85
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711737"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508338"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Créer et gérer des boîtes aux lettres de salle
 
 Pour créer et modifier des boîtes aux lettres de salle dans le centre d’administration Exchange, consultez la rubrique [créer et gérer des boîtes aux lettres de salle](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-Pour en savoir plus sur les boîtes aux lettres de salle et d’équipement (également appelées boîtes aux lettres de ressources), consultez la rubrique [boîtes aux lettres de salle et d’équipement](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).
+Pour en savoir plus sur les boîtes aux lettres de salle et d’équipement (également appelées boîtes aux lettres de ressources), consultez la rubrique [boîtes aux lettres de salle et d’équipement](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).

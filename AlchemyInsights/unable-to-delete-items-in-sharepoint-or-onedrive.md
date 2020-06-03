@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571250"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511974"
 ---
 # <a name="unable-to-delete-items"></a>Impossible de supprimer les éléments
 
-Les stratégies de rétention peuvent provoquer cela, vous devez désactiver ou exclure le blocage respectif qui est à l’origine du problème. Après la suppression d’une stratégie de rétention ou d’une conservation, la modification peut prendre jusqu’à 24 heures. Assurez-vous qu’il n’y a pas de configuration de [stratégie de rétention](https://docs.microsoft.com/office365/securitycompliance/retention-policies) sur l’élément.
+Les stratégies de rétention peuvent provoquer cela, vous devez désactiver ou exclure le blocage respectif qui est à l’origine du problème. Après la suppression d’une stratégie de rétention ou d’une conservation, la modification peut prendre jusqu’à 24 heures. Assurez-vous qu’il n’y a pas de configuration de [stratégie de rétention](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) sur l’élément.
 
 Le site a peut-être dépassé la limite de stockage, augmentez le [quota du site](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) et supprimez l’élément.
 

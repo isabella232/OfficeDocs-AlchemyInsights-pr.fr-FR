@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788664"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507024"
 ---
 # <a name="enable-an-archive-mailbox"></a>Activer une boîte aux lettres d’archivage
 
@@ -27,7 +27,7 @@ Voici comment créer une boîte aux lettres d’archivage :
 
 2. Connectez-vous à Microsoft 365 à l’aide de votre compte d’administrateur.
 
-3. Dans le volet gauche du centre de &amp; sécurité conformité, sélectionnez **Information governance** \> **Archive**de gouvernance des informations.
+3. Dans le volet gauche du centre de sécurité &amp; conformité, sélectionnez Archive de **gouvernance des informations** \> **Archive**.
 
 4. Sélectionnez l’utilisateur dont vous souhaitez activer la boîte aux lettres d’archivage.
 
@@ -43,14 +43,14 @@ Pour activer l’archivage pour une boîte aux lettres partagée :
 
 1. Accédez au [Centre d’administration Exchange](https://outlook.office365.com/ecp) et connectez-vous à l’aide de votre compte d’administrateur.
 
-2. Accédez à **destinataires** > **partagés**.
+2. Accédez à **destinataires**  >  **partagés**.
 
 3. Sélectionnez la boîte aux lettres partagée.
 
 4. Dans le volet d’informations à droite, sous **Archive sur place**, cliquez sur **activer**, puis cliquez sur **Oui** pour activer la boîte aux lettres d’archivage.
 
-Si vous souhaitez en savoir plus, consultez les articles : 
+Si vous souhaitez en savoir plus, consultez :
   
-- [Activer des boîtes aux lettres d’archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Activer des boîtes aux lettres d’archivage](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Configurer une stratégie d’archivage et de suppression](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

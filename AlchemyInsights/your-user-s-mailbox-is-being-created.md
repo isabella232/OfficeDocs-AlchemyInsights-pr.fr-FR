@@ -10,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e8bf2a8462c599c8c78963e7a53ad88a1755697
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665650"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510066"
 ---
 # <a name="user-mailbox-creation-is-taking-a-long-time"></a>La création de boîtes aux lettres utilisateur prend beaucoup de temps
 
 Une nouvelle boîte aux lettres peut prendre jusqu’à 24 heures avant d’être utilisée.
   
-Si la boîte aux lettres de l’utilisateur a été «en préparation» pendant plus d’une heure, essayez de la supprimer et de la rajouter, ou [Contactez le support technique](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).
+Si la boîte aux lettres de l’utilisateur a été « en préparation » pendant plus d’une heure, essayez de la supprimer et de la rajouter, ou [Contactez le support technique](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).

@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064083"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509094"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Comment réactiver et gérer la facturation périodique
 
@@ -32,7 +32,7 @@ Il semble que vous ayez un abonnement qui a expiré. Si vous souhaitez la réact
 
 3. Confirmez vos informations de paiement. Vous pouvez mettre à jour vos informations de paiement existantes ici. Lorsque vous avez terminé la saisie de votre mode de paiement, sélectionnez **réactiver**.
 
-Pour en savoir plus, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Pour en savoir plus, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désactiver la **facturation périodique** .
   
@@ -46,4 +46,4 @@ Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désact
 
 5. Sélectionnez **Envoyer la modification**.
 
-Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

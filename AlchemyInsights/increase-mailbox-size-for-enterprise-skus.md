@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671239"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508770"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Que faire si la taille de votre boîte aux lettres est déjà de 100 Go ?
 
@@ -26,12 +26,12 @@ Pour activer l’archivage des courriers électroniques :
   
 1. Dans le centre d’administration Microsoft 365, accédez à la console d' **administration** \> **Exchange**. 
     
-2. Choisissez **boîtes aux lettres**de **destinataires** \> , puis sélectionnez une boîte aux lettres. 
+2. Choisissez **Recipients** \> **boîtes aux lettres**de destinataires, puis sélectionnez une boîte aux lettres. 
     
 3. Dans le volet d’informations, sous **Archive inaltérable**, sélectionnez **activer**. 
     
-4. Après quelques minutes, un nouveau dossier s’affiche dans la *zone* Archive sur site de votre utilisateur Outlook sur le Web ou dans l’application Outlook appelée * \<Archive\> en ligne* . Votre utilisateur peut glisser-déplacer des messages vers l’archive. 
+4. Après quelques minutes, un nouveau dossier apparaît dans la version Outlook sur *Place* de votre utilisateur sur le Web, ou dans l’application Outlook appelée * \<name\> archive en ligne* . Votre utilisateur peut glisser-déplacer des messages vers l’archive. 
     
-Vous pouvez accéder à un espace de stockage illimité pour l’archivage. Pour en savoir plus, consultez la rubrique [activation de l’archivage illimité](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Vous pouvez accéder à un espace de stockage illimité pour l’archivage. Pour en savoir plus, consultez la rubrique [activation de l’archivage illimité](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
   
 

@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 7d3e3a6f72221b3c9b1ef3dd9d293813bf4b278a
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 247168d6c7973ba45fa3e504791190251ad67eab
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911327"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506081"
 ---
 # <a name="change-the-domain-for-microsoft-365-group"></a>Modifier le domaine pour le groupe Microsoft 365
 
-Si vous souhaitez modifier le domaine pour un groupe Microsoft 365 lors de la création, suivez les étapes de la procédure [choisir le domaine à utiliser lors de la création de groupes microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Si vous souhaitez modifier le domaine pour un groupe Microsoft 365 lors de la création, suivez les étapes de la procédure [choisir le domaine à utiliser lors de la création de groupes microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
   
 Une fois que le groupe Microsoft 365 est déjà créé, il n’existe actuellement aucun moyen de modifier le domaine. La seule façon de créer un groupe Microsoft 365 et de supprimer l’ancien si nécessaire (des adresses de messagerie supplémentaires peuvent être ajoutées via le [Centre d’administration Exchange](https://outlook.office365.com/ecp.aspx)).

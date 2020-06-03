@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761294"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510966"
 ---
 # <a name="more-info-about-retention-policies"></a>Plus d’informations sur les stratégies de rétention
 
@@ -27,15 +27,15 @@ Pour la plupart des organisations, le volume et la complexité de leurs données
 ## <a name="a-from-security-and-compliance-center"></a>A) dans le centre de sécurité et de conformité
 
 - Accéder à la sécurité et à la conformité > la conservation des > de gouvernance des données
-  - Consultez [cet](https://docs.microsoft.com/office365/securitycompliance/retention-policies) article
+  - Consultez [cet](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) article
 
 - Accéder à la sécurité et à la conformité > eDiscovery> Advanced eDiscovery 
-  - Consultez [cet](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) article
+  - Consultez [cet](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) article
 
 - Accéder à la sécurité et à la conformité > classifications > rétention
   - Consultez les articles suivants
-    - [Étiquettes de sensibilité](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Vue d’ensemble des étiquettes](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Étiquettes de sensibilité](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Vue d’ensemble des étiquettes](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) stratégies eDiscovery héritées
 

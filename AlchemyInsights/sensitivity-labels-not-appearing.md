@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758427"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511650"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Étiquettes de sensibilité non affichées
 
-Les étiquettes de sensibilité vous permettent de classer et de protéger votre contenu sensible. Elles peuvent être créées dans le centre de conformité Microsoft 365, le centre de sécurité Microsoft 365 ou le centre de sécurité & Microsoft 365 Security Security Center sous classification > labels de sensibilité. Pour en savoir plus sur cette fonctionnalité, reportez-vous à la rubrique [vue d’ensemble des étiquettes de confidentialité](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Les étiquettes de sensibilité vous permettent de classer et de protéger votre contenu sensible. Elles peuvent être créées dans le centre de conformité Microsoft 365, le centre de sécurité Microsoft 365 ou le centre de sécurité & Microsoft 365 Security Security Center sous classification > labels de sensibilité. Pour en savoir plus sur cette fonctionnalité, reportez-vous à la rubrique [vue d’ensemble des étiquettes de confidentialité](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
 Si vous avez configuré vos étiquettes de confidentialité mais qu’elles n’apparaissent pas dans les applications Office, vérifiez les points suivants :
 
-- Vérifiez que l’étiquette de confidentialité a été [publiée](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) sur les utilisateurs et les groupes que vous souhaitez.
+- Vérifiez que l’étiquette de confidentialité a été [publiée](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) sur les utilisateurs et les groupes que vous souhaitez.
 
 - Vérifiez que l’utilisateur utilise une application qui prend en charge les étiquettes de confidentialité-voir [étiquettes de confidentialité dans votre document](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 

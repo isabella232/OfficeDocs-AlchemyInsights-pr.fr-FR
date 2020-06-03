@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716458"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508950"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifier quand le transfert de courrier électronique externe est configuré sur les boîtes aux lettres
 
@@ -25,7 +25,7 @@ Lorsqu’un utilisateur de Microsoft 365 configure le transfert de messages exte
 
 1. Connectez-vous au [Centre de conformité & Microsoft 365 Security](https://protection.office.com/).
 
-2. Accédez à la page de**recherche du journal d’audit** de la **recherche** > .
+2. Accédez à la **Search**  >  page de**recherche du journal d’audit** de la recherche.
 
 3. Sélectionnez la plage de dates dans les champs **Date de début** et **Date de fin** . Vous n’avez pas besoin de spécifier un nom d’utilisateur. Vérifiez que le champ **activités** est défini sur **afficher les résultats pour toutes les activités**.
 
@@ -39,4 +39,4 @@ Dans les résultats, cliquez sur **Filtrer les résultats** et tapez **Set-Mailb
 
 - **Userid**: l’utilisateur qui a configuré le transfert du courrier électronique sur la boîte aux lettres dans le champ **ObjectID** .
 
-Pour plus d’informations, consultez [la rubrique Détermination de la personne qui a configuré le transfert du courrier pour une boîte aux lettres](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Pour plus d’informations, consultez [la rubrique Détermination de la personne qui a configuré le transfert du courrier pour une boîte aux lettres](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

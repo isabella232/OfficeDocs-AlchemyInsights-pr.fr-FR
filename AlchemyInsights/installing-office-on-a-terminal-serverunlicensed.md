@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010612"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508626"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installation d’Office sur un serveur Terminal Server
 
@@ -30,11 +30,11 @@ Si vous souhaitez installer Microsoft 365 apps pour Enterprise sur RDS à partir
 > [!TIP]
 > Vous pouvez également télécharger et exécuter l' [Assistant support et récupération Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) pour installer les applications Microsoft 365 pour Enterprise en mode d’activation d’ordinateur partagé.
   
-1. Vérifiez l’abonnement Microsoft 365 que vous avez. [Découvrez comment](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Vérifiez l’abonnement Microsoft 365 que vous avez. [Découvrez comment](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Si nécessaire, passez à un autre abonnement Microsoft 365. [Découvrez comment](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Si nécessaire, passez à un autre abonnement Microsoft 365. [Découvrez comment](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Si Office est déjà installé sur le serveur RDS à l’aide d’autres abonnements Microsoft 365, désinstallez-le. Par exemple, en accédant à panneau \> de configuration désinstaller un programme. Désinstallation à l’aide [de l’Assistant support et récupération Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) si vous rencontrez des problèmes.
+3. Si Office est déjà installé sur le serveur RDS à l’aide d’autres abonnements Microsoft 365, désinstallez-le. Par exemple, en accédant à panneau de configuration \> désinstaller un programme. Désinstallation à l’aide [de l’Assistant support et récupération Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) si vous rencontrez des problèmes.
 
 4. Sur le serveur RDS, connectez-vous au centre d’administration Microsoft 365 avec votre compte d’administrateur et [Installez microsoft 365 apps pour entreprises](https://portal.office.com/OLS/MySoftware.aspx).
 

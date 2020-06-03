@@ -11,28 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764151"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512010"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Suggestions de résolution des erreurs « produit sans licence »
 
 Pour résoudre les erreurs relatives à un produit « sans licence », procédez comme suit :
 
 - Vérifiez si l’état de votre abonnement a expiré.
-- Assurez-vous que vous disposez d’un abonnement qui autorise les licences client, telles que Microsoft 365 apps pour les entreprises ou Business Premium, et [Assurez-vous qu’une licence a été attribuée à l’utilisateur](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- Assurez-vous que vous disposez d’un abonnement qui autorise les licences client, telles que Microsoft 365 apps pour les entreprises ou Business Premium, et [Assurez-vous qu’une licence a été attribuée à l’utilisateur](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Assurez-vous que l’utilisateur se connecte à Office avec le même compte auquel la licence est attribuée.
 - Consultez la [page État du service](https://docs.microsoft.com/office365/enterprise/view-service-health) pour voir s’il existe des problèmes connus avec le service.
 - Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès des applications Office à Internet. Voir [URL et plages d’adresses IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Vous pouvez également essayer les actions de dépannage suivantes : 
 
-- Ouvrez une application Office et [déconnectez-vous](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) de tous les comptes d’utilisateurs existants. [Supprimez](https://docs.microsoft.com/office365/admin/manage/remove-licenses-from-users) et [réaffectez](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) la licence Office, puis [Connectez-vous à Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) à l’aide du compte d’utilisateur affecté.
+- Ouvrez une application Office et [déconnectez-vous](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) de tous les comptes d’utilisateurs existants. [Supprimez](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) et [réaffectez](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) la licence Office, puis [Connectez-vous à Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) à l’aide du compte d’utilisateur affecté.
 - Exécutez l' [utilitaire de résolution des problèmes d’activation](https://aka.ms/SARA-OfficeActivation-Alchemy).
-- [Réinitialiser l’état d’activation d’Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
+- [Réinitialisez l’état d’activation d’Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
 - [Effectuer une réparation en ligne d’Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
 Pour d’autres solutions de résolution de problèmes, consultez : 

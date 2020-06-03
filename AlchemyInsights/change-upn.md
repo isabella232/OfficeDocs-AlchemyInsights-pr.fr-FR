@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706388"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506009"
 ---
 # <a name="change-a-users-email-address"></a>Modifier l’adresse de courrier d’un utilisateur
 
 Il est facile de modifier l’adresse de messagerie d’un utilisateur. Procédez simplement comme suit :
   
-1. Dans le centre d’administration Microsoft 365, accédez à la page [utilisateurs](https://go.microsoft.com/fwlink/p/?linkid=834822) **ou choisissez** \> utilisateurs **actifs**.
+1. Dans le centre d’administration Microsoft 365, accédez à la page [utilisateurs](https://go.microsoft.com/fwlink/p/?linkid=834822) **ou choisissez utilisateurs** \> **actifs**.
     
 2. Sélectionnez l’utilisateur.
     
@@ -38,6 +38,6 @@ Il est facile de modifier l’adresse de messagerie d’un utilisateur. Procéde
     
 6. Cliquez sur **Enregistrer**, puis sur **Fermer**.
     
-N’a pas été facile ? Pour plus d’informations et d’étapes avec des captures d’écran, consultez cet article : [modifier un nom d’utilisateur et une adresse de messagerie](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+N’a pas été facile ? Pour plus d’informations et d’étapes avec des captures d’écran, consultez cet article : [modifier un nom d’utilisateur et une adresse de messagerie](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

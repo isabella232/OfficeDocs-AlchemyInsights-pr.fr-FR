@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: faef7409f3ba348de4cb6d16d81c99b55e871b44
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766203"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511686"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Qu’arrive-t-il à mes données et à l’accès à la fin de mon abonnement Microsoft 365 pour les entreprises ?
 
@@ -26,6 +26,6 @@ Si votre abonnement prend fin, parce qu’il arrive à expiration ou parce que v
   
 Avant que l’abonnement atteigne réellement sa date d’expiration, vous disposez de plusieurs options pour **gérer la facturation périodique de l’abonnement**.
   
-- Si la **facturation périodique** est déjà activée, aucune action n’est nécessaire. Votre abonnement sera facturé à la date de **facturation périodique** , et vous serez facturé pour une année ou un mois supplémentaire, en fonction de votre fréquence de paiement actuelle. Si, pour une raison quelconque, vous avez désactivé la **facturation périodique** , vous pouvez toujours [réactiver la facturation périodique](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Si la **facturation périodique** est déjà activée, aucune action n’est nécessaire. Votre abonnement sera facturé à la date de **facturation périodique** , et vous serez facturé pour une année ou un mois supplémentaire, en fonction de votre fréquence de paiement actuelle. Si, pour une raison quelconque, vous avez désactivé la **facturation périodique** , vous pouvez toujours [réactiver la facturation périodique](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Si vous êtes un client de licence en volume Open avec un abonnement prépayé d’un an, contactez votre partenaire pour acheter une nouvelle clé de produit. Vous recevrez des instructions par courrier électronique pour activer votre clé dans le [Centre de gestion des licences en volume Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=282016). Pour savoir comment trouver un nouveau partenaire ou le partenaire avec lequel vous avez travaillé précédemment, consultez la rubrique [trouver votre partenaire ou revendeur Microsoft 365](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Si vous êtes un client de licence en volume Open avec un abonnement prépayé d’un an, contactez votre partenaire pour acheter une nouvelle clé de produit. Vous recevrez des instructions par courrier électronique pour activer votre clé dans le [Centre de gestion des licences en volume Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=282016). Pour savoir comment trouver un nouveau partenaire ou le partenaire avec lequel vous avez travaillé précédemment, consultez la rubrique [trouver votre partenaire ou revendeur Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).

@@ -12,18 +12,18 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713644"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511038"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Déplacer le courrier électronique vers la boîte aux lettres d’archivage
 
-1. Vérifiez qu’une **boîte aux lettres d’archivage** a été activée. Si ce n’est pas le cas, suivez les étapes décrites dans [cet article](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) pour activer la boîte aux lettres d’archivage.
+1. Vérifiez qu’une **boîte aux lettres d’archivage** a été activée. Si ce n’est pas le cas, suivez les étapes décrites dans [cet article](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) pour activer la boîte aux lettres d’archivage.
 
-2. Pour archiver automatiquement les messages dans la boîte aux lettres d’archivage, une balise de rétention avec l’action **déplacer vers l’archive** doit être définie sur **appliqué automatiquement à la balise de boîte aux lettres (par défaut) entière**. Suivez les étapes ci-dessous pour créer la balise : [archive default](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Pour archiver automatiquement les messages dans la boîte aux lettres d’archivage, une balise de rétention avec l’action **déplacer vers l’archive** doit être définie sur **appliqué automatiquement à la balise de boîte aux lettres (par défaut) entière**. Suivez les étapes ci-dessous pour créer la balise : [archive default](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
 3. Ensuite, ajoutez la balise **Archive** à votre stratégie de rétention. Dans le centre d’administration Exchange, choisissez **stratégies de Rétention** > ajouter la **balise déplacer vers l’archive** à la stratégie > **Enregistrer**.
 
@@ -33,5 +33,5 @@ Il peut s’avérer nécessaire de forcer l’Assistant dossier géré à exécu
   
 Start-ManagedFolderAssistant-Identity<name of the mailbox>
 
-Pour plus d’informations sur la configuration d’une stratégie d’archivage, consultez la rubrique [configurer une stratégie d’archivage et de suppression pour les boîtes aux lettres](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Pour plus d’informations sur la configuration d’une stratégie d’archivage, consultez la rubrique [configurer une stratégie d’archivage et de suppression pour les boîtes aux lettres](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

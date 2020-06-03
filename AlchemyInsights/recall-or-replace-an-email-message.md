@@ -13,12 +13,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742753"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509454"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Rappeler ou remplacer un message électronique dans Microsoft 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "43742753"
 
 1. Dans le volet des dossiers situé à gauche de la fenêtre Outlook, sélectionnez le dossier éléments envoyés.
 2. Ouvrez le message que vous souhaitez rappeler. Vous devez double-cliquer pour ouvrir le message. La sélection du message de sorte qu’il s’affiche dans le volet de lecture ne vous permet pas de rappeler le message.
-3. Dans l’onglet message, sélectionnez **actions** > **rappeler ce message**.
+3. Dans l’onglet message, sélectionnez **actions**  >  **rappeler ce message**.
 4. Choisissez **Supprimer les copies non lues de ce message** ou **Supprimer les copies non lues et les remplacer par un nouveau message**, puis cliquez sur **OK**.
 5. Si vous envoyez un message de remplacement, composez le message, puis sélectionnez **Envoyer**.
 6. La réussite ou l’échec d’un rappel de message dépend des paramètres des destinataires dans Outlook.
@@ -39,7 +39,7 @@ Pour plus d’informations, notamment sur la vérification du rappel, reportez-v
 
 ***Rechercher et supprimer des messages électroniques dans votre organisation*** Pour rechercher et supprimer des messages électroniques dans votre organisation, il est plus facile de le faire si vous êtes un administrateur général. Si vous n’êtes pas un administrateur général, votre compte doit être ajouté au groupe de rôles gestionnaire eDiscovery ou au rôle de gestion de la recherche de conformité. Pour supprimer des messages, vous devez rejoindre le groupe de rôles gestion de l’organisation ou le rôle de gestion de la recherche et de la purge. Les autorisations d’accès à ces rôles sont affectées dans le [Centre de sécurité & conformité](https://protection.office.com/).
 
-1. [Créer une recherche de contenu](https://docs.microsoft.com/office365/securitycompliance/content-search) pour rechercher le message à supprimer.
-2. [Se connecter à l’interface PowerShell du Centre de sécurité et conformité](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Créer une recherche de contenu](https://docs.microsoft.com/microsoft-365/compliance/content-search) pour rechercher le message à supprimer.
+2. [Connectez-vous au Centre de conformité et sécurité PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
 Si vous utilisez MFA, voir [se connecter à Microsoft 365 security & Compliance Center PowerShell à l’aide de Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
