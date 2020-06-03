@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: 892ad3fc88da16833bce5bb6679b5d9e60a5302f
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: ecdfe282d910dcfc077e0276e46a5e7e43c4108d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116431"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509994"
 ---
 # <a name="office-activation-errors-on-mac"></a>Erreurs d’activation d’Office sur Mac
 
 Pour résoudre une erreur d’activation pour une application Office sur un MAC, procédez comme suit :
 
-- Vérifiez que vous disposez d’un abonnement qui autorise les licences client, et [Vérifiez qu’une licence est attribuée à l’utilisateur](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Vérifiez que vous disposez d’un abonnement qui autorise les licences client, et [Vérifiez qu’une licence est attribuée à l’utilisateur](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Téléchargez et exécutez l’[outil de suppression de licence](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991043"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512408"
 ---
 # <a name="project-license-management"></a>Gestion des licences Project
 
@@ -27,6 +27,6 @@ La gestion des licences Project peut être effectuée dans le **Centre d’admin
 - Pour **changer d’offre**, consultez [Changer manuellement les offres Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Pour **affecter** des licences Project, accédez à **Facturation > [Licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Pour plus d’informations, consultez [Affecter des licences](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Pour **Ajouter/supprimer** des licences pour Project, accédez à **Facturation > [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Pour plus d’informations, consultez [Ajouter/supprimer des licences](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Pour **annuler** des licences Project, accédez à **Facturation > [Produits & services](https://go.microsoft.com/fwlink/p/?linkid=842054),** sélectionnez **Paramètres & actions**, puis cliquez sur **Annuler l’abonnement**. Pour plus d’informations, consultez [Annuler votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Pour **annuler** des licences Project, accédez à **Facturation > [Produits & services](https://go.microsoft.com/fwlink/p/?linkid=842054),** sélectionnez **Paramètres & actions**, puis cliquez sur **Annuler l’abonnement**. Pour plus d’informations, consultez [Annuler votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Pour plus d’informations, consultez [Gérer les licences d’abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

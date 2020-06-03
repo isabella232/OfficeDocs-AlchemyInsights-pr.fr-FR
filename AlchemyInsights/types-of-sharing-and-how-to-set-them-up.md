@@ -3,7 +3,7 @@ title: 615 types de partage et comment les configurer.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,18 +14,18 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: e7dc184adbe1fe6345646850906805e28ac4b781
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 1ee135f3372ea1605d2a8a67e7ea7ad929d0a9f9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36742407"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509670"
 ---
 # <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>Différents types de calendriers partagés Outlook et comment les configurer
 
-- [Créer une boîte aux lettres partagée](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [Créer une boîte aux lettres partagée](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
 
-- [Boîtes aux lettres de salle et de ressource](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [Boîtes aux lettres de salle et de ressource](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)
 
 - [Créer un groupe de calendriers](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 

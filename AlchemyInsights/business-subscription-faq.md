@@ -19,12 +19,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 886516f97ea15ca939cd535a0a34a58eaf78114e
-ms.sourcegitcommit: eadc530b967e5b83e70b59dd5f7dc612b9ac9629
+ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813432"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506297"
 ---
 # <a name="business-subscription-faq"></a>Forum aux questions sur les abonnements aux entreprises
 
@@ -35,7 +35,7 @@ Forum aux questions sur les abonnements et la gestion des licences :
 - Pour **changer d’offre**, consultez [Changer manuellement les offres Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Pour **attribuer des licences aux utilisateurs**, accédez à **Facturation > [Licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Pour plus d’informations, consultez [Affecter des licences](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Pour **ajouter/supprimer des licences**, accédez à **Facturation > [Produits & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**, sélectionnez **Ajouter/supprimer des licences**. Pour plus d’informations, consultez [Ajouter/supprimer des licences](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Pour **annuler des licences**, accédez à **Facturation > [Produits & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**, sélectionnez **Paramètres & actions**, puis cliquez sur **Annuler l’abonnement**. Pour plus d’informations, consultez [Annuler votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Pour **annuler des licences**, accédez à **Facturation > [Produits & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**, sélectionnez **Paramètres & actions**, puis cliquez sur **Annuler l’abonnement**. Pour plus d’informations, consultez [Annuler votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Pour **activer** l’abonnement, consultez [Activer votre abonnement](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Pour **réactiver un abonnement expiré**, consultez [Réactiver votre abonnement](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Pour **prolonger la version d’essai**, consultez [Prolonger votre version d’essai](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
