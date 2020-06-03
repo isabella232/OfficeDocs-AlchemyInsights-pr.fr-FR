@@ -3,7 +3,7 @@ title: 911 désactivation de la boîte de réception prioritaire dans le client
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 156b2ee14d5032a7c34cd546aeb2bd98861a6223
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36742371"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509706"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="d73a6-102">Désactiver la boîte de réception prioritaire dans les clients de messagerie</span><span class="sxs-lookup"><span data-stu-id="d73a6-102">Turn off Focused Inbox in email clients</span></span>
+# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="a635d-102">Désactiver la boîte de réception prioritaire dans les clients de messagerie</span><span class="sxs-lookup"><span data-stu-id="a635d-102">Turn off Focused Inbox in email clients</span></span>
 
-<span data-ttu-id="d73a6-103">Pour désactiver la boîte de réception prioritaire dans Outlook 2016, Outlook sur le Web, Outlook.com/Hotmail.com, Outlook 2016 pour Mac ou mail pour Windows 10, consultez la rubrique [désactiver la boîte de réception prioritaire](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="d73a6-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
+<span data-ttu-id="a635d-103">Pour désactiver la boîte de réception prioritaire dans Outlook 2016, Outlook sur le Web, Outlook.com/Hotmail.com, Outlook 2016 pour Mac ou mail pour Windows 10, consultez la rubrique [désactiver la boîte de réception prioritaire](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="a635d-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
 
-<span data-ttu-id="d73a6-104">Pour désactiver la boîte de réception prioritaire pour tous les membres de l’organisation, consultez [la rubrique Configurer la boîte de réception prioritaire pour tous](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)les membres de votre organisation.</span><span class="sxs-lookup"><span data-stu-id="d73a6-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="a635d-104">Pour désactiver la boîte de réception prioritaire pour tous les membres de l’organisation, consultez [la rubrique Configurer la boîte de réception prioritaire pour tous](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)les membres de votre organisation.</span><span class="sxs-lookup"><span data-stu-id="a635d-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).</span></span>

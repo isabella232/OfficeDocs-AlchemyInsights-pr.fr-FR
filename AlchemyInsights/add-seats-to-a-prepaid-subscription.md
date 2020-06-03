@@ -13,28 +13,28 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 101a06af595c0911b6df9c93883c207d11c66a53
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061958"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506700"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="89b54-102">Ajouter des sièges à un abonnement prépayé</span><span class="sxs-lookup"><span data-stu-id="89b54-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="bf479-102">Ajouter des sièges à un abonnement prépayé</span><span class="sxs-lookup"><span data-stu-id="bf479-102">Add seats to a prepaid subscription</span></span>
 
-<span data-ttu-id="89b54-103">Les licences prépayées vous sont émises sous la forme d’un code alphanumérique de 25 caractères.</span><span class="sxs-lookup"><span data-stu-id="89b54-103">Prepaid licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="89b54-104">Une fois que vous avez acheté les licences dont vous avez besoin, vous pouvez les ajouter à votre abonnement.</span><span class="sxs-lookup"><span data-stu-id="89b54-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
+<span data-ttu-id="bf479-103">Les licences prépayées vous sont émises sous la forme d’un code alphanumérique de 25 caractères.</span><span class="sxs-lookup"><span data-stu-id="bf479-103">Prepaid licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="bf479-104">Une fois que vous avez acheté les licences dont vous avez besoin, vous pouvez les ajouter à votre abonnement.</span><span class="sxs-lookup"><span data-stu-id="bf479-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
 
-1. <span data-ttu-id="89b54-105">Dans le centre d’administration, accédez à la page **facturation**  >  **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="89b54-105">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="bf479-105">Dans le centre d’administration, accédez à la page **facturation**  >  **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="bf479-105">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="89b54-106">Recherchez l’abonnement auquel vous voulez ajouter des licences.</span><span class="sxs-lookup"><span data-stu-id="89b54-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="89b54-107">Dans la section **licences** , sélectionnez **ajouter d’autres licences**.</span><span class="sxs-lookup"><span data-stu-id="89b54-107">In the **Licenses** section, select **Add more licenses**.</span></span>
+2. <span data-ttu-id="bf479-106">Recherchez l’abonnement auquel vous voulez ajouter des licences.</span><span class="sxs-lookup"><span data-stu-id="bf479-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="bf479-107">Dans la section **licences** , sélectionnez **ajouter d’autres licences**.</span><span class="sxs-lookup"><span data-stu-id="bf479-107">In the **Licenses** section, select **Add more licenses**.</span></span>
 
-3. <span data-ttu-id="89b54-108">Dans le volet **Ajouter des licences supplémentaires** , sélectionnez **utiliser une clé de produit nouvelle et inutilisée**, puis sélectionnez **suivant**.</span><span class="sxs-lookup"><span data-stu-id="89b54-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
+3. <span data-ttu-id="bf479-108">Dans le volet **Ajouter des licences supplémentaires** , sélectionnez **utiliser une clé de produit nouvelle et inutilisée**, puis sélectionnez **suivant**.</span><span class="sxs-lookup"><span data-stu-id="bf479-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="89b54-109">Entrez la clé de produit, puis cliquez sur **suivant**.</span><span class="sxs-lookup"><span data-stu-id="89b54-109">Enter the product key, then select **Next**.</span></span>
+4. <span data-ttu-id="bf479-109">Entrez la clé de produit, puis cliquez sur **suivant**.</span><span class="sxs-lookup"><span data-stu-id="bf479-109">Enter the product key, then select **Next**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="89b54-110">Si vous avez plusieurs clés de produit, vous pouvez sélectionner **Ajouter une autre clé de produit** pour les entrer.</span><span class="sxs-lookup"><span data-stu-id="89b54-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
+    > <span data-ttu-id="bf479-110">Si vous avez plusieurs clés de produit, vous pouvez sélectionner **Ajouter une autre clé de produit** pour les entrer.</span><span class="sxs-lookup"><span data-stu-id="bf479-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-5. <span data-ttu-id="89b54-111">Vérifiez les détails de votre commande, puis sélectionnez **échanger**.</span><span class="sxs-lookup"><span data-stu-id="89b54-111">Review your order details, then select **Redeem**.</span></span>
+5. <span data-ttu-id="bf479-111">Vérifiez les détails de votre commande, puis sélectionnez **échanger**.</span><span class="sxs-lookup"><span data-stu-id="bf479-111">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="89b54-112">Pour en savoir plus, consultez la rubrique [Ajouter des licences ou étendre un abonnement payé pour l’utilisation d’une clé de produit](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="89b54-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="bf479-112">Pour en savoir plus, consultez la rubrique [Ajouter des licences ou étendre un abonnement payé pour l’utilisation d’une clé de produit](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="bf479-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).</span></span>
