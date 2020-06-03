@@ -10,12 +10,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 6727557131c36d6cbd33f27d59a9f6bc1b1b0f61
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e045b6845263cfd7f00b409a2bdbc46eb1237a17
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712996"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510534"
 ---
 # <a name="compromised-email-accounts"></a>Comptes de courrier compromis
 
@@ -27,4 +27,4 @@ Pour renforcer la sécurité de votre organisation, vous disposez de plusieurs p
 
 - **Activer l’enregistrement d’audit de boîte aux lettres** : L’enregistrement d’audit de boîte aux lettres facilite le suivi des événements en cas de compromission d’un compte d’utilisateur.
 
-Pour plus d’informations, consultez la [feuille de route de sécurité Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
+Pour plus d’informations, consultez la [feuille de route de sécurité Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap).

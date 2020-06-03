@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799049"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508590"
 ---
 # <a name="unlocking-an-account"></a>Déverrouillage d’un compte
 
@@ -40,4 +40,4 @@ En tant qu’administrateur, si l’un de vos utilisateurs est limité à l’en
 
 Pour d’autres scénarios de réinitialisation de mot de passe, y compris la réinitialisation du mot de passe en libre-service, consultez [Réinitialiser Microsoft 365 pour plusieurs tentatives d’imputation des instruments de paiement en ligne](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Le service empêche un utilisateur d'envoyer des e-mails après avoir détecté des preuves d'un compte compromis et/ou du courrier indésirable sortant. Par mesure de précaution, suivez la procédure dans [Répondre à un compte de messagerie compromise dans Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) pour l’utilisateur.
+Le service empêche un utilisateur d'envoyer des e-mails après avoir détecté des preuves d'un compte compromis et/ou du courrier indésirable sortant. Par mesure de précaution, suivez la procédure dans [Répondre à un compte de messagerie compromise dans Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) pour l’utilisateur.
