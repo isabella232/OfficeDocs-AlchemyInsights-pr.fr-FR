@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708517"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44503001"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Créer ou ajouter un alias de messagerie pour un utilisateur
 
 Vous avez besoin de créer un alias de messagerie pour un utilisateur ou d’ajouter une adresse de messagerie supplémentaire ? Il suffit de suivre les étapes ci-dessous.
   
-1. Dans le centre d’administration Microsoft 365, accédez à la page [utilisateurs](https://go.microsoft.com/fwlink/p/?linkid=834822) **ou choisissez** \> utilisateurs **actifs**.
+1. Dans le centre d’administration Microsoft 365, accédez à la page [utilisateurs](https://go.microsoft.com/fwlink/p/?linkid=834822) **ou choisissez utilisateurs** \> **actifs**.
     
 2. Dans la page **Utilisateurs actifs**, sélectionnez le nom de la personne à modifier. 
     
@@ -34,6 +34,6 @@ Vous avez besoin de créer un alias de messagerie pour un utilisateur ou d’ajo
     
     Il faut généralement environ 30 minutes pour que le nouvel alias prenne effet.
     
-    **Pour plus d’informations, reportez-vous à cet article :** [Ajouter un autre alias de messagerie pour un utilisateur](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **Pour plus d’informations, reportez-vous à cet article :** [Ajouter un autre alias de messagerie pour un utilisateur](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 
