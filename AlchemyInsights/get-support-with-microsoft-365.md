@@ -13,13 +13,14 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: d3f571fdc6f24ae3d49219871c48477f4ccad48f
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: fbb496290d6e8a45cd339cc4c4c07906c35767f9
+ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225132"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44534727"
 ---
 # <a name="get-support-with-microsoft-365"></a>Obtenir une assistance technique avec Microsoft 365
 
-Pour trouver les ressources appropriées pour votre problème, vous aurez besoin d’informations plus détaillées. Veuillez signaler votre problème et inclure des noms de produits, des fonctionnalités ou des erreurs spécifiques, et relancez votre requête.
+Pour trouver les ressources appropriées pour votre problème, vous aurez besoin d’informations plus détaillées. Veuillez signaler votre problème et inclure des noms de produits, des fonctionnalités ou des erreurs spécifiques, et relancez votre requête de recherche.
+
