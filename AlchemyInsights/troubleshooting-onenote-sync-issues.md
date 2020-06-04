@@ -12,10 +12,10 @@ ms.custom:
 - "9000555"
 - "2405"
 ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559407"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Résoudre les problèmes de synchronisation de OneNote
@@ -24,7 +24,7 @@ ms.locfileid: "36559407"
 
 Si le bloc-notes qui ne se synchronise pas est stocké sur OneDrive ou sur des versions plus récentes de SharePoint, essayez d’ouvrir le bloc-notes dans OneNote pour le Web (sur www.onenote.com). Cela peut vous aider à déterminer si le problème est dû au serveur ou à OneNote.
 
-1. Dans OneNote, cliquez sur**informations**sur le **fichier** > .
+1. Dans OneNote, cliquez sur informations sur le **fichier**  >  **Info**.
 
 2. Cliquez avec le bouton droit sur l’URL affichée sous le nom du bloc-notes affecté, puis cliquez sur **copier**.
 

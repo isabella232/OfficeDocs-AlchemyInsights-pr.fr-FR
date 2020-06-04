@@ -14,15 +14,15 @@ ms.custom:
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665758"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Mettre à jour les enregistrements DNS pour conserver votre site web chez votre fournisseur d'hébergement actuel
 
-1. Dans le centre d’administration 365 de Microsoft, accédez à la page[domaines](https://portal.office.com/adminportal/home#/Domains) **d’installation** > , puis, dans la liste des domaines, sélectionnez le domaine que vous utilisez pour votre site Web.
+1. Dans le centre d’administration 365 de Microsoft, accédez à la page domaines **d’installation**  >  [Domains](https://portal.office.com/adminportal/home#/Domains) , puis, dans la liste des domaines, sélectionnez le domaine que vous utilisez pour votre site Web.
 
 2. Sélectionnez **+Nouvel enregistrement personnalisé** et entrez les éléments suivants :
 
@@ -46,4 +46,4 @@ De plus, vous pouvez créer un enregistrement CNAME pour aider les clients à tr
 
   - Pour **Adresse de pointage**, tapez le nom de domaine complet (FQDN) de votre site web (par exemple, contoso.com).
 
-2. Cliquez sur **Enregistrer**.
+2. Sélectionnez **Enregistrer**.
