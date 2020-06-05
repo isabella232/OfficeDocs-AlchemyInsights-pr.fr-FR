@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5895b1f94325946ab165b97b68848068df1a81c2
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911218"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563319"
 ---
 # <a name="comments-in-microsoft-planner"></a>Commentaires dans le planificateur Microsoft
 
@@ -32,4 +32,4 @@ Voici quelques réponses aux problèmes courants liés aux commentaires :
 
 - **Les utilisateurs supprimés reçoivent des courriers électroniques** : si un utilisateur ajoute une tâche avant d’être supprimé du plan, le fil de discussion de courrier électronique inclut l’utilisateur pour chaque commentaire créé sur la tâche.
 
-Pour plus d’informations sur les commentaires à l’aide du planificateur Microsoft, consultez[Comment fonctionne le planificateur Microsoft](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) et [Ajouter des commentaires sur des tâches dans le planificateur Microsoft](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Pour plus d’informations sur les commentaires à l’aide du planificateur Microsoft, consultez[Comment fonctionne le planificateur Microsoft](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) et [Ajouter des commentaires sur des tâches dans le planificateur Microsoft](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).
