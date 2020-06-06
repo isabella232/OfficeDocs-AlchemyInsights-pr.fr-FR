@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: b886dca3123bc2c437f4235c8d8ced7a5cc36a40
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 802cd3a2492141ebe4fcf7318abb6756c88753b5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912784"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582125"
 ---
 # <a name="modernize-your-sharepoint-sites"></a>Moderniser vos sites SharePoint
 
@@ -24,6 +24,6 @@ Pour obtenir une vue d’ensemble étape par étape de la modernisation de vos s
 
 * Pour optimiser l’utilisation de l’interface utilisateur moderne pour les pages de votre site, ainsi que pour les pages de listes et de bibliothèques, consultez l’article sur la [modernisation de l’interface utilisateur](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
 * Consultez l’article [Optimisation de votre utilisation de l’interface utilisateur moderne pour les listes et les bibliothèques](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) pour découvrir comment débloquer vos listes et vos bibliothèques de sorte à les afficher dans l’interface utilisateur moderne.
-* Pour plus d’informations sur la connexion à un groupe Microsoft 365 et l’exécution d’une connexion de groupe, consultez la rubrique [se connecter à un groupe microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Pour plus d’informations sur la connexion à un groupe Microsoft 365 et l’exécution d’une connexion de groupe, consultez [la rubrique se connecter à un groupe microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
 **Important**: Si vous pensez que votre page doit déjà être affichée en mode moderne et non, accédez à la page en question, copiez l’URL et indiquez l’URL dans les détails de votre ticket de support.

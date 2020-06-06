@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911578"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580295"
 ---
-# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Supprimer des sites appartenant à un groupe Microsoft 365
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Supprimer des sites appartenant à un groupe Microsoft 365
 
 Lorsque les utilisateurs créent un site d’équipe à partir de SharePoint Home ou que vous créez un site d’équipe à partir du nouveau centre d’administration SharePoint, un groupe Microsoft 365 correspondant est créé automatiquement. Les sites d’équipe connectés à un groupe Microsoft 365 sont également créés lorsque vous créez un groupe Microsoft 365 ou une équipe dans Microsoft Teams. Pour supprimer un site SharePoint qui appartient à un groupe Microsoft 365, vous devez supprimer le groupe Microsoft 365 lui-même. 
   

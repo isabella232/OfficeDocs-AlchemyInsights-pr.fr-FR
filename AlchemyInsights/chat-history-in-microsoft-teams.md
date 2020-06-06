@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 172b1a144b892a35a915502b08cea2834eb85c94
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ab241752d969acab237779c514d89b2a0c30c222
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505973"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580583"
 ---
 # <a name="viewing-chat-history-in-microsoft-teams"></a>Affichage de l’historique des conversations dans Microsoft teams
 
-Pour afficher l’historique des conversations de teams, vous pouvez utiliser la [recherche de contenu](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) à partir du [centre de sécurité & conformité](https://sip.protection.office.com/insightdashboard), dans lequel vous pouvez effectuer une recherche dans la boîte aux lettres associée à un groupe Microsoft 365 ou une équipe Microsoft. 
+Pour afficher l’historique des conversations de teams, vous pouvez utiliser la [recherche de contenu](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) à partir du [centre de sécurité & conformité](https://sip.protection.office.com/insightdashboard), dans lequel vous pouvez rechercher la boîte aux lettres associée à un groupe Microsoft 365 ou une équipe Microsoft. 
 
 Consultez la rubrique [recherche de groupes Microsoft teams et microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search) pour en savoir plus sur les fonctionnalités de recherche du centre de sécurité et de conformité. 
 

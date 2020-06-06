@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908702"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580331"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Limite de messagerie quotidienne dépassée. Le flux de travail est suspendu.
 
@@ -32,6 +32,6 @@ Pour contourner ce problème, configurez votre flux de travail pour qu’il envo
 
 Pour plus d’informations, consultez l' [article](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)suivant.
 
-## <a name="related-topics"></a>Voir aussi
+## <a name="related-topics"></a>Rubriques connexes
 - [Créer un flux](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint et flux](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

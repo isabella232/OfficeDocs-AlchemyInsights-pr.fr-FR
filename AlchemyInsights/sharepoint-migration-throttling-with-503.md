@@ -2,7 +2,7 @@
 title: Limitation de la migration SharePoint avec 503 Erreurs
 ms.author: pebaum
 author: pebaum
-ms.date: 8/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: 05e816141a5b9cf484a647f8154110cd999ff6ef
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 3705be1e82fde6620fef3c4272f0294d58f11d38
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958680"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582881"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>Limitation de la migration SharePoint avec 503 Erreurs
 
-**Important**: pendant ces temps inégalés, nous faisons en sorte de s’assurer que les services SharePoint Online et OneDrive restent hautement disponibles : consultez les [ajustements de fonctionnalité temporaire SharePoint Online](https://aka.ms/ODSPAdjustments) pour plus d’informations.
+**Important** : dans cette situation sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint Online et OneDrive demeurent très disponibles – Veuillez consulter [Ajustements temporaire des fonctionnalités SharePoint Online](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
 
 **503 Erreurs lors de la migration vers SharePoint Online**
 
@@ -31,7 +31,7 @@ Il s’avère que vous effectuez une migration vers SharePoint Online et que vou
 2. Pour le titre et la description, tapez **limitation de migration SharePoint avec 503**.
 3. Une fois le ticket soumis, veuillez le mettre à jour avec les informations suivantes :
     - La quantité de migration (par exemple, le nombre de TBs ?).
-    - Date de début et de fin de la migration.
+    - Dates de début et de fin de migration.
     - Décrivez l’emplacement à partir duquel vous migrez votre contenu (par exemple, SharePoint Server, Box, GDrive, partages de fichiers, etc.).
     - Estimez le nombre d’erreurs de limitation (par exemple, la limitation x par heure ?) et la durée de la limitation.
     - L’outil de migration que vous utilisez (par exemple, SPMT ou ShareGate).

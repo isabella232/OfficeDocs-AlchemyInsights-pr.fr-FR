@@ -12,16 +12,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: faa1ac2ceeef9af86d8961e6a19b09ceef968a57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 71a7b0ad6c19d9a93a2beb955ebf86f2663ac47f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512516"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580977"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Vérifier les paramètres de transfert de courrier électronique d’une boîte aux lettres
 
-Il est facile de vérifier les paramètres de transfert du courrier électronique d’une boîte aux lettres Microsoft 365. Il suffit de suivre ces étapes.
+Il est facile de vérifier les paramètres de transfert du courrier électronique sur une boîte aux lettres Microsoft 365. Il suffit de suivre ces étapes.
   
 > S’il s’agit d’une boîte aux lettres utilisateur, **accédez à utilisateurs** \> **actifs** et sélectionnez l’utilisateur dont vous transférez la boîte aux lettres. Dans l’onglet **messagerie** , sélectionnez **gérer le transfert du courrier**.
 

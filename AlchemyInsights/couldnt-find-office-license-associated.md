@@ -1,5 +1,5 @@
 ---
-title: Correction des applications Office impossible de trouver les licences Office associées message
+title: Résolution des applications Microsoft 365 les licences Office n’ont pas pu être détectées message associé
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505865"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580439"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Correction des applications Office « impossible de trouver les licences Office associées » message
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Résolution du message « Impossible de trouver des licences Office associées » pour Microsoft 365 apps
 
 Si vous recevez ce message, procédez comme suit :
 
-1. Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès Internet aux applications Office. Voir [URL et plages d’adresses IP Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès Internet aux applications Microsoft 365. Voir [URL et plages d’adresses IP Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Supprimez et [réaffectez la licence Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) pour l’utilisateur concerné. 
 3. Ouvrez une application Office et [déconnectez-vous](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) de tous les comptes d’utilisateurs existants.
 4. Accédez à paramètres **Windows > comptes**de & de  >  **messagerie**et supprimez tous les comptes de travail sauf le compte affecté.

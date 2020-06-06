@@ -2,18 +2,18 @@
 title: Impossible d’ajouter le flux de travail d’approbation 2010
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 11ba9bf04f826b0d7465a9a81a36c327e79f4d13
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049551"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582845"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Impossible d’ajouter le flux de travail d’approbation 2010
 
@@ -33,7 +33,7 @@ Pour résoudre ce problème, procédez comme suit :
   
 2. Dans la section **gérer** du ruban **flux de travail** , sélectionnez **publier globalement**. Dans la boîte de dialogue de confirmation qui s’affiche, sélectionnez **OK**. 
   
-3. Dans un navigateur Web, recherchez le site Web racine de la collection de sites, puis accédez aux **paramètres** \> du site fonctionnalités de la **collection de sites**. Activer/désactiver la fonctionnalité **flux de travail** : 
+3. Dans un navigateur Web, recherchez le site Web racine de la collection de sites, puis accédez aux **paramètres du site** fonctionnalités de la \> **collection de sites**. Activer/désactiver la fonctionnalité **flux de travail** : 
   
 · Si la fonctionnalité est *activée* , cliquez sur désactiver **,** puis sur **activer**. 
   

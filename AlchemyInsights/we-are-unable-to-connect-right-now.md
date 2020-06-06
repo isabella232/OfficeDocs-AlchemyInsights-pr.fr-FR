@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716170"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581873"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Correction des applications Office « nous ne parvenons pas à se connecter maintenant »
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Résolution du message « nous ne parvenons pas à se connecter pour les applications Microsoft 365 »
 
 Si vous recevez ce message, procédez comme suit :
 
-1. Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès Internet aux applications Office. Consultez la rubrique [URL et plages d’adresses IP Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Vérifiez votre pare-feu, votre logiciel antivirus et vos paramètres proxy pour confirmer qu’ils ne bloquent pas l’accès Internet aux applications Microsoft 365. Consultez la rubrique [URL et plages d’adresses IP Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Accédez à **Démarrer** > l'**exécution**, puis tapez **services. msc**. Assurez-vous que les services suivants sont en cours d’exécution :
+2. Accédez à **Démarrer**l'  >  **exécution**, puis tapez **services. msc**. Assurez-vous que les services suivants sont en cours d’exécution :
     - Configuration automatique des périphériques connectés au réseau
     - Service de liste de réseaux
     - Connaissance des emplacements réseau

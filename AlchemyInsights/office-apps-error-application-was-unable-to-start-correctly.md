@@ -1,5 +1,5 @@
 ---
-title: 'Erreur des applications Office : l’application n’a pas pu démarrer correctement'
+title: 'Erreur des applications Microsoft 365 : l’application n’a pas pu démarrer correctement'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2533"
 - "9000572"
-ms.openlocfilehash: a096fbb25daf341a3a66294782c33e20d29d8322
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886490"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581157"
 ---
-# <a name="office-apps-error-the-application-was-unable-to-start-correctly"></a>Erreur des applications Office : l’application n’a pas pu démarrer correctement
+# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>Erreur des applications Microsoft 365 : l’application n’a pas pu démarrer correctement
 
 Pour corriger cette erreur, essayez les options suivantes :
 
@@ -28,8 +28,8 @@ Pour corriger cette erreur, essayez les options suivantes :
 - [Désinstaller](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) et réinstaller Office
 
 
-Pour plus d’informations, voir : 
+Si vous souhaitez en savoir plus, consultez les articles : 
 
-- [Erreur lors de l’ouverture d’applications Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Erreur lors de l’ouverture d’applications Microsoft 365 Microsoft](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [J’obtiens une erreur « s’est arrêté de fonctionner » lorsque je démarre les applications Office sur mon PC](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Résoudre les problèmes qui se produisent lorsque vous démarrez ou utilisez des applications Office](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Résoudre les problèmes qui se produisent lorsque vous démarrez ou utilisez des applications Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

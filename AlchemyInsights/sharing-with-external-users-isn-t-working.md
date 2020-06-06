@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913000"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582773"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Résoudre les problèmes de partage de contenu SharePoint avec des utilisateurs externes
 
 Assurez-vous que le partage externe est activé pour votre organisation :
   
-1. Accédez à la [page &amp; compléments de services dans le centre d’administration 365 de Microsoft](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), puis cliquez sur **sites**.
+1. Accédez à la [ &amp; page compléments de services dans le centre d’administration 365 de Microsoft](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), puis cliquez sur **sites**.
     
 2. Assurez-vous que le paramètre est activé. Si « uniquement les utilisateurs externes existants » est sélectionné, assurez-vous que l’utilisateur externe est affiché dans le centre d’administration 365 de Microsoft.
     

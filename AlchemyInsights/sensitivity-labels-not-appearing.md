@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511650"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581013"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Étiquettes de sensibilité non affichées
 
 Les étiquettes de sensibilité vous permettent de classer et de protéger votre contenu sensible. Elles peuvent être créées dans le centre de conformité Microsoft 365, le centre de sécurité Microsoft 365 ou le centre de sécurité & Microsoft 365 Security Security Center sous classification > labels de sensibilité. Pour en savoir plus sur cette fonctionnalité, reportez-vous à la rubrique [vue d’ensemble des étiquettes de confidentialité](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Si vous avez configuré vos étiquettes de confidentialité mais qu’elles n’apparaissent pas dans les applications Office, vérifiez les points suivants :
+Si vous avez configuré vos étiquettes de confidentialité mais qu’elles n’apparaissent pas dans les applications Microsoft 365, vérifiez les points suivants :
 
 - Vérifiez que l’étiquette de confidentialité a été [publiée](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) sur les utilisateurs et les groupes que vous souhaitez.
 
