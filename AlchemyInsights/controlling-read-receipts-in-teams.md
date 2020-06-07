@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 2568ce2eb911b75915fde69ca97ca1c09fb051aa
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: d03a9aa5eae0c6e8e7f279442e0dd53b3e9d2700
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534763"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563397"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Contrôle des confirmations de lecture dans Teams
 
@@ -28,4 +28,4 @@ Pour mettre à jour le paramètre de confirmation de lecture d’un utilisateur 
 
 - Si vous permettez à vos utilisateurs de contrôler leurs propres paramètres de confirmation de lecture, [Voici comment ils peuvent les modifier](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings). 
 
-**Remarque**: les Confirmations de lecture doivent être activées par un administrateur pour permettre aux utilisateurs d’apporter des modifications.
+**Remarque**: les Confirmations de lecture doivent être activées par un administrateur pour permettre aux utilisateurs d’apporter des modifications. Pour vérifier ou modifier ce paramètre, accédez au **Centre d’administration Teams**> **Stratégies de messagerie** > **Confirmations de lecture**
