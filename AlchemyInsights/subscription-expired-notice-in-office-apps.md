@@ -1,5 +1,5 @@
 ---
-title: Avis d’abonnement expiré dans les applications Office
+title: Avis d’abonnement expiré dans les applications Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789264"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576702"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Notification « abonnement expiré » dans les applications Office
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Notification « l’abonnement a expiré » dans les applications Microsoft 365
 
 - Consultez la page [état d’intégrité du service](https://docs.microsoft.com/office365/enterprise/view-service-health) pour déterminer s’il existe des problèmes connus avec le service.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789264"
 
 - Exécutez l’[Utilitaire de résolution des problèmes liés à l’activation](https://aka.ms/SARA-OfficeActivation-Alchemy) et redémarrez l’ordinateur.
 
-- Sur la machine concernée, [Réinitialisez l’état d’activation d’Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Sur la machine concernée, [Réinitialisez l’état d’activation d’Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Pour obtenir des instructions détaillées, voir les rubriques suivantes : 
 
