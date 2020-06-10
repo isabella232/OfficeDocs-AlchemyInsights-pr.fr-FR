@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44617969"
+ms.locfileid: "44664244"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Erreur : les règles de cet ordinateur ne correspondent pas.
 
@@ -28,3 +28,4 @@ Tant que le correctif n’est pas disponible, utilisez la solution de contournem
 **Solution**: dans les rapports récents, le problème s’est produit pour ceux qui ont uniquement créé des règles de client dans le bureau Outlook. Si vous continuez à rencontrer le problème, envisagez de supprimer les règles, puis créez et modifiez des règles uniquement dans OWA (Outlook Web App) jusqu’à ce que le problème soit résolu.
 
 Si vous ne pouvez pas supprimer les règles manuellement, vous pouvez exécuter une commande Outlook lorsque vous démarrez Outlook en exécutant Outlook. exe/Cleanrules. Cette opération supprimera les règles client et serveur. Il supprime toutes les règles de tous les comptes dans le profil Outlook. Cette commande est encore documentée dans l’article des commutateurs de ligne de commande.
+
