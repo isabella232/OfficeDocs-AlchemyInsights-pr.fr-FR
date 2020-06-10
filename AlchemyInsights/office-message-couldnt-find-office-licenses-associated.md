@@ -1,5 +1,5 @@
 ---
-title: 'Message applications Office : impossible de trouver les licences Office associées'
+title: 'Message applications Microsoft 365 : impossible de trouver les licences Office associées'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,37 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505089"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581649"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a><span data-ttu-id="a4fde-102">Message applications Office : impossible de trouver les licences Office associées</span><span class="sxs-lookup"><span data-stu-id="a4fde-102">Office apps message - Couldn't find Office licenses associated</span></span>
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a><span data-ttu-id="f8935-102">Message applications Microsoft 365 : impossible de trouver les licences Office associées</span><span class="sxs-lookup"><span data-stu-id="f8935-102">Microsoft 365 apps message - Couldn't find Office licenses associated</span></span>
 
-<span data-ttu-id="a4fde-103">Pour corriger cette erreur, procédez comme suit :</span><span class="sxs-lookup"><span data-stu-id="a4fde-103">To fix this error, try the following:</span></span>
+<span data-ttu-id="f8935-103">Pour corriger cette erreur, procédez comme suit :</span><span class="sxs-lookup"><span data-stu-id="f8935-103">To fix this error, try the following:</span></span>
 
-- <span data-ttu-id="a4fde-104">Supprimez et [Réaffectez la licence Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) pour l’utilisateur concerné.</span><span class="sxs-lookup"><span data-stu-id="a4fde-104">Remove and [reassign Office license](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) for the affected user.</span></span>
+- <span data-ttu-id="f8935-104">Supprimez et [Réaffectez la licence Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) pour l’utilisateur concerné.</span><span class="sxs-lookup"><span data-stu-id="f8935-104">Remove and [reassign Office license](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) for the affected user.</span></span>
 
-- <span data-ttu-id="a4fde-105">Ouvrez une application Office, puis [se déconnecter](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) de tous les comptes d’utilisateur existants.</span><span class="sxs-lookup"><span data-stu-id="a4fde-105">Open an Office app, and [Sign Out](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>
+- <span data-ttu-id="f8935-105">Ouvrez une application Office, puis [se déconnecter](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) de tous les comptes d’utilisateur existants.</span><span class="sxs-lookup"><span data-stu-id="f8935-105">Open an Office app, and [Sign Out](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>
 
-- <span data-ttu-id="a4fde-106">Accédez à **Paramètres Windows > Comptes > Courriers et comptes** et supprimez les comptes professionnels existants.</span><span class="sxs-lookup"><span data-stu-id="a4fde-106">Go to **Windows Settings > Accounts > Email & Accounts** and remove existing work accounts.</span></span>
+- <span data-ttu-id="f8935-106">Accédez à **Paramètres Windows > Comptes > Courriers et comptes** et supprimez les comptes professionnels existants.</span><span class="sxs-lookup"><span data-stu-id="f8935-106">Go to **Windows Settings > Accounts > Email & Accounts** and remove existing work accounts.</span></span>
 
-- <span data-ttu-id="a4fde-107">Accédez à **Paramètres Windows > Comptes > Accès professionnel ou scolaire** et déconnectez les comptes existants.</span><span class="sxs-lookup"><span data-stu-id="a4fde-107">Go to **Windows Settings > Accounts > Access work or school** and disconnect existing accounts.</span></span>
+- <span data-ttu-id="f8935-107">Accédez à **Paramètres Windows > Comptes > Accès professionnel ou scolaire** et déconnectez les comptes existants.</span><span class="sxs-lookup"><span data-stu-id="f8935-107">Go to **Windows Settings > Accounts > Access work or school** and disconnect existing accounts.</span></span>
 
-- <span data-ttu-id="a4fde-108">Cliquez sur l’icône **+** pour ajouter ou connecter votre compte.</span><span class="sxs-lookup"><span data-stu-id="a4fde-108">Click the **+** icon to add or connect your account.</span></span> <span data-ttu-id="a4fde-109">Entrez vos informations d’identification et patientez jusqu’à ce que le processus se termine.</span><span class="sxs-lookup"><span data-stu-id="a4fde-109">Enter your credentials and wait for the process to complete.</span></span>
+- <span data-ttu-id="f8935-108">Cliquez sur l’icône **+** pour ajouter ou connecter votre compte.</span><span class="sxs-lookup"><span data-stu-id="f8935-108">Click the **+** icon to add or connect your account.</span></span> <span data-ttu-id="f8935-109">Entrez vos informations d’identification et patientez jusqu’à ce que le processus se termine.</span><span class="sxs-lookup"><span data-stu-id="f8935-109">Enter your credentials and wait for the process to complete.</span></span>
 
-- <span data-ttu-id="a4fde-110">Lancez l’application Office et reconnectez-vous si nécessaire.</span><span class="sxs-lookup"><span data-stu-id="a4fde-110">Launch the Office app and sign-in again if needed.</span></span>
+- <span data-ttu-id="f8935-110">Lancez l’application Office et reconnectez-vous si nécessaire.</span><span class="sxs-lookup"><span data-stu-id="f8935-110">Launch the Office app and sign-in again if needed.</span></span>
 
-<span data-ttu-id="a4fde-111">Si le problème persiste, essayez l’une des étapes suivantes :</span><span class="sxs-lookup"><span data-stu-id="a4fde-111">If the issue persists, try the following steps:</span></span>
+<span data-ttu-id="f8935-111">Si le problème persiste, essayez l’une des étapes suivantes :</span><span class="sxs-lookup"><span data-stu-id="f8935-111">If the issue persists, try the following steps:</span></span>
 
-- <span data-ttu-id="a4fde-112">Réactiver l’état d’activation de Microsoft Office.</span><span class="sxs-lookup"><span data-stu-id="a4fde-112">Reset Office activation state.</span></span> <span data-ttu-id="a4fde-113">Voir [Réinitialiser les applications Microsoft 365 pour l’état d’activation d’entreprise](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="a4fde-113">See [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
+- <span data-ttu-id="f8935-112">Réactiver l’état d’activation de Microsoft Office.</span><span class="sxs-lookup"><span data-stu-id="f8935-112">Reset Office activation state.</span></span> <span data-ttu-id="f8935-113">Voir [Réinitialiser les applications Microsoft 365 pour l’état d’activation d’entreprise](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="f8935-113">See [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
 
-- <span data-ttu-id="a4fde-114">Vérifiez les paramètres de votre pare-feu, de votre logiciel antivirus et de votre proxy pour confirmer qu’ils ne bloquent pas l’accès des applications Office à Internet.</span><span class="sxs-lookup"><span data-stu-id="a4fde-114">Check your firewall, antivirus software, and proxy settings to confirm they are not blocking Office apps access to the Internet.</span></span> 
+- <span data-ttu-id="f8935-114">Vérifiez les paramètres de votre pare-feu, de votre logiciel antivirus et de votre proxy pour confirmer qu’ils ne bloquent pas l’accès des applications Microsoft 365 à Internet.</span><span class="sxs-lookup"><span data-stu-id="f8935-114">Check your firewall, antivirus software, and proxy settings to confirm they are not blocking Microsoft 365 apps access to the Internet.</span></span> 
 
-<span data-ttu-id="a4fde-115">Pour d’autres solutions de résolution de problèmes, consultez :</span><span class="sxs-lookup"><span data-stu-id="a4fde-115">For additional troubleshooting solutions, see:</span></span>
+<span data-ttu-id="f8935-115">Pour d’autres solutions de résolution de problèmes, consultez :</span><span class="sxs-lookup"><span data-stu-id="f8935-115">For additional troubleshooting solutions, see:</span></span>
 
-[<span data-ttu-id="a4fde-116">Erreurs Produit sans licence et d’activation dans Office</span><span class="sxs-lookup"><span data-stu-id="a4fde-116">Unlicensed Product and activation errors in Office</span></span>](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="f8935-116">Erreurs Produit sans licence et d’activation dans Office</span><span class="sxs-lookup"><span data-stu-id="f8935-116">Unlicensed Product and activation errors in Office</span></span>](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[<span data-ttu-id="a4fde-117">URL et plages d’adresses IP Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a4fde-117">Microsoft 365 URLs and IP address ranges</span></span>](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[<span data-ttu-id="f8935-117">URL et plages d’adresses IP Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f8935-117">Microsoft 365 URLs and IP address ranges</span></span>](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
