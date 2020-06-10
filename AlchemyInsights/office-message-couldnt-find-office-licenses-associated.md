@@ -1,5 +1,5 @@
 ---
-title: 'Message applications Office : impossible de trouver les licences Office associées'
+title: 'Message applications Microsoft 365 : impossible de trouver les licences Office associées'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505089"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581649"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Message applications Office : impossible de trouver les licences Office associées
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Message applications Microsoft 365 : impossible de trouver les licences Office associées
 
 Pour corriger cette erreur, procédez comme suit :
 
@@ -38,7 +38,7 @@ Si le problème persiste, essayez l’une des étapes suivantes :
 
 - Réactiver l’état d’activation de Microsoft Office. Voir [Réinitialiser les applications Microsoft 365 pour l’état d’activation d’entreprise](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Vérifiez les paramètres de votre pare-feu, de votre logiciel antivirus et de votre proxy pour confirmer qu’ils ne bloquent pas l’accès des applications Office à Internet. 
+- Vérifiez les paramètres de votre pare-feu, de votre logiciel antivirus et de votre proxy pour confirmer qu’ils ne bloquent pas l’accès des applications Microsoft 365 à Internet. 
 
 Pour d’autres solutions de résolution de problèmes, consultez :
 

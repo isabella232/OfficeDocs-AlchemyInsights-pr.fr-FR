@@ -1,5 +1,5 @@
 ---
-title: Avis Nous n’avons pas pu vérifier l’abonnement dans les applications Office
+title: Avis Nous n’avons pas pu vérifier l’abonnement dans les applications Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: f2ee65f74bef00c25af7d89608ab23f7a76bbf6d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788772"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580403"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Avis «Nous n’avons pas pu vérifier l’abonnement» dans les applications Office
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Avis « Nous n’avons pas pu vérifier l’abonnement » dans les applications Microsoft 365
 
 - Vérifiez que l’[état de votre abonnement](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) est valide, que l’utilisateur concerné dispose d’une [licence valide attribuée ](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) et qu’il est connecté à Internet.
 
@@ -28,7 +28,7 @@ ms.locfileid: "43788772"
 
 - Exécutez l’[Utilitaire de résolution des problèmes liés à l’activation](https://aka.ms/SARA-OfficeActivation-Alchemy) et redémarrez l’ordinateur.
 
-- Sur la machine concernée, [Réinitialisez l’état d’activation d’Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Sur la machine concernée, [Réinitialisez l’état d’activation d’Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Pour obtenir des instructions détaillées, voir les rubriques suivantes : 
 
