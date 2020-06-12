@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021496"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702204"
 ---
 # <a name="teams-outlook-add-in"></a>Complément Outlook teams
 
-Plusieurs facteurs peuvent empêcher l’affichage de votre complément teams et ils sont tous répertoriés [ici](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Pour résoudre les problèmes liés aux compléments Outlook, vous devez d’abord exécuter le diagnostic du service dans le portail d’administration.  Si le diagnostic du service indique qu’il n’y a aucun problème, continuez de télécharger et d’exécuter le **scénario de complément Outlook** [support et récupération de Microsoft](https://aka.ms/SaRA-TeamsAddInScenario) Outlook sur les ordinateurs des utilisateurs concernés afin de diagnostiquer et de corriger les problèmes de client.
 
-**Nous vous recommandons de vérifier d’abord que le complément n’est pas désactivé :**
-
-- Dans Outlook, cliquez sur **fichier** , puis sur **options**.
-- Sélectionnez l’onglet **compléments** de la boîte de dialogue **options Outlook** .
-- Vérifiez que le **complément réunion Microsoft teams pour Microsoft Office** est répertorié dans la liste **compléments d’applications actifs** .
-- Si le complément réunion teams est répertorié dans la liste des **compléments d’applications désactivés** , sélectionnez **compléments COM** dans **gérer** , puis cliquez sur **OK...**
-- Définissez la case à cocher en regard de **complément de réunion Microsoft teams pour Microsoft Office**.
-- Cliquez sur **OK** dans toutes les boîtes de dialogue et redémarrez Outlook.
+Pour résoudre manuellement le problème, consultez la liste des facteurs susceptibles de faire en sorte que votre complément de teams n’apparaisse pas répertorié [ici](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
