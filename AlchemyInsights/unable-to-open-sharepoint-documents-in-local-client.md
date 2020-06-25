@@ -11,14 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: ae577b33c37d597477582c6e6ac45304548f97b4
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: af0bbfd4d1a68cf3079b06a17b0d7283f258156b
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44331453"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841069"
 ---
 # <a name="unable-to-open-sharepoint-documents-in-local-client"></a>Impossible d’ouvrir des documents SharePoint dans le client local
 
-Il peut arriver que vous ayez des difficultés à ouvrir des fichiers et documents Office à partir de SharePoint dans vos clients Office locaux.
-- [Impossible d’ouvrir des fichiers Office à partir de SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+Il peut arriver que vous ayez des difficultés à ouvrir des fichiers et documents Office à partir de SharePoint ou OneDrive dans vos clients Office locaux.
+
+- [Impossible d’ouvrir des fichiers Office à partir de SharePoint ou OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
