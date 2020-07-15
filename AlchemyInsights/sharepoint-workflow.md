@@ -14,12 +14,12 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162974"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138969"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Résoudre les problèmes de flux de travail dans SharePoint
 
@@ -27,6 +27,8 @@ ms.locfileid: "42162974"
 
 Voir [résoudre les erreurs de validation de flux de travail SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) et [déboguer les flux de travail SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
-**Automate d’alimentation**
+**Power Automate**
 
 Si vous prenez en main des flux de travail, envisagez [d’utiliser Power automate](https://docs.microsoft.com/power-automate/modern-approvals) à la place des solutions de flux de travail SharePoint classiques.
+
+Pour plus d’informations, reportez-vous à [flux de travail SharePoint en retraite](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
