@@ -3,7 +3,7 @@ title: Modifier la casse ou l’orthographe d’une lettre de nom de domaine
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 07/8/2020
+ms.date: 07/13/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: fa6e463b385f8743ab0b889273c04e241ebfec57
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 7a8efc6ee5dddc17bbd697055ff7c5d79c89864c
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083961"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138933"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>Modifier la casse ou l’orthographe d’une lettre de nom de domaine
 
@@ -29,4 +29,4 @@ Pour modifier l’orthographe d’un nom de domaine personnalisé (par exemple, 
 
 2. Ajoutez à nouveau le domaine avec l'orthographe et la casse correctes en utilisant l’[Assistant Ajouter un domaine](https://portal.office.com/adminportal/home#/Domains/Wizard).
 
-Vous ne pouvez pas modifier la casse des lettres ou renommer le domaine onmicrosoft.com après l’inscription.
+Vous ne pouvez pas modifier la casse des lettres ou renommer le domaine onmicrosoft.com ou un domaine acheté via Microsoft après l’inscription.
