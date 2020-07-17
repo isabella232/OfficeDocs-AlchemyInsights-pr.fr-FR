@@ -28,7 +28,7 @@ ms.locfileid: "44854017"
 6. Dans **règle de partage**, sélectionnez l’une des options suivantes pour spécifier les domaines avec lesquels vous souhaitez partager :
     - **Partage avec tous les domaines**
     - **Partage avec un domaine spécifique**
-8. If you select **Sharing with a specific domain**, type the name of the domain you want to share with. If you need to enter more than one domain for this sharing policy, save the settings for the first domain, then edit the sharing rules to add more domains.
+8. Si vous sélectionnez **Partage avec un domaine spécifique**, entrez le nom du domaine avec lequel vous souhaitez partager. Si vous devez entrer plusieurs domaines pour cette stratégie de partage, enregistrez les paramètres du premier domaine, puis modifiez les règles de partage pour ajouter d’autres domaines.
 9. Pour spécifier les informations qui peuvent être partagées, cochez la case **Partager votre dossier de calendrier**, puis sélectionnez l’une des options suivantes :
     - **Informations de disponibilité de calendrier avec les heures de disponibilité uniquement**
     - **Informations de disponibilité de calendrier avec heure, objet et lieu**

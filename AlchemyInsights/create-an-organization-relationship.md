@@ -24,8 +24,8 @@ ms.locfileid: "44854016"
 2. Accédez à **organisation** > **partage**.
 3. Sous **Partage d’organisation**, cliquez sur **Nouveau**.
 4. Dans **Nouvelle relation organisationnelle**, dans la boîte de dialogue **Nom de la relation**, entrez un nom convivial pour la relation d'organisation.
-5. In the **Domains to share with** box, type the domain for the external Office 365 or Exchange on-premises organization you want to let see your calendars. If you need to enter more than one domain, separate the domain names with a comma. For example, contoso.com, service.contoso.com.
-6. Select the **Enable calendar free/busy information sharing** check box to turn on calendar sharing with the domains you listed. Set the sharing level for calendar free/busy information and set which users can share calendar free/busy information.  
+5. Dans la zone **Domaines à partager avec**, tapez le domaine de l'organisation Office 365 externe ou Exchange sur site à laquelle vous voulez donner accès à vos calendriers. Pour entrer plusieurs domaines, séparez les noms de domaine par une virgule. Par exemple, contoso.com, service.contoso.com.
+6. Cochez la case **Activer le partage des informations de disponibilité de calendrier** pour activer le partage de calendrier avec les domaines que vous avez répertoriés. Définissez le niveau de partage des informations de disponibilité du calendrier, ainsi que les utilisateurs pouvant partager ces informations.  
 
 Pour définir le niveau d'accès de la disponibilité, sélectionnez l'une des opérations suivantes :
 
