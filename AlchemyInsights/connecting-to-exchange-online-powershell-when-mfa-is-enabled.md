@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705803"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205301"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Se connecter à Exchange Online PowerShell lorsque l’authentification multifacteur est activée
 
-Si votre compte dispose de l’authentification multifacteur (MFA) activée, vous devez suivre ces instructions pour vous connecter à Exchange Online PowerShell : [Connectez-vous à Exchange Online PowerShell à l’aide de l’authentification multifacteur](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Remarque**: même si vous vous êtes connecté à Exchange Online PowerShell auparavant à l’aide des [instructions de connexion habituelles](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), vous devez utiliser les instructions de connexion MFA une fois que l’authentification multifacteur est activée pour votre compte.
+Si votre compte dispose de l’authentification multifacteur (MFA) activée, vous devez suivre ces instructions pour vous connecter à Exchange Online PowerShell : [Utilisez le module Exchange Online PowerShell avec l’authentification moderne à l’aide du module v2](https://aka.ms/exops-docs). Recherchez les instructions d’authentification MFA/Multi-Factor sur cette page.
