@@ -1,5 +1,5 @@
 ---
-title: Chiffrer des fichiers ou des dossiers dans Windows 10
+title: Chiffrer des fichiers ou des dossiers dans Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,20 +18,20 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 05/16/2020
 ms.locfileid: "44268926"
 ---
-# <a name="encrypt-files-or-folder-in-windows-10"></a>Chiffrer des fichiers ou des dossiers dans Windows 10
+# <a name="encrypt-files-or-folder-in-windows-10"></a>Chiffrer des fichiers ou des dossiers dans Windows 10
 
-Vous pouvez chiffrer un disque entier à l’aide de BitLocker, mais pour chiffrer uniquement des fichiers ou des dossiers individuels (et leurs contenus) :
+BitLocker vous permet de chiffrer un disque entier. Cependant, il existe une procédure pour chiffrer uniquement certains fichiers ou dossiers (et leurs contenus) :
 
 1. Dans l’**Explorateur de fichiers**, sélectionnez le(s) fichier(s) ou dossier(s) que vous souhaitez chiffrer. Dans cet exemple, deux fichiers ont été sélectionnés :
 
-    ![Sélectionnez des fichiers ou des dossiers à des fins de chiffrement](media/select-for-encrypting.png)
+    ![Sélectionner des fichiers ou des dossiers à des fins de chiffrement](media/select-for-encrypting.png)
 
 2. Cliquez avec le bouton droit sur les fichiers sélectionnés, puis cliquez sur **Propriétés**.
 
-3. Dans la fenêtre des **Propriétés**, cliquez sur **Avancé**.
+3. Dans la fenêtre **Propriétés de :**, cliquez sur **Avancé...**.
 
-4. Dans la fenêtre **Propriétés avancées**, activez la case à cocher **Chiffrer les contenus pour sécuriser les données** :
+4. Dans la fenêtre **Propriétés avancées**, activez la case à cocher **Chiffrer le contenu pour sécuriser les données** :
 
-    ![Chiffrer les contenus](media/encrypt-contents.png)
+    ![Chiffrer des contenus](media/encrypt-contents.png)
 
 5. Cliquez sur **OK**.

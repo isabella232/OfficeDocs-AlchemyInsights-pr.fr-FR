@@ -20,8 +20,8 @@ ms.locfileid: "44269071"
 ---
 # <a name="enable-developer-mode-in-windows-10"></a>Activer le Mode développeur dans Windows 10
 
-Le Mode développeur est destiné aux utilisateurs qui développent des applications et qui doivent pouvoir charger une version test des applications et accéder aux autres fonctionnalités de développement, comme l’exécution d’une application en mode débogage dans Visual Studio.
+Le Mode développeur est destiné aux utilisateurs qui développent des applications et qui doivent pouvoir charger une version test de ces applications et accéder à des fonctionnalités de développement, comme l’exécution d’une application en mode débogage dans Visual Studio.
 
-Pour activer le Mode développeur, accédez à **[Paramètres > Mise à jour et sécurité > Pour les développeurs](ms-settings:developers?activationSource=GetHelp)**. Selon la version de Windows 10 que vous utilisez, vous verrez soit une liste de sélection qui inclut l’option d’activation du mode chargement de version test ou développeur, soit un bouton bascule pour activer le **Mode développeur**.
+Pour activer le Mode développeur, accédez à **[Paramètres > Mise à jour et sécurité > Espace développeurs](ms-settings:developers?activationSource=GetHelp)**. Selon la version de Windows 10 que vous utilisez, vous verrez soit une liste de sélection qui inclut les options Charger une version test des applications et Mode développeur, soit un bouton bascule pour activer le **Mode développeur**.
 
-Pour en savoir plus sur le Mode développeur, voir [Activer votre appareil pour le développement](https://docs.microsoft.com/windows/uwp/get-started/enable-your-device-for-development).
+Pour en savoir plus sur le Mode développeur, veuillez consulter la page [Activer votre appareil pour le développement](https://docs.microsoft.com/windows/uwp/get-started/enable-your-device-for-development).

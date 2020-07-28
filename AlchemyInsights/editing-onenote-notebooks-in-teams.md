@@ -20,8 +20,8 @@ ms.locfileid: "44267647"
 ---
 # <a name="editing-onenote-notebooks-in-teams"></a>Modification des blocs-notes OneNote dans Teams
 
-**Important** : il se peut que vous receviez le message suivant « Désolé... nous rencontrons des limitations avec OneNote dans Microsoft Teams. Veuillez utiliser OneNote pour le Web pour modifier ce bloc-notes. »  
+**Important** : il se peut que vous receviez le message suivant « Désolé... Nous rencontrons des limitations avec OneNote dans Microsoft Teams. Veuillez utiliser OneNote pour le web pour modifier ce bloc-notes. »  
 
-Pour plus d’informations, consultez l’[ID du Centre de messages : 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
+Si vous souhaitez en savoir plus, veuillez consulter l’[ID du Centre de messages : 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
 
 OneNote dans Teams est en lecture seule pour les clients Commercial et Éducation. Pour modifier, utilisez OneNote pour le web ou l’application de bureau OneNote.
