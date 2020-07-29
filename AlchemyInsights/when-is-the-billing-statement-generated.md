@@ -2,8 +2,8 @@
 title: Quand la déclaration de facturation est-elle générée ?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510390"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431215"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Quand le relevé de facturation est-il généré ?
 
-Chaque mois, vous recevez un courrier électronique qui vous indique que votre nouvelle déclaration de facturation est disponible dans le centre d’administration 365 de Microsoft. Votre facture contient deux pages. Page 1 contient un résumé de la facture, ainsi que des informations générales sur la facture, la commande, le montant à payer, les méthodes de paiement et la façon de contacter le support technique. La page 2 contient des informations relatives à l'activité de facturation de chaque abonnement.
+La date de votre relevé est définie sur le jour du mois après la création de votre compte. Par exemple, si vous avez créé votre compte le 20 janvier, la date de votre relevé est définie sur le 21 de chaque mois suivant.
+
+Les frais supplémentaires qui se produisent au cours d’un cycle de facturation actif sont inclus dans la facture du mois suivant. Les dates de début et de fin du cycle de facturation de chaque facture sont répertoriées dans le **récapitulatif de facturation** de la facture.
+
+Les paiements par carte de crédit et/ou compte bancaire (le cas échéant) sont réglés le jour suivant la **Date de facturation**.
   
-Pour en savoir plus sur les concepts de facturation, consultez [la rubrique comprendre votre facture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Pour en savoir plus, consultez [la rubrique comprendre votre facture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
