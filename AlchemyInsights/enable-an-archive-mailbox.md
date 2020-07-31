@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507024"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522733"
 ---
 # <a name="enable-an-archive-mailbox"></a>Activer une boîte aux lettres d’archivage
+
+Si vous souhaitez que nous puissions exécuter des vérifications automatiques afin de s’assurer qu’une boîte aux lettres d’archivage peut être configurée, sélectionnez le bouton précédent <--en haut de cette page, puis entrez l’adresse de messagerie du compte.
 
 Les boîtes aux lettres d’archivage de Microsoft 365 (également appelées *archives en ligne* ou *archives sur place*) fournissent aux utilisateurs un stockage de courrier supplémentaire. Les utilisateurs peuvent déplacer ou copier des éléments dans leur boîte aux lettres d’archivage, et les administrateurs peuvent créer une stratégie d’archivage qui déplace automatiquement les éléments vers les boîtes aux lettres d’archivage.
   
@@ -49,8 +51,8 @@ Pour activer l’archivage pour une boîte aux lettres partagée :
 
 4. Dans le volet d’informations à droite, sous **Archive sur place**, cliquez sur **activer**, puis cliquez sur **Oui** pour activer la boîte aux lettres d’archivage.
 
-Si vous souhaitez en savoir plus, consultez :
+Si vous souhaitez plus d’informations, reportez-vous aux rubriques suivantes :
   
 - [Activer des boîtes aux lettres d’archivage](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
-- [Configurer une stratégie d’archivage et de suppression](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Configurer une stratégie d’archivage et suppression](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

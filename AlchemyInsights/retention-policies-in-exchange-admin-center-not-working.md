@@ -12,14 +12,16 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502605"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522805"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Stratégies de rétention dans le centre d’administration Exchange
+
+Si vous souhaitez que nous puissions exécuter des vérifications automatiques pour les paramètres mentionnés ci-dessous, sélectionnez le bouton précédent <--en haut de cette page, puis entrez l’adresse de messagerie de l’utilisateur qui rencontre des problèmes avec les stratégies de rétention.
 
  **Problème :** Les stratégies de rétention nouvellement créées ou mises à jour dans le centre d’administration Exchange ne s’appliquent pas aux boîtes aux lettres ou les éléments ne sont pas déplacés vers la boîte aux lettres d’archivage ni supprimés. 
   

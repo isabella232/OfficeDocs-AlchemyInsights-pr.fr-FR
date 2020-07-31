@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508806"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522841"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Augmenter la taille de la boîte aux lettres d’archivage
+
+
+Si vous souhaitez que nous puissions exécuter des vérifications automatiques pour les paramètres mentionnés ci-dessous, sélectionnez le bouton précédent <--en haut de cette page, puis entrez l’adresse de messagerie de l’utilisateur qui a besoin de sa taille de boîte aux lettres d’archivage.
 
 Microsoft 365 [limite](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) la taille des boîtes aux lettres d’archivage en fonction de la licence attribuée au compte d’utilisateur. Lorsque la boîte aux lettres d’archivage atteint 90% de sa taille autorisée, l’utilisateur reçoit une notification par courrier électronique. Lorsqu’une boîte aux lettres d’archivage atteint sa taille limite, l’utilisateur ne peut pas déplacer plus d’éléments vers la boîte aux lettres d’archivage. Microsoft 365 n’augmentera pas la taille d’une boîte aux lettres d’archivage une fois la limite de taille atteinte. Au lieu de cela, les utilisateurs peuvent effectuer les actions suivantes pour libérer de l’espace dans la boîte aux lettres d’archivage :
 
