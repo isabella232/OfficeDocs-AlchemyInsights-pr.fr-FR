@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: 2485374a9cd7082698245af913d0e2463b03b809
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 682b437962b2192ef57cf48d4eae775bf2a4fcc7
+ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139037"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46509010"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -25,7 +25,7 @@ Microsoft lance la première étape de Microsoft Lists, une application Microso
   
 **Calendrier**  
 
-- La version ciblée vers les organisations autorisées est prévue fin juillet 2020.
+- Le déploiement a commencé pour les organisations utilisant la publication ciblée.
 - Version pour toutes les organisations d’ici à la mi-octobre 2020.
 
 N’importe quel utilisateur disposant d’une licence SharePoint peut accéder à l’icône Listes et commencer à utiliser Microsoft Lists. Les administrateurs n’ont pas la possibilité d’activer la fonctionnalité pour le moment.
