@@ -1,5 +1,5 @@
 ---
-title: Les diapositives PowerPoint n’apparaissent pas dans Skype Entreprise sur les appareils Android
+title: Les diapositives PowerPoint ne s’affichent pas dans Skype Entreprise sur les appareils Android
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,8 +19,8 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 07/15/2020
 ms.locfileid: "45139033"
 ---
-# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>Les diapositives PowerPoint n’apparaissent pas dans Skype Entreprise sur les appareils Android
+# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>Les diapositives PowerPoint ne s’affichent pas dans Skype Entreprise sur les appareils Android
 
 Si vous rencontrez des problèmes avec les diapositives PowerPoint qui ne s’affichent pas sur les appareils Android, cela peut être dû à un bogue dans le navigateur Chrome.
 
-Essayez de désactiver, puis de désinstaller, Chrome. Une fois Chrome désinstallé, réactivez-le pour obtenir la version de fabrique (74.0.3729.136) où le problème est résolu.
+Essayez de désactiver, puis de désinstaller Chrome. Une fois Chrome désinstallé, réactivez-le pour obtenir la dernière version par défaut (74.0.3729.136) où le problème est résolu.
