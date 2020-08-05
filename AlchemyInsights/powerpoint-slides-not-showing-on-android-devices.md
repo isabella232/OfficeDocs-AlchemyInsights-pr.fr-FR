@@ -1,5 +1,5 @@
 ---
-title: Les diapositives PowerPoint n’apparaissent pas dans Skype Entreprise sur les appareils Android
+title: Les diapositives PowerPoint ne s’affichent pas dans Skype Entreprise sur les appareils Android
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,8 +19,8 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 07/15/2020
 ms.locfileid: "45139033"
 ---
-# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a><span data-ttu-id="4d213-102">Les diapositives PowerPoint n’apparaissent pas dans Skype Entreprise sur les appareils Android</span><span class="sxs-lookup"><span data-stu-id="4d213-102">PowerPoint slides not showing in Skype for Business on Android devices</span></span>
+# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a><span data-ttu-id="dd946-102">Les diapositives PowerPoint ne s’affichent pas dans Skype Entreprise sur les appareils Android</span><span class="sxs-lookup"><span data-stu-id="dd946-102">PowerPoint slides not showing in Skype for Business on Android devices</span></span>
 
-<span data-ttu-id="4d213-103">Si vous rencontrez des problèmes avec les diapositives PowerPoint qui ne s’affichent pas sur les appareils Android, cela peut être dû à un bogue dans le navigateur Chrome.</span><span class="sxs-lookup"><span data-stu-id="4d213-103">If you experience a problem with PowerPoint slides not displaying on Android devices, this might be due to a bug in the Chrome browser.</span></span>
+<span data-ttu-id="dd946-103">Si vous rencontrez des problèmes avec les diapositives PowerPoint qui ne s’affichent pas sur les appareils Android, cela peut être dû à un bogue dans le navigateur Chrome.</span><span class="sxs-lookup"><span data-stu-id="dd946-103">If you experience a problem with PowerPoint slides not displaying on Android devices, this might be due to a bug in the Chrome browser.</span></span>
 
-<span data-ttu-id="4d213-104">Essayez de désactiver, puis de désinstaller, Chrome.</span><span class="sxs-lookup"><span data-stu-id="4d213-104">Try disabling, and then uninstalling, Chrome.</span></span> <span data-ttu-id="4d213-105">Une fois Chrome désinstallé, réactivez-le pour obtenir la version de fabrique (74.0.3729.136) où le problème est résolu.</span><span class="sxs-lookup"><span data-stu-id="4d213-105">After Chrome is uninstalled, re-enable Chrome to get the factory version (74.0.3729.136) where the issue is resolved.</span></span>
+<span data-ttu-id="dd946-104">Essayez de désactiver, puis de désinstaller Chrome.</span><span class="sxs-lookup"><span data-stu-id="dd946-104">Try disabling, and then uninstalling, Chrome.</span></span> <span data-ttu-id="dd946-105">Une fois Chrome désinstallé, réactivez-le pour obtenir la dernière version par défaut (74.0.3729.136) où le problème est résolu.</span><span class="sxs-lookup"><span data-stu-id="dd946-105">After Chrome is uninstalled, re-enable Chrome to get the factory version (74.0.3729.136) where the issue is resolved.</span></span>
