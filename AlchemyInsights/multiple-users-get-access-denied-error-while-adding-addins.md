@@ -23,19 +23,19 @@ ms.locfileid: "45397717"
 
 Vous pouvez spécifier les administrateurs de votre organisation qui disposent des autorisations pour installer et gérer les compléments Outlook. Vous pouvez également indiquer les utilisateurs au sein de votre organisation qui disposent des autorisations pour installer et gérer des compléments pour leur propre utilisation.
 
-Pour plus d'informations, consultez la rubrique [Désigner les administrateurs et utilisateurs qui peuvent installer et gérer des compléments pour Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
+Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Désigner les administrateurs et utilisateurs qui peuvent installer et gérer des compléments pour Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
 
 Pour vérifier que vous avez correctement attribué les autorisations d’un utilisateur, remplacez <Role Name> par le nom du rôle à vérifier, puis exécutez la commande suivante dans Exchange Online PowerShell :
 
-Get-ManagementRoleAssignment -Role « <Role Name> » -GetEffectiveUsers
+Get-ManagementRoleAssignment -Role "<Role Name>" -GetEffectiveUsers
 
 Cet exemple vous montre comment vérifier à qui vous avez attribué des autorisations pour installer des compléments de l’Office Store pour l’organisation.
 
 PowerShell
 
--Role « Applications Marketplace d’organisation » : GetEffectiveUsers
+-Role "Org Marketplace Apps" -GetEffectiveUsers
 
-Dans les résultats, Get-ManagementRoleAssignment, consultez les entrées de la colonne Utilisateurs effectifs.
+Dans les résultats de Get-ManagementRoleAssignment, consultez les entrées de la colonne Utilisateurs effectifs.
 
 Pour obtenir des informations détaillées sur la syntaxe et les paramètres, voir [Get-ManagementRoleAssignment](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
  
