@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509022"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46636691"
 ---
 # <a name="how-to-verify-your-domain"></a>Comment vérifier votre domaine
 
-Pour vérifier votre domaine, vous devez ajouter un enregistrement TXT à votre bureau d’enregistrement de domaines pour vérifier que vous êtes propriétaire de votre domaine. Tout d’abord, suivez l' [Assistant Ajouter un domaine](https://portal.office.com/adminportal/home#/Domains/Wizard) en cliquant sur **configurer** \> les **domaines**, puis sur **Ajouter un domaine**.
-  
-Suivez les instructions de la rubrique [créer des enregistrements DNS auprès d’un fournisseur d’hébergement DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) pour ajouter un enregistrement txt afin de vérifier votre domaine.
+Pour vérifier un domaine, suivez l' [Assistant Ajouter un domaine](https://portal.office.com/adminportal/home#/Domains/Wizard)ou accédez manuellement au domaine **d’installation**  >  **Domains**  >  **Ajouter un domaine**.
 
-Pour les autres domaines, essayez le [Forum aux questions sur les domaines](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Pour plus d’informations sur les modifications DNS requises pour vérifier votre domaine, consultez les instructions de la section [Ajouter des enregistrements DNS pour connecter votre domaine](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Pour les autres questions sur les domaines, consultez le [Forum aux questions sur les domaines](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
