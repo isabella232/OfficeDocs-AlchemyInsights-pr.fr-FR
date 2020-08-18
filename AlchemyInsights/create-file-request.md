@@ -1,7 +1,7 @@
 ---
 title: Procédure de création d’une demande de fichier
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 933681a19d8128c49ed1ddf4494b64d46c12a5f9
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235259"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785987"
 ---
-# <a name="how-to-create-a-file-request"></a><span data-ttu-id="2b3d0-102">Procédure de création d’une demande de fichier</span><span class="sxs-lookup"><span data-stu-id="2b3d0-102">How to create a file request</span></span>
+# <a name="how-to-create-a-file-request"></a><span data-ttu-id="545c2-102">Procédure de création d’une demande de fichier</span><span class="sxs-lookup"><span data-stu-id="545c2-102">How to create a file request</span></span>
 
-<span data-ttu-id="2b3d0-103">La fonctionnalité de demande de fichier dans OneDrive vous permet de choisir un dossier où d’autres personnes peuvent télécharger des fichiers à l’aide d’un lien que vous envoyez.</span><span class="sxs-lookup"><span data-stu-id="2b3d0-103">The file request feature in OneDrive allows you to choose a folder where others can upload files using a link that you send them.</span></span> <span data-ttu-id="2b3d0-104">Les utilisateurs que vous demandez des fichiers ne peuvent pas voir ce qui se trouve dans le dossier ; ils peuvent uniquement y télécharger des fichiers.</span><span class="sxs-lookup"><span data-stu-id="2b3d0-104">The users that you request files from cannot see what's in the folder--they can only upload files to it.</span></span>
+<span data-ttu-id="545c2-103">La fonctionnalité de demande de fichier dans OneDrive vous permet de choisir un dossier où d’autres personnes peuvent télécharger des fichiers à l’aide d’un lien que vous envoyez.</span><span class="sxs-lookup"><span data-stu-id="545c2-103">The file request feature in OneDrive allows you to choose a folder where others can upload files using a link that you send them.</span></span> <span data-ttu-id="545c2-104">Les utilisateurs que vous demandez des fichiers ne peuvent pas voir ce qui se trouve dans le dossier ; ils peuvent uniquement y télécharger des fichiers.</span><span class="sxs-lookup"><span data-stu-id="545c2-104">The users that you request files from cannot see what's in the folder--they can only upload files to it.</span></span>
 
-<span data-ttu-id="2b3d0-105">**Remarque**: un administrateur doit activer les [liens de tous les utilisateurs](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) dans OneDrive pour que les demandes de fichiers fonctionnent.</span><span class="sxs-lookup"><span data-stu-id="2b3d0-105">**Note**: An administrator must enable [Anyone links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive for file requests to work.</span></span>
+<span data-ttu-id="545c2-105">**Remarque**: un administrateur doit activer les [liens de tous les utilisateurs](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) dans OneDrive pour que les demandes de fichiers fonctionnent.</span><span class="sxs-lookup"><span data-stu-id="545c2-105">**Note**: An administrator must enable [Anyone links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive for file requests to work.</span></span>
 
-- <span data-ttu-id="2b3d0-106">Pour plus d’informations, consultez [la rubrique créer une demande de fichier](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span><span class="sxs-lookup"><span data-stu-id="2b3d0-106">For more info, see [Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span></span>
+- <span data-ttu-id="545c2-106">Pour plus d’informations, consultez [la rubrique créer une demande de fichier](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span><span class="sxs-lookup"><span data-stu-id="545c2-106">For more info, see [Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span></span>
