@@ -1,5 +1,5 @@
 ---
-title: Activer ou désactiver le partage externe pour une collection de sites
+title: Activer ou désactiver le partage externe pour un site SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 733f470e606bb6bf4b4efbfa863b1258699fc311
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 501f41d458a863dc542520ccfbb7322913d4fdfc
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912928"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785735"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Activer ou désactiver le partage externe pour un site SharePoint
 
