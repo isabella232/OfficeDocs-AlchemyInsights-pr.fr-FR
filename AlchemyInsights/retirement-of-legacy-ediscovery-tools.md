@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650566"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902618"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Déclassement des outils eDiscovery hérités
 
@@ -40,9 +40,9 @@ ms.locfileid: "43650566"
 - [Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Chronologie de la retraite**:
-- 1er avril 2020 : vous ne serez pas en mesure de créer des recherches et des suspensions, mais vous pouvez toujours exécuter, modifier et supprimer des recherches existantes à vos propres risques. Le support Microsoft ne prend plus en charge la découverte électronique inaltérable & conservation dans le centre d’administration Exchange.
-
-- 1er juillet 2020 : les fonctionnalités de découverte électronique inaltérable & conservations dans le centre d’administration Exchange seront mises en lecture seule. Cela signifie que vous pourrez uniquement supprimer des recherches et des suspensions existantes.
+- **1er juillet 2020** Vous ne pouvez plus créer de nouvelles recherches et suspensions, mais vous pouvez exécuter, modifier et supprimer des recherches existantes à vos propres risques. Le support Microsoft ne prend plus en charge la découverte électronique inaltérable & conservation dans le centre d’administration Exchange.
+    
+- **1er octobre 2020** & de découverte électronique inaltérable les fonctionnalités du centre d’administration Exchange seront mises en lecture seule, de sorte que vous ne pouvez supprimer que les recherches et les suspensions existantes.
 
 **Pour plus d’informations, voir**:
 
