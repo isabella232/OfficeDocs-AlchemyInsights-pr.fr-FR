@@ -10,18 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "1686"
+- "6251"
 - "9000161"
-ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0ea563c152f3241e3ce81bad038bd49775ad1d13
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737450"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289981"
 ---
 # <a name="using-teams-shifts"></a>Utilisation des équipes de travail
 
-Pour en savoir plus sur les équipes de travail, y compris sur la migration à partir de Microsoft Staffhub, reportez-vous à la rubrique [Shifts for teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
+Pour plus d’informations sur la gestion de l’application équipes, notamment sur la configuration des équipes de travail, l’activation des équipes d’accès pour les utilisateurs et la gestion de l’application équipes, voir :
+ 
+- [Gérez l’application Shifts pour votre organisation dans Microsoft teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Activer ou désactiver les équipes pour des utilisateurs spécifiques de votre organisation](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
 
-Microsoft Staffhub sera [retiré](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) le 31 décembre 2019. 
+Pour en savoir plus sur les équipes de travail, notamment la gestion d’une planification des équipes, voir [Shifts for teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+
+À **compter du 30 juin 2020**, Microsoft Staffhub a été supprimé. Pour plus d’informations, consultez la rubrique [Microsoft StaffHub a été supprimé](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
 

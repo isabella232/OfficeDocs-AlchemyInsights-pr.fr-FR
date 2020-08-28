@@ -13,15 +13,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: a8b548da6390391fd36de9cf848cf3a4801c9d92
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44702204"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290017"
 ---
 # <a name="teams-outlook-add-in"></a>Complément Outlook teams
 
-Pour résoudre les problèmes liés aux compléments Outlook, vous devez d’abord exécuter le diagnostic du service dans le portail d’administration.  Si le diagnostic du service indique qu’il n’y a aucun problème, continuez de télécharger et d’exécuter le **scénario de complément Outlook** [support et récupération de Microsoft](https://aka.ms/SaRA-TeamsAddInScenario) Outlook sur les ordinateurs des utilisateurs concernés afin de diagnostiquer et de corriger les problèmes de client.
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Pour résoudre les problèmes liés à un complément Outlook de teams manquant
 
-Pour résoudre manuellement le problème, consultez la liste des facteurs susceptibles de faire en sorte que votre complément de teams n’apparaisse pas répertorié [ici](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Exécutez le diagnostic de service dans le portail d’administration. 
+2. Si le diagnostic de service indique qu’il n’y a aucun problème, diagnostiquez et corrigez les problèmes de client sur les [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario)ordinateurs des utilisateurs concernés en téléchargeant et en exécutant le  >  **scénario de complément Outlook**support technique et de l’Assistant de récupération Microsoft.
+
+Pour dépanner manuellement un complément Outlook de teams manquant, consultez la liste des facteurs susceptibles de faire en sorte que le complément de votre équipe n’apparaisse pas dans la liste. Pour plus d’informations, consultez la rubrique [teams Meeting Add-in in Outlook for Windows ne s’affiche pas](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Pour résoudre les problèmes liés à la planification d’une réunion teams au nom de quelqu’un d’autre (délégué)
+
+Pour planifier une réunion teams pour le compte d’une autre personne, consultez la rubrique [Troubleshoot Microsoft teams and Exchange Server interaction Problems](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
