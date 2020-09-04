@@ -2,7 +2,7 @@
 title: Modifier la fréquence de paiement
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939653"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364585"
 ---
 # <a name="change-how-often-you-pay"></a>Modifier la fréquence de paiement
 
-Pour modifier la fréquence de facturation et de paiement d’un abonnement, effectuez les étapes suivantes dans le centre d’administration 365 de Microsoft. 
-1. Accédez à **Facturation > [Produits et services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Recherchez l’abonnement que vous souhaitez modifier. Dans la section **facturation** , en regard du **paiement mensuel facturé** ou **facturé annuellement**, cliquez sur **modifier**. 
-3. Choisissez l’option de fréquence de facturation, puis cliquez sur **modifier**.
+Pour modifier la fréquence de facturation et de paiement d’un abonnement, effectuez les étapes suivantes dans le centre d’administration 365 de Microsoft.
+
+1. Accédez à la page **facturation**  >  [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Sous l’onglet **produits** , sélectionnez l’abonnement que vous souhaitez modifier. 
+3. Sur la page Détails de l’abonnement, dans la section **paramètres d’abonnement et de paiement** , sélectionnez **modifier la fréquence de facturation**.
+4. Dans le volet **modifier la fréquence de facturation** , shoose la fréquence à laquelle vous souhaitez facturer, puis sélectionnez **modifier**.
 
 **Remarque**: la facturation mensuelle ou annuelle sont les seules options.
 
-Pour plus d’informations, consultez [la rubrique modifier votre périodicité des remboursements](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+Pour plus d’informations, consultez [Modifier la périodicité de votre facturation](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
