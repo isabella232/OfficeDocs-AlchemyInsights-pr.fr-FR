@@ -11,17 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 994de03c6416f7f28592c05dd7da762e67567de7
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944132"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406468"
 ---
-# <a name="teams-notifications"></a>Notifications Teams
+# <a name="teams-notifications-faq"></a>Notifications Teams – FAQ
 
-Dans l’application de bureau Teams, plusieurs méthodes s’offrent à vous pour accéder et gérer les notifications. Pour personnaliser davantage vos paramètres de notification, sélectionnez votre image de profil dans le coin supérieur droit de Teams, puis accédez à **Paramètres > Notifications d’activité**. Ensuite, vous pouvez ajuster les notifications que vous recevez et l’emplacement où elles s’affichent. 
 
-Dans les applications iOS et Android, appuyez sur **Plus> Paramètres > Notifications** pour personnaliser vos notifications.
+- Les notifications sont [définies par les utilisateurs](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d) et les administrateurs ne peuvent pas modifier les paramètres de notifications pour le compte des utilisateurs. Dans l’application de bureau Teams, sélectionnez votre image de profil dans le coin supérieur droit de Teams, puis accédez à Paramètres > Notifications d’activité
 
-Pour plus d’informations, voir [Six choses à savoir sur les notifications](https://support.microsoft.com/fr-FR/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) et [Gérer les notifications dans Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- [Résolution des problèmes relatifs aux notifications pour les applications mobiles Teams](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).
+
+- Vous pouvez recevoir des notifications de quatre façons : par le biais du flux d’activités, de conversations, de notifications de bannière et de courriers électroniques. Le courrier électronique d’activité manquée est envoyé lorsque vous êtes inactif sur Teams pendant une période donnée. Pour plus d’informations, voir les [Six choses à savoir sur les notifications](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4)
+
+Pour en savoir plus sur les notifications dans Teams, consulter la rubrique [Gérer les notifications dans Teams](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).

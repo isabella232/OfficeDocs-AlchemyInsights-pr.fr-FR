@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553283"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406504"
 ---
 # <a name="teams-meeting-invitations"></a>Invitations aux réunions Teams
 
-- Avez-vous besoin de savoir comment [créer une invitation dans Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5) ?
+Besoin d’aide pour personnaliser les invitations aux réunions Teams pour votre organisation ? Parcourez la rubrique [Personnaliser les invitations aux réunions](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
 
-- Pour l’instant, les équipes d’invitations aux réunions **ne peuvent pas être personnalisées**. Veuillez [voter sur les équipes UserVoice](https://microsoftteams.uservoice.com/) pour que ce problème soit ajouté à la feuille de route.
+Pour plus d’informations, voir [Gérer les paramètres de réunion dans Microsoft teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).
