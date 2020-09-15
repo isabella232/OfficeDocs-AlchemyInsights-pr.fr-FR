@@ -6,19 +6,20 @@ manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6162"
 - "9003244"
-ms.openlocfilehash: 74791503e1ec876c2beb57d895c93ceac465a26a
-ms.sourcegitcommit: a96f029381c42d331b9ea64fa54061b7b96c4e52
+ms.openlocfilehash: cb50ece43e36c81560aa07b6b892470d6ccd1981
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580889"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690277"
 ---
-# <a name="troubleshoot-hybrid-azure-ad-join"></a><span data-ttu-id="17a37-102">Résoudre les problèmes de jointure Azure AD Hybride</span><span class="sxs-lookup"><span data-stu-id="17a37-102">Troubleshoot Hybrid Azure AD join</span></span>
+# <a name="troubleshoot-hybrid-azure-ad-join"></a><span data-ttu-id="f1127-102">Résoudre les problèmes de jointure Azure AD Hybride</span><span class="sxs-lookup"><span data-stu-id="f1127-102">Troubleshoot Hybrid Azure AD join</span></span>
 
-<span data-ttu-id="17a37-103">Pour résoudre les problèmes courants liés à la jointure d’Azure Active Directory (AD) Hybride, voir la [FAQ sur la jointure Azure AD Hybride](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).</span><span class="sxs-lookup"><span data-stu-id="17a37-103">To resolve common issues with Hybrid Azure Active Directory (AD) join, see [Hybrid Azure AD join FAQ](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).</span></span>
+<span data-ttu-id="f1127-103">Pour résoudre les problèmes courants liés à la jointure d’Azure Active Directory (AD) Hybride, voir la [FAQ sur la jointure Azure AD Hybride](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).</span><span class="sxs-lookup"><span data-stu-id="f1127-103">To resolve common issues with Hybrid Azure Active Directory (AD) join, see [Hybrid Azure AD join FAQ](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).</span></span>
