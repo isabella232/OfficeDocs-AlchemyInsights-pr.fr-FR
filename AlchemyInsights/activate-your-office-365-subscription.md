@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784005"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698059"
 ---
 # <a name="activate-your-subscription"></a>Activer un abonnement
 
 **Activer un abonnement**
 
-- Pour permettre aux utilisateurs d’accéder à un service, attribuez-leur une licence. Pour obtenir des instructions sur l’attribution de licences, voir [Attribuer des licences aux utilisateurs](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Pour permettre aux utilisateurs d’accéder à un service, attribuez-leur une licence. Pour obtenir des instructions sur l’attribution de licences, voir [Attribuer des licences aux utilisateurs](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 - Si une licence vous a déjà été attribuée, vous pouvez trouver les applications que vous pouvez télécharger sur la page [Mon compte](https://portal.office.com/account/#installs). Cette page fournit une liste d’applications que vous pouvez télécharger sur la base des licences attribuées.
 
@@ -32,13 +33,13 @@ ms.locfileid: "43784005"
 
 Si votre abonnement vient à expirer ou a été désactivé par Microsoft ou si vous l’avez annulé au milieu de la période d’abonnement, vous pouvez le réactiver dans le Centre d’administration Microsoft 365.
 
-- Dans le centre d’administration Microsoft 365, accédez à la page [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054) (ou cliquez sur **Abonnements > Facturation**).
+- Dans le Centre d’administration Microsoft 365, accédez à la page **Factures** > **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-- Sélectionnez l'abonnement que vous voulez réactiver, puis cliquez sur **Réactiver**. Si l'option **Réactiver** n'apparaît pas comme action disponible, [contactez le support](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) pour réactiver votre abonnement.
+- Sélectionnez l'abonnement que vous voulez réactiver, puis cliquez sur **Réactiver**. Si l'option **Réactiver** n'apparaît pas comme action disponible, [contactez le support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) pour réactiver votre abonnement.
 
-- Entrez vos informations de paiement. Vous pouvez [mettre à jour vos informations de paiement existantes](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) ici également.
+- Entrez vos informations de paiement. Vous pouvez [mettre à jour vos informations de paiement existantes](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) ici également.
 
-Pour plus d’informations, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Pour plus d’informations, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Activer un nouvel abonnement avec une clé de produit**
 

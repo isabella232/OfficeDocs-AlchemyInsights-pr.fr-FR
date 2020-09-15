@@ -1,27 +1,27 @@
 ---
 title: Résolution des problèmes d’activation
-ms.author: jillz
-author: jillz
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676423"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697483"
 ---
 # <a name="activation-troubleshooting"></a>Résolution des problèmes d’activation
 
-Dans les **programmes et fonctionnalités** **du panneau de configuration** \> , recherchez Office. Vous devriez voir les applications Microsoft 365 pour les applications pour les entreprises ou Microsoft 365. Si vous voyez plusieurs versions d’Office répertoriées, désinstallez la version que vous n’utilisez pas.
+Dans **Control Panel** les \> **programmes et fonctionnalités**du panneau de configuration, recherchez Office. Vous devriez voir les applications Microsoft 365 pour les applications pour les entreprises ou Microsoft 365. Si vous voyez plusieurs versions d’Office répertoriées, désinstallez la version que vous n’utilisez pas.
   
 Si vous ne parvenez pas à effectuer la désinstallation à l’aide du panneau de configuration, utilisez l' [Assistant support et récupération](https://aka.ms/SARA-OfficeUninstall-Alchemy) pour désinstaller la version que vous n’utilisez pas.
   
