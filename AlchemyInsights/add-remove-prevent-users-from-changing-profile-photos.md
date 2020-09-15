@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44061994"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687792"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Ajouter, supprimer ou empêcher les utilisateurs de modifier les photos de profil
 
-- **Ajout de photos de profil :** Les photos de profil peuvent être ajoutées par un administrateur dans le [Centre d’administration Microsoft 365, dans les utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ou dans la [gestion des utilisateurs Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Si vous ne voyez pas l’option « modifier la photo », vérifiez qu’une licence est attribuée à cet utilisateur. Les photos peuvent être ajoutées ou modifiées par un utilisateur dans leur profil utilisateur à partir de n’importe quel service Microsoft 365 en cliquant sur leurs initiales/photo dans le coin supérieur droit de l’écran. Pour plus d’informations sur l’ajout d’une photo de profil, voir [ajouter votre photo de profil à Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Ajout de photos de profil :** Les photos de profil peuvent être ajoutées par un administrateur dans le [Centre d’administration Microsoft 365, dans les utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ou dans la  [gestion des utilisateurs Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Si vous ne voyez pas l’option « modifier la photo », vérifiez qu’une licence est attribuée à cet utilisateur. Les photos peuvent être ajoutées ou modifiées par un utilisateur dans leur profil utilisateur à partir de n’importe quel service Microsoft 365 en cliquant sur leurs initiales/photo dans le coin supérieur droit de l’écran. Pour plus d’informations sur l’ajout d’une photo de profil, voir [ajouter votre photo de profil à Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
 - **Suppression de photos de profil :** Les photos de profil peuvent être supprimées par un administrateur dans [Azure Active Directory User Management](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) ou par un utilisateur dans leur profil utilisateur Microsoft Teams.
 

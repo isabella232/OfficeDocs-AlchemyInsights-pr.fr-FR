@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908813"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685884"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Accès aux clés de récupération BitLocker
 
@@ -42,7 +43,7 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Si le périphérique a été chiffré avant d’être inscrit dans Intune, la clé de récupération a peut-être été associée au « compte Microsoft » (MSA) utilisé pour se connecter à l’appareil pendant le processus OOBE. Si c’est le cas, l’accès https://onedrive.live.com/recoverykey et la connexion à l’aide de ce MSA doivent afficher les périphériques pour lesquels des clés de récupération ont été stockées.
+Si le périphérique a été chiffré avant d’être inscrit dans Intune, la clé de récupération a peut-être été associée au « compte Microsoft » (MSA) utilisé pour se connecter à l’appareil pendant le processus OOBE. Si c’est le cas, l’accès  https://onedrive.live.com/recoverykey et la connexion à l’aide de ce MSA doivent afficher les périphériques pour lesquels des clés de récupération ont été stockées.
  
 Si l’appareil a été chiffré à la suite d’une configuration via une stratégie de groupe basée sur un domaine, les informations de récupération peuvent être stockées dans l’annuaire Active Directory local.
  

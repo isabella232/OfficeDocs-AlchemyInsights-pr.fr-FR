@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225230"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686028"
 ---
 # <a name="billing-and-payment"></a>Facturation et paiement
 
@@ -34,24 +35,24 @@ Si vous payez par carte de crédit ou compte bancaire, le mode de paiement assoc
 
 Si vous avez ajouté une nouvelle carte et que vous recevez toujours une notification de refus sur l’ancienne carte de crédit, vous devrez peut-être associer cette nouvelle carte à l’abonnement.
 
-1. Dans le centre d’administration, accédez à **la**  >  page**factures &**  >  [paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806) des paiements.
+1. Dans le Centre d’administration, accédez à la page **Facturation** > **Factures et paiements** > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Sélectionnez la ligne du mode de paiement à remplacer. Le volet droit répertorie tous les profils de facturation et les abonnements individuels qui utilisent le mode de paiement sélectionné.
+2. Sélectionnez la ligne du mode de paiement à changer. Le volet droit répertorie tous les profils de facturation et les abonnements individuels qui utilisent le moyen de paiement sélectionné.
 
-3. Dans le volet droit, sélectionnez **remplacer le mode de paiement pour tous les éléments**.
+3. Dans le volet droit, sélectionnez **Changer le mode de paiement pour tous les éléments**.
 
-4. Pour utiliser un mode de paiement existant, sélectionnez-en un dans la liste déroulante, puis sélectionnez **remplacer**.
+4. Pour utiliser un mode de paiement existant, choisissez-le dans la liste déroulante, puis sélectionnez **Remplacer**.
 
     > [!NOTE]
-    > Si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte bancaire pour les payer. Si vous avez des comptes bancaires répertoriés sur la page **modes de paiement** , ils ne sont pas disponibles dans la liste déroulante.
+    > Si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte de débit ou de crédit pour les régler. Si vous avez des comptes bancaires répertoriés sur la page **Modes de paiement**, vous ne pouvez pas les sélectionner dans la liste déroulante.
 
 5. Pour ajouter un nouveau mode de paiement, sélectionnez **Ajouter un mode de paiement**.
 
-6. Dans le volet **Ajouter un mode de paiement** , entrez les informations de compte, puis sélectionnez **Enregistrer**. Vous devez utiliser un mode de paiement du même pays que votre client.
+6. Dans le volet **Ajouter un mode de paiement**, entrez les informations de compte, puis sélectionnez **Enregistrer**. Vous devez utiliser un mode de paiement provenant du même pays que celui de votre client.
 
 7. Le nouveau mode de paiement est déjà sélectionné dans la liste déroulante. Sélectionnez **Remplacer**.
 
-Pour en savoir plus, consultez la rubrique [Manage Payment Methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Pour plus d’informations, consultez [Gérer les modes de paiement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Périodicité de facturation**
 
