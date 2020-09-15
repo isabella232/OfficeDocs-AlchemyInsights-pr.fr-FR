@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051315"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670902"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problèmes lors de l’ouverture de fichiers Office à partir de SharePoint
 
@@ -29,5 +30,5 @@ Si vous rencontrez des problèmes lors de l’ouverture de fichiers et de docume
 
 Pour plus d’informations ou de détails, reportez-vous à l’article [résoudre les problèmes liés à l’ouverture de documents dans les bibliothèques SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Remarque :** Si vous rencontrez des problèmes avec des documents ouverts dans le navigateur ou le client par défaut, vous devrez peut-être modifier le paramètre de bibliothèque. Pour ce faire, accédez à la bibliothèque présentant des problèmes > icône d’engrenage dans le coin supérieur droit > paramètres**avancés** > de la **bibliothèque** >  **ouverture de documents dans le navigateur**.
+**Remarque :** Si vous rencontrez des problèmes avec des documents ouverts dans le navigateur ou le client par défaut, vous devrez peut-être modifier le paramètre de bibliothèque. Pour ce faire, accédez à la bibliothèque présentant des problèmes > icône d’engrenage dans le coin supérieur droit > paramètres avancés de la **bibliothèque**  >   **Advanced settings**  >  **ouverture de documents dans le navigateur**.
 
