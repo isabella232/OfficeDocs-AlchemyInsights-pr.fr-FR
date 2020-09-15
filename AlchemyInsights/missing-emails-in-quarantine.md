@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 61a926c363c62bc7acb5efefe42b834f33c78eb6
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44542152"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673712"
 ---
 # <a name="missing-emails-in-quarantine"></a>Messages manquants en quarantaine
 
@@ -26,7 +27,7 @@ Pour ouvrir le centre de sécurité & conformité, accédez à [https://protecti
 
 Vous pouvez effectuer une recherche sur les valeurs suivantes :  
 
-- **ID du message** : l’identificateur global unique du message. Si vous sélectionnez un message dans la liste, la valeur de l' **ID du message** s’affiche dans le volet flyout de **Détails** qui s’affiche. Les administrateurs peuvent utiliser le [suivi des messages](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) pour rechercher les messages et les valeurs d’ID de message correspondantes.
+- **ID du message** : l’identificateur global unique du message. Si vous sélectionnez un message dans la liste, la valeur de l'  **ID du message**  s’affiche dans le volet flyout de  **Détails**  qui s’affiche. Les administrateurs peuvent utiliser le [suivi des messages](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) pour rechercher les messages et les valeurs d’ID de message correspondantes.
 - **Adresse e-mail de l'expéditeur** : adresse e-mail d'un seul expéditeur.
 - **Adresse e-mail du destinataire** : adresse e-mail d'un seul destinataire.
 - **Sujet** : utiliser l'intégralité du sujet du message. La recherche n’est pas sensible à la casse.

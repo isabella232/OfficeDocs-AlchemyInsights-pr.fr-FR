@@ -1,10 +1,11 @@
 ---
-title: Rétention et suppression de OneDrive
+title: Rétention et suppression sur OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,14 +13,14 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511002"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673459"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Rétention et suppression de OneDrive
+# <a name="onedrive-retention-and-deletion"></a>Rétention et suppression sur OneDrive
 
 - Vous pouvez [restaurer les utilisateurs supprimés de OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Elles se trouvent dans la corbeille pendant 93 jours.
 
