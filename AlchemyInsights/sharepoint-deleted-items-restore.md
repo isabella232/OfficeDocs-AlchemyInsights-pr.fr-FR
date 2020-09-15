@@ -5,6 +5,7 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,16 +13,16 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 61016010133bf07fa321be1a5bdef1674bcc2550
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054123"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700741"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Restaurer des éléments supprimés à partir de SharePoint
 
-Lorsque vous supprimez un élément ou un site à partir de SharePoint, il n’est pas supprimé immédiatement. Les éléments supprimés sont insérés dans la corbeille pendant un certain temps. Pendant ce temps, vous pouvez restaurer les éléments que vous avez supprimés à leur emplacement d’origine. Pour plus d’informations, consultez les liens ci-dessous.
+Lorsque vous supprimez un élément ou un site de SharePoint, celui-ci n’est pas supprimé immédiatement. Les éléments supprimés vont dans la corbeille pendant un certain temps. Pendant ce temps, vous pouvez restaurer les éléments que vous avez supprimés dans leur emplacement d’origine. Pour plus d’informations, consultez les liens ci-dessous.
 
 - [Restaurer des éléments à partir de la Corbeille d'un site SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
@@ -35,7 +36,7 @@ Lorsque vous supprimez un élément ou un site à partir de SharePoint, il n’e
 
 - [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-**Fonctionnalité de restauration des fichiers**
+**Fonctionnalité Restauration de fichiers**
 
 Si un grand nombre de vos fichiers OneDrive ou SharePoint sont supprimés, remplacés, endommagés ou infectés par des programmes malveillants, vous pouvez restaurer votre bibliothèque OneDrive ou SharePoint entière à l’aide de la fonctionnalité de restauration des fichiers.
 
