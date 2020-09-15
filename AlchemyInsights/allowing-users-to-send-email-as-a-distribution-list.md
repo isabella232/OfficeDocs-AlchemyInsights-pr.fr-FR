@@ -5,6 +5,7 @@ author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 71f251139160ef41acac13fd08af80515581ea10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768258"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718115"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>Autoriser les utilisateurs à envoyer des courriers électroniques en tant que groupe de distribution
 
 Pour permettre aux utilisateurs d’envoyer des messages semblant provenir d’un groupe de distribution existant, procédez comme suit :
 
-1. Dans le [Centre d’administration Exchange](https://outlook.office365.com/ecp/), accédez à **groupes**de **destinataires** \> .
+1. Dans le [Centre d’administration Exchange](https://outlook.office365.com/ecp/), accédez à groupes de **destinataires** \> **Groups**.
 
 2. Sélectionnez le groupe de distribution à modifier, puis cliquez sur **modifier**.
 
