@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b75daec0cf526be7b5073d0e90421ab207560f17
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049767"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708501"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Partage externe dans SharePoint Online
 
@@ -30,7 +31,7 @@ Pour plus d’informations sur le partage externe, consultez les liens ci-dessou
 - [Paramètres de partage par défaut par type de site](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 - [Utiliser SharePoint Online comme solution extranet B2B (Business-to-Business)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 - [Partager des fichiers ou dossiers SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [Arrêter de partager des fichiers ou dossiers OneDrive ou SharePoint, ou modifier des autorisations](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Arrêter le partage des fichiers ou dossiers OneDrive ou SharePoint ou modifier les autorisations](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Accès invité dans Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 - [Référence des paramètres de partage des invités Microsoft (Azure Active Directory, Microsoft 365 et SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
