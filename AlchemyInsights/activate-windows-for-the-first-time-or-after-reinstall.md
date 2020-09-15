@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 23c01d7ff929495914b18c5218adf8669f76d7ea
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796103"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698167"
 ---
 # <a name="activate-windows-10"></a>Activer Windows 10
 
@@ -24,7 +25,7 @@ ms.locfileid: "40796103"
 
 - Vous devez utiliser une clé de produit valide pour activer Windows 10 sur un appareil qui n’a jamais eu une copie activée de Windows 10 sur celle-ci.
 - Vous aurez également besoin d’une clé de produit valide si vous installez une édition de Windows 10 qui n’a pas été précédemment activée sur l’appareil. Par exemple, pour installer et activer Windows 10 professionnel sur un appareil sur lequel Windows 10 Home est installé, vous aurez besoin d’une clé de produit Windows 10 professionnel valide.
-- Pendant l’installation, vous serez invité à entrer une clé de produit valide. Une fois l’installation terminée, Windows 10 est automatiquement activé en ligne. Pour vérifier l’état d’activation dans Windows 10, sélectionnez **Démarrer**> la**mise à jour** > des**paramètres** > &**activation**de la sécurité.
+- Pendant l’installation, vous serez invité à entrer une clé de produit valide. Une fois l’installation terminée, Windows 10 est automatiquement activé en ligne. Pour vérifier l’état d’activation dans Windows 10, sélectionnez **Démarrer**la >  **Settings**  >  **mise à jour des paramètres &**  >  **activation**de la sécurité.
 
 **Pour activer après la réinstallation de Windows 10 :**
 
