@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: 131b21469e189c0db2d4c88a1f90cecffe1315f4
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288219"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700021"
 ---
 # <a name="trouble-with-the-apple-watch"></a>Problèmes avec le espion Apple
 
@@ -26,7 +27,7 @@ Si vous rencontrez des problèmes lors de l’utilisation d’Outlook sur Apple 
 
 2. Faites défiler jusqu’à l’application Outlook.
 
-3. Désactivez l’option « Afficher l’application sur **** Apple Watch » pour désinstaller.
+3. Désactivez l’option « Afficher l’application sur **OFF** Apple Watch » pour désinstaller.
 
 4. Basculez « afficher l’application sur Apple Watch » sur **activé** pour réinstaller sur le espion.
 
