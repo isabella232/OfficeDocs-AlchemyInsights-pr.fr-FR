@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 4fe4574786674add89040fd530b931c1fd4e38de
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800341"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662314"
 ---
 # <a name="resolving-missing-data-in-onenote"></a>Résoudre les données manquantes dans OneNote
 
@@ -31,7 +32,7 @@ ms.locfileid: "35800341"
 Une erreur de synchronisation est une des causes les plus courantes des pages manquantes ou des sections d’un bloc-notes. Dans ce cas, les données ne sont pas perdues et peuvent être récupérées une fois que la synchronisation fonctionne. Vérifiez que tous les utilisateurs du client OneNote ont utilisé pour déterminer si l’un d’entre eux affiche une erreur pour le bloc-notes et, en cas d’erreur, reportez-vous à la rubrique [corriger les problèmes lorsque vous ne pouvez pas synchroniser OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
 
 - Dans OneNote pour Windows 10, une icône d’avertissement triangulaire jaune apparaît le plus souvent en regard du bloc-notes.
-- Dans OneNote 2016, cliquez avec le bouton droit sur le nom du bloc-notes sous le ruban, puis cliquez sur «état de la synchronisation des blocs-notes».
+- Dans OneNote 2016, cliquez avec le bouton droit sur le nom du bloc-notes sous le ruban, puis cliquez sur « état de la synchronisation des blocs-notes ».
 - Dans OneNOte pour Mac, vérifiez qu’un point d’exclamation jaune se trouve à côté de l’icône du bloc-notes.
 - Dans OneNote pour iPhone, accédez à votre bloc-notes, puis cliquez sur le bouton d’action dans le coin supérieur droit
 - Dans OneNote pour Android, accédez à autres blocs-notes->afficher les erreurs de synchronisation

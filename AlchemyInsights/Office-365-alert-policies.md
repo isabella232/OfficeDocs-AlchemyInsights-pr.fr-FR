@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502425"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664024"
 ---
 # <a name="alert-policies"></a>Stratégies d’alerte
 
@@ -36,7 +37,7 @@ Pour passer en revue et agir sur une alerte :
 
 Vous pouvez entreprendre une action sur une alerte, telle que [la suppression d’une règle de boîte de réception suspecte](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Vous pouvez aussi simplement fermer l’alerte en cliquant sur **résoudre** sur la page flyout d’alerte.
 
-Pour plus d’informations sur la configuration et la gestion des stratégies d’alerte, consultez [cet article](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Pour plus d’informations sur la configuration et la gestion des stratégies d’alerte, consultez  [cet article](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
 **Important**: les notifications par courrier électronique d’alerte de Microsoft ne vous demandent jamais d’effectuer les opérations suivantes :
 

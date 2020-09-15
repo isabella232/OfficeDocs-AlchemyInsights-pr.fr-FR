@@ -4,19 +4,19 @@ ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d79518434904a8c26ae0e15fd1c23177b68a05af
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44254747"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653547"
 ---
 # <a name="microsoft-teams-upgrade"></a>Mise à niveau de Microsoft teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "44254747"
 
 Que vous débutiez avec Teams, que vous utilisiez déjà Teams en parallèle de Skype Entreprise, ou que vous soyez prêt à procéder à la mise à niveau, nous voulons nous assurer que vous disposez de tout ce dont vous avez besoin pour migrer efficacement vers Teams. Pour plus d’informations, consultez les liens ci-dessous.
 
-[Bien démarrer avec votre mise à niveau de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Prise en main de votre mise à niveau vers Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Planifier la mise à niveau](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 

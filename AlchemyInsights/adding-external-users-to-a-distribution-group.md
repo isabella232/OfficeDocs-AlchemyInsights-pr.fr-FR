@@ -4,15 +4,16 @@ ms.author: chrisda
 author: chrisda
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 03cfd2c576cb03cbefd524a4ab6f04e2ef1eebec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43910930"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663511"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Ajouter des utilisateurs externes à un groupe de distribution
 
@@ -20,7 +21,7 @@ L’ajout d’un contact externe à un groupe de distribution (DG) est un proces
   
 1. Créez un contact de messagerie pour l’utilisateur externe :
     
-    1. Dans le centre d’administration, accédez à la page des[contacts](https://admin.microsoft.com/adminportal/home#/Contact) de l' **utilisateur** > . 
+    1. Dans le centre d’administration, accédez à la page des contacts de l' **utilisateur**  >  [Contacts](https://admin.microsoft.com/adminportal/home#/Contact) . 
     
     2. Sélectionnez **Ajouter un contact**.
     
@@ -28,7 +29,7 @@ L’ajout d’un contact externe à un groupe de distribution (DG) est un proces
     
 2. Ajoutez le contact de messagerie à votre DG :
     
-    1. Dans le centre d’administration, accédez > à **la page groupes de**[groupes.](https://admin.microsoft.com/adminportal/home#/groups) 
+    1. Dans le centre d’administration, accédez à **la page groupes de**  >  [groupes](https://admin.microsoft.com/adminportal/home#/groups) . 
     
     2. Recherchez le DG auquel vous souhaitez ajouter l’utilisateur externe, puis sélectionnez-le pour ouvrir la boîte de dialogue Modifier.
     
