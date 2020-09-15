@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753496"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801947"
 ---
 # <a name="power-bi-report-server-product-key"></a>Clé de produit de serveur de rapports Power BI
 
@@ -26,4 +27,4 @@ La sélection de la **clé de serveur de rapports Power bi** affiche une boîte 
 
 Si vous disposez d’un accord de SA société SQL Server Enterprise, vous pouvez obtenir votre clé de produit à partir du centre de gestion des [licences en volume](https://www.microsoft.com/Licensing/servicecenter/).
 
-Pour plus d’informations, procédez comme suit:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Pour plus d’informations, procédez comme suit : https://docs.microsoft.com/power-bi/report-server/install-report-server

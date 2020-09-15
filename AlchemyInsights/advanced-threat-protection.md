@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506592"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696619"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365-Protection avancée contre les menaces
+# <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
 
 - Les pièces jointes fiables, les liens fiables et l’anti-hameçonnage font partie d’Office 365 Advanced Threat Protection (ATP). Entreprise E5, éducation a5 et Microsoft 365 Business Premium incluent la protection avancée contre les menaces. Tous les autres plans nécessitent un abonnement ATP complémentaire.
 
