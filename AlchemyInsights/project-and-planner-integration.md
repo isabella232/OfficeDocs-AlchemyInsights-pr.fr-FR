@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002569"
 - "5025"
-ms.openlocfilehash: d78441c332bfabfe36091a1b3d5a0903ccf0c612
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
+ms.openlocfilehash: bfa37ce3ddd7e72b772026383008415e7db8e83f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810552"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701893"
 ---
-# <a name="project-and-planner-integration"></a><span data-ttu-id="36168-102">Intégration de projet et planificateur</span><span class="sxs-lookup"><span data-stu-id="36168-102">Project and Planner integration</span></span>
+# <a name="project-and-planner-integration"></a><span data-ttu-id="63e51-102">Intégration de projet et planificateur</span><span class="sxs-lookup"><span data-stu-id="63e51-102">Project and Planner integration</span></span>
 
-<span data-ttu-id="36168-103">L’intégration entre le client de bureau Project Online et le planificateur permet aux propriétaires de tâches de suivre les détails d’une tâche précise.</span><span class="sxs-lookup"><span data-stu-id="36168-103">With the integration between the Project Online Desktop Client and Planner, task owners can track granular task details.</span></span> <span data-ttu-id="36168-104">Découvrez comment [lier des plans à une tâche de projet](https://www.microsoft.com/microsoft-365/blog/2017/10/30/introducing-new-ways-to-work-in-microsoft-project/).</span><span class="sxs-lookup"><span data-stu-id="36168-104">Learn how to [link plans to a project task](https://www.microsoft.com/microsoft-365/blog/2017/10/30/introducing-new-ways-to-work-in-microsoft-project/).</span></span>
+<span data-ttu-id="63e51-103">L’intégration entre le client de bureau Project Online et le planificateur permet aux propriétaires de tâches de suivre les détails d’une tâche précise.</span><span class="sxs-lookup"><span data-stu-id="63e51-103">With the integration between the Project Online Desktop Client and Planner, task owners can track granular task details.</span></span> <span data-ttu-id="63e51-104">Découvrez comment [lier des plans à une tâche de projet](https://www.microsoft.com/microsoft-365/blog/2017/10/30/introducing-new-ways-to-work-in-microsoft-project/).</span><span class="sxs-lookup"><span data-stu-id="63e51-104">Learn how to [link plans to a project task](https://www.microsoft.com/microsoft-365/blog/2017/10/30/introducing-new-ways-to-work-in-microsoft-project/).</span></span>
