@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: e1da0c7b67c1f09f6ed6589848ddd2d4e5a5775a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710945"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694273"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Empêcher les messages d’atteindre votre dossier courrier indésirable
 
@@ -24,7 +25,7 @@ Si vous découvrez qu’un message électronique dans votre dossier de courrier 
 
 1. Ouvrez votre [dossier courrier indésirable](https://outlook.live.com/mail/junkemail).
 1. Sélectionnez le message. (*Remarque :* les éléments de votre dossier courrier indésirable sont supprimés au bout de 30 jours.)
-1. Au-dessus de la liste des messages, sélectionnez **non légitime** > **.**
+1. Au-dessus de la liste des messages, sélectionnez **non légitime**  >  **Not junk**.
 
 Si vous souhaitez empêcher les messages provenant d’un expéditeur d’atteindre le dossier courrier indésirable, ajoutez l’expéditeur à votre liste des expéditeurs approuvés :
 
