@@ -6,6 +6,7 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: dbea425a8df14a07152dbcb36a40303a8cb821cc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708865"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706557"
 ---
 # <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Vous obtenez une erreur de désactivation d’un compte dans Outlook sur le Web ?
 
-Si vous obtenez l’erreur « **votre compte a été désactivé** » `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` lorsque vous essayez d’ouvrir Outlook sur le Web (anciennement appelé Outlook Web App), il se peut que l’administrateur de votre organisation ait désactivé votre accès à Outlook sur le Web. Votre administrateur peut corriger cette erreur en suivant les étapes décrites dans la rubrique [activer ou désactiver Outlook Web App pour une boîte aux lettres](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Si vous obtenez l’erreur « **votre compte a été désactivé** »  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` lorsque vous essayez d’ouvrir Outlook sur le Web (anciennement appelé Outlook Web App), il se peut que l’administrateur de votre organisation ait désactivé votre accès à Outlook sur le Web. Votre administrateur peut corriger cette erreur en suivant les étapes décrites dans la rubrique [activer ou désactiver Outlook Web App pour une boîte aux lettres](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
