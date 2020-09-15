@@ -1,24 +1,25 @@
 ---
-title: Co-Management
+title: Cogestion
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770889"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681258"
 ---
-# <a name="co-management"></a>Co-Management
+# <a name="co-management"></a>Cogestion
 
 **Conditions préalables à la migration du gestionnaire de configuration hybride vers Intune**
 
