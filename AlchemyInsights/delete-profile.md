@@ -6,6 +6,7 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,18 +14,18 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: b3822a7b90048cb8f0447eeb80ca1c457a17918e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704831"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680097"
 ---
 # <a name="delete-a-profile"></a>Supprimer un profil
 
 Pour supprimer un profil, procédez comme suit.
   
-1. Dans Outlook, sélectionnez **File** \> **paramètres** \> du compte de fichier **gérer les profils**.
+1. Dans Outlook, sélectionnez Paramètres du compte de **fichier** \> **Account Settings** \> **gérer les profils**.
 
 2. Sélectionnez **afficher les profils**.
 
