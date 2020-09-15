@@ -6,20 +6,21 @@ manager: jecon
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: aeb2ab904e80861b436bc2d739a0e16d89c2a906
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687436"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663952"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="21dae-102">Un arrière-plan noir s’affiche, ou la mise en forme de cellule ne semble pas correcte</span><span class="sxs-lookup"><span data-stu-id="21dae-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="2f263-102">Un arrière-plan noir s’affiche, ou la mise en forme de cellule ne semble pas correcte</span><span class="sxs-lookup"><span data-stu-id="2f263-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="21dae-103">Dans Excel 2016, il se peut que vous rencontriez un arrière-plan noir inattendu ou que la mise en forme de cellule ne s’affiche pas correctement.</span><span class="sxs-lookup"><span data-stu-id="21dae-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="21dae-104">Cela peut se produire après l’ajout d’un en-tête ou d’un pied de page en mode page et l’application d’un motif de remplissage à une cellule.</span><span class="sxs-lookup"><span data-stu-id="21dae-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="21dae-105">Ce problème a été résolu dans la version 1708 (Build 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="21dae-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="21dae-106">Pour résoudre ce problème, mettez à jour la dernière version d’Office.</span><span class="sxs-lookup"><span data-stu-id="21dae-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="21dae-107">Sélectionnez **mettre à jour**les options \> de **mise à jour** des **comptes** \> de **fichiers** \> .</span><span class="sxs-lookup"><span data-stu-id="21dae-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="2f263-103">Dans Excel 2016, il se peut que vous rencontriez un arrière-plan noir inattendu ou que la mise en forme de cellule ne s’affiche pas correctement.</span><span class="sxs-lookup"><span data-stu-id="2f263-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="2f263-104">Cela peut se produire après l’ajout d’un en-tête ou d’un pied de page en mode page et l’application d’un motif de remplissage à une cellule.</span><span class="sxs-lookup"><span data-stu-id="2f263-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="2f263-105">Ce problème a été résolu dans la version 1708 (Build 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="2f263-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="2f263-106">Pour résoudre ce problème, mettez à jour la dernière version d’Office.</span><span class="sxs-lookup"><span data-stu-id="2f263-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="2f263-107">Sélectionnez **File** \> **Account** \> **Update Options** \> **mettre à jour**les options de mise à jour des comptes de fichiers.</span><span class="sxs-lookup"><span data-stu-id="2f263-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
