@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286579"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716783"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Demander une exonération de taxe
 
-Munissez-vous des documents suivants. Vous devez [démarrer une demande de service](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) pour établir l’exonération fiscale.
+Munissez-vous des documents suivants. Vous devez [démarrer une demande de service](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) pour établir l’exonération fiscale.
 
 - **États-Unis** : munissez-vous du **Certificat d’exonération des taxes de vente**.
 
@@ -32,4 +33,4 @@ Munissez-vous des documents suivants. Vous devez [démarrer une demande de servi
 
 - **Porto Rico** : munissez-vous du **Certificado de Compras Exentas**.
 
-Si vous souhaitez en savoir plus, consultez l’article [Informations fiscales](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide).
+Si vous souhaitez en savoir plus, consultez l’article [Informations fiscales](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
