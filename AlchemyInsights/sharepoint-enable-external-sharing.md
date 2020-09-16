@@ -4,16 +4,17 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fdcc6d81411e231ba18ad296508fef6c4ca648b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495625"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727205"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Activer le partage externe dans SharePoint Online
 
@@ -35,7 +36,7 @@ Pour plus d’informations sur le partage externe (invités), consultez les lien
 
 - [Partager des fichiers ou dossiers SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Arrêter de partager des fichiers ou dossiers OneDrive ou SharePoint, ou modifier des autorisations](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Arrêter le partage des fichiers ou dossiers OneDrive ou SharePoint ou modifier les autorisations](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Supprimer un utilisateur externe](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
