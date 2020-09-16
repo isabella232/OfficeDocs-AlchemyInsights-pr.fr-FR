@@ -5,17 +5,18 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 5dab9fce935936898927afd55f8f6e9260249157
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582809"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771198"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problèmes lors de la création d’un site connecté à un groupe dans SharePoint
 
