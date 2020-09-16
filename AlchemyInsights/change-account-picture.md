@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
-ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
+ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42574369"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734045"
 ---
 # <a name="change-account-picture"></a>Modifier l’image du compte
 
 Si vous utilisez un nom d’utilisateur et un mot de passe pour vous connecter à Windows 10, vous utilisez un compte local. **Pour modifier l’image de votre compte local**:
 
-1. Accédez à **** > **paramètres** > de démarrage**comptes** > **vos informations**.
+1. Accédez à paramètres de **démarrage**  >  **Settings**  >  **comptes**  >  **vos informations**.
 2. Sous **créer votre image**, cliquez sur **Rechercher**. Ou, si votre appareil est doté d’un appareil photo, cliquez sur **appareil photo** et faites une auto-apprentissage. 
     **Remarque**: Windows se souvient des trois dernières images que vous avez utilisées. Cliquez sur l’image sur la page de vos informations pour passer à celle-ci.
 
