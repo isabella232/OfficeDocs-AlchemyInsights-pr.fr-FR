@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 94dda7a42632f57ce3aef5f467b87df1033b8d49
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268630"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730157"
 ---
 # <a name="fix-bluetooth-problems-in-windows-10"></a>Corriger les problèmes Bluetooth dans Windows 10
 
@@ -32,11 +33,11 @@ Si vous avez récemment installé les mises à jour de Windows 10 ou mis à nive
 
 1. Dans le gestionnaire de périphériques, cliquez sur **Bluetooth**, puis sur le nom de la carte Bluetooth (qui peut inclure le mot « radio »).
 
-2. Appuyez longuement (ou cliquez avec le bouton droit) sur la carte Bluetooth, puis cliquez sur **mettre à jour** > la**recherche de pilote automatiquement pour le logiciel de pilote mis à jour**. Suivez les étapes, puis cliquez sur **Fermer**.
+2. Appuyez longuement (ou cliquez avec le bouton droit) sur la carte Bluetooth, puis cliquez sur **mettre à jour**la  >  **recherche de pilote automatiquement pour le logiciel de pilote mis à jour**. Suivez les étapes, puis cliquez sur **Fermer**.
 
       - Si Windows ne trouve pas de nouveau pilote Bluetooth, visitez le site Web du fabricant de PC et téléchargez le pilote Bluetooth le plus récent à partir de là.
 
-    - Une fois le téléchargement effectué, cliquez sur **mettre à jour le pilote** > **Parcourir le lecteur mon ordinateur pour le pilote logiciel** > **recherchez** l’emplacement où sont stockés les fichiers du pilote > **OK** > **, puis**suivez les étapes d’installation.
+    - Une fois le téléchargement effectué, cliquez sur **mettre à jour le pilote**parcourir le lecteur  >  **mon ordinateur pour le pilote logiciel**  >  **recherchez** l’emplacement où sont stockés les fichiers du pilote > **OK**  >  **Next**, puis suivez les étapes d’installation.
 
 3. Après avoir installé le pilote mis à jour, redémarrez l’ordinateur, puis vérifiez si cela résout le problème de connexion.
 
