@@ -5,34 +5,35 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2dc0cd5f1641298853443d364eb9434ec1d9cd5a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 39ec9b746c47414f1cfaad1342491b8f33a47d6f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511146"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771242"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="340c1-102">SharePoint ou OneDrive est lent, inaccessible ou indisponible pour plusieurs utilisateurs</span><span class="sxs-lookup"><span data-stu-id="340c1-102">SharePoint or OneDrive Slow, Inaccessible or Unavailable for Multiple Users</span></span>
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="65a8e-102">SharePoint ou OneDrive est lent, inaccessible ou indisponible pour plusieurs utilisateurs</span><span class="sxs-lookup"><span data-stu-id="65a8e-102">SharePoint or OneDrive Slow, Inaccessible or Unavailable for Multiple Users</span></span>
 
-<span data-ttu-id="340c1-103">Si un site OneDrive ou SharePoint n’est pas disponible pour plusieurs utilisateurs qui disposaient précédemment d’un accès, il peut y avoir un problème de service temporaire.</span><span class="sxs-lookup"><span data-stu-id="340c1-103">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue.</span></span> <span data-ttu-id="340c1-104">[Vérifiez le tableau de bord d’État du service](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="340c1-104">[Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+<span data-ttu-id="65a8e-103">Si un site OneDrive ou SharePoint n’est pas disponible pour plusieurs utilisateurs qui disposaient précédemment d’un accès, il peut y avoir un problème de service temporaire.</span><span class="sxs-lookup"><span data-stu-id="65a8e-103">If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue.</span></span> <span data-ttu-id="65a8e-104">[Vérifiez le tableau de bord d’État du service](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="65a8e-104">[Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
 
-<span data-ttu-id="340c1-105">**Ajouter et accorder une licence à l’utilisateur**</span><span class="sxs-lookup"><span data-stu-id="340c1-105">**Add and license the user**</span></span>
+<span data-ttu-id="65a8e-105">**Ajouter et accorder une licence à l’utilisateur**</span><span class="sxs-lookup"><span data-stu-id="65a8e-105">**Add and license the user**</span></span>
 
-<span data-ttu-id="340c1-106">Vérifiez que vous [attribuez des licences aux utilisateurs dans Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span><span class="sxs-lookup"><span data-stu-id="340c1-106">Ensure that you [Assign licenses to users in Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span></span>
+<span data-ttu-id="65a8e-106">Vérifiez que vous [attribuez des licences aux utilisateurs dans Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span><span class="sxs-lookup"><span data-stu-id="65a8e-106">Ensure that you [Assign licenses to users in Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span></span>
 
 
-<span data-ttu-id="340c1-107">**Attribuer des autorisations**</span><span class="sxs-lookup"><span data-stu-id="340c1-107">**Assign Permissions**</span></span>
+<span data-ttu-id="65a8e-107">**Attribuer des autorisations**</span><span class="sxs-lookup"><span data-stu-id="65a8e-107">**Assign Permissions**</span></span>
 
-<span data-ttu-id="340c1-108">Si l’utilisateur a reçu une licence SharePoint et qu’il reçoit toujours un message de refus d’accès, vérifiez qu’il dispose du [niveau d’autorisation approprié](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .</span><span class="sxs-lookup"><span data-stu-id="340c1-108">If the user has been assigned a Sharepoint license and is still receiving an access denied message, please ensure they have the [appropriate permission level](https://docs.microsoft.com/sharepoint/understanding-permission-levels) assigned.</span></span>
+<span data-ttu-id="65a8e-108">Si l’utilisateur a reçu une licence SharePoint et qu’il reçoit toujours un message de refus d’accès, vérifiez qu’il dispose du [niveau d’autorisation approprié](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .</span><span class="sxs-lookup"><span data-stu-id="65a8e-108">If the user has been assigned a Sharepoint license and is still receiving an access denied message, please ensure they have the [appropriate permission level](https://docs.microsoft.com/sharepoint/understanding-permission-levels) assigned.</span></span>
 
-<span data-ttu-id="340c1-109">**Envisagez d’utiliser la fonctionnalité de demande d’accès**</span><span class="sxs-lookup"><span data-stu-id="340c1-109">**Consider using the access request feature**</span></span>
+<span data-ttu-id="65a8e-109">**Envisagez d’utiliser la fonctionnalité de demande d’accès**</span><span class="sxs-lookup"><span data-stu-id="65a8e-109">**Consider using the access request feature**</span></span>
 
-<span data-ttu-id="340c1-110">La [fonctionnalité de demande d’accès](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) permet aux utilisateurs de demander l’accès au contenu qu’ils n’ont pas actuellement le droit d’afficher.</span><span class="sxs-lookup"><span data-stu-id="340c1-110">The [access request feature](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) allows people to request access to content that they do not currently have permission to see.</span></span>
+<span data-ttu-id="65a8e-110">La [fonctionnalité de demande d’accès](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) permet aux utilisateurs de demander l’accès au contenu qu’ils n’ont pas actuellement le droit d’afficher.</span><span class="sxs-lookup"><span data-stu-id="65a8e-110">The [access request feature](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) allows people to request access to content that they do not currently have permission to see.</span></span>
 
-<span data-ttu-id="340c1-111">**Autoriser le script personnalisé peut entraîner des problèmes de refus d’accès**</span><span class="sxs-lookup"><span data-stu-id="340c1-111">**Allow custom script may cause access denied issues**</span></span>
+<span data-ttu-id="65a8e-111">**Autoriser le script personnalisé peut entraîner des problèmes de refus d’accès**</span><span class="sxs-lookup"><span data-stu-id="65a8e-111">**Allow custom script may cause access denied issues**</span></span>
 
-<span data-ttu-id="340c1-112">Il existe certains scénarios dans lesquels la fonctionnalité *autoriser les scripts personnalisés* peut présenter un accès refusé.</span><span class="sxs-lookup"><span data-stu-id="340c1-112">There are certain scenarios where the *Allow custom script* feature may be presenting an access denied.</span></span> <span data-ttu-id="340c1-113">Pour obtenir la liste des fonctionnalités affectées, des considérations relatives à la sécurité et la possibilité de désactiver la fonctionnalité.</span><span class="sxs-lookup"><span data-stu-id="340c1-113">For a list of features affected, security considerations and the ability to disable the feature.</span></span> <span data-ttu-id="340c1-114">Visitez [ou bloquez le script personnalisé](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span><span class="sxs-lookup"><span data-stu-id="340c1-114">Please visit [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span></span>
+<span data-ttu-id="65a8e-112">Il existe certains scénarios dans lesquels la fonctionnalité *autoriser les scripts personnalisés* peut présenter un accès refusé.</span><span class="sxs-lookup"><span data-stu-id="65a8e-112">There are certain scenarios where the *Allow custom script* feature may be presenting an access denied.</span></span> <span data-ttu-id="65a8e-113">Pour obtenir la liste des fonctionnalités affectées, des considérations relatives à la sécurité et la possibilité de désactiver la fonctionnalité.</span><span class="sxs-lookup"><span data-stu-id="65a8e-113">For a list of features affected, security considerations and the ability to disable the feature.</span></span> <span data-ttu-id="65a8e-114">Visitez [ou bloquez le script personnalisé](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span><span class="sxs-lookup"><span data-stu-id="65a8e-114">Please visit [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).</span></span>
 
