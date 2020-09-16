@@ -5,15 +5,16 @@ author: MikePlumleyMSFT
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: ed8e97b20c96a7b46995c969074cc4cef3a787d9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715882"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720680"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Restreindre l’accès dans SharePoint ou OneDrive
 
@@ -25,6 +26,6 @@ Vous pouvez partager à un niveau supérieur (par exemple, en partageant un site
     
 - Si vous avez deux sous-dossiers dans un dossier et que vous souhaitez partager un sous-dossier avec les groupes A et B et autoriser uniquement le groupe un à accéder au deuxième sous-dossier, partagez le dossier parent avec le groupe A et ajoutez le groupe B au premier sous-dossier.
     
-[Arrêter le partage d’un fichier ou d’un dossier](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Arrêter le partage d’un fichier ou d’un dossier ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 
