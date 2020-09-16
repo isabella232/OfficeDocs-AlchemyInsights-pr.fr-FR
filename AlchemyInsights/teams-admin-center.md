@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021638"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670362"
 ---
 # <a name="teams-admin-center"></a>Centre d’administration Microsoft Teams
 
@@ -30,4 +31,6 @@ Si vous ne parvenez pas à accéder au Centre d’administration Teams, consulte
 Si les utilisateurs n’apparaissent pas dans le Centre d’administration Teams, veuillez consulter :
 
 - Avez-vous créé des utilisateurs ou attribué des licences au cours des dernières 24 heures ? Veuillez patienter au moins 24 heures avant d’ouvrir un ticket de support.
-- Vérifier que vous avez attribué les licences appropriées. 
+- Vérifier que vous avez attribué les licences appropriées.
+- Si vous disposez d’un annuaire Active Directory local, vérifiez que [la valeur de msRTCSIP-PrimaryUserAddress ou si l’adresse SIP dans le champ ProxyAddresses de votre Active Directory local est unique et que le format correspond au](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip :**Nom d’utilisateur** de l’utilisateur dans le [Centre d’administration Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Si vous envisagez de conserver un déploiement de Skype Entreprise Server et que les utilisateurs sont hébergés en local et en ligne : suivez la **« Configuration de hybride avec Teams et Skype Entreprise Online »** dans le panneau de configuration de Skype entreprise et déplacez les utilisateurs en ligne.

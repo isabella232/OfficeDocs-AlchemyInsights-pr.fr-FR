@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 98cc12012c270b85ff2c6437e3fdd3d589ee1bf5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: e0043af0a0d67a00a7f165d73cacbd924623f080
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580187"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744696"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Correctif : « vous n’avez pas reçu de licence Office pour l’instant »
 
@@ -24,7 +25,7 @@ Pour installer les applications clientes Office, assurez-vous d’avoir un abonn
 
 **Remarque** : [Office Famille et Petite Entreprise](https://products.office.com/home-and-business) est un produit [Office pour les particuliers](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) qui ne fait pas partie d’un abonnement pour les entreprises. Project Online Essentials n’incluant pas de version de bureau de Project, aucune installation n’est requise. Les utilisateurs de Visio Plan 1 peuvent accéder à Visio sur le web, car le plan n’inclut pas l’application de version de bureau de Visio. Les applications de bureau Project et Visio ne sont pas disponibles sur Mac
 
-Si vous avez un abonnement incluant des applications Microsoft 365, aucune option d’installation ne vous sera proposée, sauf si vous avez une [licence attribuée](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Si vous êtes l’administrateur Office 365 responsable de l’attribution de licences, voir [Attribuer des licences aux utilisateurs](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Si vous avez un abonnement incluant des applications Microsoft 365, aucune option d’installation ne vous sera proposée, sauf si vous avez une [licence attribuée](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Si vous êtes l’administrateur Office 365 responsable de l’attribution de licences, voir [Attribuer des licences aux utilisateurs](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Demandez à chaque utilisateur de suivre les instructions ci-dessous :
 

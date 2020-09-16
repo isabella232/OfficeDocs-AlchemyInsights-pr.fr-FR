@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: c49dfbf422b312f4744711d5f12b0eb83b6ebf2e
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268770"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691105"
 ---
 # <a name="teams-client-crashing"></a>Le client Teams se bloque :
 
@@ -28,36 +29,22 @@ Si votre client Teams se bloque, procédez comme suit :
 
 - Connectez-vous à l’aide de votre compte d’administrateur et consultez votre [Tableau de bord d’état du service](https://docs.microsoft.com/office365/enterprise/view-service-health) pour vérifier qu’il n’existe aucune panne ou détérioration du service.
 
- - Pour terminer, vous pouvez essayer de vider le cache de votre client Teams :
+- Désinstaller et réinstaller l’application Teams (lien)
+    - Accédez au dossier %appdata%\Microsoft\teams\ sur votre ordinateur et supprimez tous les fichiers dans ce répertoire.
+    - [Téléchargez et installez l’application Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)et, si possible, installez teams en tant qu’administrateur (cliquez avec le bouton droit sur le programme d’installation Teams, puis sélectionnez « Exécuter en tant qu’administrateur » si disponible).
 
-    1.  Quittez complètement le client de bureau Microsoft Teams. Vous pouvez cliquer avec le bouton droit sur **Teams** à partir de Icon Tray, puis cliquez sur **Quitter** ou exécutez le Gestionnaire des tâches et terminez complètement le processus.
-
-    2.  Accédez à l’Explorateur de fichiers, puis tapez %appdata%\Microsoft\teams.
-
-    3.  Une fois que vous êtes dans l’annuaire, quelques-uns des dossiers suivants s’affichent :
-
-         - Dans **Application Cache**, accédez à Cache et supprimez les fichiers dans l’emplacement du Cache : %appdata%\Microsoft\teams\application cache\cache.
-
-        - Dans **Blob_storage**, supprimez tous les fichiers : %appdata%\Microsoft\teams\blob_storage.
-
-        - Dans **Cache**, supprimez tous les fichiers : %appdata%\Microsoft\teams\Cache.
-
-        - Dans **databases**, supprimez tous les fichiers : %appdata%\Microsoft\teams\databases.
-
-        - Dans **GPUCache**, supprimez tous les fichiers : %appdata%\Microsoft\teams\GPUcache.
-
-        - Dans **IndexedDB**, supprimez le fichier .db : %appdata%\Microsoft\teams\IndexedDB.
-
-        - Dans **Local Stockage**, supprimez tous les fichiers : %appdata%\Microsoft\teams\Local Storage.
-
-        - Enfin, dans **tmp**, supprimez les fichiers suivants : %appdata%\Microsoft\teams\tmp.
-
-    4. Redémarrez le client Teams.
-
-Si votre client Teams ne fonctionne toujours pas, pouvez-vous reproduire le problème ? Si c’est le cas : 
+Si votre client Teams ne fonctionne toujours pas, pouvez-vous reproduire le problème ? Si c’est le cas :
 
 1. Utilisez l’Enregistreur d’actions pour capturer vos étapes.
     - Fermez TOUTES les applications superflues ou confidentielles.
     - Lancez l’Enregistreur d’actions et reproduisez le problème lors de la connexion avec le compte d’utilisateur concerné.
+    - [Collecter les journaux des équipes qui capturent les étapes de reproduction enregistrées](https://docs.microsoft.com/microsoftteams/log-files). **Remarque** : Veillez à capturer l’adresse de connexion de l’utilisateur concerné.
+    - Collectez les informations de copie de sauvegarde et/ou de compartiment défectueux (Windows). Lancez Windows PowerShell sur l’ordinateur sur lequel le blocage se produit et exécutez les commandes suivantes :
+
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
     
 2. Joignez le fichier à votre cas de support.
