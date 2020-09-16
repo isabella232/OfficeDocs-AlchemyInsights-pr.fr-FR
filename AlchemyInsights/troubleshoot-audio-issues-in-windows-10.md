@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265014"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750305"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Résolution des problèmes audio dans Windows 10
 
@@ -24,13 +25,13 @@ ms.locfileid: "42265014"
 
 1.  Ouvrez les [paramètres de résolution des problèmes](ms-settings:troubleshoot).
 
-2.  Sélectionnez **lecture audio** > **Exécutez l’utilitaire de résolution des problèmes**.
+2.  Sélectionnez **lecture audio**  >  **Exécutez l’utilitaire de résolution des problèmes**.
 
 **Définir le périphérique par défaut**
 
 Si vous vous connectez à un périphérique audio à l’aide de l’USB ou de l’HDMI, vous devrez peut-être définir ce périphérique par défaut :
 
-1. Ouvrez **Démarrer** > le**son**, puis sélectionnez **son** ou **Modifiez sons système** dans la liste des résultats.
+1. Ouvrez **Démarrer**le  >  **son**, puis sélectionnez **son** ou **Modifiez sons système** dans la liste des résultats.
 
 2.  Sous l’onglet **lecture** , sélectionnez un appareil, sélectionnez **définir la valeur par défaut**, puis **OK**.
 
@@ -62,4 +63,4 @@ Si vous ne pouvez pas effectuer une mise à jour via le gestionnaire de périph�
 
 1. Dans le gestionnaire de périphériques, cliquez avec le bouton droit (ou appuyez longuement) sur le pilote audio, puis sélectionnez **désinstaller**. Redémarrez votre appareil et Windows tentera de réinstaller le pilote.
 
-2. Si la réinstallation du pilote ne fonctionne pas, essayez d’utiliser le pilote audio générique fourni avec Windows. Dans le gestionnaire de périphériques, cliquez avec le bouton droit de la touche (ou appuyez longuement) sur votre pilote audio > **mettre à jour le logiciel** > **de pilote pour rechercher le pilote logiciel** > , sélectionnez l'**une des pilotes de périphériques sur mon ordinateur**, sélectionnez **périphérique audio haute définition**, sélectionnez **suivant**, puis suivez les instructions pour l’installer.
+2. Si la réinstallation du pilote ne fonctionne pas, essayez d’utiliser le pilote audio générique fourni avec Windows. Dans le gestionnaire de périphériques, cliquez avec le bouton droit de la touche (ou appuyez longuement) sur votre pilote audio > **mettre à jour le logiciel**  >  **de pilote pour rechercher le pilote logiciel**, sélectionnez  >  **l’une des pilotes de périphériques sur mon ordinateur**, sélectionnez **périphérique audio haute définition**, sélectionnez **suivant**, puis suivez les instructions pour l’installer.

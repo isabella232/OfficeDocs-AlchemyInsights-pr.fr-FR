@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: 78f27014c60badc801212177dd455ef2a0de5a9e
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: cfee520e26587c0a649c08084853c31232d027f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44854010"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748791"
 ---
 # <a name="calendar-permissions"></a>Autorisations de calendrier
 
@@ -27,7 +28,7 @@ Avec l’applet de commande Exchange PowerShell affiche l’autorisation sur le 
 
 Pour plus d’informations, consultez les rubriques suivantes :
 
-- [Get-MailboxFolderPermission permet](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
+- [Get-MailboxFolderPermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
 
 - [Set-MailboxFolderPermission permet](https://docs.microsoft.com/powershell/module/exchange/set-mailboxfolderpermission?view=exchange-ps)
 

@@ -5,17 +5,18 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766851"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750449"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Activation du chiffrement BitLocker avec Intune
 
@@ -24,7 +25,7 @@ La stratégie de protection du point de terminaison Intune peut être utilisée 
 Vous devez savoir que de nombreux appareils plus récents exécutant Windows 10 prennent en charge le chiffrement BitLocker automatique, qui est déclenché sans l’application de la stratégie MDM. Cela peut avoir un impact sur l’application de la stratégie si des paramètres autres que ceux par défaut sont configurés. Pour plus d’informations, voir le Forum aux questions.
 
 
-FAQ  Q : Quelles éditions de Windows prennent en charge le chiffrement des appareils à l’aide de la stratégie de protection du point de terminaison ?
+FAQ   Q : Quelles éditions de Windows prennent en charge le chiffrement des appareils à l’aide de la stratégie de protection du point de terminaison ?
  A : les paramètres de la stratégie de protection du point de terminaison Intune sont implémentés à l’aide du CSP BitLocker.Toutes les éditions et les versions de Windows ne prennent pas en charge le fournisseur de services cryptographiques BitLocker. 
       Pour le moment, les éditions Windows : entreprise ; Éducation, mobile, mobile Enterprise et professionnel (à partir de la build 1809 et versions ultérieures) sont pris en charge.
 

@@ -6,24 +6,25 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766131"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748987"
 ---
 # <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Le courrier de flux de travail n’est pas envoyé pour une liste ou une bibliothèque SharePoint
 
-1. Les courriers électroniques provenant de flux de travail ne sont pas envoyés à tous les utilisateurs ou uniquement à des utilisateurs spécifiques, ou vous voyez l’erreur que **le message électronique ne peut pas être envoyé. Assurez-vous que le message électronique contient un destinataire valide**.
+1. Les courriers électroniques provenant de flux de travail ne sont pas envoyés à tous les utilisateurs ou uniquement à des utilisateurs spécifiques, ou vous voyez l’erreur que **le message électronique ne peut pas être envoyé. Vérifiez que le message électronique contient un destinataire valide**.
 
-    Vérifiez si l’utilisateur existe dans le groupe d’autorisations **tous les personnes** (liste d’informations utilisateur) pour cette collection de sites.  Exemple d’URL directe :<tenant>https://.<sitename>SharePoint.com/sites//_layouts/15/People.aspx ? MembershipGroupId = 0
+    Vérifiez si l’utilisateur existe dans le groupe d’autorisations **tous les personnes** (liste d’informations utilisateur) pour cette collection de sites.  Exemple d’URL directe : https:// <tenant> . SharePoint.com/sites/ <sitename> /_layouts/15/People.aspx ? MembershipGroupId = 0
 
     - Si l’utilisateur n’existe pas, vérifiez que l’utilisateur est connecté à la page. 
     - S’il s’agit d’un utilisateur externe, assurez-vous que son invitation a été acceptée.
