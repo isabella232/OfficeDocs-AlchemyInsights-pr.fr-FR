@@ -6,27 +6,28 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: 7e98c9bd2feb9f36c2f9486e4e31e4882b68f6df
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715486"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732425"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>Création ou modification d’un profil Outlook
 
 Pour créer un nouveau profil Outlook, modifier un profil ou renommer un profil, procédez comme suit.
   
-1. Dans Outlook, sélectionnez **File** \> **paramètres** \> du compte de fichier **gérer les profils**.
+1. Dans Outlook, sélectionnez Paramètres du compte de **fichier** \> **Account Settings** \> **gérer les profils**.
     
 2. Dans la boîte de dialogue Configuration de la **messagerie** , sélectionnez **afficher les profils**.
     
-3. Effectuez l’une des opérations suivantes :
+3. Effectuez l'une des opérations suivantes :
     
   - Pour créer un nouveau profil, sélectionnez **Ajouter**.
     
