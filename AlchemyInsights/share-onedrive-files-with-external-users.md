@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: e9550e1b70b00307101f9fa5feb0899c4c77541f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742329"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739031"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Partager des fichiers dans OneDrive avec des personnes extérieures à votre organisation
 
@@ -24,7 +25,7 @@ ms.locfileid: "43742329"
     
 2. Sélectionnez le fichier ou le dossier que vous souhaitez partager, puis sélectionnez **partager**. 
     
-3. Si le type de lien est défini sur « personnes \<de votre\>organisation », cliquez sur la flèche vers le bas et sélectionnez l’une des options suivantes : 
+3. Si le type de lien est défini sur « personnes dans \<your organization\> », cliquez sur la flèche vers le bas et sélectionnez l’une des options suivantes : 
     
   - **Tout** le monde peut accéder à quiconque reçoit ce lien, qu’il le reçoive directement de votre part ou qu’il soit transféré depuis une autre personne. Cela peut inclure des personnes extérieures à votre organisation. 
     
