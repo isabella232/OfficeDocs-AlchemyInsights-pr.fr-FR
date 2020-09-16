@@ -1,19 +1,20 @@
 ---
 title: Configuration de votre abonnement Office Essentials 365
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509346"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740113"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Configuration de votre abonnement Office Essentials 365
 
@@ -25,7 +26,7 @@ Créer des comptes Microsoft 365 et ajouter votre domaine
     
 - Pour démarrer l'Assistant, choisissez **Configurer**. Pour en savoir plus, consultez [la rubrique ajouter un domaine à Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
-Importer le courrier
+Importer le courrier électronique
   
 - Déplacez vos courriers et contacts existants à partir d’autres systèmes de courrier vers votre boîte aux lettres Microsoft 365 afin de pouvoir les afficher dans un seul et même emplacement. Pour les options de migration, [migrez le courrier électronique et les contacts vers Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
