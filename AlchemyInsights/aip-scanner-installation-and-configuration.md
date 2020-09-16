@@ -1,0 +1,46 @@
+---
+title: 'Scanneur AIP : installation et configuration'
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002278"
+- "5119"
+ms.openlocfilehash: be5b63ffccd5bbd83e7802e4ef5aa657ed921ae6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686640"
+---
+# <a name="aip-scanner-installation-and-configuration"></a><span data-ttu-id="682e8-102">Scanneur AIP : installation et configuration</span><span class="sxs-lookup"><span data-stu-id="682e8-102">AIP scanner: installation and configuration</span></span>
+
+<span data-ttu-id="682e8-103">**Pour installer le scanneur AIP, suivez les recommandations** :</span><span class="sxs-lookup"><span data-stu-id="682e8-103">**To install the AIP scanner, follow the recommended guidelines**:</span></span>
+
+1. <span data-ttu-id="682e8-104">Si vous procédez à une mise à niveau et ne procédez pas à une installation propre, veuillez vous assurer que vous avez suivi les directives pour la [mise à niveau du scanner Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) et pour le client d'étiquetage unifié, consultez la section [Mise à niveau du scanner Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).</span><span class="sxs-lookup"><span data-stu-id="682e8-104">If you are upgrading and not performing a clean installation, please make sure you have followed the guidelines for [upgrading the Azure Information Protection scanner](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) and for unified labeling client, see [upgrading the Azure Information Protection scanner](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).</span></span>
+2. <span data-ttu-id="682e8-105">Vérifiez que vous respectez la configuration requise pour tous les [Pare-feu et configuration de l’infrastructure réseau](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure).</span><span class="sxs-lookup"><span data-stu-id="682e8-105">Verify that you comply with all [Firewalls and network infrastructure settings requirements](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure).</span></span>
+3. <span data-ttu-id="682e8-106">Assurez-vous que vos [stratégies sont définies](https://docs.microsoft.com/azure/information-protection/configure-policy) sur l’étiquetage automatique ou une étiquette par défaut dans la stratégie.</span><span class="sxs-lookup"><span data-stu-id="682e8-106">Make sure your [policies are set](https://docs.microsoft.com/azure/information-protection/configure-policy) to automatic labeling or have a default label in the policy.</span></span>
+4. <span data-ttu-id="682e8-107">Assurez-vous que le type de fichier approprié est configuré pour l’étiquette/la protection, comme décrit dans [Types de fichiers pris en charge par le client Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection).</span><span class="sxs-lookup"><span data-stu-id="682e8-107">Make sure that the relevant file type is configured for label/protection as described in [File types supported by the Azure Information Protection client](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection).</span></span> <span data-ttu-id="682e8-108">De plus, si vous voulez modifier le comportement par défaut, suivez ces instructions : [Modifier le niveau de protection par défaut des fichiers](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).</span><span class="sxs-lookup"><span data-stu-id="682e8-108">In addition, if you want to change the default behavior, follow these guidelines: [Changing the default protection level of files](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).</span></span>
+5. <span data-ttu-id="682e8-109">Vérifiez que le compte d’utilisateur configuré pour exécuter le service de scanneur dispose des autorisations d’accès à tous les référentiels configurés.</span><span class="sxs-lookup"><span data-stu-id="682e8-109">Verify that the user account configured to run the scanner service has permissions to access all the configured repositories.</span></span>
+6. <span data-ttu-id="682e8-110">Si vous rencontrez encore des problèmes, veuillez exporter les journaux de l’analyseur et les ajouter à votre ticket de support.</span><span class="sxs-lookup"><span data-stu-id="682e8-110">If you still experience issues, please export the scanner logs and add them to your support ticket.</span></span>
+
+<span data-ttu-id="682e8-111">**Exporter des journaux de l’analyseur Azure Information Protection**</span><span class="sxs-lookup"><span data-stu-id="682e8-111">**Export Azure Information Protection Scanner logs**</span></span>
+
+1. <span data-ttu-id="682e8-112">Accédez à %localappdata%\Microsoft\MSIP sous le contexte utilisateur exécutant le service de numérisation.</span><span class="sxs-lookup"><span data-stu-id="682e8-112">Navigate to %localappdata%\Microsoft\MSIP under the user context running the scanner service.</span></span>
+2. <span data-ttu-id="682e8-113">Compressez tout le contenu sous le dossier MSIP.</span><span class="sxs-lookup"><span data-stu-id="682e8-113">Zip all the contents under the MSIP folder.</span></span>
+3. <span data-ttu-id="682e8-114">Enregistrez les journaux à l’emplacement de votre choix et joignez-les à votre demande de service.</span><span class="sxs-lookup"><span data-stu-id="682e8-114">Save the logs to your choice of location, and attach them to your service request.</span></span>
+4. <span data-ttu-id="682e8-115">Vous pouvez également utiliser [Export-AIPLogs-OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).</span><span class="sxs-lookup"><span data-stu-id="682e8-115">You can also use [Export-AIPLogs -OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).</span></span>
+
+<span data-ttu-id="682e8-116">**Pour plus d’informations, consultez** :</span><span class="sxs-lookup"><span data-stu-id="682e8-116">**For additional information, see**:</span></span>
+- [<span data-ttu-id="682e8-117">Déploiement du scanner Azure Information Protection pour classifier et protéger automatiquement des fichiers</span><span class="sxs-lookup"><span data-stu-id="682e8-117">Deploying the Azure Information Protection scanner to automatically classify and protect files</span></span>](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
+- [<span data-ttu-id="682e8-118">Spécifier et utiliser le paramètre de jeton pour Set-AIPAuthentication</span><span class="sxs-lookup"><span data-stu-id="682e8-118">Specify and use the Token parameter for Set-AIPAuthentication</span></span>](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
+- [<span data-ttu-id="682e8-119">Exécuter un cycle de découverte et afficher les rapports pour le scanneur</span><span class="sxs-lookup"><span data-stu-id="682e8-119">Run a discovery cycle and view reports for the scanner</span></span>](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
+- [<span data-ttu-id="682e8-120">Consultez la documentation sur Azure information protection</span><span class="sxs-lookup"><span data-stu-id="682e8-120">Review Azure Information Protection documentation</span></span>](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [<span data-ttu-id="682e8-121">Configuration requise pour Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="682e8-121">Requirements for Azure Information Protection</span></span>](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [<span data-ttu-id="682e8-122">Télécharger l’application Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="682e8-122">Download Azure Information Protection client</span></span>](https://www.microsoft.com/download/details.aspx?id=53018)
