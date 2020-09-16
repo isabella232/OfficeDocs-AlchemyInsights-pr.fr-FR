@@ -6,23 +6,24 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: bbe60a948230a5a385cabd637489a72286394ccf
-ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
+ms.openlocfilehash: 33864a5ee90d5947d0a9154f585a502b053ff176
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46787066"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719879"
 ---
-# <a name="sharepoint-migration-with-spmt"></a><span data-ttu-id="1e8ed-102">Migration SharePoint avec SPMT</span><span class="sxs-lookup"><span data-stu-id="1e8ed-102">SharePoint Migration with SPMT</span></span>
+# <a name="sharepoint-migration-with-spmt"></a><span data-ttu-id="2e2d6-102">Migration SharePoint avec SPMT</span><span class="sxs-lookup"><span data-stu-id="2e2d6-102">SharePoint Migration with SPMT</span></span>
 
-<span data-ttu-id="1e8ed-103">Conçu pour être utilisé pour les migrations allant du plus petit ensemble de fichiers à une migration d’entreprise à grande échelle, l’outil de migration SharePoint vous permet de transférer vos informations vers le Cloud et de tirer parti des nouvelles solutions de collaboration, d’aide et de sécurité les plus récentes avec Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="1e8ed-103">Designed to be used for migrations ranging from the smallest set of files to a large scale enterprise migration, the SharePoint Migration Tool will allow you to transfer your information to the cloud and take advantage of the newest collaboration, intelligence, and security solutions with Microsoft 365.</span></span>
+<span data-ttu-id="2e2d6-103">Conçu pour être utilisé pour les migrations allant du plus petit ensemble de fichiers à une migration d’entreprise à grande échelle, l’outil de migration SharePoint vous permet de transférer vos informations vers le Cloud et de tirer parti des nouvelles solutions de collaboration, d’aide et de sécurité les plus récentes avec Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="2e2d6-103">Designed to be used for migrations ranging from the smallest set of files to a large scale enterprise migration, the SharePoint Migration Tool will allow you to transfer your information to the cloud and take advantage of the newest collaboration, intelligence, and security solutions with Microsoft 365.</span></span>
 
-- [<span data-ttu-id="1e8ed-104">Télécharger et installer l’Outil de migration SharePoint</span><span class="sxs-lookup"><span data-stu-id="1e8ed-104">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [<span data-ttu-id="1e8ed-105">Résolution des erreurs et des problèmes SPMT courants</span><span class="sxs-lookup"><span data-stu-id="1e8ed-105">Troubleshooting common SPMT issues and errors</span></span>](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-- [<span data-ttu-id="1e8ed-106">Résolution des problèmes d’installation de l’outil de migration SharePoint</span><span class="sxs-lookup"><span data-stu-id="1e8ed-106">Troubleshooting SPMT installation issues</span></span>](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
+- [<span data-ttu-id="2e2d6-104">Télécharger et installer l’Outil de migration SharePoint</span><span class="sxs-lookup"><span data-stu-id="2e2d6-104">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="2e2d6-105">Résolution des erreurs et des problèmes SPMT courants</span><span class="sxs-lookup"><span data-stu-id="2e2d6-105">Troubleshooting common SPMT issues and errors</span></span>](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [<span data-ttu-id="2e2d6-106">Résolution des problèmes d’installation de l’outil de migration SharePoint</span><span class="sxs-lookup"><span data-stu-id="2e2d6-106">Troubleshooting SPMT installation issues</span></span>](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
