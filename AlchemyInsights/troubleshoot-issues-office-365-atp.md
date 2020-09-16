@@ -6,21 +6,22 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511110"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758063"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Résolution des problèmes liés à l’ATP Office 365
 
 - **Retards de remise des messages électroniques**? Essayez d’utiliser l’option de remise dynamique pour vos stratégies de pièces jointes approuvées ATP. Cela permet d’éviter les retards de remise des messages électroniques tout en protégeant les destinataires des fichiers malveillants.
-- **Voulez-vous signaler les faux positifs ou les faux négatifs**? Utilisez ce lien pour envoyer votre fichier à des fins d’analyse :[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Voulez-vous signaler les faux positifs ou les faux négatifs**? Utilisez ce lien pour envoyer votre fichier à des fins d’analyse : [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
 - **Saviez-vous que vous pouvez activer la protection des liens approuvés ATP pour les messages électroniques envoyés entre les personnes de votre organisation**? Procédez comme suit :
     1. Accédez à https://protection.office.com , puis connectez-vous.
     2. Accédez à **Threat management**  >  **Policy**  >  **liens fiables**de la stratégie de gestion des menaces.

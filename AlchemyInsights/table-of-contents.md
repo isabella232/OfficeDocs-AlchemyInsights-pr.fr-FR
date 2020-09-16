@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: a7d34c8b99e1cdab915bfeec20ad5f9bdf1c1603
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769769"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758027"
 ---
 # <a name="table-of-contents"></a>Table des matières
 
@@ -25,9 +26,9 @@ Pour plus d’informations sur la création d’une table des matières dans Wor
 **Solutions aux problèmes courants**
 
 - La table des matières ne contient pas l’en-tête que vous venez d’ajouter à votre document.
-  1. Sélectionnez le texte du titre, accédez à**styles**d' **Accueil** > , puis vérifiez qu’un style est appliqué à l’en-tête.
-  2. Accédez à la**table de mise à jour** des **références** > pour mettre à jour la table des matières.
+  1. Sélectionnez le texte du titre, accédez à styles d' **Accueil**  >  **Styles**, puis vérifiez qu’un style est appliqué à l’en-tête.
+  2. Accédez à **References**  >  la**table de mise à jour** des références pour mettre à jour la table des matières.
 
 - La table des matières affiche trop de texte. 
-  1. Sélectionnez le texte du paragraphe, puis accédez à **** > **styles**d’accueil.
+  1. Sélectionnez le texte du paragraphe, puis accédez à **Home**  >  **styles**d’accueil.
   2. Sélectionnez un style, tel que **normal**, qui n’est pas inclus dans la table des matières.
