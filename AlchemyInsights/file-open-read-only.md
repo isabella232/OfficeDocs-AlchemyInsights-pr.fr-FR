@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702772"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745579"
 ---
 # <a name="file-open-read-only"></a>Fichier ouvert en lecture seule
 
@@ -37,7 +38,7 @@ Les fichiers provenant d’Internet et d’autres emplacements potentiellement d
   
  **OneDrive est-il plein ?**
   
-Si le fichier est stocké sur OneDrive et que votre espace de stockage OneDrive est plein, vous ne pourrez pas enregistrer le document tant que vous n’aurez pas sous votre espace alloué. Vous pouvez vérifier votre espace libre sur OneDrive en cliquant sur l’icône OneDrive dans le centre de notification et en sélectionnant gérer le stockage, [https://onedrive.live.com](https://onedrive.live.com)ou vous pouvez accéder à, vous connecter et noter la quantité d’espace utilisé dans le coin inférieur gauche de l’écran.
+Si le fichier est stocké sur OneDrive et que votre espace de stockage OneDrive est plein, vous ne pourrez pas enregistrer le document tant que vous n’aurez pas sous votre espace alloué. Vous pouvez vérifier votre espace libre sur OneDrive en cliquant sur l’icône OneDrive dans le centre de notification et en sélectionnant gérer le stockage, ou vous pouvez accéder à [https://onedrive.live.com](https://onedrive.live.com) , vous connecter et noter la quantité d’espace utilisé dans le coin inférieur gauche de l’écran.
   
  **Office est-il activé ?**
   
