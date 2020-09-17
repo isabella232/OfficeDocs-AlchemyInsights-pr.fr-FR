@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,12 +15,12 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b856c0ca1f02780d0828dc714a25273ed99569f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724372"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780129"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Comment identifier les frais sur votre carte bancaire ou votre relevé bancaire
 
@@ -27,4 +28,4 @@ La description des frais pour un abonnement Microsoft 365 se présente comme sui
   
 MSFT \* E012345ABC 0000-MSBILL.info, WA
   
-La chaîne alphanumérique à 10 caractères qui suit MSFT \* est le numéro de facture auquel la charge est liée. Pour **trouver la facture** \> , accédez à la page [factures & paiement](https://go.microsoft.com/fwlink/p/?linkid=848039) pour afficher vos factures récentes. Le numéro de facture est proche du coin droit du document de facture.
+La chaîne alphanumérique à 10 caractères qui suit MSFT \* est le numéro de facture auquel la charge est liée. Pour trouver la facture, accédez **à la** \> page [factures & paiement](https://go.microsoft.com/fwlink/p/?linkid=848039) pour afficher vos factures récentes. Le numéro de facture est proche du coin droit du document de facture.
