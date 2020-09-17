@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509454"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799202"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Rappeler ou remplacer un message électronique dans Microsoft 365
 
@@ -40,6 +41,6 @@ Pour plus d’informations, notamment sur la vérification du rappel, reportez-v
 ***Rechercher et supprimer des messages électroniques dans votre organisation*** Pour rechercher et supprimer des messages électroniques dans votre organisation, il est plus facile de le faire si vous êtes un administrateur général. Si vous n’êtes pas un administrateur général, votre compte doit être ajouté au groupe de rôles gestionnaire eDiscovery ou au rôle de gestion de la recherche de conformité. Pour supprimer des messages, vous devez rejoindre le groupe de rôles gestion de l’organisation ou le rôle de gestion de la recherche et de la purge. Les autorisations d’accès à ces rôles sont affectées dans le [Centre de sécurité & conformité](https://protection.office.com/).
 
 1. [Créer une recherche de contenu](https://docs.microsoft.com/microsoft-365/compliance/content-search) pour rechercher le message à supprimer.
-2. [Connectez-vous au Centre de conformité et sécurité PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [Se connecter à l’interface PowerShell du Centre de sécurité et conformité](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
 Si vous utilisez MFA, voir [se connecter à Microsoft 365 security & Compliance Center PowerShell à l’aide de Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

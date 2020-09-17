@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 2cb95fc0c202d4bbec361531b8234a50bbdcfa2a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 58f18a2ef8f685b4ebb4b274f506e2de03bb0807
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738532"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801326"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Supprimer un compte dans Windows 10
 
 Voici comment supprimer un compte de Windows 10 :
 
-1. Accédez à la section**configuration** > **compte** > de **démarrage** > **& autres personnes** (ou **autres personnes**, si vous utilisez Windows 10 entreprise).
+1. Accédez à la section Configuration du compte de **démarrage**  >  **Settings**  >  **Account**  >  **& autres personnes** (ou **autres personnes**, si vous utilisez Windows 10 entreprise).
 2. Sélectionnez le compte que vous souhaitez supprimer, sélectionnez **supprimer**, puis supprimer le **compte et les données**.
  
 **Remarque :** Vous ne pouvez pas supprimer un compte auquel vous êtes actuellement connecté.  Si vous devez remplacer le compte auquel vous êtes connecté, procédez comme suit :
