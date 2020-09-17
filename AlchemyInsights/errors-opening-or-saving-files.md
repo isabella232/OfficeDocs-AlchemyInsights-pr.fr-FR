@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600130"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783585"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Résoudre les erreurs d’ouverture ou d’enregistrement des fichiers Word
 
@@ -29,16 +30,16 @@ Si vous rencontrez des problèmes lors de l’ouverture ou de l’enregistrement
 
 Si vous avez reçu une erreur semblable à l’une des suivantes, utilisez le [message d’erreur suggestions dans Office lorsqu’un fichier est bloqué par les paramètres de stratégie de Registre](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
-- Vous tentez d’ouvrir un fichier qui est bloqué par votre paramètre de stratégie de registre.
-- Vous tentez d’ouvrir ** \<un type de\> ** fichier de type de fichier qui a été bloqué par vos paramètres de blocage de fichiers dans le centre de gestion de la confidentialité.
-- Vous essayez d’ouvrir un fichier qui a été créé dans une version antérieure de Microsoft Office. Ce type de fichier ne peut pas être ouvert dans cette version par votre paramètre de stratégie de registre.
-- Vous tentez d’enregistrer un fichier qui est bloqué par votre paramètre de stratégie de registre.
+- Vous essayez d’ouvrir un type de fichier qui est bloqué par le paramètre de stratégie du Registre.
+- Vous essayez d’ouvrir un type de fichier **\<File Type\>** qui a été bloqué par les paramètres de blocage des fichiers du Centre de gestion de la confidentialité.
+- Vous essayez d’ouvrir un fichier qui a été créé dans une version précédente de Microsoft Office. L’ouverture de ce type de fichier est bloquée dans cette version par le paramètre de stratégie du Registre.
+- Vous essayez d’enregistrer un type de fichier qui est bloqué par le paramètre de stratégie du Registre.
 - Vous tentez d’enregistrer un type de fichier qui a été bloqué par vos paramètres de blocage des fichiers dans le centre de gestion de la confidentialité.
 
-Si vous rencontrez des problèmes lors de l’ouverture de fichiers Office à partir de bibliothèques de documents SharePoint ou OneDrive, procédez comme suit :
+Si vous rencontrez des problèmes lors de l’ouverture de fichiers Office à partir de SharePoint ou de bibliothèques de documents OneDrive, procédez comme suit :
 
-- Vérifiez les limitations de fichiers dans les noms de fichiers [et les types de fichiers non valides dans onedrive, Onedrive entreprise et SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) pour vous assurer que le fichier est pris en charge. 
-- [Supprimez votre cache de documents Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
+- Vérifiez les limitations de fichier dans [nNoms et types de fichiers non valides dans OneDrive, OneDrive Entreprise et SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) afin de vous assurer que le fichier est pris en charge. 
+- [Supprimez le cache de documents Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
 ). 
 
-Pour plus d’informations, voir [corriger les problèmes d’ouverture de documents dans les bibliothèques SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
+Pour plus d’informations, consultez [Résoudre les problèmes d’ouverture de documents dans les bibliothèques SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
