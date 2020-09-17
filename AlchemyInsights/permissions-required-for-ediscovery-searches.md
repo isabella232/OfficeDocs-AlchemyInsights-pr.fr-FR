@@ -6,17 +6,18 @@ manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 57e312d1313e4abb7e556542286126561b836226
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510138"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795818"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Autorisations requises pour les recherches de découverte électronique
 
