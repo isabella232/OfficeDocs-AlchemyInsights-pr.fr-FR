@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6b4db67aab55f309c83aeddf7744cbd047881bea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682074"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729041"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="d1a31-102">Ouvrir et utiliser une boîte aux lettres partagée dans Outlook sur le web</span><span class="sxs-lookup"><span data-stu-id="d1a31-102">Open and use a shared mailbox in Outlook on the web</span></span>
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a><span data-ttu-id="a6108-102">Ouvrir et utiliser une boîte aux lettres partagée dans Outlook</span><span class="sxs-lookup"><span data-stu-id="a6108-102">Open and use a shared mailbox in Outlook</span></span>
 
-<span data-ttu-id="d1a31-103">Les boîtes aux lettres auxquelles vous avez accès automatiquement n’apparaissent pas dans Outlook sur le web (anciennement Outlook Web App) partagées.</span><span class="sxs-lookup"><span data-stu-id="d1a31-103">Shared mailboxes that you have access to aren't automatically displayed in Outlook on the web (formerly known as Outlook Web App).</span></span>
+<span data-ttu-id="a6108-103">Les boîtes aux lettres partagées permettent à un groupe de personnes de surveiller et d’envoyer des e-mails à partir d’une adresse e-mail commune.</span><span class="sxs-lookup"><span data-stu-id="a6108-103">Shared mailboxes allow a group of people to monitor and send email from a common email address.</span></span> 
 
-<span data-ttu-id="d1a31-104">Vous pouvez afficher la boîte aux lettres partagée et votre boîte aux lettres principale ensemble ou ouvrir la boîte aux lettres partagée dans une fenêtre distincte du navigateur.</span><span class="sxs-lookup"><span data-stu-id="d1a31-104">You can display the shared mailbox and your primary mailbox together or open the shared mailbox in a separate browser window.</span></span> <span data-ttu-id="d1a31-105">Pour recevoir des notifications de nouveaux messages pour la boîte aux lettres partagée, vous devez ouvrir la boîte aux lettres partagée dans une fenêtre distincte du navigateur.</span><span class="sxs-lookup"><span data-stu-id="d1a31-105">To receive new message notifications for the shared mailbox, you need to open the shared mailbox in a separate browser window.</span></span> <span data-ttu-id="d1a31-106">Pour plus d’informations, voir[Ouvrir et utiliser une boîte aux lettres partagée dans Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span><span class="sxs-lookup"><span data-stu-id="d1a31-106">For more information, see [Open and use a shared mailbox in Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span></span>
+<span data-ttu-id="a6108-104">**Remarque** : votre administrateur Microsoft 365 doit créer la boîte aux lettres partagée et vous ajouter en tant que membre.</span><span class="sxs-lookup"><span data-stu-id="a6108-104">**Note**: Your Microsoft 365 admin needs to create the shared mailbox and add you as a member.</span></span>
+
+<span data-ttu-id="a6108-105">Pour découvrir comment ouvrir et utiliser la boîte aux lettres partagée, voir les rubriques suivantes :</span><span class="sxs-lookup"><span data-stu-id="a6108-105">See the following to learn how to open and use the shared mailbox:</span></span>
+
+- [<span data-ttu-id="a6108-106">Ajouter une boîte aux lettres partagée dans Outlook sur le web</span><span class="sxs-lookup"><span data-stu-id="a6108-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [<span data-ttu-id="a6108-107">Ouvrir et utiliser une boîte aux lettres partagée dans Outlook pour Windows</span><span class="sxs-lookup"><span data-stu-id="a6108-107">Open and use a shared mailbox in Outlook for Windows</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [<span data-ttu-id="a6108-108">Ouvrir une boîte aux lettres ou un dossier partagé dans Outlook pour Mac</span><span class="sxs-lookup"><span data-stu-id="a6108-108">Open a shared folder or mailbox in Outlook for Mac</span></span>](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- <span data-ttu-id="a6108-109">[Ajouter une boîte aux lettres partagée dans Outlook mobile (Outlook pour iOS et Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).</span><span class="sxs-lookup"><span data-stu-id="a6108-109">[Add a shared mailbox to Outlook mobile (Outlook for iOS & Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)</span></span>
