@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aaff626451e389c229cf0ed0532e44b637090fec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576810"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802955"
 ---
 # <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Erreur des applications Microsoft 365 : une erreur s’est produite dans l’application, ce qui l’empêche de fonctionner correctement.
 
@@ -29,8 +30,8 @@ Pour corriger cette erreur, essayez les options suivantes :
 
 **Remarque :** Si le problème se produit avec des documents spécifiques, ceux-ci sont peut-être endommagés. Découvrez [Comment résoudre les problèmes liés aux documents endommagés](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 
-Si vous souhaitez en savoir plus, consultez les articles : 
+Si vous souhaitez en savoir plus, consultez les articles :  
 
 - [Erreur lors de l’ouverture d’applications Microsoft 365 Microsoft](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
-- [J’obtiens une erreur « s’est arrêté de fonctionner » lorsque je démarre les applications Office sur mon PC](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Je rencontre une erreur du type « a cessé de fonctionner » quand je démarre des applications Office sur mon PC](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
 - [Résoudre les problèmes qui se produisent lorsque vous démarrez ou utilisez des applications Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
