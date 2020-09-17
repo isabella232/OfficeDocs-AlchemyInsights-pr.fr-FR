@@ -6,21 +6,22 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 502e38ef081c59be422e0811fd1121ba0c79e9ab
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083958"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816467"
 ---
 # <a name="unable-to-purchase-edu-offer"></a>Impossible d’acheter l’offre EDU
 
-Pour déterminer si votre organisation est éligible à des prix éducation, vous devez [effectuer le processus de vérification et entrer votre domaine](https://portal.office.com/Adminportal/Home#/Domains/SOWizard). La version d’évaluation d’Office 365 A1 pour les enseignants et pour les étudiants peuvent être utilisés en attendant la confirmation de l’admissibilité de votre organisation.
+Pour déterminer si votre organisation est éligible à des prix éducation, vous devez [effectuer le processus de vérification et entrer votre domaine](https://admin.microsoft.com/Adminportal#/Domains/SOWizard). La version d’évaluation d’Office 365 A1 pour les enseignants et pour les étudiants peuvent être utilisés en attendant la confirmation de l’admissibilité de votre organisation.
 
 Pour acheter une version commerciale de Microsoft 365, consultez les [offres disponibles](https://go.microsoft.com/fwlink/p/?linkid=868433).

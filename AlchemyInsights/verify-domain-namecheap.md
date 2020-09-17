@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c3544cfd0c1a5ca975a40959a1afbc8446a7f07c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 670cdc69c8054c41c0d768d7beafc245b8145f24
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689268"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815819"
 ---
 # <a name="verify-your-domain-with-namecheap"></a>Vérifier votre domaine avec NameCheap
 
 Pour vérifier votre domaine, vous devez ajouter un enregistrement TXT à votre bureau d’enregistrement de domaines pour vérifier que vous êtes propriétaire de votre domaine. 
 
-Tout d’abord, suivez l' [Assistant Ajouter un domaine](https://portal.office.com/adminportal/home#/Domains) en sélectionnant **paramètres** \> **Domains**, puis **Ajouter un domaine**.
+Tout d’abord, suivez l' [Assistant Ajouter un domaine](https://admin.microsoft.com/Adminportal#/Domains) en sélectionnant **paramètres** \> **Domains**, puis **Ajouter un domaine**.
   
 Pour obtenir des instructions détaillées, voir [créer des enregistrements DNS sur NameCheap pour Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) .

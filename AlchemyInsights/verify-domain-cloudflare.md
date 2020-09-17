@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: d19ca284066d34e03c0dac6305a4b227ac3dc701
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f6162fa03fd53e23d048ca7997e0d878279fcc6
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726341"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816431"
 ---
 # <a name="verify-your-domain-with-cloudflare"></a>Vérifier votre domaine avec cloudflare
 
 Pour vérifier votre domaine, vous devez ajouter un enregistrement TXT à votre bureau d’enregistrement de domaines pour vérifier que vous êtes propriétaire de votre domaine. 
 
-Tout d’abord, suivez l' [Assistant Ajouter un domaine](https://portal.office.com/adminportal/home#/Domains) en sélectionnant **paramètres** \> **Domains**, puis **Ajouter un domaine**.
+Tout d’abord, suivez l' [Assistant Ajouter un domaine](https://admin.microsoft.com/Adminportal#/Domains) en sélectionnant **paramètres** \> **Domains**, puis **Ajouter un domaine**.
   
 Pour obtenir des instructions détaillées, voir [créer des enregistrements DNS sur cloudflare pour Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) .

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
-ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
+ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341401"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812545"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ne peut pas se connecter aux dossiers publics
 
@@ -38,9 +39,9 @@ Si le problème persiste, suivez [cette procédure](https://aka.ms/pfcte) pour r
 
 1.  Utilisation de Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true ou $false  
       
-    $true : autoriser les utilisateurs à accéder aux dossiers publics dans Outlook  
+    $true : Autoriser l’accès des utilisateurs aux dossiers publics dans Outlook  
       
-    $false : empêcher les utilisateurs d’accéder aux dossiers publics dans Outlook. Il s’agit de la valeur par défaut.  
+    $false : Empêcher l’accès des utilisateurs aux dossiers publics dans Outlook. Ceci est la valeur par défaut.  
         
 2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
       

@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: 8568cb52121d14e1f9fd242365ba4be0694fea53
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df8d5cc492d0c0505ec3ecc67b2e7baea45f9ce3
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733721"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815711"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>Modifier la casse ou l’orthographe d’une lettre de nom de domaine
 
 Pour modifier l’orthographe d’un nom de domaine personnalisé (par exemple, toutes les lettres minuscules ou majuscules et minuscules), le domaine doit être supprimé, puis ré-ajouté avec la casse ou l’orthographe souhaitée.
 
-1. Dans la [page Domains (domaines)](https://portal.office.com/adminportal/home#/Domains), sélectionnez le domaine, puis **Supprimer le domaine**.</br>
+1. Dans la [page Domains (domaines)](https://admin.microsoft.com/Adminportal#/Domains), sélectionnez le domaine, puis **Supprimer le domaine**.</br>
 
     Pour obtenir des instructions plus détaillées, consultez [Comment supprimer un domaine](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide).
 
-2. Ajoutez à nouveau le domaine avec l'orthographe et la casse correctes en utilisant l’[Assistant Ajouter un domaine](https://portal.office.com/adminportal/home#/Domains/Wizard).
+2. Ajoutez à nouveau le domaine avec l'orthographe et la casse correctes en utilisant l’[Assistant Ajouter un domaine](https://admin.microsoft.com/Adminportal#/Domains/Wizard).
 
 Vous ne pouvez pas modifier la casse des lettres ou renommer le domaine onmicrosoft.com ou un domaine acheté via Microsoft après l’inscription.
