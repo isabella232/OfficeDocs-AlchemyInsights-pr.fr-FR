@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720099"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796934"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Mettre à jour les informations de mon profil ou modifier mon image
 
@@ -26,8 +27,8 @@ Vous pouvez effectuer des mises à jour de votre profil dans Outlook pour Window
 
 **Outlook pour Windows**: 
 
-- **Fichier** > des informations > **sur** l’utilisateur du**compte** > Office pour les**utilisateurs**(vous ramène à Microsoft 365 Profile Online) > **mettre à jour le profil** ou cliquez sur l’icône de l’appareil photo pour modifier votre photo.  
+- **File (fichier**  >  ) **Compte Office**  >  **Informations utilisateur**  >  À **propos de moi** (vous ramène à Microsoft 365 Profile online) > **mettre à jour le profil** ou cliquer sur l’icône de l’appareil photo pour modifier votre photo  
   
 **Outlook sur le Web (OWA)**: 
 
-- **Profile image** > Profil de**mise à jour** d’image de profil**My Profile** > 
+- **Image**  >  de profil **Mon profil**  >  **Mettre à jour le profil**

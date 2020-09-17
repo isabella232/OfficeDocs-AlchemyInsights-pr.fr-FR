@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530745"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796322"
 ---
 # <a name="excel-file-doesnt-open"></a>Impossible d’ouvrir le fichier Excel
 
@@ -44,6 +45,6 @@ Essayez l’une des suggestions suivantes :
 
 **Exécuter cet utilitaire de résolution des problèmes pour définir les extensions de fichiers Office à ouvrir dans Office**
 
-1. Exécutez cet utilitaire de résolution https://aka.ms/diag_officefiledes problèmes :.
+1. Exécutez cet utilitaire de résolution des problèmes : https://aka.ms/diag_officefile .
 
 2. En fonction de votre navigateur, **ouvrez** ou **Enregistrez** l’utilitaire de résolution des problèmes sur votre bureau, puis **Exécutez** -le.
