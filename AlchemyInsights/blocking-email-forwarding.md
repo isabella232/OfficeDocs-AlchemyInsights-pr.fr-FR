@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685452"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219853"
 ---
-# <a name="block-email-forwarding"></a>Bloquer le transfert du courrier
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blocage ou déblocage du transfert du courrier
 
-Pour désactiver le transfert de courrier pour une boîte aux lettres spécifique, voir [configurer le transfert du courrier](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Pour activer ou désactiver le transfert de courrier pour une boîte aux lettres spécifique, voir [configurer le transfert du courrier](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Pour bloquer le transfert du courrier pour l’ensemble de l’organisation, [les nombreux moyens de bloquer le transfert automatique du courrier électronique dans Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Au niveau du client, le contrôle du transfert externe est réalisé à l’aide de la stratégie anti-courrier indésirable sortante. S’il est défini sur désactivé ou automatique, il peut bloquer le transfert du courrier électronique avec le message d’erreur « 550 5.7.520 accès refusé, votre organisation n’autorise pas le transfert externe ». Par la suite, si le transfert a été défini comme étant bloqué, il s’agit de l’erreur que vos utilisateurs verront.
+
+Si le transfert est bloqué, vérifiez que la stratégie est configurée pour activer l’autoforward. Vous pouvez vérifier la stratégie de filtrage du courrier indésirable sortant dans le centre de sécurité et de conformité ou en exécutant la commande Get-HostedOutboundSpamFilterPolicy | fl nom, AutoForwardingMode. Si vous souhaitez configurer le blocage de la fonction de transfert des redirections, la même commande vous indiquera l’état de la stratégie.
+
+Remarque : il est recommandé de conserver le transfert automatique externe désactivé sur votre stratégie de filtrage du courrier indésirable sortant par défaut et de l’activer uniquement pour les utilisateurs qui ont besoin d’un transfert externe en créant une stratégie personnalisée pour ces utilisateurs. Pour plus d’informations, reportez-vous à la [configuration du transfert de messages externes dans Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
