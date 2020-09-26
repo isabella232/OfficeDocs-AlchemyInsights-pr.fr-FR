@@ -2,7 +2,7 @@
 title: Annuler Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683472"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287172"
 ---
 # <a name="cancel-power-bi"></a>Annuler Power BI
 
-Power BI peut être annulé dans le **Centre d’administration 365 de Microsoft**.  
+Power BI peut être annulé dans le centre d’administration 365 de Microsoft.
 
-1. Accédez à la page **facturation > [votre produit](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-
-2. Localisez le plan Power BI à annuler.
-
-3. Cliquez sur **Annuler l’abonnement**.
+1. Dans le centre d’administration, accédez à la page **facturation > [votre produit](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+2. Sur l’onglet **produits** , recherchez l’abonnement que vous souhaitez annuler. Sélectionnez **autres actions** (trois points), puis **Annuler l’abonnement**.
+3. Dans le volet **Annuler l’abonnement** , choisissez une raison pour laquelle vous annulez. Fournissez éventuellement des commentaires.
+4. Sélectionnez **Enregistrer**.
 
 **Remboursement : tout crédit au prorata vous sera renvoyé au cours du cycle de facturation suivant.**
 
-**Remarque**: Si vous ne voyez pas l’option d’annulation, cliquez sur l’abonnement pour afficher les détails et vous devriez voir l’option **Annuler l’abonnement** dans **paramètres & Actions**.
+> [!NOTE]
+> Si vous ne voyez pas l’option Annuler, sélectionnez l’abonnement pour afficher la page Détails. Dans la section **paramètres d’abonnement et de paiement** , sélectionnez Annuler l' **abonnement**.
 
 Pour en savoir plus, consultez [la rubrique annuler votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

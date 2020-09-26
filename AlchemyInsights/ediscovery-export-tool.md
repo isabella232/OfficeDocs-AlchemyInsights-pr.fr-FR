@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711093"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277925"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Vous ne parvenez pas à installer ou exécuter l’outil d’exportation de découverte électronique ?
 
@@ -47,4 +47,5 @@ Si vous ne pouvez pas installer ou exécuter l’outil d’exportation de décou
 - Vous avez reçu le rôle d’exportation dans le centre de sécurité conformité Microsoft 365 &amp; . Par défaut, ce rôle est uniquement attribué au groupe de rôles gestionnaire eDiscovery. Consultez la rubrique [attribution d’autorisations eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Pour plus d’informations, consultez la rubrique [exporter des résultats de recherche de contenu](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+Si vous exportez plus de 100 000 boîtes aux lettres, vous devez utiliser le PowerShell suivant pour télécharger les résultats de l’exportation :  [Exporter les résultats de plus de 100 000 boîtes aux lettres](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).

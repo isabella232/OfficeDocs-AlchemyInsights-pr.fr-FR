@@ -2,7 +2,7 @@
 title: État de l’abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773485"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286956"
 ---
 # <a name="subscription-status"></a>État de l’abonnement
 
-L’état de l’abonnement se trouve sur la page **vos produits** du centre d’administration Microsoft 365.
+L’état de l’abonnement, la date d’expiration et le nombre de licences sont disponibles sur la page **vos produits** du centre d’administration Microsoft 365.
 
-1. Accédez à **facturation**de  >  **[vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. En cas de problème avec l’état de l’un des abonnements, une icône d’avertissement rouge s’affiche en regard de l’abonnement ou un État « expiré » ou « désactivé » dans la section facturation des détails de l’abonnement.
-
-3. Si vous souhaitez réactiver un abonnement expiré ou désactivé, cliquez sur **réactiver maintenant**.
-
-**Date d’expiration**
-
-1. Accédez à **facturation**de  >  **[vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. En fonction de l’affichage, la date d’expiration apparaîtra dans la colonne la plus **à** droite intitulée date ou dans la section **facturation** des détails de l’abonnement en regard de **expiration**le.
-
-**Licences**
-
-Le nombre de licences achetées et en cours d’utilisation est affiché par abonnement sur la page **vos produits** .
-
+1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Sous l’onglet **produits** , par défaut, vous voyez tous les abonnements et leur état (actif, expiré, désactivé ou supprimé). Pour afficher un sous-ensemble de tous les abonnements, sélectionnez l’icône de filtre, puis sélectionnez l’état de l' **abonnement** que vous souhaitez voir.
+3. Pour réactiver un abonnement expiré ou désactivé, sélectionnez **autres actions** (trois points), puis **réactiver cet abonnement**.
+4. La page **vos produits** affiche également les informations suivantes :
+    - Le nombre de licences affectées aux utilisateurs est affiché dans la colonne **licences attribuées** .
+    - Le nombre total de licences incluses dans l’abonnement est affiché dans la colonne **quantité achetée** .
+    - Date d’expiration ou de renouvellement dans la colonne État de l' **abonnement** .
+    - Le mode de paiement utilisé pour payer chaque abonnement est affiché dans la colonne **payé par** .
+    - Le compte de facturation associé à chaque abonnement est affiché dans la colonne **compte de facturation** .
+5. Pour ajouter ou supprimer des colonnes, sélectionnez **choisir les colonnes**.
