@@ -1,8 +1,8 @@
 ---
 title: Abonnement expiré
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: adb7d43fb2e517d1535578b6f8d1ebe7bb139445
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f77e9350b2093e58c932c9d7d83e174b441aa8a
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758171"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287028"
 ---
 # <a name="subscription-expired"></a>Abonnement expiré
 
@@ -26,15 +26,12 @@ Si votre abonnement vient à expirer ou a été désactivé par Microsoft ou si 
 
 **Réactiver un abonnement**
 
-1. Dans le centre d’administration, accédez à la page **Facturation** > **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Recherchez l’abonnement à réactiver.
-
-3. Dans la section **Facturation**, cliquez sur **Réactiver maintenant**. Si vous êtes dans la fenêtre d’affichage **Cartes**, cliquez sur les points de suspension entre le **nom** et la **quantité disponible**, puis choisissez **Réactiver** dans le menu.
-
-**Remarque** : si vous ne voyez pas l’abonnement que vous recherchez, réglez le filtre **État de l’abonnement**, en haut de la page sur **Tous**.
-
-4. Confirmez vos informations de paiement pour mettre à jour vos informations de paiement existantes. Lorsque vous avez entré votre mode de paiement, cliquez sur **Réactiver**.
+1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Sous l’onglet **Produits** , recherchez l’abonnement que vous voulez réactiver, sélectionnez **Autres actions** (points de suspension), puis sélectionnez **Réactiver cet abonnement**.
+    > [!NOTE]
+    > Si vous ne voyez pas **Réactiver cet abonnement**, contactez le support technique.
+3. Dans le volet **Réactiver cet abonnement** , sélectionnez un mode de paiement dans la liste déroulante, ou sélectionnez **Ajouter un mode de paiement**.
+4. Sélectionnez **Enregistrer**.
 
 Pour plus d’informations, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
@@ -42,14 +39,10 @@ Pour plus d’informations, consultez l’article [Réactiver votre abonnement](
 
 Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désactiver la facturation périodique.
 
-1. Dans le centre d’administration, accédez à la page **Facturation** > **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Sélectionnez l’abonnement pour lequel gérer la facturation récurrente.
-
-3. Sous **Facturation**, en regard de **Renouvellement le** ou **Date d’expiration le**, cliquez sur **Modifier**.
-
-4. Dans le volet **Paramètres de facturation périodique**, sélectionnez **Désactiver** pour la désactiver. Si la facturation périodique est déjà désactivée, cliquez sur **Mensuelle** ou **Une fois** pour l’activer.
-
-5. Cliquez **Envoyer la modification**.
+1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Sur la page **Produits**, sélectionnez l’abonnement que vous souhaitez gérer.
+3. Sur la page Détails de l’abonnement, sous **Paramètres d’abonnement et de paiement**, sélectionnez **Modifier la facturation récurrente**.
+4. Dans le volet **Modifier les paramètres de facturation récurrente** , sélectionnez **Activer**, **Activer, mais procédez au renouvellement une fois**, ou **Désactiver**.
+5. Sélectionnez **Enregistrer**.
 
 Pour plus d’informations, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

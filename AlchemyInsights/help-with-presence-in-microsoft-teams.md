@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 4d4bee18d5ce8ff7ee56af00783c128566295a79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704956"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277902"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Aide avec la présence dans Microsoft Teams
 
-La présence fait partie du profil d'un utilisateur dans Microsoft Teams (et dans Microsoft 365 ou Office 365), qui indique la disponibilité et l'état actuels de l'utilisateur à d'autres utilisateurs. Par défaut, tous les membres qui utilisent Teams dans votre entreprise peuvent voir (en temps quasi-réel) si d’autres utilisateurs sont disponibles en ligne.
+La présence fait partie du profil d’un utilisateur dans Microsoft Teams (et dans Microsoft 365 ou Office 365). Teams détecte automatiquement l’état (disponible, occupé (e), occupé (e) dans une réunion, ne dérangent pas et n’ajuste pas vos informations de présence. Par défaut, tous les membres qui utilisent Teams dans votre organisation peuvent voir (en temps quasi-réel) si d’autres utilisateurs sont disponibles en ligne.
 
-Pour plus d’informations sur le fonctionnement de la présence configurée par l’application, consultez [Présence de l’utilisateur dans Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+Votre état de présence actuel passe à **Absent** lorsque vous verrouillez votre ordinateur ou lorsqu’il entre en mode d’inactivité ou de veille. Sur les appareils mobiles, le statut de présence passe à **Absent** lorsque l’application Teams est en arrière-plan.
 
-Pour plus d’informations sur le fonctionnement de la présence Teams lorsque votre entreprise utilise également Skype Entreprise, consultez [Coexistence avec Skype Entreprise](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence#presence).
+Pour plus d’informations sur les états de présence, consultez [Présence de l’utilisateur dans Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+
+Microsoft [déploie une mise à jour importante](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence) sur la présence de Microsoft Teams. Nous avons remanié la présence afin de prendre en charge les mises à jour en temps réel, ce qui permet d’améliorer la fiabilité de l’indicateur de présence.

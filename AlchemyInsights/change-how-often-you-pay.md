@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733621"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307340"
 ---
 # <a name="change-how-often-you-pay"></a>Modifier la fréquence de paiement
 
 Pour modifier la fréquence de facturation et de paiement d’un abonnement, effectuez les étapes suivantes dans le centre d’administration 365 de Microsoft.
 
 1. Accédez à la page **facturation**  >  [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Sous l’onglet **produits** , sélectionnez l’abonnement que vous souhaitez modifier. 
+2. Sous l’onglet **produits** , sélectionnez l’abonnement que vous souhaitez modifier.
 3. Sur la page Détails de l’abonnement, dans la section **paramètres d’abonnement et de paiement** , sélectionnez **modifier la fréquence de facturation**.
-4. Dans le volet **modifier la fréquence de facturation** , shoose la fréquence à laquelle vous souhaitez facturer, puis sélectionnez **modifier**.
+4. Dans le volet **modifier la fréquence de facturation** , sélectionnez l’option correspondant à la fréquence de facturation, puis sélectionnez **modifier**.
 
-**Remarque**: la facturation mensuelle ou annuelle sont les seules options.
+> [!NOTE]
+> La facturation mensuelle ou annuelle sont les seules options.
 
 Pour plus d’informations, consultez [Modifier la périodicité de votre facturation](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
