@@ -1,8 +1,8 @@
 ---
 title: Réactiver votre abonnement
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,41 +15,32 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 27976b480653d3c25c77997c0daaeeff4c1480a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9218a6611bf830341b125d331d496a52bc782553
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776808"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307412"
 ---
 # <a name="reactivate-your-subscription"></a>Réactiver votre abonnement
 
 Si votre abonnement vient à expirer ou a été désactivé par Microsoft ou si vous l’avez annulé au milieu de la période d’abonnement, vous pouvez le réactiver dans le Centre d’administration.
 
-1. Dans le centre d’administration, accédez à la page **Facturation** > **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Recherchez l’abonnement à réactiver.
-
-3. Dans la section **Facturation**, cliquez sur **Réactiver maintenant**. Si vous êtes dans la fenêtre d’affichage des **Cartes**, cliquez sur les points de suspension entre le **Nom** et la **Quantité disponible** et cliquez sur **Réactiver** dans le menu.
-
-**Remarque** : si vous ne voyez pas l’abonnement que vous recherchez, réglez le filtre **État de l’abonnement**, en haut de la page sur **Tous**.
-
-4. Confirmez vos informations de paiement. Vous pouvez également mettre à jour vos informations de paiement existantes ici. Lorsque vous avez entré votre mode de paiement, cliquez sur **Réactiver**.
+1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Sur la page **Produits**, recherchez l’abonnement que vous souhaitez réactiver. Sélectionnez **Autres actions** (points de suspension), puis sélectionnez **Réactiver cet abonnement**.
+3. Dans le volet **Réactiver cet abonnement** , sélectionnez un mode de paiement dans la liste déroulante, ou sélectionnez **Ajouter un mode de paiement**.
+4. Sélectionnez **Enregistrer**.
 
 Pour en savoir plus, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Gérer un renouvellement d’abonnement**
 
-Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désactiver la facturation périodique.
+Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désactiver la **facturation périodique**.
 
-1. Dans le centre d’administration, accédez à la page **Facturation** > **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Sélectionnez l’abonnement pour lequel gérer la facturation récurrente.
-
-3. Sous **Facturation**, en regard de **Renouvellement le** ou **Date d’expiration le**, cliquez sur **Modifier**.
-
-4. Dans le volet **Paramètres de facturation périodique**, sélectionnez **Désactiver** pour la désactiver. Si la facturation périodique est déjà désactivée, cliquez sur **Mensuelle** ou **Une fois** pour l’activer.
-
-5. Cliquez **Envoyer la modification**.
+1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Sur l’onglet **Produits**, sélectionnez l’abonnement que vous souhaitez modifier.
+3. Sur la page Détails de l’abonnement, sous **Paramètres d’abonnement et de paiement**, sélectionnez **Modifier la facturation récurrente**.
+4. Dans le volet **Modifier les paramètres de facturation récurrente** , sélectionnez **Activer**, **Activer, mais procédez au renouvellement une fois**, ou **Désactiver**.
+5. Sélectionnez **Enregistrer**.
 
 Pour plus d’informations, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
