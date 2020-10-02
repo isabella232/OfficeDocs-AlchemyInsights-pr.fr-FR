@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
+ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812113"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48305441"
 ---
 # <a name="configure-endpoint-dlp"></a>Configurer le point de terminaison DLP
 
@@ -32,3 +32,13 @@ Pour commencer à utiliser point de terminaison DLP :
 - Créez des stratégies DLP pour protéger vos éléments sensibles. Pour plus d’informations [Scénarios de stratégie DLP pour les points de terminaison](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
 Pour plus d’informations sur le point de terminaison Microsoft DLP, consultez [En savoir plus sur les points de terminaison de protection contre la perte de données Microsoft 365 (préversion)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+
+**Étapes importantes de la collecte de données si une prise en charge est nécessaire :**
+
+1. Téléchargez l'aperçu du MDATP Client Analyzer sur [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer")
+2. Exécutez l’outil en tant qu’administrateur à partir de la fenêtre cmd :
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. Lorsque le message « Entrez le nombre de minutes pour collecter les traces » vous est demandé : entrez le nombre de minutes nécessaires pour exécuter le scénario
+5. Exécuter le scénario
+
+Collectez la sortie du fichier zip à remettre à l'agent de support.
