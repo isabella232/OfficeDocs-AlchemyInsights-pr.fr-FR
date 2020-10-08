@@ -12,15 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 3ad5dfd1d1514ddf0e7d221e92d082b2868809c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003770"
+- "6709"
+ms.openlocfilehash: babdff75b53c4a5cab0ae7697369304319d105af
+ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717179"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48366390"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Stratégies de configuration des applications pour Microsoft Intune
 
-Stratégies de configuration des applications dans Microsoft Intune fournissent des paramètres de configuration pour les applications iOS ou Android. Ces paramètres de configuration autorisent la personnalisation d’une application. La prise en charge de la stratégie de configuration est limitée par les versions et applications de système d’exploitation.
+Les stratégies de configuration des applications dans Microsoft Intune fournissent des paramètres de configuration pour les applications iOS ou Android. Ces paramètres de configuration autorisent la personnalisation d’une application. Notez qu’il existe des limitations relatives aux versions de système d’exploitation et aux applications qui prennent en charge l’utilisation de stratégies de configuration.
 
-Pour plus d’informations, consultez [Stratégies de configuration des applications pour Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+Consultez la documentation suivante pour plus de détails.
+
+[Stratégies de configuration des applications pour Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Ajouter des stratégies de configuration d'applications pour les appareils iOS gérés](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Ajouter des stratégies de configuration d'applications pour les appareils Android gérés](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Ajouter des stratégies de configuration des applications pour les applications gérées sans l’inscription des appareils](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
