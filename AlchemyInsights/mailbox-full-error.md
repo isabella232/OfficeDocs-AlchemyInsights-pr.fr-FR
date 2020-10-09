@@ -4,7 +4,7 @@ title : "NDR avec code d’erreur" 554 5.2.2 Mailbox Full "" ms. Author : chri
 - 3500007
 ---
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>Notification d’erreurs de non-remise avec le code d’erreur « 554 5.2.2 boîte aux lettres Full »
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>Notification d’erreurs de non-remise avec code d’erreur 554 5.2.2 boîte aux lettres pleine
 
 Si vous obtenez un rapport de non-remise avec le code d’erreur « 554 5.2.2 Mailbox Full », lors de l’envoi de messages électroniques à un dossier public à extension messagerie :  
 
