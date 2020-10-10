@@ -1,8 +1,8 @@
 ---
 title: Annuler la protection avancée contre les menaces
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683688"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416260"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Annuler la protection avancée contre les menaces
 
-La protection avancée contre les menaces peut être annulée dans le **Centre d’administration 365 de Microsoft**.
+Les administrateurs peuvent annuler l’abonnement de protection avancée contre les menaces pour leur organisation dans le centre d’administration 365 de Microsoft.
 
 1. Accédez à la page **facturation**  >  [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Localisez le plan de protection avancée contre les menaces à annuler.
-3. Cliquez sur **Annuler l’abonnement**.
+2. Sur l’onglet **produits** , recherchez le plan de protection avancée contre les menaces que vous souhaitez annuler. Sélectionnez **autres actions** (trois points), puis **Annuler l’abonnement**.
+3. Dans le volet **Annuler l’abonnement** , choisissez une raison pour laquelle vous annulez. Fournissez éventuellement des commentaires.
+4. Sélectionnez **Enregistrer**.
 
-Remboursement : tout crédit au prorata vous sera renvoyé au cours du cycle de facturation suivant.
-
-**Remarque**: Si vous ne voyez pas l’option d’annulation, cliquez sur l’abonnement pour afficher les détails et vous devriez voir l’option **Annuler l’abonnement** dans **paramètres & Actions**.
+**Remboursement :** Tout crédit prorata vous sera renvoyé au cours du cycle de facturation suivant.
 
 Pour en savoir plus, consultez [la rubrique annuler votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

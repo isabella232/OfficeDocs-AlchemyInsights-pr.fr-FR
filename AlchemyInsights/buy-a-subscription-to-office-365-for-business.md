@@ -2,7 +2,7 @@
 title: Acheter un abonnement à Microsoft 365 pour les entreprises à partir de votre version d’évaluation gratuite
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684984"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416201"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Acheter un abonnement à Microsoft 365 à partir de votre version d’évaluation gratuite
 
@@ -26,17 +26,16 @@ Vous avez essayé Microsoft 365 et vous êtes maintenant prêt à acheter. Deux 
   
  **Acheter la même offre que votre version d’évaluation**
   
-1. Dans le centre d’administration, accédez à la page **facturation** \> **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Recherchez l’abonnement que vous souhaitez acheter. Dans la section **licences** , sélectionnez **abonnement achat**, puis suivez les étapes d’extraction.
-
+1. Dans le centre d’administration, accédez à la page **Facturation** \> [Produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Sous l’onglet **produits** , sélectionnez l’abonnement que vous souhaitez acheter.
+3. Sur la page Détails de l’abonnement, dans la section **licence** , sélectionnez **acheter un abonnement payant maintenant**, puis suivez les étapes d’extraction.
+ 
 **Acheter un autre abonnement**
   
 1. Dans le centre d’administration, accédez à la page **facturation ** \> [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433).
+2. Recherchez l’abonnement que vous souhaitez acheter, sélectionnez **acheter**, puis suivez les étapes d’extraction.
 
-3. Recherchez l’abonnement que vous souhaitez acheter, sélectionnez **acheter**, puis suivez les étapes d’extraction.
-
-Pour en savoir plus, consultez [la rubrique acheter un abonnement à Microsoft 365 pour les entreprises à partir de votre version d’évaluation gratuite](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
+Pour en savoir plus, consultez [la rubrique acheter un abonnement à partir de votre version d’évaluation gratuite](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
 
 **Résolution des problèmes**
 
