@@ -1,8 +1,8 @@
 ---
 title: Annuler votre abonnement Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683256"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416450"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Annuler votre abonnement Microsoft
 
-1. Accédez à [Services et abonnements](https://account.microsoft.com/services/)et connectez-vous à l’aide du compte Microsoft que vous avez utilisé lors de l’achat de votre abonnement.
+Les administrateurs peuvent acheter l’abonnement Visio pour leur organisation dans le Centre d’administration Microsoft 365.
 
-2. Recherchez votre abonnement et cliquez sur **Gérer**. Si **Activer la facturation récurrente** au lieu de **Gérer**, passez à la section Dépannage ;  sinon, passez à l’étape 3.
+1. Accédez à la page **Facturation** \> [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Sur la page **Produits**, recherchez l’abonnement que vous souhaitez annuler. Sélectionnez **Autres actions** (points de suspension), puis sélectionnez **Annuler l’abonnement**.
+3. Dans le volet **Annuler l’abonnement** , choisissez la raison pour laquelle vous annulez l’abonnement. Vous pouvez également fournir des commentaires.
+4. Sélectionnez **Enregistrer**.
 
-3. À la page suivante, cliquez sur **Annuler** ou **Mettre à niveau ou annuler**, selon le type de votre abonnement.
-
-4. Suivez les instructions de la page pour poursuivre l’annulation.
+**Remboursement :** tout crédit calculé au prorata vous sera remboursé au cours du cycle de facturation suivant.
