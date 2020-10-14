@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 882c2610502bdb67607a85a98c7aaa32aa77072b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728825"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452154"
 ---
 # <a name="spam-and-junk-email-in-outlookcom"></a>Courrier indésirable et courrier indésirable dans Outlook.com
 
@@ -38,7 +38,7 @@ Si vous recevez trop de courrier indésirable ou de courrier indésirable, essay
     1. Sous **expéditeurs et domaines bloqués**, sélectionnez **Ajouter**.
     1. Tapez l’adresse de messagerie ou le domaine que vous voulez bloquer, puis appuyez sur entrée.
     1. Sous **filtres**, choisissez si vous souhaitez approuver les courriers électroniques provenant d’adresses dans les listes d’expéditeurs approuvés et de domaines et de listes de publipostage sûres.
-    1. Cliquez sur **Enregistrer**.
+    1. Sélectionnez **Enregistrer**.
 
 1. **Créer une règle de boîte de réception**
     1. Cliquez avec le bouton droit sur un message dans votre liste de messages, puis sélectionnez **créer une règle**.

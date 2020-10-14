@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: cb2454108a4a2b5ebe053f69c8be78e0166167ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 41f7ab39823ffc9a8f6ad5af96a77f7a3b5b42ba
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716171"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451245"
 ---
 # <a name="assign-advanced-threat-protection-licenses"></a>Affecter des licences de protection avancée contre les menaces
 
@@ -26,7 +26,7 @@ Office 365 Advanced Threat Protection peut être affectée à des utilisateurs d
 1. Accédez à **Billing**  >  [licences](https://go.microsoft.com/fwlink/p/?linkid=842264)de facturation.
 2. Sélectionnez le produit pour lequel vous voulez attribuer des licences.
 3. Cliquez sur **Attribuer des licences**.
-4. Dans le volet **attribuer des licences aux utilisateurs**  , commencez à taper le nom d’un utilisateur, puis sélectionnez-le dans les résultats. Vous pouvez ajouter jusqu'à 20 utilisateurs à la fois.
+4. Dans le volet **attribuer des licences aux utilisateurs**  , commencez à taper le nom d’un utilisateur, puis sélectionnez-le dans les résultats. Vous pouvez ajouter jusqu'à 20 utilisateurs à la fois.
 5. Cliquez sur **activer ou désactiver les applications et les services**  pour les affecter ou les supprimer.
 6. Cliquez sur **attribuer**, puis  **Fermez**.
 
