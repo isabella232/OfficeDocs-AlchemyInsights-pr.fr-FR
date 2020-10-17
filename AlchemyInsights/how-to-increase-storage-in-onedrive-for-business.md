@@ -2,32 +2,33 @@
 title: Comment augmenter le stockage dans OneDrive entreprise
 ms.author: pebaum
 author: pebaum
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 53eabf6c87dead3b7309c7da1f8a590940127169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676b17d47ee5071ed45e8d6022eaa82b51fc4d51
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780093"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489005"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Comment augmenter le stockage dans OneDrive entreprise
 
 Pour modifier le stockage par défaut pour les utilisateurs de OneDrive nouveaux et existants :
   
-- Accédez à la [page de stockage du centre d’administration OneDrive](https://admin.onedrive.com/?v=StorageSettings), puis entrez un nouveau montant en Go.
+- Accédez à la [page de stockage du centre d’administration OneDrive](https://admin.onedrive.com/?v=StorageSettings), entrez un nouveau montant en Go, puis sélectionnez **Enregistrer**.
 
-Ce paramètre d’espace de stockage s’applique à tous les utilisateurs pour lesquels vous n’avez pas défini de limites de stockage spécifiques. Pour modifier l’espace de stockage pour des utilisateurs spécifiques, vous devez utiliser Microsoft PowerShell. Pour plus d’informations sur la procédure à suivre, consultez la rubrique [modifier l’espace de stockage OneDrive de vos utilisateurs à l’aide de PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Ce paramètre d’espace de stockage s’applique à tous les utilisateurs pour lesquels vous n’avez pas défini de limites de stockage spécifiques. Pour modifier l’espace de stockage pour des utilisateurs spécifiques, utilisez Microsoft PowerShell. Pour plus d’informations sur la procédure à suivre, consultez la rubrique [modifier l’espace de stockage OneDrive de vos utilisateurs à l’aide de PowerShell](https://docs.microsoft.com/onedrive/change-user-storage).
 
-**Remarque**: il semble que vous n’ayez pas de plan qui inclut un espace de stockage illimité. Pour plus d’informations sur le stockage fourni avec chaque plan, voir [Description du service OneDrive entreprise](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+**Remarque**: il semble que vous n’ayez pas de plan qui inclut un espace de stockage illimité. Pour plus d’informations sur le stockage fourni avec chaque plan, voir [Description du service OneDrive entreprise](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
   
-Pour augmenter votre stockage dans OneDrive entreprise, sélectionnez un abonnement qui inclut **OneDrive entreprise plan 2** ou **Office 365 entreprise E3**. 
+Pour augmenter votre stockage dans OneDrive entreprise, sélectionnez un abonnement qui inclut **OneDrive entreprise plan 2** ou **Office 365 E3**.
   
-Pour modifier les plans, dans le centre d’administration Microsoft 365, accédez à la page **facturation** \> **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** , sélectionnez l’abonnement à modifier, puis cliquez sur l’onglet **mise à niveau** .
+Pour modifier les plans, dans le centre d’administration, accédez à la page **facturation** \> [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) , sélectionnez l’abonnement à modifier, puis cliquez sur **afficher les mises à niveau recommandées pour votre organisation**.
   
-Pour plus d’informations sur le changement de plan et le stockage OneDrive entreprise, voir [basculer vers une autre offre Microsoft 365 for Business](https://go.microsoft.com/fwlink/?LinkId=2031117) et la [Description du service onedrive entreprise](https://go.microsoft.com/fwlink/p/?LinkId-2031122).
+Pour plus d’informations sur la modification des plans et du stockage OneDrive entreprise, consultez la rubrique [mise à niveau vers un autre plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) et la [Description du service onedrive entreprise](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724577"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466002"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -26,11 +26,15 @@ Microsoft lance la première étape de Microsoft Lists, une application Microso
   
 **Calendrier**  
 
-- Le déploiement a commencé pour les organisations utilisant la publication ciblée.
-- Version pour toutes les organisations d’ici à la mi-octobre 2020.
+- Le déploiement est terminé pour les organisations ayant activé la publication ciblée.
+- Le déploiement pour les organisations suivant la publication standard a commencé et se terminera fin novembre 2020.
 
-N’importe quel utilisateur disposant d’une licence SharePoint peut accéder à l’icône Listes et commencer à utiliser Microsoft Lists. Les administrateurs n’ont pas la possibilité d’activer la fonctionnalité pour le moment.
- 
-Sélectionnez Listes dans le lanceur de l’application Microsoft 365. Créez une liste de toutes pièces ou à l’aide des modèles prédéfinis. Vous pouvez également créer des listes à partir de listes existantes ou en important des données Excel pour élaborer une liste. Affichez les listes préférées et récentes, y compris les listes que vous possédez ou qui sont partagées avec vous. Vous pouvez créer des listes personnelles et des listes d’équipes.  
+N’importe quel utilisateur disposant d’une licence SharePoint peut accéder à l’icône Lists et commencer à utiliser Microsoft Lists.
+
+En tant qu’administrateur général ou SharePoint dans Microsoft 365, vous pouvez contrôler les paramètres de Microsoft Lists. Vous pouvez :
+
+Désactiver la création de listes personnelles (empêcher les utilisateurs d’enregistrer de nouvelles listes dans Mes listes).
+Désactiver les modèles de liste prédéfinis qui ne sont pas pertinents pour votre organisation.
+Voir [Listes de contrôle](https://docs.microsoft.com/sharepoint/control-lists)
 
 Si vous souhaitez obtenir davantage d’informations, consultez [Microsoft Lists](https://aka.ms/microsoftlists).
