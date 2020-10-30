@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759217"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801549"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulateur d’attaque dans Microsoft 365
 
-- Vous ne disposez pas d’un simulateur d’attaque ? Le simulateur d’attaque nécessite **office 365 Advanced Threat Protection Plan 2 (ATP plan 2)** ou **Office 365 entreprise E5**. Le simulateur d’attaque n’est **pas** inclus dans Office 365 Advanced Threat Protection Plan 1 (ATP plan 1), Office 365 Enterprise E3 ou tout abonnement aux applications Microsoft 365 apps pour les entreprises.
+- Vous ne disposez pas d’un simulateur d’attaque ? Le simulateur **d’attaque nécessite Microsoft Defender pour office 365 plan 2 (ATP plan 2)** ou **Office 365 entreprise E5** . Le simulateur d’attaque n’est **pas** inclus dans Microsoft Defender pour Office 365 plan 1 (plan ATP 1), Office 365 entreprise E3 ou les abonnements Microsoft 365 apps pour les entreprises.
 
 - Le compte que vous utilisez pour lancer des attaques simulées requiert des autorisations d’administrateur général ou d’administrateur de sécurité, ainsi qu’une authentification multifacteur (MFA). Pour plus d’informations sur les exigences en matière de simulateur d’attaque, consultez [cette rubrique](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759217"
 
 - Éléments importants à connaître sur les simulations d’attachement de **Spear Phishing** :
 
-  - Par défaut, vous ne pouvez pas fournir de valeur personnalisée pour l' **URL du serveur de connexion d’hameçonnage**.
+  - Par défaut, vous ne pouvez pas fournir de valeur personnalisée pour l' **URL du serveur de connexion d’hameçonnage** .
 
   - Si un destinataire utilise le [complément activer le message de rapport](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) pour signaler le message comme hameçonnage, il se peut que vous ne receviez pas d’alertes pour le message (car il s’agit d’une attaque simulée).
 

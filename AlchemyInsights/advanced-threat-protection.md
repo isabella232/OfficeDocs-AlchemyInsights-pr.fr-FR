@@ -1,5 +1,5 @@
 ---
-title: Office 365 – Protection avancée contre les menaces
+title: Microsoft Defender pour Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696619"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801225"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pour Office 365
 
-- Les pièces jointes fiables, les liens fiables et l’anti-hameçonnage font partie d’Office 365 Advanced Threat Protection (ATP). Entreprise E5, éducation a5 et Microsoft 365 Business Premium incluent la protection avancée contre les menaces. Tous les autres plans nécessitent un abonnement ATP complémentaire.
+- Les pièces jointes fiables, les liens fiables et l’anti-hameçonnage font partie de Microsoft Defender pour Office 365 (ATP). Entreprise E5, éducation a5 et Microsoft 365 Business Premium incluent la protection avancée contre les menaces. Tous les autres plans nécessitent un abonnement ATP complémentaire.
 
 - Vous devez affecter les licences appropriées pour protéger vos utilisateurs par la protection avancée contre les menaces d’Office 365. Consultez [cette rubrique](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) pour obtenir des instructions sur la manière d’appliquer des licences en bloc à vos utilisateurs.
 
-- Les administrateurs généraux ou les administrateurs de la sécurité peuvent accéder aux fonctionnalités ATP d’Office 365 dans **Threat Managmeent** le centre de sécurité & conformité à la \> **stratégie**managmeent.
+- Les administrateurs généraux ou les administrateurs de la sécurité peuvent accéder aux fonctionnalités ATP d’Office 365 dans **Threat Managmeent** le centre de sécurité & conformité à la \> **stratégie** managmeent.
 
 - Les pièces jointes fiables et les stratégies de liens fiables peuvent être délimitées par votre organisation entière, des domaines spécifiques ou des groupes d’utilisateurs plus petits.
 

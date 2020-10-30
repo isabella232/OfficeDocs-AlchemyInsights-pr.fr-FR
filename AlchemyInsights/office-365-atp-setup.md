@@ -1,5 +1,5 @@
 ---
-title: Programme d’installation d’Office 365 Advanced Threat Protection (ATP)
+title: Programme d’installation de Microsoft Defender pour Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662719"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801073"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 – Protection avancée contre les menaces (ATP)
+# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender pour Office 365 (ATP)
 
 La protection avancée contre les menaces Office 365 inclut des [pièces jointes sûres](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [des liens fiables](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [un anti-hameçonnage avancé](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing), et bien plus encore. 
 
@@ -26,5 +26,5 @@ La protection avancée contre les menaces est incluse dans les abonnements, comm
 
 ## <a name="set-up-office-365-atp"></a>Configurer la protection avancée contre les menaces Office 365
 
-Pour que la protection ATP soit en vigueur, vous devez configurer des stratégies. Voir [Quick Start Guide : set up Office 365 Advanced Threat Protection](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Pour que la protection ATP soit en vigueur, vous devez configurer des stratégies. Voir [Guide de démarrage rapide : configurer Microsoft Defender pour Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

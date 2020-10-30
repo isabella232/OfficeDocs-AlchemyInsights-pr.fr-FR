@@ -1,5 +1,5 @@
 ---
-title: Acheter Office 365 Advanced Threat Protection
+title: Acheter Microsoft Defender pour Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693553"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801145"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Acheter Office 365 Advanced Threat Protection
+# <a name="purchase-microsoft-defender-for-office-365"></a>Acheter Microsoft Defender pour Office 365
 
-Office 365 Advanced Threat Protection (ATP) est inclus dans certains abonnements, tels que Microsoft 365 E5, Office 365 E5, Office 365 a5 et Microsoft 365 Business Premium. Si votre abonnement n’inclut pas la protection avancée contre les menaces pour Office 365, vous pouvez acheter le plan [1OR DAV plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) comme module complémentaire de certains abonnements. Pour acheter dans le centre d’administration Microsoft 365 :
+Microsoft Defender pour Office 365 (ATP) est inclus dans certains abonnements, tels que Microsoft 365 E5, Office 365 E5, Office 365 a5 et Microsoft 365 Business Premium. Si votre abonnement n’inclut pas la protection avancée contre les menaces pour Office 365, vous pouvez acheter le plan [1OR DAV plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) comme module complémentaire de certains abonnements. Pour acheter dans le centre d’administration Microsoft 365 :
 
 1. Accédez à **facturation**   >   [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Sélectionnez pages de **compléments**  à partir d' **autres catégories susceptibles de vous intéresser.**
