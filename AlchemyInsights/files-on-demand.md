@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745300"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791292"
 ---
 # <a name="configure-files-on-demand"></a>Configurer les fichiers à la demande
+
+Les fichiers OneDrive à la demande nécessitent [Windows 10 Fall Creators Update](https://go.microsoft.com/fwlink/p/?linkid=859040) (version 1709 ou ultérieure) ou Windows Server 2019 et OneDrive Build 17.3.7064.1005 ou version ultérieure.
 
 La fonctionnalité Fichiers à la demande OneDrive vous permet d’accéder à vos fichiers dans OneDrive sans avoir à en télécharger la totalité et à utiliser l’espace de stockage de votre appareil.
 
 Pour configurer les fichiers à la demande sur votre PC :
 
-1. Sélectionnez l’icône de nuage **OneDrive** blanc ou bleu dans la zone de notification de la barre des tâches Windows. Sélectionnez l'icône d’engrenages **Aide & paramètres** > **Paramètres**.
-2. Dans l’onglet **Paramètres**, cochez la case **Libérez de l’espace et téléchargez des fichiers lorsque vous avez besoin de les utiliser**.  
+1. Sélectionnez l’icône de nuage **OneDrive** blanc ou bleu dans la zone de notification de la barre des tâches Windows. Sélectionnez l'icône d’engrenages **Aide & paramètres** > **Paramètres** .
+2. Dans l’onglet **Paramètres** , cochez la case **Libérez de l’espace et téléchargez des fichiers lorsque vous avez besoin de les utiliser** .  
 
 Vous pouvez également configurer les fichiers à la demande à l’aide du registre.
 
