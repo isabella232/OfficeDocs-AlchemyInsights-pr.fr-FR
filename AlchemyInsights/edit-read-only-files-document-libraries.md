@@ -9,26 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 5dce391568dd60b76c60c1e1573dcc95a017826c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78f2f33c4a5aea2e3d0d3ee4949e3e1670b9e644
+ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710661"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48840537"
 ---
 # <a name="edit-a-read-only-file"></a>Modifier un fichier en lecture seule
 
-Vous pouvez constater que lorsque vous ouvrez des fichiers, ils s’ouvrent en lecture seule. Dans certains cas, il s’agit d’une sécurité supplémentaire, par exemple lorsque vous ouvrez des fichiers à partir d’Internet et d’autres fois, il peut être dû à un paramètre pouvant être modifié. Dans l’article [pourquoi mon fichier a-t-il été ouvert en lecture seule dans](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) le cadre de certains scénarios dans lesquels un fichier s’ouvre en lecture seule et des étapes que vous pouvez suivre pour le modifier.
+Vous pouvez constater que lorsque vous ouvrez des fichiers, ils s’ouvrent en lecture seule. Dans certains cas, il s’agit d’une sécurité supplémentaire, par exemple lorsque vous ouvrez des fichiers à partir d’Internet et d’autres fois, il peut être dû à un paramètre pouvant être modifié.
 
-Voici comment ouvrir des fichiers Office pour les modifier.
-
-Au lieu de cliquer sur le titre du document, cliquez sur **ouvrir le menu** (les trois points), puis cliquez sur **modifier**.
-
-Remarques :
-
-- Si vous préférez avoir des documents ouverts en modification dans Office lorsque vous cliquez sur le titre, vous pouvez configurer la bibliothèque pour qu’elle effectue cette opération (tant que vous avez l’autorisation de modifier les paramètres de la bibliothèque).
-
-- Si vous avez des bibliothèques avec l’extraction, des colonnes obligatoires ou lorsque seuls les utilisateurs qui peuvent modifier les paramètres de version d’une bibliothèque de documents SharePoint, ces éléments seront synchronisés en lecture seule.
-
-- Un document Office s’ouvre en mode protégé même si vous activez le paramètre de stratégie « ouvrir des documents Office en lecture/écriture lors de la navigation ». Pour plus d’informations, reportez-vous à cet [article.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
-
+- [Les fichiers SharePoint sont ouverts en lecture seule](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
