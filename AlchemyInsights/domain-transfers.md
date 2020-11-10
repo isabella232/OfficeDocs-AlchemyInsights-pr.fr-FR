@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 551517b99f8f725f7034efdc73e866e296dec8b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2480a50c5cb017dfee4adda45704bf980080c6b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678754"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949671"
 ---
 # <a name="domain-transfers"></a>Transferts de domaine
 
 [Comment transférer un domaine acheté à Microsoft vers un autre fournisseur après 60 jours](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-Bien que les domaines achetés à Microsoft ne prennent pas en charge la modification des enregistrements NS, envisagez la [mise à jour des enregistrements DNS de votre site web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) au lieu de transférer l’inscription de votre domaine chez l’hébergeur web.
+- Veuillez noter que vous ne pouvez pas transférer de domaine acheté par Microsoft d’un client Microsoft 365 à un autre.
+- Bien que les domaines achetés par Microsoft ne prennent pas en charge la modification des enregistrements NS, nous vous recommandons de [mettre à jour les enregistrements DNS de votre site web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) au lieu de transférer l’inscription de votre domaine à l’hôte web.
 
-Un domaine acheté à Microsoft ne peut pas être transféré entre clients Microsoft 365.
+Vous pouvez [vérifier et utiliser les domaines personnalisés avec Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 
-Toutefois, vous pouvez transférer un domaine tiers entre les clients Microsoft 365 en [supprimant le domaine d’un client](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide), puis en vérifiant le domaine chez un autre client.
+- Vous ne pouvez pas transférer l’inscription ou la facturation de domaines tiers vers Microsoft.
 
-L’enregistrement ou la facturation de domaines tiers ne peut pas être transféré vers Microsoft.
-
-Les domaines personnalisés peuvent être  [vérifiés et utilisés avec Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide). Les domaines par défaut Onmicrosoft.com ne peuvent pas être transférés ou renommés.
+Vous ne pouvez pas transférer ou renommer les domaines par défaut Onmicrosoft.com.

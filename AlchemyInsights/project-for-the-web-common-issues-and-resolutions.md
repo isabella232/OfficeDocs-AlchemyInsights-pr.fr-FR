@@ -12,21 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002603"
 - "5021"
-ms.openlocfilehash: e4d6e1955df0899279486d13d72f346bd8d89036
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b195b96ec80552c9564530d04bbb41a4ab974f7
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776736"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949779"
 ---
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>Projet pour le Web problèmes et résolutions courants
 
-Voici quelques rubriques fréquemment demandées sur Projet pour le Web :
+Voici quelques rubriques fréquemment demandées sur Project pour le web :
 
-- En savoir plus sur [Projet pour le Web](https://support.microsoft.com/fr-FR/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5)disponible dans tous les [trois abonnements projets](https://products.office.com/project/compare-microsoft-project-management-software).
-- Activer ou désactiver le projet pour le Web ou la feuille de route [pour les utilisateurs de votre organisation](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off). Les administrateurs peuvent contrôler l’accès au projet pour le Web via la page **Paramètres du projet** dans le centre d’administration Microsoft.
-- En savoir plus sur [ce que vous pouvez faire](https://support.office.com/article/what-can-you-do-with-project-for-the-web-b30f5442-be5f-43d2-9072-c95bff778ea1) avec Projet pour le Web.
-- Aidez les utilisateurs à créer leurs projets avec la [formation Projet pour le Web](https://support.office.com/article/get-started-with-project-for-the-web-50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).
-- Familiarisez-vous avec Projet pour le Web [limites](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries).
-
-Pour plus d’informations sur Projet pour le Web, consultez [Projet pour l’aide de l’administrateur Web](https://docs.microsoft.com/project-for-the-web/projectforweb-admin-home).
+- En savoir plus sur [Project pour le web](https://support.microsoft.com/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), disponible dans les [trois abonnements Project](https://products.office.com/project/compare-microsoft-project-management-software) et dans les [abonnements suivants pour l’accès en lecture seule](https://docs.microsoft.com/project-for-the-web/office-365-user-view-access-to-project-and-roadmap).
+- Vérifiez que [vous avez activé applications AAD requises](https://techcommunity.microsoft.com/t5/project-support-blog/roadmap-have-you-disabled-some-necessary-services/ba-p/815067) pour éviter les erreurs lors de l’ouverture ou de la création d’un projet ou d’une feuille de route.
+- Activez ou désactivez Project pour le web ou la feuille de route [pour les utilisateurs de votre organisation](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off).
+- Utilisez [l’application Project ou Feuille de route dans Teams](https://support.microsoft.com/office/2dc584e6-2f6c-4e2d-9008-0b3f6845eb52).
+- [Prise en main de Project pour le web](https://support.office.com/article/50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).
+- [Frontières et limites de Project pour le web](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries).
