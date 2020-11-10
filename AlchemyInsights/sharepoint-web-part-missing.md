@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800354"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949815"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Les composants WebPart éditeur de contenu ou éditeur de script sont manquants
 
-Si vous ne disposez pas d’un composant WebPart que vous utilisez pour afficher, par exemple, l' **éditeur de contenu ou le composant WebPart éditeur de script**, il est possible que vous tentiez d’ajouter un [composant WebPart classique sur une page moderne](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Il est important de noter que les pages modernes peuvent utiliser uniquement les composants WebPart modernes et les pages classiques uniquement les composants WebPart classiques. De nombreux composants WebPart modernes remplissent les mêmes fonctions que les composants WebPart classiques, mais vous verrez des différences dans l’apparence et les fonctionnalités.
+Deux composants WebPart qui ne sont pas disponibles dans SharePoint pour les pages modernes Microsoft 365 sont le composant WebPart **éditeur de script** et le **composant WebPart éditeur de contenu**. Toutefois, il existe des [composants WebPart modernes](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) qui peuvent répondre à certaines mêmes fonctions. Vous pouvez créer des composants WebPart [personnalisés ou migrer vos composants WebPart d’éditeur de script existants](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) vers SharePoint Framework.  
 
-Il existe de nombreux composants WebPart qui ne s’affichent pas en raison du [paramètre de script personnalisé](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), qui est désactivé par défaut sur les sites modernes. 
-
-Pour obtenir la liste des composants WebPart qui ne sont pas disponibles, reportez-vous à la rubrique [fonctionnalités affectées lorsque le script personnalisé est bloqué](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
-
-Pour plus d’informations sur les implications de sécurité d’un script personnalisé, consultez la rubrique [Security Considerations of allowing Custom script](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+Pour plus d’informations, consultez [la rubrique où se trouvent les composants WebPart éditeur de contenu et éditeur de script dans SharePoint ?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
