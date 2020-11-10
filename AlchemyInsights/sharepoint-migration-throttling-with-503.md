@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720059"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947446"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="ccdc8-102">Limitation de la migration SharePoint avec 503 Erreurs</span><span class="sxs-lookup"><span data-stu-id="ccdc8-102">SharePoint migration throttling with 503 errors</span></span>
+# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="cc80e-102">Limitation de la migration SharePoint avec 503 Erreurs</span><span class="sxs-lookup"><span data-stu-id="cc80e-102">SharePoint migration throttling with 503 errors</span></span>
 
-<span data-ttu-id="ccdc8-103">**Important** : dans cette situation sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint Online et OneDrive demeurent très disponibles – Veuillez consulter [Ajustements temporaire des fonctionnalités SharePoint Online](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.</span><span class="sxs-lookup"><span data-stu-id="ccdc8-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="cc80e-103">Il s’avère que vous effectuez une migration vers SharePoint Online et que vous recevez des erreurs 503.</span><span class="sxs-lookup"><span data-stu-id="cc80e-103">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="cc80e-104">Suivez les étapes ci-dessous pour que nous puissions vous aider dès que possible.</span><span class="sxs-lookup"><span data-stu-id="cc80e-104">Please follow the steps below so we may assist you as soon as possible.</span></span>
 
-<span data-ttu-id="ccdc8-104">**503 Erreurs lors de la migration vers SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="ccdc8-104">**503 errors when migrating to SharePoint Online**</span></span>
-
-<span data-ttu-id="ccdc8-105">Il s’avère que vous effectuez une migration vers SharePoint Online et que vous recevez des erreurs 503.</span><span class="sxs-lookup"><span data-stu-id="ccdc8-105">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="ccdc8-106">Suivez les étapes ci-dessous pour que nous puissions vous aider dès que possible.</span><span class="sxs-lookup"><span data-stu-id="ccdc8-106">Please follow the steps below so we may assist you as soon as possible.</span></span> 
-
-1. <span data-ttu-id="ccdc8-107">Cliquez sur **contacter le support**, puis sur **nouvelle demande de service**.</span><span class="sxs-lookup"><span data-stu-id="ccdc8-107">Click **Contact Support**, and then **New Service Request**.</span></span>
-2. <span data-ttu-id="ccdc8-108">Pour le titre et la description, tapez **limitation de migration SharePoint avec 503**.</span><span class="sxs-lookup"><span data-stu-id="ccdc8-108">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
-3. <span data-ttu-id="ccdc8-109">Une fois le ticket soumis, veuillez le mettre à jour avec les informations suivantes :</span><span class="sxs-lookup"><span data-stu-id="ccdc8-109">Once the ticket has been submitted, please update it with the following information:</span></span>
-    - <span data-ttu-id="ccdc8-110">La quantité de migration (par exemple, le nombre de TBs ?).</span><span class="sxs-lookup"><span data-stu-id="ccdc8-110">How much left of migration (for example, how many TBs?).</span></span>
-    - <span data-ttu-id="ccdc8-111">Dates de début et de fin de migration.</span><span class="sxs-lookup"><span data-stu-id="ccdc8-111">Migration start and end date.</span></span>
-    - <span data-ttu-id="ccdc8-112">Décrivez l’emplacement à partir duquel vous migrez votre contenu (par exemple, SharePoint Server, Box, GDrive, partages de fichiers, etc.).</span><span class="sxs-lookup"><span data-stu-id="ccdc8-112">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
-    - <span data-ttu-id="ccdc8-113">Estimez le nombre d’erreurs de limitation (par exemple, la limitation x par heure ?) et la durée de la limitation.</span><span class="sxs-lookup"><span data-stu-id="ccdc8-113">Estimate the number of throttling errors (for example, x throttle per hour?) and when did the throttling happen.</span></span>
-    - <span data-ttu-id="ccdc8-114">L’outil de migration que vous utilisez (par exemple, SPMT ou ShareGate).</span><span class="sxs-lookup"><span data-stu-id="ccdc8-114">Which migration tool you are using (for example, SPMT or ShareGate).</span></span>
-
-
+1. <span data-ttu-id="cc80e-105">Cliquez sur **contacter le support** , puis sur **nouvelle demande de service**.</span><span class="sxs-lookup"><span data-stu-id="cc80e-105">Click **Contact Support** , and then **New Service Request**.</span></span>
+2. <span data-ttu-id="cc80e-106">Pour le titre et la description, tapez **limitation de migration SharePoint avec 503**.</span><span class="sxs-lookup"><span data-stu-id="cc80e-106">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
+3. <span data-ttu-id="cc80e-107">Une fois le ticket soumis, veuillez le mettre à jour avec les informations suivantes :</span><span class="sxs-lookup"><span data-stu-id="cc80e-107">Once the ticket has been submitted, please update it with the following information:</span></span>
+    - <span data-ttu-id="cc80e-108">Quelle est la durée de la migration (par exemple, combien de TBs) ?</span><span class="sxs-lookup"><span data-stu-id="cc80e-108">How much is left of migration (for example, how many TBs)?</span></span>
+    - <span data-ttu-id="cc80e-109">Dates de début et de fin de migration.</span><span class="sxs-lookup"><span data-stu-id="cc80e-109">Migration start and end date.</span></span>
+    - <span data-ttu-id="cc80e-110">Décrire l’endroit à partir duquel vous effectuez une migration de votre contenu, tels que SharePoint Server, Box, GDrive, partages de fichiers, etc.</span><span class="sxs-lookup"><span data-stu-id="cc80e-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc.</span></span>
+    - <span data-ttu-id="cc80e-111">Estimez le nombre d’erreurs de limitation (par exemple, la limitation x par heure) et la limitation de la limitation.</span><span class="sxs-lookup"><span data-stu-id="cc80e-111">Estimate the number of throttling errors (for example, x throttle per hour) and when did the throttling happen.</span></span>
+    - <span data-ttu-id="cc80e-112">Quel outil de migration utilisez-vous (par exemple, SPMT ou ShareGate) ?</span><span class="sxs-lookup"><span data-stu-id="cc80e-112">Which migration tool are you using (for example, SPMT or ShareGate)?</span></span>
