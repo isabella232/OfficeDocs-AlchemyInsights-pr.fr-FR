@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 0c8663cd6b6e6e344282abadfc80e6a40127f463
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675584"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947410"
 ---
 # <a name="lists-app-in-teams"></a>Application Listes dans Teams
 
-Avec l’application Listes dans Microsoft Teams, les listes de sites SharePoint d’équipe viennent s’ajouter à l’ensemble des canaux pour la collaboration et le travail d’équipe. Avec cette application, les utilisateurs finaux peuvent travailler sur leurs listes favorites au sein de Teams.  
+Avec l’application Listes dans Microsoft Teams, les listes de sites SharePoint d’équipe viennent s’ajouter à l’ensemble des canaux pour la collaboration et le travail d’équipe. Avec cette application, les utilisateurs finaux peuvent travailler sur leurs listes favorites au sein de Teams.
 
-Cette fonctionnalité est activée par défaut. L’application Listes est préinstallée pour tous les utilisateurs Teams et est disponible directement dans la galerie dans un onglet de chaque équipe et canal.  
+L’application Listes est préinstallée pour tous les utilisateurs Teams et est disponible directement dans la galerie dans un onglet de chaque équipe et canal.
 
-Les administrateurs Teams peuvent contrôler la disponibilité de l’application à l’aide des stratégies d’autorisation Microsoft Teams. Pour plus d’informations, voir [Gérer les stratégies d’autorisation d’application dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
+Les administrateurs Teams peuvent contrôler la disponibilité de l’application à l’aide des stratégies d’autorisation Microsoft Teams. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Gérer les stratégies d’autorisation d’application dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
 **Calendrier :** début en septembre et fin au plus tard à la mi-octobre 2020  
 
@@ -36,7 +36,7 @@ Les administrateurs Teams peuvent contrôler la disponibilité de l’applicatio
 
 **Action :** examiner et évaluer
 
-Pour plus d’informations, consultez : 
+Pour plus d’informations, consultez :
 
 - [Arrivée de Microsoft Listes - Votre application de suivi de l’information intelligente dans Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
 - [Documentation pour l’utilisateur final de Listes dans Teams](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
