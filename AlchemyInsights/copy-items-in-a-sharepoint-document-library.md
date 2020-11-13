@@ -1,5 +1,5 @@
 ---
-title: Copier des éléments dans une bibliothèque de documents SharePoint
+title: Copier des fichiers dans SharePoint et OneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,33 +14,18 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 8d7b2b6c997faf057be1c7fafdd401411d48c7bd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 473c7376b9f413732ac766e25817b2406b5dbd75
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807153"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002627"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a>Copier des éléments dans une bibliothèque de documents SharePoint
+# <a name="copy-files-in-sharepoint-and-onedrive"></a>Copier des fichiers dans SharePoint et OneDrive
 
-1. Dans un navigateur Web, accédez aux fichiers, dossiers ou liens que vous souhaitez copier, puis cliquez sur **Copier vers**.
+Vous pouvez copier des fichiers à partir d’un navigateur Web vers différents emplacements dans SharePoint et OneDrive.
 
-    > [!NOTE]
-    > La **copie vers** n’est pas disponible si vous utilisez l’expérience classique de SharePoint Online.
-  
-2. Sous **choisir une destination**, sélectionnez l’emplacement où vous souhaitez copier les éléments. Si vous copiez vers un autre site ou sous-site et qu’il ne figure pas dans la liste, cliquez sur **Parcourir les sites** pour afficher la liste complète des sites vers lesquels vous pouvez effectuer une copie.
-
-    > [!NOTE]
-    > Si les autres sites ne sont pas affichés lorsque vous copiez des éléments, la copie sur plusieurs sites n’a pas été configurée. Pour l’activer, accédez à la page Paramètres du centre d’administration SharePoint, puis cliquez sur **OK**.
-  
-    Pour créer un nouveau dossier dans lequel copier les fichiers, sélectionnez un emplacement dans la hiérarchie des dossiers, cliquez sur **nouveau dossier**, entrez un nom pour le dossier, puis cliquez sur la coche pour enregistrer le nom.
-
-3. Cliquez sur **copier ici**.
+Pour plus d’informations, reportez-vous à la rubrique [déplacer ou copier](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 
 > [!NOTE]
-> Vous pouvez copier jusqu’à 500 Mo de fichiers et dossiers à la fois. > lorsque vous utilisez la fonction **Copier vers** avec des documents qui ont un historique des versions, seule la dernière version est copiée.
-  
-Si vous souhaitez en savoir plus, consultez les articles : 
-
- - [Déplacer ou copier des fichiers dans SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (article de support Office)
- - [Déplacer des fichiers à partir de n’importe quel dossier](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (article de blog de la communauté Microsoft Tech)   
+> La **copie vers** n’est pas disponible si vous utilisez l’expérience classique de SharePoint Online.
