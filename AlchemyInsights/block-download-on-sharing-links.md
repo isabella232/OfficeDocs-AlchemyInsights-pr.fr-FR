@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685740"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353468"
 ---
 # <a name="block-download-on-sharing-links"></a>Blocage du téléchargement via des liens de partage
 
-**Bloquer le téléchargement** est disponible pour les **liens en affichage seul** vers les documents Office. Lorsque vous sélectionnez cette option, les personnes qui accèdent au fichier via le lien que vous avez créé ne voient pas les options de téléchargement, d’impression ni de copie du fichier.
+Lorsque vous partagez des éléments avec d’autres personnes dans OneDrive ou SharePoint, vous pouvez leur permettre d’afficher, mais pas de les télécharger.
 
-Les administrateurs peuvent contrôler si le paramètre Bloquer le téléchargement s’affiche uniquement pour les fichiers Office ou non en modifiant le paramètre de `BlockDownloadLinksFileType` dans les cmdlets PowerShell [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) ou [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps).
+Pour plus d’informations, consultez [Activer les étiquettes de confidentialité pour les fichiers Office dans SharePoint et OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e).
