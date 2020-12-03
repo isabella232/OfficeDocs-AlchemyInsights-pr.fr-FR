@@ -13,26 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947410"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477452"
 ---
 # <a name="lists-app-in-teams"></a>Application Listes dans Teams
 
-Avec l’application Listes dans Microsoft Teams, les listes de sites SharePoint d’équipe viennent s’ajouter à l’ensemble des canaux pour la collaboration et le travail d’équipe. Avec cette application, les utilisateurs finaux peuvent travailler sur leurs listes favorites au sein de Teams.
+L'application Liste dans Microsoft Teams permet d'intégrer les listes des sites SharePoint des équipes dans le canevas de collaboration et de travail d'équipe des canaux. Grâce à cette application, les utilisateurs finaux peuvent travailler sur leurs listes favorites au sein de Teams.
 
-L’application Listes est préinstallée pour tous les utilisateurs Teams et est disponible directement dans la galerie dans un onglet de chaque équipe et canal.
+La liste est pré-installée pour tous les utilisateurs de Teams et est disponible directement dans la galerie d'onglets de chaque équipe et canal.
 
-Les administrateurs Teams peuvent contrôler la disponibilité de l’application à l’aide des stratégies d’autorisation Microsoft Teams. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Gérer les stratégies d’autorisation d’application dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
+Les administrateurs de Teams peuvent contrôler la disponibilité de l'application en utilisant les politiques de permission de Microsoft Teams. Pour plus d'informations, voir [Gérer les politiques de permission de l'application dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
 
-**Calendrier :** début en septembre et fin au plus tard à la mi-octobre 2020  
-
-**Déploiement :** au niveau de l’organisation  
-
-**Type de contrôle :** contrôle par l’administrateur Teams  
+**Type de contrôle :**  Contrôle par l'administration  Teams  
 
 **Action :** examiner et évaluer
 
