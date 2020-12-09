@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 27cc744bc57f1c18649e05c5b0df3b315c9c0201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
+ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727241"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49599850"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Retarde la réception des alertes OneDrive et SharePoint
 
-- Vérifiez d’abord le dossier courrier indésirable dans votre courrier électronique.
-- Si **toutes les alertes provenant de plusieurs fichiers ou bibliothèques sont retardées**, visitez le [tableau de bord État du service](https://portal.office.com/adminportal/home?ref=/servicehealth) pour vérifier les avis/incidents susceptibles de se produire avec SharePoint ou Exchange. Le problème peut être lié à la capacité d’alerte ou aux retards d’alertes de SharePoint par le biais d’Exchange. Notez également si d’autres e-mails sont remis (si ce n’est pas le cas), le problème est probablement lié à Exchange.
+- Si **toutes les alertes provenant de plusieurs fichiers ou bibliothèques sont retardées**, visitez le [tableau de bord État du service](https://portal.office.com/adminportal/home?ref=/servicehealth) pour vérifier les avis/incidents susceptibles de se produire avec SharePoint ou Exchange.
 - Si **une alerte individuelle d’un fichier ou d’une bibliothèque spécifique n’est pas remise**, essayez de la supprimer et de la recréer. Consultez la rubrique [Manage, View, or delete SharePoint Alerts](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) pour recréer l’alerte.
+- Vérifiez le dossier courrier indésirable dans votre courrier électronique.
 
 > [!NOTE]
 > - Les alertes ne peuvent pas être envoyées à un groupe de distribution. Seuls les groupes Security et O365 sont pris en charge.
