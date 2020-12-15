@@ -21,7 +21,7 @@ ms.locfileid: "48949779"
 ---
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>Projet pour le Web problèmes et résolutions courants
 
-Voici quelques rubriques fréquemment demandées sur Project pour le web :
+Voici quelques rubriques fréquemment demandées sur Projet pour le Web :
 
 - En savoir plus sur [Project pour le web](https://support.microsoft.com/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), disponible dans les [trois abonnements Project](https://products.office.com/project/compare-microsoft-project-management-software) et dans les [abonnements suivants pour l’accès en lecture seule](https://docs.microsoft.com/project-for-the-web/office-365-user-view-access-to-project-and-roadmap).
 - Vérifiez que [vous avez activé applications AAD requises](https://techcommunity.microsoft.com/t5/project-support-blog/roadmap-have-you-disabled-some-necessary-services/ba-p/815067) pour éviter les erreurs lors de l’ouverture ou de la création d’un projet ou d’une feuille de route.

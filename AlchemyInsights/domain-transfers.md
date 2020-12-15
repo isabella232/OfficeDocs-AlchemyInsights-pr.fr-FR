@@ -21,7 +21,7 @@ ms.locfileid: "48949671"
 ---
 # <a name="domain-transfers"></a>Transferts de domaine
 
-[Comment transférer un domaine acheté chez Microsoft vers un autre fournisseur après 60 jours](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+[Comment transférer un domaine acheté à Microsoft vers un autre fournisseur après 60 jours](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
 - Veuillez noter que vous ne pouvez pas transférer de domaine acheté chez Microsoft d’un client Microsoft 365 à un autre.
 - Bien que les domaines achetés par Microsoft ne prennent pas en charge la modification des enregistrements NS, nous vous recommandons de [mettre à jour les enregistrements DNS de votre site web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) au lieu de transférer l’inscription de votre domaine à l’hôte web.
@@ -30,4 +30,4 @@ Vous pouvez [vérifier et utiliser les domaines personnalisés avec Microsoft 3
 
 - Vous ne pouvez pas transférer l’inscription ou la facturation de domaines tiers vers Microsoft.
 
-Vous ne pouvez pas transférer ou renommer les domaines par défaut Onmicrosoft.com.
+Les domaines par défaut Onmicrosoft.com ne peuvent pas être transférés ou renommés.
