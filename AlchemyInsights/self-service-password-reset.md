@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 693b051eb5f63a9b2eea8bce9321bbf435811269
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
+ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740184"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49676340"
 ---
 # <a name="self-service-password-reset-sspr"></a>Réinitialisation du mot de passe libre-service (SSPR)
 
-- Cliquez ici pour [Autoriser les utilisateurs à réinitialiser leur mot de passe](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).  SSPR est activé par défaut pour les administrateurs.
+- [Planifier votre déploiement de la réinitialisation de mot de passe en libre-service](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-- Cliquez ici pour [Inscrire vos informations de contact SSPR](https://go.microsoft.com/fwlink/?linkid=849451).
+    ou
+- [Enregistrer vos informations de contact SSPR](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR est activé par défaut pour les administrateurs)
 
-Pour plus d’informations :
+    Si vous souhaitez en savoir plus, veuillez consulter :
 
-Configuration SSPR de base : [permettre aux utilisateurs de réinitialiser leur mot de passe](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)
+    Configuration SSPR de base : [permettre aux utilisateurs de réinitialiser leur mot de passe](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)
 
-[FAQ sur le SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [FAQ sur le SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-[Utilitaire de résolution des problèmes SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [Utilitaire de résolution des problèmes SSPR](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
