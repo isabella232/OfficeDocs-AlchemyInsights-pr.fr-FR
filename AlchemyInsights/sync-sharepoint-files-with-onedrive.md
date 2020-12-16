@@ -27,7 +27,7 @@ Suivez les étapes et pratiques recommandées dans les articles suivants :
 
 - [Utiliser la commande « Ouvrir avec l’Explorateur » pour résoudre des problèmes dans SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
 
-- [Copier ou déplacer des fichiers de bibliothèque à l’aide de la commande Ouvrir avec Explorateur](https://support.microsoft.com/office/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2?ui=en-us&rs=en-us&ad=us)
+- [Copier ou déplacer des fichiers de bibliothèque à l’aide de la commande Ouvrir avec l’Explorateur](https://support.microsoft.com/office/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2?ui=en-us&rs=en-us&ad=us)
 
 > [!NOTE]
 - Nous vous recommandons de [synchroniser les fichiers SharePoint avec le nouveau client de synchronisation OneDrive](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us) qui offre Des [fichiers à la demande](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us) en fournit un accès local à vos fichiers et offre de meilleures performances.

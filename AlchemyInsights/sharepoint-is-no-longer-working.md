@@ -21,8 +21,8 @@ ms.locfileid: "49002699"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint n’est plus fonctionnel
 
-Plusieurs expliquent pourquoi SharePoint ne fonctionne plus.
+Il existe plusieurs raisons pour lesquelles SharePoint ne fonctionne plus.
 
 1. Désolé... Nous avons sans doute rencontré un problème d’état du service avec SharePoint. Si vous souhaitez en savoir plus, veuillez consulter le [Tableau de bord de l’état du service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
-2. Il est possible que les autorisations soient modifiées ou supprimées. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Impossible d’accéder à SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
-3. Des problèmes de navigateur empêchent sans doute les utilisateurs d’ouvrir SharePoint. Demandez à(aux) l’utilisateur(s) de tester le mode privé de son(leur) navigateur, puis de se reconnecter à SharePoint.
+2. Il est possible que les autorisations soient modifiées ou supprimées. Si vous souhaitez plus d’informations, voir [Impossible d’accéder à SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
+3. Des problèmes de navigateur peuvent empêcher les utilisateurs d’ouvrir SharePoint. Demandez à(aux) l’utilisateur(s) de tester le mode privé de son(leur) navigateur, puis de se reconnecter à SharePoint.
