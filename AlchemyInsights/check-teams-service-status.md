@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: c5d94eeec628758e6e779c269221d093cf39723e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9fd1abe502948202776f4d74392e43232c1b9581
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812329"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724188"
 ---
 # <a name="check-teams-service-status"></a>Vérifier le statut du service Teams
 
-Pour vérifier le statut actuel du service Microsoft Teams, accédez au tableau de bord Intégrité du service du Centre d’administration Microsoft 365.
+Pour vérifier l’état actuel du service Microsoft Teams, accédez à la page **Intégrité des services** dans le [Centre d’administration Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Pour plus d’informations, consultez [Vérifier l’état du service Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
-Pour plus d’informations, consultez [Vérifier l’état du service Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Si le problème n’est pas lié au service Microsoft Teams, vous aurez besoin d’informations plus détaillées afin de trouver les ressources appropriées. Signaler votre problème et inclure des noms de produits, des fonctionnalités ou des erreurs spécifiques, et relancez votre requête de recherche.
