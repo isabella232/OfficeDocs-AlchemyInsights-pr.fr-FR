@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682086"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726386"
 ---
 # <a name="change-organization-profile"></a>Modifier le profil d’organisation
 
-Modifiez le nom de votre société, votre adresse, les coordonnées techniques, et plus encore dans le centre d’administration sur la page Paramètres de l’Organisation des **paramètres**  >  [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) .
+Modifiez le nom de votre société, votre adresse, les informations de contact technique, et bien plus encore dans le centre d’administration, **sous l'**  >    >  onglet Profil de l'[organisation paramètres d’organisation](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) des paramètres d’organisation.
 
 Veillez à renseigner tous les champs obligatoires marqués avec un astérisque (*) pour pouvoir enregistrer vos modifications.
 

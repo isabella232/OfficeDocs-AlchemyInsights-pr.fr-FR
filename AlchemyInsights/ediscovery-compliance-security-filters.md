@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666643"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727221"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>Aucun résultat renvoyé lors de la recherche/exportation de contenu
 
@@ -26,7 +26,7 @@ Si vous rencontrez des problèmes avec les scénarios eDiscovery suivants :
 - Recherche/exportation de contenu ne renvoie aucune donnée ni aucune donnée inattendue
 - échec de la recherche eDiscovery ou de l’exportation
 
-Cela peut être dû à certains filtres de sécurité de conformité qui ont été configurés par un administrateur spécifique et qui n’ont pas été communiqués à tous les administrateurs.
+Cela peut être dû à certains filtres de sécurité qui ont été configurés par un administrateur spécifique et qui n’ont pas été communiqués à tous les administrateurs.
 
 Pour résoudre ce problème, vérifiez s’il existe des filtres de sécurité de conformité susceptibles d’être à l’origine des problèmes suivants :
 

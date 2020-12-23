@@ -1,5 +1,5 @@
 ---
-title: Restauration d’une EEAM ou d’un canal supprimé
+title: Procédure de restauration d’une équipe ou d’un canal supprimé
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705009"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726417"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Procédure de restauration d’une équipe ou d’un canal supprimé
-
-Pour plus d’informations, consultez [la rubrique restaurer une équipe supprimée dans Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
 
 Les canaux supprimés au sein d’une équipe peuvent être restaurés jusqu’à 21 jours après la suppression de la chaîne.
 
 Pour récupérer un canal supprimé, le propriétaire de l’équipe peut effectuer les opérations suivantes :
 
 1. Ouvrez les paramètres d’équipe en sélectionnant les points à droite du nom de l’équipe.
-2. Sélectionnez **gérer**  >  les**canaux**  >  d’équipe**supprimés**, puis **restaurer** sur la droite.
+2. Sélectionnez **gérer**  >  les **canaux**  >  d’équipe **supprimés**, puis **restaurer** sur la droite.
 
-Pour plus d’informations, consultez [la rubrique restaurer une équipe supprimée dans Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Pour plus d’informations sur la restauration d’une équipe, voir [archiver ou supprimer une équipe dans Microsoft teams-Microsoft teams | Microsoft docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
