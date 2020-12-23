@@ -1,5 +1,5 @@
 ---
-title: Restauration d’une EEAM ou d’un canal supprimé
+title: Procédure de restauration d’une équipe ou d’un canal supprimé
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705009"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726417"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a><span data-ttu-id="fd518-102">Procédure de restauration d’une équipe ou d’un canal supprimé</span><span class="sxs-lookup"><span data-stu-id="fd518-102">How to restore a deleted team or channel</span></span>
+# <a name="how-to-restore-a-deleted-team-or-channel"></a><span data-ttu-id="e9ae2-102">Procédure de restauration d’une équipe ou d’un canal supprimé</span><span class="sxs-lookup"><span data-stu-id="e9ae2-102">How to restore a deleted team or channel</span></span>
 
-<span data-ttu-id="fd518-103">Pour plus d’informations, consultez [la rubrique restaurer une équipe supprimée dans Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="fd518-103">For more information, see [Restore a Deleted Team in Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span></span>
+<span data-ttu-id="e9ae2-103">Les canaux supprimés au sein d’une équipe peuvent être restaurés jusqu’à 21 jours après la suppression de la chaîne.</span><span class="sxs-lookup"><span data-stu-id="e9ae2-103">Deleted channels within a team can be restored for up to 21 days after the channel has been deleted.</span></span>
 
-<span data-ttu-id="fd518-104">Les canaux supprimés au sein d’une équipe peuvent être restaurés jusqu’à 21 jours après la suppression de la chaîne.</span><span class="sxs-lookup"><span data-stu-id="fd518-104">Deleted channels within a team can be restored for up to 21 days after the channel has been deleted.</span></span>
+<span data-ttu-id="e9ae2-104">Pour récupérer un canal supprimé, le propriétaire de l’équipe peut effectuer les opérations suivantes :</span><span class="sxs-lookup"><span data-stu-id="e9ae2-104">To recover a deleted channel, the team owner can do the following:</span></span>
 
-<span data-ttu-id="fd518-105">Pour récupérer un canal supprimé, le propriétaire de l’équipe peut effectuer les opérations suivantes :</span><span class="sxs-lookup"><span data-stu-id="fd518-105">To recover a deleted channel, the team owner can do the following:</span></span>
+1. <span data-ttu-id="e9ae2-105">Ouvrez les paramètres d’équipe en sélectionnant les points à droite du nom de l’équipe.</span><span class="sxs-lookup"><span data-stu-id="e9ae2-105">Open the team settings by selecting the 3 dots to the right of the team name.</span></span>
+2. <span data-ttu-id="e9ae2-106">Sélectionnez **gérer**  >  les **canaux**  >  d’équipe **supprimés**, puis **restaurer** sur la droite.</span><span class="sxs-lookup"><span data-stu-id="e9ae2-106">Select **Manage team** > **Channels** > **Deleted**, and then select **Restore** on the right.</span></span>
 
-1. <span data-ttu-id="fd518-106">Ouvrez les paramètres d’équipe en sélectionnant les points à droite du nom de l’équipe.</span><span class="sxs-lookup"><span data-stu-id="fd518-106">Open the team settings by selecting the 3 dots to the right of the team name.</span></span>
-2. <span data-ttu-id="fd518-107">Sélectionnez **gérer**  >  les**canaux**  >  d’équipe**supprimés**, puis **restaurer** sur la droite.</span><span class="sxs-lookup"><span data-stu-id="fd518-107">Select **Manage team** > **Channels** > **Deleted**, and then select **Restore** on the right.</span></span>
-
-<span data-ttu-id="fd518-108">Pour plus d’informations, consultez [la rubrique restaurer une équipe supprimée dans Microsoft teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="fd518-108">For more information, see [Restore a Deleted Team in Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).</span></span>
+<span data-ttu-id="e9ae2-107">Pour plus d’informations sur la restauration d’une équipe, voir [archiver ou supprimer une équipe dans Microsoft teams-Microsoft teams | Microsoft docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).</span><span class="sxs-lookup"><span data-stu-id="e9ae2-107">For more information on restoring a Team, see [Archive or delete a team in Microsoft Teams - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).</span></span>
