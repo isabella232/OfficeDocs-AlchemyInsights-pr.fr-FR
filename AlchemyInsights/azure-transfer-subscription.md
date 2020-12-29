@@ -12,24 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: e9a1e74b321e2c2dda5f7a4f69681a0acf0635d5
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
+ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840606"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "49736876"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Transférer la propriété de facturation Azure
 
 Connectez-vous au [portail Azure](https://portal.azure.com/) comme administrateur du compte de facturation qui contient l’abonnement que vous voulez transférer. Si vous ne savez pas si vous êtes administrateur, ou si vous avez besoin de déterminer qui l’est, voir [Déterminer l’administrateur de facturation d’un compte](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-- Recherchez sur **Gestion des coûts + Facturation**.
-- Sélectionnez **Abonnements** dans le volet gauche. Selon l’accès, vous devrez peut-être sélectionner une étendue de facturation, puis **Abonnements** ou **Abonnements Azure**.
-- Sélectionnez **Transférer la propriété de facturation** pour l’abonnement que vous voulez transférer.
-- Entrez l’adresse e-mail d’un utilisateur qui est un administrateur de facturation du compte qui sera le nouveau propriétaire de l’abonnement, puis sélectionnez **envoyer une demande de transfert**
-- L’utilisateur reçoit un e-mail contenant des instructions pour examiner votre demande de transfert. Pour approuver la demande de transfert, l’utilisateur sélectionne le lien dans l’email et suit les instructions.
+1. Recherchez sur _Gestion des coûts + Facturation_.
+1. Sélectionnez **Abonnements** dans le volet gauche. Selon l’accès, vous devrez peut-être sélectionner une étendue de facturation, puis **Abonnements** ou **Abonnements Azure**.
+1. Sélectionnez **Transférer la propriété de facturation** pour l’abonnement que vous voulez transférer.
+1. Entrez l’adresse e-mail d’un utilisateur qui est un administrateur de facturation du compte qui sera le nouveau propriétaire de l’abonnement, puis sélectionnez **envoyer une demande de transfert**.
+1. L’utilisateur reçoit un e-mail contenant des instructions pour examiner votre demande de transfert. Pour approuver la demande de transfert, l’utilisateur sélectionne le lien dans l’email et suit les instructions.
 
-**Remarque**  : si vous transférez la propriété de facturation à un compte d’utilisateur dans un autre client Azure AD, toutes les attributions de [contrôle d’accès en fonction du rôle (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) servant à gérer les ressources dans l’abonnement sont supprimées définitivement. Seul le nouveau propriétaire peut accéder à la gestion des ressources dans l’abonnement. Pour plus d’informations, consultez [transfert d’un abonnement à un utilisateur dans un autre client Azure AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Veuillez noter que si vous transférez la propriété de facturation à un compte d’utilisateur dans un autre client Azure AD, toutes les attributions de [contrôle d’accès en fonction du rôle (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) servant à gérer les ressources dans l’abonnement sont supprimées définitivement. Seul le nouveau propriétaire peut accéder à la gestion des ressources dans l’abonnement. Pour plus d’informations la modification du répertoire, consultez [transfert d’un abonnement à un utilisateur dans un autre client Azure AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+_**Impact important sur vos factures**_  : si vous avez transféré la propriété de facturation d’un abonnement Azure, vos frais sont classés au prorata. Vous pouvez accéder aux factures en procédant comme suit :  
+
+1. Sélectionnez votre abonnement dans la  [page Abonnements](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) dans le portail Azure comme [un utilisateur ayant accès aux factures](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), puis sélectionnez **Factures**.
+1. Cliquez sur  **Télécharger la facture**  pour afficher une copie de votre facture au format PDF. Si  _Pas disponible_ est indiqué, consultez  [Pourquoi ne vois-je pas de facture pour la dernière période de facturation ?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Vous pouvez également afficher votre utilisation quotidienne en cliquant sur la **période de facturation**. Pour obtenir une version PDF de votre facture et une copie de votre fichier d’utilisation quotidienne détaillée (.CSV). Pour plus d’informations, consultez  [Obtenir les données de facturation et d’utilisation](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Documents recommandés**
 
