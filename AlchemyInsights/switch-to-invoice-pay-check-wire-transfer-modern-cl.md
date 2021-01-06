@@ -1,5 +1,5 @@
 ---
-title: Passer au paiement de facture (transfert de chèques/virements)-moderne CL
+title: Basculer en paiement par facture (transfert de chèques/virements)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693379"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755457"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Passer au paiement de facture (transfert de chèques/virements)-moderne CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Basculer en paiement par facture (transfert de chèques/virements)
+
+En fonction de la description de votre problème, nous avons trouvé une solution pour vous. La plupart des clients pouvaient résoudre leurs propres problèmes après avoir suivi notre documentation.
 
 Si vous passez en mode paiement par facture, cela signifie que vous payez votre facture dans les 30 jours suivant la date de facturation. Pour pouvoir payer votre abonnement Azure par facture, soumettez une demande au support Azure. Une fois que votre demande est approuvée, vous pouvez passer un abonnement au paiement de facture dans le portail Azure.
 

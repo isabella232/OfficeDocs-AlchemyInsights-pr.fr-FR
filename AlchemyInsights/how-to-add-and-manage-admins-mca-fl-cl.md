@@ -1,5 +1,5 @@
 ---
-title: Procédure d’ajout et de gestion des administrateurs-MCA FL/CL
+title: Comment ajouter et gérer des administrateurs
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683965"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755437"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Procédure d’ajout et de gestion des administrateurs-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Comment ajouter et gérer des administrateurs
+
+En fonction de la description de votre problème, nous avons trouvé une solution pour vous. La plupart des clients pouvaient résoudre leurs propres problèmes après avoir suivi notre documentation.
 
 Pour gérer votre compte de facturation pour un accord client Microsoft (MCA), vous pouvez utiliser différents rôles avec le niveau d’accès souhaité. Ces rôles s’ajoutent aux rôles de service Azure intégrés qui vous permettent de contrôler vos ressources.
 

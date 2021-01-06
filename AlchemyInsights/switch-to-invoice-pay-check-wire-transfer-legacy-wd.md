@@ -1,5 +1,5 @@
 ---
-title: Basculer vers le paiement de facture (chèque/virement bancaire)-WD héritée
+title: Passer en paiement par facture (chèque/virement bancaire)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49722821"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755401"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Basculer vers le paiement de facture (chèque/virement bancaire)-WD héritée
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Passer en paiement par facture (chèque/virement bancaire)
+
+En fonction de la description de votre problème, nous avons trouvé une solution pour vous. La plupart des clients pouvaient résoudre leurs propres problèmes après avoir suivi notre documentation.
 
 Si vous passez en mode paiement par facture, cela signifie que vous payez votre facture dans les 30 jours suivant la date de facturation. Pour pouvoir payer votre abonnement Azure par facture, soumettez une demande au support Azure. Une fois que votre demande est approuvée, vous pouvez passer un abonnement au paiement de facture dans le [portail Azure](https://portal.azure.com/).
 

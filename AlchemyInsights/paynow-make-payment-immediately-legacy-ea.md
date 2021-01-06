@@ -1,5 +1,5 @@
 ---
-title: PayNow/procéder immédiatement au paiement-AE hérité
+title: PayNow/effectuez le paiement immédiatement
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49689065"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755689"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/procéder immédiatement au paiement-AE hérité
+# <a name="paynowmake-payment-immediately"></a>PayNow/effectuez le paiement immédiatement
+
+En fonction de la description de votre problème, nous avons trouvé une solution pour vous. La plupart des clients pouvaient résoudre leurs propres problèmes après avoir suivi notre documentation.
 
 Pour un abonnement Azure Enterprise Agreement, la méthode d’ajout/mise à jour/modification de paiement n’est pas prise en charge. Si vous souhaitez modifier l’adresse sur une facture existante, veuillez contacter votre représentant Microsoft.
 
