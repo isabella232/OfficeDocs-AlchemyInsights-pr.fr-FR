@@ -13,23 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801074"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847598"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Vérifier les paramètres de transfert de courrier électronique d’une boîte aux lettres
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Vérifier les paramètres de forwardage du courrier pour une boîte aux lettres
 
-Il est facile de vérifier les paramètres de transfert du courrier électronique sur une boîte aux lettres Microsoft 365. Il suffit de suivre ces étapes.
-  
-> S’il s’agit d’une boîte aux lettres utilisateur, **accédez à utilisateurs** \> **actifs** et sélectionnez l’utilisateur dont vous transférez la boîte aux lettres. Dans l’onglet **messagerie** , sélectionnez **gérer le transfert du courrier**.
+Tout d’abord, le forwarding du courrier électronique doit être activé au niveau du client. Si vous avez installé le forwarding de courrier sur une boîte aux lettres, mais qu’il ne fonctionne pas, consultez Contrôler le forwarding externe automatique du courrier électronique [dans Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
 
-> S’il s’agit d’une boîte aux lettres partagée, accédez à **groupes** de \> **boîtes aux lettres partagées** et sélectionnez la boîte aux lettres partagée que vous transférez. Sélectionnez **modifier** pour le transfert du courrier électronique.
+Il est facile de vérifier les paramètres de forwarding du courrier sur une boîte aux lettres ! Suivez simplement ces étapes.
+  
+> S’il s’agit d’une boîte aux lettres utilisateur, sélectionnez Utilisateurs actifs et sélectionnez  \>  l’utilisateur dont vous êtes en train de le faire. Sous **l’onglet** Courrier, **sélectionnez Gérer le forwarding de courrier.**
 
-Pour plus d’informations, consultez la rubrique [configurer le transfert du courrier électronique dans Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+> S’il s’agit d’une boîte aux lettres partagée, sélectionnez la boîte aux lettres partagée que vous êtes en train  \>  de forwarder. Sélectionnez **Modifier** pour le forwarding du courrier électronique.
+
+Pour plus d’informations, voir [Configurer le forwarding de courrier dans Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
   
-Pour envoyer des instructions aux utilisateurs afin qu’ils puissent configurer le transfert du courrier sur leurs propres boîtes aux lettres, pointez-les vers [transférer le courrier de Microsoft 365 vers un autre compte de messagerie](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Veuillez noter que vous pouvez transférer à une seule adresse de messagerie. Si vous devez configurer le transfert vers un groupe de personnes, créez une liste de distribution (sous **groupes**), ajoutez-y vos utilisateurs, puis configurez le transfert vers ce groupe.
+Pour envoyer des instructions à vos utilisateurs afin qu’ils peuvent configurer le forwarding de courrier sur leurs propres boîtes aux lettres, pointez-les vers Le courrier électronique de [Microsoft 365](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)vers un autre compte de messagerie. Notez que vous ne pouvez envoyer qu’une seule adresse de messagerie. Si vous devez configurer le forwarding vers un groupe de personnes, créez une liste de distribution (sous **Groupes),** ajoutez vos utilisateurs à celui-ci, puis configurez le forwarding vers ce groupe.
   
-Un employé quitte-t-il ? Pour connaître les étapes recommandées, consultez la rubrique [supprimer un ancien employé de Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) .
+Avez-vous un employé qui part ? Pour obtenir les étapes recommandées, voir Supprimer un ancien [employé de Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
