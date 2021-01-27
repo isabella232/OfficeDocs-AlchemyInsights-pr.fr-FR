@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 3cde8bb419d79506e101cd75fde6fcb69aa2441c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800966"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951823"
 ---
 # <a name="set-up-insider-risk-management"></a>Configurer la gestion des risques internes
 
-Utilisez les stratégies de gestion des risques internes pour identifier les activités risquées et les outils de gestion afin d’agir sur les alertes de risque au sein de votre organisation. Avant de démarrer la gestion des risques internes, vous devez confirmer votre **abonnement Microsoft 365**. Pour accéder à la gestion des risques internes et l’utiliser, votre organisation **doit** avoir l’un des abonnements suivants:
+Pour accéder à la gestion des risques internes et l’utiliser, votre organisation **doit** avoir l’un des abonnements suivants:
 
 - Abonnement **Microsoft 365 E5**.
 
@@ -29,16 +29,10 @@ Utilisez les stratégies de gestion des risques internes pour identifier les act
 
 Si vous n’avez pas de plan **Microsoft 365 E5** existant et que vous voulez essayer la gestion des risques internes, vous pouvez ajouter Microsoft 365 à votre abonnement existant ou vous inscrire à un essai de Microsoft 365 Entreprise E5.
 
-Les étapes de base de l’utilisation de la gestion des risques internes sont les suivantes :
-
-1. Activez les autorisations pour la gestion des risques internes.
-
-2. Activer le journal d’audit.
-
-3. Configurez les conditions préalables du modèle (facultatif).
-
-4. Configurez les paramètres des risques internes.
-
-5. Créez une stratégie de gestion des risques internes.
+> [! CONSEILS]
+- > Utilisation du modèle « Fuites de données » : vérifiez que vous disposez au moins d’une stratégie DLP configurée.
+- > L’administrateur ne voit pas les alertes : vérifiez que l’utilisateur appartient à l’un des groupes suivants :
+    - >**Analystes de la gestion des risques internes.**
+    - >**Enquêteurs sur la gestion des risques internes.**
 
 Pour plus d’informations sur la manière dont les stratégies de gestion des risques internes peuvent vous aider à gérer les risques au sein de votre organisation, voir [Gestion des risques internes dans Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
