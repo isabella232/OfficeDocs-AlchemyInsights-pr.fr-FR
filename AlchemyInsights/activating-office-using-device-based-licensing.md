@@ -1,5 +1,5 @@
 ---
-title: Activation d’Office à l’aide d’une licence basée sur les appareils
+title: Activation d’Office à l’aide de licences basées sur l’appareil
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697879"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094035"
 ---
-# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="75bb0-102">Activation d’Office à l’aide d’une licence basée sur les appareils</span><span class="sxs-lookup"><span data-stu-id="75bb0-102">Activating Office using device-based licensing</span></span>
+# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="6e7cd-102">Activation d’Office à l’aide de licences basées sur l’appareil</span><span class="sxs-lookup"><span data-stu-id="6e7cd-102">Activating Office using device-based licensing</span></span>
+
+<span data-ttu-id="6e7cd-103">Les licences basées sur les appareils pour Microsoft 365 Apps pour entreprise sont disponibles sous la licence uniquement pour certains clients commerciaux et certains clients de l’éducation.</span><span class="sxs-lookup"><span data-stu-id="6e7cd-103">Device-based licensing for Microsoft 365 Apps for enterprise is available as a license only for some commercial customers and some education customers.</span></span> <span data-ttu-id="6e7cd-104">Pour plus d’informations, voir : Licences basées [sur les appareils pour Les applications Microsoft 365 pour les entreprises](https://docs.microsoft.com/deployoffice/device-based-licensing)</span><span class="sxs-lookup"><span data-stu-id="6e7cd-104">For detailed information, see: [Device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)</span></span>
+
+<span data-ttu-id="6e7cd-105">Pour activer Microsoft 365 Apps for enterprise à l’aide de la gestion des licences basée sur l’appareil, voir :</span><span class="sxs-lookup"><span data-stu-id="6e7cd-105">To activate Microsoft 365 Apps for enterprise using Device-based licensing, see:</span></span>
+
+- [<span data-ttu-id="6e7cd-106">Conditions requises pour l’utilisation des licences basées sur les appareils pour Microsoft 365 Apps for enterprise</span><span class="sxs-lookup"><span data-stu-id="6e7cd-106">Requirements for using device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [<span data-ttu-id="6e7cd-107">Étapes de configuration de la gestion des licences basées sur les appareils pour Microsoft 365 Apps for enterprise</span><span class="sxs-lookup"><span data-stu-id="6e7cd-107">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+<span data-ttu-id="6e7cd-108">Pour obtenir des conseils sur la résolution des problèmes, voir Résoudre les problèmes de gestion des licences basées sur les appareils [pour Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span><span class="sxs-lookup"><span data-stu-id="6e7cd-108">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="75bb0-103">[L’activation basée sur un appareil](https://aka.ms/officedba) Office pour les clients de l’éducation américaine est désormais déconseillée.</span><span class="sxs-lookup"><span data-stu-id="75bb0-103">Office [Device Based Activation](https://aka.ms/officedba) for U.S. education customers is now deprecated.</span></span> <span data-ttu-id="75bb0-104">Nous encourageons les organisations à planifier la nouvelle licence Microsoft 365 Apps for Education (Device) pour les clients de l’éducation.</span><span class="sxs-lookup"><span data-stu-id="75bb0-104">We encourage organizations to plan for the new Microsoft 365 Apps for Education (device) license for education customers.</span></span>
-
-<span data-ttu-id="75bb0-105">Pour activer Office à l’aide d’une licence basée sur les appareils, vous devez disposer de la licence de module complémentaire Microsoft 365 Apps for Education (Device) qui est uniquement disponible pour les clients de l’éducation et qui n’est disponible que par le biais de l’inscriptions à Education solutions (EES).</span><span class="sxs-lookup"><span data-stu-id="75bb0-105">To activate Office using device-based licensing, you need to have the Microsoft 365 Apps for Education (device) add-on license that is available only for education customers and is available only through Enrollment for Education Solutions (EES).</span></span> <span data-ttu-id="75bb0-106">Veuillez consulter la [Configuration requise pour l’utilisation des licences basées sur les appareils pour les applications Microsoft 365 pour les entreprises](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span><span class="sxs-lookup"><span data-stu-id="75bb0-106">Please see [Requirements for using device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
-
-
-<span data-ttu-id="75bb0-107">Pour plus d’informations sur le programme d’installation, voir :</span><span class="sxs-lookup"><span data-stu-id="75bb0-107">For detailed information on setup, see:</span></span>
-
-- [<span data-ttu-id="75bb0-108">Étapes de configuration de la gestion des licences basées sur les appareils pour les applications Microsoft 365 pour les entreprises</span><span class="sxs-lookup"><span data-stu-id="75bb0-108">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [<span data-ttu-id="75bb0-109">Gérer les licences pour les appareils</span><span class="sxs-lookup"><span data-stu-id="75bb0-109">Manage licenses for devices</span></span>](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-<span data-ttu-id="75bb0-110">Pour plus d’informations sur la résolution des problèmes, consultez la rubrique [Troubleshoot Device-based Licensing for Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span><span class="sxs-lookup"><span data-stu-id="75bb0-110">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
+> <span data-ttu-id="6e7cd-109">Si Microsoft 365 Apps est déjà installé et activé avec la licence d’abonnement utilisateur ou l’activation d’ordinateurs partagés, vous devez réinitialiser l’état de la licence sur l’appareil avant de passer à la gestion des licences basée sur l’appareil.</span><span class="sxs-lookup"><span data-stu-id="6e7cd-109">If Microsoft 365 Apps are already installed and activated with user-based subscription licensing or shared computer activation, you will need to reset the license state on the device before it will transition over to device-based licensing.</span></span> <span data-ttu-id="6e7cd-110">Pour réinitialiser l’état d’activation, voir Réinitialiser l’état d’activation des applications [Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) pour entreprise</span><span class="sxs-lookup"><span data-stu-id="6e7cd-110">To reset the activation state, see [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span></span>
