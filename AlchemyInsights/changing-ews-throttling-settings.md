@@ -13,15 +13,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 9accb3cb9d5d6e2eeed6e76452f3f1cff4f563f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714137"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075895"
 ---
 # <a name="changing-ews-throttling-settings"></a>Modification des paramètres de limitation du service EWS
 
-Exécutez nos tests automatisés pour vous permettre de modifier la stratégie de limitation du service EWS pour la durée de votre migration.
+Exécutez nos tests automatisés pour vous permettre de modifier la stratégie de limitation du service EWS pour la durée de votre migration. Notez que, même une fois cette action exécuté, les importations EWS restent limitées à 150 Mo par 5 minutes par boîte aux lettres. Afin d’augmenter le débit de migration, migrez davantage d’utilisateurs simultanément.
 
 Notez que les modifications apportées à la stratégie de limitation de l’application EWS n’ont aucun effet sur les types de migration suivants (à l’aide des outils Microsoft) : hybride, basculement/intermédiaire (RPC/HTTP), IMAP, G suite, dossier public ou service d’importation PST.
