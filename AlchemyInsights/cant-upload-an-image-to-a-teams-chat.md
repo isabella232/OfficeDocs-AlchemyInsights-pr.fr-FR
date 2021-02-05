@@ -1,5 +1,5 @@
 ---
-title: Can’t upload an image to a Teams chat
+title: Nous n’avons pas pu charger une image dans une conversation Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "6212"
 ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
 ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 01/22/2021
 ms.locfileid: "49936217"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Can’t upload an image to a Teams chat
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Nous n’avons pas pu charger une image dans une conversation Teams
 
 Suggestions de résolution des problèmes :
 
-- Si vous utilisez Teams sur le web, essayez un autre navigateur. Pour obtenir la liste des navigateurs pris en charge, consultez la section « Navigateurs » des limites et [spécifications de Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
-- Vérifiez la compatibilité de votre matériel et de votre système d’exploitation. Pour plus d’informations, voir [Configuration matérielle requise pour Microsoft Teams.](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
-- Vérifiez que vous avez la dernière version de Teams. Pour plus d’informations, voir [le processus de mise à jour de Teams](https://docs.microsoft.com/microsoftteams/teams-client-update) pour plus d’informations.
+- Si vous utilisez Teams sur le web, essayez un autre navigateur. Si vous souhaitez en savoir plus sur les navigateurs pris en charge, veuillez consulter la section « Navigateurs » de la page [Limites et spécifications de Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
+- Vérifiez la compatibilité de votre matériel et de votre système d’exploitation. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Configuration matérielle requise pour Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
+- Vérifiez que vous disposez de la dernière version de Teams. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Processus de mise à jour de Teams](https://docs.microsoft.com/microsoftteams/teams-client-update).
