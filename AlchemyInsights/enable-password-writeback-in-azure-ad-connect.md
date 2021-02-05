@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560438"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093353"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Activer l'écriture différée de mot de passe dans Azure AD Connect
 
@@ -43,4 +43,4 @@ Avec l’écriture différée de mot de passe activée dans Azure AD Connect, co
 Pour plus d’informations, voir [Activer l’écriture différée de réinitialisation de mot de passe en libre-service Azure Active Directory dans un environnement local](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Lorsqu’un administrateur réinitialise le mot de passe d’un utilisateur dans le portail Azure, s’il est fédéré ou si le hachage de mot de passe est synchronisé, le mot de passe est replacé dans l’instance locale. Cette fonctionnalité n’est pas prise en charge pour le moment dans le Portail d’administration Office.
+>  Lorsqu’un administrateur réinitialise le mot de passe d’un utilisateur dans le portail Azure, s’il est fédéré ou si le hachage de mot de passe est synchronisé, le mot de passe est replacé dans l’instance locale. Cette fonctionnalité nécessite une licence Azure Premium (P1 ou P2) et n’est actuellement pas prise en charge dans le portail d’administration Office.
