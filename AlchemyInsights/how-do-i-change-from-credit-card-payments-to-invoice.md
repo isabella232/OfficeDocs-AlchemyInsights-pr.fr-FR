@@ -1,37 +1,35 @@
 ---
-title: Comment passer d’un paiement par carte de crédit à une facture ?
+title: Comment puis-je changer de paiement par carte de crédit en paiement par facture ?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286732"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152304"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Comment passer d’un paiement par carte de crédit à une facture ?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Comment puis-je changer de paiement par carte de crédit en paiement par facture ?
 
 > [!NOTE]
-> L’option de paiement par facture n’est disponible que si votre abonnement coûte sur un certain montant (ce qui varie en fonction de l’emplacement du service). Une vérification de solvabilité sera peut-être requise pour les paiements par facture d'un montant élevé. Pour en savoir plus, consultez [la rubrique paiement de votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> Vous ne pouvez modifier le paiement par facture que si le coût de votre abonnement dépasse un certain montant. Vous devez d’abord régler tout solde en suspens sur la carte bancaire ou bancaire ou le compte bancaire avant de pouvoir modifier le paiement par facture.
 
 1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Recherchez l’abonnement que vous souhaitez modifier. Sous **facturation**, en regard de mode de paiement, sélectionnez **modifier**.
-3. En regard de votre mode de paiement existant, sélectionnez **modifier**.
-4. Dans le menu déroulant, sélectionnez **facture ou virement bancaire**.
-5. Entrez votre nom, votre adresse et votre numéro de téléphone. Vous pouvez également ajouter un numéro de bon de commande à afficher sur la facture.
-6. Quand vous avez terminé, sélectionnez **Enregistrer**.
-7. Vérifiez que le mode de paiement sélectionné est correct, puis sélectionnez **Enregistrer**.
+2. Sous **l’onglet** Produits, recherchez l’abonnement que vous souhaitez payer avec l’autre mode de paiement.
+3. Sélectionnez **Plus d’actions** (trois points), puis **sélectionnez Remplacer le mode de paiement.**
+4. Dans le **volet Remplacer le mode de** paiement, **sélectionnez Ajouter un mode de paiement.**
+5. Dans le **volet Ajouter un mode** de paiement, sélectionnez Facture ou virement **bancaire.**
+6. Entrez votre nom, votre adresse et votre numéro de téléphone. Vous pouvez également ajouter un numéro de bon de saisie à afficher sur la facture.
+7. Quand vous avez terminé, sélectionnez **Enregistrer**.
 
-Pour en savoir plus, consultez [la rubrique modifier votre mode de paiement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Pour en savoir plus, [consultez comment payer votre abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

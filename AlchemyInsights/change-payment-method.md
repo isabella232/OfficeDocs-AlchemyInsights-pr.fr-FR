@@ -8,22 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681816"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152376"
 ---
 # <a name="change-payment-method"></a>Changer votre mode de paiement
 
-Vous pouvez modifier le mode de paiement à partir du **Centre d’administration Microsoft 365**.
+Vous pouvez modifier le mode de paiement à partir du **Centre d’administration Microsoft 365.**
   
 1. Dans le Centre d’administration, accédez à la page **Facturation** > **Factures et paiements** > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Sélectionnez la ligne du mode de paiement à changer. Le volet droit répertorie tous les profils de facturation et les abonnements individuels qui utilisent le moyen de paiement sélectionné.
@@ -35,6 +34,6 @@ Vous pouvez modifier le mode de paiement à partir du **Centre d’administratio
 6. Dans le volet **Ajouter un mode de paiement**, entrez les informations de compte, puis sélectionnez **Enregistrer**. Vous devez utiliser un mode de paiement provenant du même pays que celui de votre client.
 7. Le nouveau mode de paiement est déjà sélectionné dans la liste déroulante. Sélectionnez **Remplacer**.
 
-Pour plus d’informations, consultez [Gérer les modes de paiement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Pour découvrir comment ajouter, mettre à jour, remplacer ou supprimer des modes de paiement, voir Gérer les [modes de paiement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Pour savoir comment passer du paiement par carte de crédit au paiement de factures, consultez la rubrique [changer de carte de crédit ou compte bancaire en facture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Pour savoir comment changer d’un mode de paiement à l’autre, voir [comment payer votre abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
