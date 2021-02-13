@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287136"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232365"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Comment effectuer un achat Microsoft 365
 
-Vous pouvez acheter un abonnement Microsoft 365 dans le centre d’administration.
+Vous pouvez acheter un abonnement Microsoft 365 dans le Centre d’administration.
   
-- Pour acheter un forfait, accédez à la **Billing** \> page [services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturation.
-- Pour acheter des licences supplémentaires, accédez à la page **facturation** \> [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) . Sélectionnez l’abonnement que vous souhaitez modifier, puis cliquez sur **acheter des licences** ou **supprimer des licences**.
+- Pour acheter un plan, allez sur la page **Des** \> **[services d’achat de facturation.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Pour acheter des licences supplémentaires, allez sur la page **Facturation** de \> **[vos produits.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Sélectionnez l’abonnement à modifier, puis **sélectionnez Acheter des licences**.\
+**REGARDez une vidéo** qui montre comment faire : [acheter de nouvelles licences](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Pour en savoir plus, consultez [la rubrique acheter des licences pour votre abonnement Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Pour en savoir plus, voir [Acheter ou supprimer des licences.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Résolution des problèmes**
 
@@ -35,5 +35,5 @@ Si vous ne réussissez pas à charger une page, essayez d’ouvrir la page web d
 
 **Ressources supplémentaires**
   
-- [Attribuer des licences aux utilisateurs dans Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Annuler Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Attribuer des licences à des utilisateurs dans Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Annuler Microsoft 365 Entreprise](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

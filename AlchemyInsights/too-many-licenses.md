@@ -1,9 +1,8 @@
 ---
-title: Trop de licences ?
+title: Trop de licences ?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "540"
 - "1500027"
-ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: a093cd0ac2bc4d165a91276e7a5f1a14a8b7736f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307232"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231969"
 ---
-# <a name="too-many-licenses"></a>Trop de licences ?
+# <a name="too-many-licenses"></a>Trop de licences ?
 
-Si vous pensez que vous êtes facturé pour un trop grand nombre de licences, cela est généralement dû à l’acquisition de licences supplémentaires.
+Si vous pensez que vous êtes facturé pour un trop grand nombre de licences, cela est généralement dû à l’achat de plus de licences dont vous avez besoin.
   
 **Réduire le nombre de licences achetées**
+
+**REGARDez une vidéo** qui montre comment faire : [Supprimer des licences existantes](https://go.microsoft.com/fwlink/p/?linkid=2154938)
   
 1. Dans le centre d’administration, accédez à la page **Facturation** \> **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Sous l’onglet **produits** , sélectionnez l’abonnement que vous souhaitez modifier.
-3. Sur la page Détails de l’abonnement, sélectionnez **supprimer des licences**.
-4. Dans le volet **Supprimer les licences** , sous **nouvelle quantité** dans la zone **nombre total de licences** , entrez le nombre total de licences que vous souhaitez pour cet abonnement. Par exemple, si vous avez 100 licences et que vous souhaitez en supprimer 25, entrez 75.
+2. Sur l’onglet **Produits**, sélectionnez l’abonnement que vous souhaitez modifier.
+3. Dans la page détails de l’abonnement, **sélectionnez Supprimer des licences.**
+4. Dans le volet Supprimer des  **licences,** sous Nouvelle quantité dans la zone Nombre total de **licences,** entrez le nombre total de licences que vous souhaitez pour cet abonnement. Par exemple, si vous avez 100 licences et que vous souhaitez en supprimer 25, entrez 75.
 5. Sélectionnez **Enregistrer**.
 
-Pour en savoir plus, consultez la rubrique [acheter ou supprimer des licences d’abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Pour en savoir plus, voir [Acheter ou supprimer des licences.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
