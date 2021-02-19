@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 1385d015052ccc9c056cdb9e6a45e86177031c9b
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277902"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291718"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Aide avec la présence dans Microsoft Teams
 
-La présence fait partie du profil d’un utilisateur dans Microsoft Teams (et dans Microsoft 365 ou Office 365). Teams détecte automatiquement l’état (disponible, occupé (e), occupé (e) dans une réunion, ne dérangent pas et n’ajuste pas vos informations de présence. Par défaut, tous les membres qui utilisent Teams dans votre organisation peuvent voir (en temps quasi-réel) si d’autres utilisateurs sont disponibles en ligne.
+La présence fait partie du profil d’un utilisateur dans Microsoft Teams (et dans Microsoft 365 ou Office 365). 
 
-Votre état de présence actuel passe à **Absent** lorsque vous verrouillez votre ordinateur ou lorsqu’il entre en mode d’inactivité ou de veille. Sur les appareils mobiles, le statut de présence passe à **Absent** lorsque l’application Teams est en arrière-plan.
+Votre état de présence actuel passe à **Absent** lorsque vous verrouillez votre ordinateur ou lorsqu’il entre en mode d’inactivité ou de veille. Sur les appareils mobiles, le statut de présence passe à **Absent** lorsque l’application Teams est en arrière-plan. Si l’état de présence n’apparaît pas dans Teams après la reprise depuis un état inactif, veillez à disposer de la dernière version de Teams, puis à patienter 3 minutes le temps que l’état soit à jour. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Your actual presence status isn't reflected in Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
 
-Pour plus d’informations sur les états de présence, consultez [Présence de l’utilisateur dans Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+Si l’état du contact est inconnu, suivez la procédure de la rubrique https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown pour résoudre le problème.
+Si vous souhaitez en savoir plus sur les états de présence, veuillez consulter la rubrique [Présence des utilisateurs dans Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
 
-Microsoft [déploie une mise à jour importante](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence) sur la présence de Microsoft Teams. Nous avons remanié la présence afin de prendre en charge les mises à jour en temps réel, ce qui permet d’améliorer la fiabilité de l’indicateur de présence.
