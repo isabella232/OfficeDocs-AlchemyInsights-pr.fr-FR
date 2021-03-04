@@ -13,12 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: 24330dffb38be14dd369960ff86d4650d60c55ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701281"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416311"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Suppression des données et réinitialisation d’appareils dans Intune
 
@@ -27,11 +29,14 @@ Les actions à distance Mise hors service et Réinitialisation peuvent être uti
 1. Connectez-vous à la gestion des appareils Microsoft 365 et accédez à **Appareils** > **Tous les appareils**.
 2. Sélectionnez l’appareil que vous voulez réinitialiser.
 3. Sélectionnez le type de réinitialisation à distance que vous voulez effectuer. La mise hors service supprime uniquement les informations de l’organisation, tandis que les réinitialisations complètes restaurent les paramètres par défaut de l’appareil.
-4. Cliquez sur **Oui** pour confirmer. Jusqu’à la fin de la réinitialisation, l’état d’action de l’appareil indique comme Mise hors service en attente.</br>
+4. Cliquez sur **Oui** pour confirmer. Jusqu’à la fin de la réinitialisation, l’état d’action de l’appareil indique comme *Mise hors service en attente*.
     Une fois l’action terminée, vous ne verrez plus l’appareil mobile dans la liste des appareils gérés.
 
-**Remarque** les données de l’entreprise ne peuvent pas être supprimées des appareils joints à Azure AD.
+> [!NOTE]
+> Les données de l’entreprise ne peuvent pas être supprimées des appareils joints à Azure AD. 
 
-Pour plus d’informations sur l’effet des actions de Mise hors service et Réinitialisation, notamment les éléments conservés et les éléments supprimés, consultez [Supprimer des appareils à l’aide de l’opération de réinitialisation, de mise hors service ou de désinscription manuelle de l’appareil](https://docs.microsoft.com/intune/devices-wipe).
+Pour plus d’informations sur l’effet des actions de Mise hors service et Réinitialisation, notamment les éléments conservés et les éléments supprimés, consultez la documentation suivante :
 
-Pour effacer toutes les données d’un appareil macOS, consultez [Effacer toutes les données d’un appareil macOS](https://docs.microsoft.com/intune/device-erase).
+- [Supprimez des appareils à l’aide d’un effacement, d’une mettre hors service ou d’un programme d’inscription manuelle de l'appareil](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [Effacement des données d’entreprise provenant d’applications gérées par Intune uniquement](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Effacer toutes les données d’un appareil macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
