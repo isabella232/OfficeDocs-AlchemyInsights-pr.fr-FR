@@ -2,36 +2,35 @@
 title: Acheter Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693337"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469624"
 ---
-# <a name="purchase-power-bi"></a><span data-ttu-id="1483c-102">Acheter Power BI</span><span class="sxs-lookup"><span data-stu-id="1483c-102">Purchase Power BI</span></span>
+# <a name="purchase-power-bi"></a><span data-ttu-id="ba5b4-102">Acheter Power BI</span><span class="sxs-lookup"><span data-stu-id="ba5b4-102">Purchase Power BI</span></span>
 
-<span data-ttu-id="1483c-103">Power BI peut être acheté dans le **Centre d’administration 365 de Microsoft**.</span><span class="sxs-lookup"><span data-stu-id="1483c-103">Power BI can be purchased in the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="ba5b4-103">Power BI peut être acheté dans le Centre d’administration **Microsoft 365.**</span><span class="sxs-lookup"><span data-stu-id="ba5b4-103">Power BI can be purchased in the **Microsoft 365 admin center**.</span></span>
 
-1. <span data-ttu-id="1483c-104">Accédez à la page \*\* [services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433) > de facturation\*\* .</span><span class="sxs-lookup"><span data-stu-id="1483c-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
+1. <span data-ttu-id="ba5b4-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span><span class="sxs-lookup"><span data-stu-id="ba5b4-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
+2. <span data-ttu-id="ba5b4-105">Utilisez la zone de recherche pour rechercher « Power BI ».</span><span class="sxs-lookup"><span data-stu-id="ba5b4-105">Use the Search box to search for "Power BI".</span></span>
+3. <span data-ttu-id="ba5b4-106">Sélectionnez l’offre Power BI que vous souhaitez acheter, sélectionnez **Détails,** puis sélectionnez **Acheter.**</span><span class="sxs-lookup"><span data-stu-id="ba5b4-106">Select the Power BI plan you want to buy, select **Details**, then select **Buy**.</span></span>
+4. <span data-ttu-id="ba5b4-107">Entrez le nombre de licences dont vous avez besoin et choisissez de payer chaque mois ou pour l’année entière.</span><span class="sxs-lookup"><span data-stu-id="ba5b4-107">Enter the number of licenses that you need and choose whether to pay each month or for the whole year.</span></span> <span data-ttu-id="ba5b4-108">Choisissez si vous souhaiter attribuer automatiquement des licences à tous vos utilisateurs qui n’en ont pas actuellement.</span><span class="sxs-lookup"><span data-stu-id="ba5b4-108">Choose whether you want to automatically assign licenses to everyone who does not currently have a license.</span></span> <span data-ttu-id="ba5b4-109">Puis sélectionnez **Payer maintenant**.</span><span class="sxs-lookup"><span data-stu-id="ba5b4-109">Then select **Check out now**.</span></span>
+5. <span data-ttu-id="ba5b4-110">Vérifiez les informations concernant le tarif et sélectionnez **Suivant**.</span><span class="sxs-lookup"><span data-stu-id="ba5b4-110">Review the pricing information and select **Next**.</span></span>
+6. <span data-ttu-id="ba5b4-111">Fournissez vos informations de paiement, puis sélectionnez **Passer une commande** à La page  >  **d’accueil de l’administrateur.**</span><span class="sxs-lookup"><span data-stu-id="ba5b4-111">Provide your payment information, and then select **Place order** > **Go to Admin Home**.</span></span>
 
-2. <span data-ttu-id="1483c-105">Utilisez la zone de recherche pour effectuer une recherche sur « Power BI ».</span><span class="sxs-lookup"><span data-stu-id="1483c-105">Use the Search box to search on "Power BI".</span></span>
+<span data-ttu-id="ba5b4-112">Pour attribuer des licences aux utilisateurs, voir [Attribuer des licences aux utilisateurs.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="ba5b4-112">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-3. <span data-ttu-id="1483c-106">Sélectionnez le plan Power BI que vous souhaitez acheter.</span><span class="sxs-lookup"><span data-stu-id="1483c-106">Select the Power BI plan you want to purchase.</span></span>
-
-4. <span data-ttu-id="1483c-107">Sélectionnez le nombre d’utilisateurs qui utiliseront Power BI.</span><span class="sxs-lookup"><span data-stu-id="1483c-107">Select the number of users who will use Power BI.</span></span>
-
-<span data-ttu-id="1483c-108">Pour attribuer des licences aux utilisateurs, consultez la rubrique [attribuer des licences aux utilisateurs](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="1483c-108">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
-
-<span data-ttu-id="1483c-109">Pour acheter d’autres licences ou supprimer des licences, consultez [Ajouter/supprimer des licences pour les abonnements.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)</span><span class="sxs-lookup"><span data-stu-id="1483c-109">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="ba5b4-113">Pour acheter ou supprimer des licences, voir Acheter ou supprimer [des licences pour votre abonnement commercial.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)</span><span class="sxs-lookup"><span data-stu-id="ba5b4-113">To buy more or remove licenses, see [Buy or remove Licenses for your business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>

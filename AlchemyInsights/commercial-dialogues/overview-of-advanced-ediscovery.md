@@ -1,0 +1,30 @@
+---
+title: Présentation de Advanced eDiscovery
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 02/26/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "3200003"
+- "7221"
+ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
+ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464608"
+---
+# <a name="overview-of-advanced-ediscovery"></a><span data-ttu-id="27ac2-102">Présentation de Advanced eDiscovery</span><span class="sxs-lookup"><span data-stu-id="27ac2-102">Overview of Advanced eDiscovery</span></span>
+
+<span data-ttu-id="27ac2-103">Advanced eDiscovery vous permet d’analyser vos données non structurées afin de réduire les coûts d’eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="27ac2-103">Advanced eDiscovery lets you analyze your unstructured data to help reduce eDiscovery cost.</span></span> <span data-ttu-id="27ac2-104">Vous pouvez appliquer des fonctionnalités d’analyse de texte, d’apprentissage automatique, de pertinence et de codage prédictif.</span><span class="sxs-lookup"><span data-stu-id="27ac2-104">You can apply text analytics, machine learning, and relevance/predictive coding.</span></span> <span data-ttu-id="27ac2-105">Voici quelques conseils :</span><span class="sxs-lookup"><span data-stu-id="27ac2-105">Here are some tips:</span></span>
+
+- <span data-ttu-id="27ac2-106">La fonctionnalité Advanced eDiscovery nécessite un abonnement E5 pour votre organisation ou un abonnement Office 365 E3 avec le module de conformité avancée.</span><span class="sxs-lookup"><span data-stu-id="27ac2-106">The Advanced eDiscovery feature requires either an E5 subscription for your organization or an Office 365 E3 subscription with the Advanced Compliance add-on.</span></span>
+- <span data-ttu-id="27ac2-107">Pour créer un cas advanced eDiscovery, allez dans le Centre de sécurité [& conformité](https://go.microsoft.com/fwlink/p/?linkid=2077143) et sélectionnez **eDiscovery**  >  **Advanced eDiscovery**.</span><span class="sxs-lookup"><span data-stu-id="27ac2-107">To create a new Advanced eDiscovery case, go to the [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143) and select **eDiscovery** > **Advanced eDiscovery**.</span></span>
+- <span data-ttu-id="27ac2-108">Pour plus d’informations, voir [Vue d’ensemble de Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101588).</span><span class="sxs-lookup"><span data-stu-id="27ac2-108">For more information, see [Overview of Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101588).</span></span>
+- <span data-ttu-id="27ac2-109">Pour plus d’informations sur les étapes nécessaires pour configurer Advanced eDiscovery, voir [Configurer Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2122672)</span><span class="sxs-lookup"><span data-stu-id="27ac2-109">For information on the necessary steps to set up Advanced eDiscovery, see [Set up Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2122672).</span></span>
