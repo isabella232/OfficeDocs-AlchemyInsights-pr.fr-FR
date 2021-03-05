@@ -1,10 +1,10 @@
 ---
-title: Déploiement d’Office dans le Guide de l’utilisateur
+title: Guide de déploiement d’Office pour vos utilisateurs
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004198"
 - "7379"
-ms.openlocfilehash: 4eb1deb2326afc8cb7b54a7ee89cd5f8f7a540c9
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "2000022"
+- "871"
+ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609601"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448677"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Déploiement d’Office dans le Guide de l’utilisateur
+# <a name="deploy-office-to-your-users-guide"></a>Guide de déploiement d’Office pour vos utilisateurs
 
-Déployez les applications Office à partir du Cloud avec la possibilité de personnaliser votre installation à l’aide de l’outil déploiement d’Office.
+Déployez des applications Office à partir du cloud avec la possibilité de personnaliser votre installation à l’aide de l’outil Déploiement d’Office.
 
-Le guide « déployer Office vers vos utilisateurs » vous aide à créer une configuration Office personnalisée avec des paramètres avancés, ou vous pouvez utiliser une configuration prédéfinie recommandée. Que les utilisateurs effectuent une auto-installation ou que vous déployez sur vos utilisateurs individuellement ou en bloc, cet Assistant avancé vous fournit des instructions détaillées pour permettre aux utilisateurs une installation Office adaptée à votre organisation.
+Le guide Déployer [Office pour](https://go.microsoft.com/fwlink/?linkid=2146451) vos utilisateurs vous aide à créer une configuration Office personnalisée avec des paramètres avancés, ou vous pouvez utiliser une configuration recommandée pré-conçue. Que vos utilisateurs effectuent une installation autonome ou que vous déployiez vos utilisateurs individuellement ou en bloc, cet Assistant avancé vous fournit des instructions pas à pas pour fournir aux utilisateurs une installation Office adaptée à votre organisation.
