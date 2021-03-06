@@ -3,8 +3,8 @@ title: Ajouter une signature d’entreprise globale ou une clause d’exclusion 
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/18/2020
-ms.audience: Admin
+ms.date: 02/19/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: ab0d3fc80b41b9017a6917817270438644f770b8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: cbd92f9c4a78139eac4e3672dd0632b173472757
+ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464774"
+ms.locfileid: "50508587"
 ---
 # <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>Ajouter une signature d’entreprise globale ou une clause d’exclusion de responsabilité pour tous les utilisateurs
 
@@ -31,7 +31,7 @@ Conseil : une signature à l’échelle de l’organisation est également appel
 5. Sous Appliquer cette règle, **sélectionnez Appliquer à tous les messages.**
 6. Sous Effectuer les opérations suivantes, laissez **Ajouter l'exclusion de responsabilité** sélectionné.
 7. Cliquez sur **Saisir du texte** et entrez votre exclusion de responsabilité.
-8. Cliquez **sur Sélectionner un,** choisissez **Wrap** en tant qu’option de alternative, puis cliquez sur **OK**. Ainsi, si l'exclusion de responsabilité ne peut pas être ajoutée parce que le chiffrement ou un autre paramètre de courrier est activé, elle sera encapsulée dans une enveloppe du message.
+8. Cliquez **sur Sélectionner** un, choisissez **Wrap** en tant qu’option de alternative, puis cliquez sur **OK**. Ainsi, si l'exclusion de responsabilité ne peut pas être ajoutée parce que le chiffrement ou un autre paramètre de courrier est activé, elle sera encapsulée dans une enveloppe du message.
 9. Laissez **l’audit de cette règle** avec le niveau de gravité sélectionné. Puis sélectionnez le niveau à utiliser dans le journal des messages : Faible, Moyen ou Élevé.
 10. Sélectionnez **Appliquer** pour activer immédiatement l'exclusion de responsabilité, sauf si vous souhaitez la tester au préalable.
 11. Sélectionnez **Autres options** pour inclure d'autres conditions ou exceptions.
