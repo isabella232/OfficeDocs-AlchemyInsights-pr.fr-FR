@@ -1,8 +1,8 @@
 ---
 title: Gestion des licences Visio
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "5116"
-ms.openlocfilehash: 870d25d054e4bba3641e27bed49c94c53220027c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 66232f742aaad0c119b413a1bd9697fed64dead8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726197"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468832"
 ---
 # <a name="visio-license-management"></a>Gestion des licences Visio
 
 La gestion des licences Visio peut être effectuée dans le **Centre d’administration Microsoft 365**.
 
-- Pour **changer d’offre**, consultez [Changer manuellement les offres Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Pour **acheter** Visio, accédez à **Facturation > [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Utilisez la zone de recherche pour effectuer une recherche sur « Visio », sélectionnez le forfait et le nombre d’utilisateurs. Pour plus d’informations, consultez [Acheter un abonnement](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- Pour **attribuer** des licences Visio, accédez à **Facturation > [Licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Pour plus d’informations, consultez [Affecter des licences](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Pour **Ajouter/supprimer** des licences pour Visio, accédez à **Facturation > [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Pour plus d’informations, consultez [Ajouter/supprimer des licences](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Pour **annuler** des licences Visio, accédez à **Facturation > [Produits & services](https://go.microsoft.com/fwlink/p/?linkid=842054),** sélectionnez **Paramètres & actions**, puis cliquez sur **Annuler l’abonnement**. Pour plus d’informations, consultez [Annuler votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
-- [Comparer les options de Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) découvrir les différences entre les plans Visio 1 et 2.
+- [Comparer les options de Visio](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1) découvrir les différences entre les plans Visio 1 et 2.
+- Pour **changer de plan**, consultez [Mise à niveau vers une autre plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Pour **acheter** Visio, accédez à **Facturation > [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Utilisez la zone de recherche pour effectuer une recherche sur « Visio », sélectionnez le forfait et le nombre d’utilisateurs. Pour plus d’informations, consultez [Acheter un autre abonnement](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Pour **attribuer** des licences Visio, accédez à **Facturation > [Licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Si vous souhaitez obtenir plus d’informations, consultez [Attribuer des licences aux utilisateurs](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Pour **Acheter ou supprimer** des licences Visio, accédez à **Facturation > [vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Pour plus d’informations, consultez [Acheter ou supprimer des licences](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+- Pour **Annuler** un abonnement Visio, accédez à **Facturation > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**, sélectionnez l’abonnement Visio, puis dans la section **Abonnement et paramètres de paiement**, sélectionnez **Annuler l’abonnement**. Pour plus d’informations, consultez [Annuler votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Pour plus d’informations, consultez [Gérer les licences d’abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Pour plus d’informations, consultez [Acheter ou supprimer des licences](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
