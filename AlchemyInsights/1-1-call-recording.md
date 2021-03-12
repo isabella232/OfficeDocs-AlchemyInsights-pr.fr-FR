@@ -1,5 +1,5 @@
 ---
-title: 1:1 enregistrement des appels
+title: Enregistrement des appels 1:1
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715706"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733847"
 ---
-# <a name="11-call-recording"></a>1:1 enregistrement des appels
+# <a name="11-call-recording"></a>Enregistrement des appels 1:1
 
-1:1 les modifications apportées à la stratégie d’enregistrement des appels dans teams seront bientôt disponibles. Pour plus d’informations, consultez la publication du centre de messages suivante :
+Les administrateurs doivent prendre des mesures dès maintenant pour continuer à autoriser les utilisateurs à enregistrer les appels 1:1.
+ 
+À compter du 12 avril 2021, nous allons commencer à appliquer une nouvelle option de stratégie d’appel Teams *AllowCloudRecordingForCalls*. 
 
-[1:1 présentation de la stratégie d’enregistrement des appels](https://admin.microsoft.com/AdminPortal/Home)
+Actuellement, les fonctionnalités d’enregistrement des appels 1:1 sont contrôlées par l’option *AllowCloudRecording* dans les stratégies de réunion Teams. Si vos utilisateurs sont autorisés à enregistrer des réunions Teams, ils peuvent également enregistrer des appels 1:1.
+
+Si vous préférez empêcher tous les utilisateurs d’enregistrer des appels 1:1, aucune action n’est nécessaire. L’option de stratégie d’appel *AllowCloudRecordingForCalls* sera $False par défaut.
+
+Cette modification est documentée dans la publication suivante du Centre de messages : (Mise à [jour) 1:1 Introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) de la stratégie d’enregistrement des appels pour définir l’option de stratégie d’appel Teams, vous devez utiliser Teams [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).
+
+Pour activer l’enregistrement des appels dans les appels **1:1** : Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+
+Pour désactiver l’enregistrement des appels dans les appels **1:1** : Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+

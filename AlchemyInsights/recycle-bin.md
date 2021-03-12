@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 417f1e343b94bf0397fa7fce067317f9ccc24bab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740977"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709212"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Restaurer des éléments dans SharePoint Online
 
-Lorsque vous supprimez des éléments dans SharePoint Online, ils sont conservés pendant 93 jours au total. Elles restent dans la corbeille du site toute la durée, sauf si vous les videz ou les supprimez. Dans ce cas, les éléments sont placés dans la corbeille de la collection de sites, où ils restent pendant les 93 jours. À la fin de l’heure, les éléments sont supprimés définitivement. Pour restaurer des éléments supprimés à partir de la corbeille du site :
+Lorsque vous supprimez des éléments dans SharePoint Online, ils sont conservés pendant un total de 93 jours. Ils restent tout le temps dans la Corbeille du site, sauf si vous la videz ou supprimez les éléments de celui-ci. Dans ce cas, les éléments sont ajoutés à la Corbeille de la collection de sites, où ils restent pendant 93 jours. À la fin de l’heure, les éléments sont supprimés définitivement. Pour restaurer les éléments supprimés de la Corbeille du site :
   
-1. Accédez au site et cliquez sur **Corbeille** dans le volet de gauche. 
+1. Go to the site and click **Recycle bin** in the left pane. 
     
-    Si vous ne voyez pas la **Corbeille** dans le volet de gauche, cliquez sur l’icône des paramètres dans le coin supérieur droit, puis cliquez sur **contenu du site**. La corbeille se trouve à l’extrême droite de la barre de commandes en haut.
+    Si la Corbeille n’est pas dans le volet gauche, cliquez sur l’icône Paramètres en haut à droite, puis cliquez sur Contenu **du site.**  La Corbeille se trouve à l’extrême droite de la barre de commandes en haut.
     
-2. Sur la page **Corbeille** , sélectionnez les éléments que vous souhaitez restaurer en pointant dessus et en cliquant sur l’icône de coche qui s’affiche. 
+2. Dans  la page Corbeille, sélectionnez les éléments à restaurer en les pointant vers eux et en cliquant sur l’icône de coche qui s’affiche. 
     
 3. Cliquez sur **Restaurer**.
     
-[Restaurer des éléments supprimés à partir de la corbeille de la collection de sites](https://go.microsoft.com/fwlink/?linkid=866439)
+[Restaurer les éléments supprimés de la Corbeille de la collection de sites](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
   
 

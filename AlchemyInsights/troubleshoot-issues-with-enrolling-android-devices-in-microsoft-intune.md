@@ -1,5 +1,5 @@
 ---
-title: Résoudre les problèmes liés à l’enregistrement d’appareils Android dans Microsoft Intune
+title: Résoudre les problèmes d’inscription d’appareils Android dans Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,35 +13,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689952"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708996"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Résoudre les problèmes liés à l’enregistrement d’appareils Android dans Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Résoudre les problèmes d’inscription d’appareils Android dans Microsoft Intune
 
-Passez en revue les ressources indiquées ci-dessous pour résoudre votre problème dès maintenant.
+Examinez les ressources répertoriées ci-dessous pour résoudre votre problème maintenant.
   
-Voici quelques étapes de résolution et de problèmes courants :
+Quelques problèmes courants et étapes de résolution :
   
- **Erreur de périphérique non chiffré dans le portail d’entreprise :** Les versions plus récentes d’Android, en particulier à partir de la version 7.0, nécessitent un code secret de démarrage pour s’assurer que votre appareil est entièrement chiffré. Les solutions courantes sont l’activation d’un code confidentiel de démarrage ou le chiffrement complet de l’appareil. Pour plus d’informations, consultez [ce document](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) .
+ **Erreur d’appareil non chiffré dans le portail d’entreprise :** Les versions plus récentes d’Android, en particulier à partir de la version v7.0, nécessitent un code secret de démarrage pour s’assurer que votre appareil est entièrement chiffré. Les solutions courantes sont d’activer un code confidentiel de démarrage ou de chiffrer entièrement l’appareil. Pour plus [d’informations,](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) examinez ce document.
   
- Les **appareils ne parviennent pas à archiver avec le service Intune ou s’affichent comme « défectueux » dans la console d’administration Intune :** Certains appareils Samsung 4,4 et 5,5 ne peuvent pas archiver le service. Il existe trois solutions possibles à ce problème :
+ Les appareils ne parviennent pas à s’enregistrer avec le service Intune ou s’affichent comme « Défectueux » dans la **console d’administration Intune :** Certains appareils Samsung 4.4 et 5.5 peuvent ne pas être connectés au service. Il existe 3 solutions possibles à ce problème :
   
-1. Ouvrez manuellement l’application portail d’entreprise Intune, qui lance automatiquement une synchronisation d’appareil.
+1. Ouvrez manuellement l’application Portail d’entreprise Intune, qui lancera automatiquement une synchronisation d’appareil.
 
-2. Mettez à jour l’appareil vers Android 6,0 ou version ultérieure.
+2. Mettez à jour l’appareil vers Android 6.0 ou version supérieure.
 
-3. Désactivez le Gestionnaire intelligent Samsung de la gestion du portail d’entreprise Intune. Consultez [ce document](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) pour plus d’informations sur ces problèmes et solutions.
+3. Désactivez Samsung Smart Manager de la gestion du portail d’entreprise Intune. Pour [plus d’informations](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) sur ces problèmes et leurs résolutions, examinez ce document.
 
- **Type de licence utilisateur non valide** ou **nom d’utilisateur non reconnu :** l’utilisateur doit se voir attribuer une licence Intune ou EMS. Passez en revue ces documents pour attribuer une licence via : Centre d’administration Office ou portail Azure.
+ **Type de licence utilisateur non** valide ou erreur de nom d’utilisateur non reconnu **:** une licence Intune ou EMS doit être attribuée à l’utilisateur. Examinez ces documents pour attribuer une licence par le biais du Centre d’administration Office ou du portail Azure.
   
-Ressources supplémentaires pour vous aider à résoudre votre problème :
+Ressources supplémentaires pour vous aider à résoudre votre problème :
   
-1. Utilisez le [portail de résolution des problèmes Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) pour diagnostiquer et résoudre les échecs d’inscriptions courants. Pour plus d’informations, consultez [ce document](https://docs.microsoft.com/intune/help-desk-operators) .
+1. Utilisez [le portail de dépannage Intune pour](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostiquer et résoudre les échecs d’inscription courants. Pour [plus d’informations,](https://docs.microsoft.com/intune/help-desk-operators) examinez ce document.
 
-2. Consultez [ce document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) pour obtenir la liste des erreurs courantes qui empêchent l’inscription et la résolution de chacune d’elles.
+2. Examinez [ce document pour](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) obtenir la liste des erreurs courantes qui empêchent l’inscription et les résolutions à chacune d’elles.
 
-3. [Découvrez comment inscrire des appareils Android dans Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
+3. [Découvrez comment inscrire des appareils Android dans Microsoft Intune.](https://docs.microsoft.com/intune/android-enroll)

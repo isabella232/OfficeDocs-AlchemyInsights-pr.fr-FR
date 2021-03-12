@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: 0a1a394ace2ea8aa32ec82668dee8130dd4600ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772657"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708492"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Aucune option d’installation d’Office, de Visio ou de Project
 
 Pour installer les applications clientes Office, assurez-vous d’avoir un abonnement Office 365 ou Microsoft 365 [qui inclut les applications clientes Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), comme par exemple, Microsoft 365 Business Premium, les Applications Microsoft 365 pour les PME ou les Applications Microsoft 365 pour les grandes entreprises.
 
-**Remarque** : [Office Famille et Petite Entreprise](https://products.office.com/home-and-business) est un produit [Office pour les particuliers](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) qui ne fait pas partie d’un abonnement pour les entreprises. Project Online Essentials n’incluant pas de version de bureau de Project, aucune installation n’est requise. Les utilisateurs de Visio Plan 1 peuvent accéder à Visio sur le web, car le plan n’inclut pas l’application de version de bureau de Visio. Les applications de bureau Project et Visio ne sont pas disponibles sur Mac
+**Remarque** : [Office Famille et Petite Entreprise](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) est un produit [Office pour les particuliers](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) qui ne fait pas partie d’un abonnement pour les entreprises. Project Online Essentials n’incluant pas de version de bureau de Project, aucune installation n’est requise. Les utilisateurs de Visio Plan 1 peuvent accéder à Visio sur le web, car le plan n’inclut pas l’application de version de bureau de Visio. Les applications de bureau Project et Visio ne sont pas disponibles sur Mac
 
 Si vous avez un abonnement incluant des applications Microsoft 365, aucune option d’installation ne vous sera proposée, sauf si vous avez une [licence attribuée](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Si vous êtes l’administrateur Office 365 responsable de l’attribution de licences, voir [Attribuer des licences aux utilisateurs](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
