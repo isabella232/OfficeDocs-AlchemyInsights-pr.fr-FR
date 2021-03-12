@@ -1,5 +1,5 @@
 ---
-title: problèmes-partage-avec-Outlook-Client-Manager
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728249"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709248"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a><span data-ttu-id="d57eb-102">Problèmes de partage avec le gestionnaire de clients Outlook</span><span class="sxs-lookup"><span data-stu-id="d57eb-102">Problems sharing with Outlook Customer Manager</span></span>
+# <a name="problems-sharing-with-outlook-customer-manager"></a><span data-ttu-id="c9adc-102">Problèmes de partage avec Outlook Customer Manager</span><span class="sxs-lookup"><span data-stu-id="c9adc-102">Problems sharing with Outlook Customer Manager</span></span>
 
-<span data-ttu-id="d57eb-103">Si vous rencontrez des problèmes de partage avec le gestionnaire de clients Outlook, nous vous recommandons de commencer par effacer le cache de votre navigateur.</span><span class="sxs-lookup"><span data-stu-id="d57eb-103">If you're having sharing issues with Outlook Customer Manager we recommend that you first try clearing your browser cache.</span></span> <span data-ttu-id="d57eb-104">Par exemple dans Internet Explorer, vous devez :</span><span class="sxs-lookup"><span data-stu-id="d57eb-104">For example in Internet Explorer you would:</span></span>
+<span data-ttu-id="c9adc-103">Si vous avez des problèmes de partage avec outlook Customer Manager, nous vous recommandons d’essayer d’abord de vider le cache de votre navigateur.</span><span class="sxs-lookup"><span data-stu-id="c9adc-103">If you're having sharing issues with Outlook Customer Manager we recommend that you first try clearing your browser cache.</span></span> <span data-ttu-id="c9adc-104">Par exemple, dans Internet Explorer, vous devez :</span><span class="sxs-lookup"><span data-stu-id="c9adc-104">For example in Internet Explorer you would:</span></span>
 
-1. <span data-ttu-id="d57eb-105">Accédez à **paramètres**  >  **généraux** > paramètres sous **Browsing history**  >  **les bases de données et les caches**d’historique de navigation.</span><span class="sxs-lookup"><span data-stu-id="d57eb-105">Go to **Settings** > **General** > Settings under **Browsing history** > **Caches and databases**.</span></span>
-2. <span data-ttu-id="d57eb-106">Supprimez les fichiers de cache pour le site Web « outlookapps.com ».</span><span class="sxs-lookup"><span data-stu-id="d57eb-106">Delete cache files for the website "outlookapps.com."</span></span>
-3. <span data-ttu-id="d57eb-107">Redémarrez Outlook.</span><span class="sxs-lookup"><span data-stu-id="d57eb-107">Restart Outlook.</span></span>
+1. <span data-ttu-id="c9adc-105">Go to **Settings**  >  **General** > Settings under **Browsing history**  >  **Caches and databases**.</span><span class="sxs-lookup"><span data-stu-id="c9adc-105">Go to **Settings** > **General** > Settings under **Browsing history** > **Caches and databases**.</span></span>
+2. <span data-ttu-id="c9adc-106">Supprimer des fichiers cache pour le site web « outlookapps.com ».</span><span class="sxs-lookup"><span data-stu-id="c9adc-106">Delete cache files for the website "outlookapps.com."</span></span>
+3. <span data-ttu-id="c9adc-107">Redémarrez Outlook.</span><span class="sxs-lookup"><span data-stu-id="c9adc-107">Restart Outlook.</span></span>
 
-<span data-ttu-id="d57eb-108">Pour plus d’informations sur le partage, voir [partager des informations dans le gestionnaire de clients Outlook](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).</span><span class="sxs-lookup"><span data-stu-id="d57eb-108">For more information about sharing, see [Share information in Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).</span></span>
+<span data-ttu-id="c9adc-108">Pour plus d’informations sur le partage, voir [Partager des informations dans Outlook Customer Manager.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)</span><span class="sxs-lookup"><span data-stu-id="c9adc-108">For more information about sharing, see [Share information in Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).</span></span>
