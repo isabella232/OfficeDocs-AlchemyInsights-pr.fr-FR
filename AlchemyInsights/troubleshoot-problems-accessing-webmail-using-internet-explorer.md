@@ -1,5 +1,5 @@
 ---
-title: Résoudre les problèmes liés à l’accès à la messagerie Web
+title: Résoudre les problèmes liés à l’accès à la messagerie web
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: cc6fd9d874bb1a02a98d6d6c4c9991f0b02f91fb
-ms.sourcegitcommit: 77d16f186ac95e85be2528c4756f0dac9368fe92
+ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716587"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708024"
 ---
-# <a name="troubleshoot-problems-with-accessing-webmail"></a>Résoudre les problèmes liés à l’accès à la messagerie Web
+# <a name="troubleshoot-problems-with-accessing-webmail"></a>Résoudre les problèmes liés à l’accès à la messagerie web
 
-Des paramètres de date et d’heure incorrects sur votre PC peuvent entraîner des problèmes lors de l’accès aux serveurs de messagerie Web. Pour vérifier que les paramètres de date et d’heure sont corrects, procédez comme suit :
+Des paramètres de date et d’heure incorrects sur votre PC peuvent entraîner des problèmes d’accès aux serveurs de messagerie web. Pour vous assurer que les paramètres de date et d’heure sont corrects, suivez les étapes suivantes :
 
-1. Sélectionnez **Démarrer**, tapez **date et heure**, puis sélectionnez **date et heure**.
-2. Dans la fenêtre **date & heure** , effectuez l’une des opérations suivantes :
+1. Sélectionnez **Démarrer,** **tapez date et heure,** puis **sélectionnez Date et Heure.**
+2. Dans la **fenêtre & date et heure,** faites l’une des choses suivantes :
 
-    - Activer l' **heure définie automatiquement** et **définir le fuseau horaire automatiquement**.
+    - Activer **l’heure de l’ensemble automatiquement** et **définir le fuseau horaire automatiquement.**
 
-    - Conservez les paramètres automatiques désactivés, mais sélectionnez le bouton **modifier** , sélectionnez les paramètres de **Date** et d' **heure** dans la boîte de dialogue **modifier la date et l’heure** , puis sélectionnez **modifier**.
+    - Maintenez les paramètres automatiques  éteints, mais  sélectionnez le bouton Modifier, sélectionnez les paramètres **date** et heure dans la boîte de dialogue Modifier la **date** et l’heure, puis sélectionnez **Modifier.**
 
-Pour en savoir plus, consultez la rubrique [résolution des problèmes d’accès à webmail à l’aide d’Internet Explorer](https://go.microsoft.com/fwlink/?linkid=2139414).
+Pour plus d’informations, voir [Résoudre les problèmes d’accès à la messagerie web à l’aide d’Internet Explorer.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)

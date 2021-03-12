@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 5a8e374705d1d42bda96010e316859e801c234ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19010179dd7e40139678ea3eaf7baae237d304f2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716459"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707340"
 ---
 # <a name="install-sharepoint-apps"></a>Installer les applications SharePoint
 
@@ -28,4 +28,4 @@ Les applications pour SharePoint sont de petites applications, faciles à utilis
 -   [Configurer les paramètres de SharePoint Store](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings) pour les achats d’applications, en spécifiant si les utilisateurs peuvent obtenir des applications à partir du SharePoint Store.
 -   Si vous rencontrez des problèmes avec l’application, vous pouvez essayer de [supprimer](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c) et [rajouter](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb) l’application.
 
-Si vous souhaitez en savoir plus, veuillez consulter [Ajouter une application à un site](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).
+Si vous souhaitez en savoir plus, veuillez consulter [Ajouter une application à un site](https://support.microsoft.com/office/add-an-app-to-a-site-ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).
