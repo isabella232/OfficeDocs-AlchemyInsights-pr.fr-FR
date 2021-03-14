@@ -1,5 +1,5 @@
 ---
-title: Acheter ou version d’essai Microsoft Microsoft
+title: Achat ou version d’évaluation de Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "8335"
 ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
 ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 02/17/2021
 ms.locfileid: "50279874"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a><span data-ttu-id="86509-102">Acheter ou version d’essai Microsoft Microsoft</span><span class="sxs-lookup"><span data-stu-id="86509-102">Buy or Trial Microsoft Viva</span></span>
+# <a name="buy-or-trial-microsoft-viva"></a><span data-ttu-id="af9e4-102">Achat ou version d’évaluation de Microsoft Viva</span><span class="sxs-lookup"><span data-stu-id="af9e4-102">Buy or Trial Microsoft Viva</span></span>
 
-<span data-ttu-id="86509-103">Microsoft Topics est disponible ici pour l’achat ou la [version d’essai.](https://aka.ms/BuyVivaTopics)</span><span class="sxs-lookup"><span data-stu-id="86509-103">Microsoft Viva Topics is available to Buy or Trial [here](https://aka.ms/BuyVivaTopics).</span></span>
+<span data-ttu-id="af9e4-103">Les rubriques Microsoft Viva sont accessibles à l’achat ou en version d’évaluation [ici](https://aka.ms/BuyVivaTopics).</span><span class="sxs-lookup"><span data-stu-id="af9e4-103">Microsoft Viva Topics is available to Buy or Trial [here](https://aka.ms/BuyVivaTopics).</span></span>
 
-<span data-ttu-id="86509-104">Votre organisation devra utiliser l’un des abonnements suivants :</span><span class="sxs-lookup"><span data-stu-id="86509-104">Your organization will be required to be using one of the following subscriptions:</span></span>
+<span data-ttu-id="af9e4-104">Il sera exigé que votre organisation utilise l’un des abonnements suivants :</span><span class="sxs-lookup"><span data-stu-id="af9e4-104">Your organization will be required to be using one of the following subscriptions:</span></span>
 
-<span data-ttu-id="86509-105">Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium ou SharePoint K, Plan 1 ou Plan 2 pour être éligible aux rubriques Microsoft Topics.</span><span class="sxs-lookup"><span data-stu-id="86509-105">Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium, or SharePoint K, Plan 1, or Plan 2 license to be eligible for Microsoft Viva Topics.</span></span>
+<span data-ttu-id="af9e4-105">Licence Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft Office 365 Petite Entreprise, Entreprise Standard, Entreprise Premium, ou SharePoint K, Plan 1 ou Plan 2 pour être éligible pour les rubriques Microsoft Viva.</span><span class="sxs-lookup"><span data-stu-id="af9e4-105">Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business Premium, or SharePoint K, Plan 1, or Plan 2 license to be eligible for Microsoft Viva Topics.</span></span>
