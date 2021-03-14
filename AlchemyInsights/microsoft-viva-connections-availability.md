@@ -1,5 +1,5 @@
 ---
-title: Disponibilité des connexions microsoft
+title: Disponibilité de Connexions Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "8336"
 ms.openlocfilehash: b8bdb514949750f6041019bcbb725934b76e68f4
 ms.sourcegitcommit: 0fc6005bbe351a861be1805a2e15b52438c914c9
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50295067"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Disponibilité des connexions microsoft
+# <a name="microsoft-viva-connections-availability"></a>Disponibilité de Connexions Microsoft Viva
 
-Microsoft Connections sera disponible pour le bureau au premier semestre 2021 et pour les appareils mobiles à l’été 2021. Des fonctionnalités supplémentaires seront lancées au cours de l’année 2022.
+L’application Connexions Microsoft Viva sera disponible pour la version de bureau au cours du premier semestre 2021 et pour mobile pendant l’été 2021. Les fonctionnalités supplémentaires seront déployées dans le courant de 2022.
 
-Pour plus d’informations, voir comment [Microsoft Connections aide](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)tout le monde à rester impliqué et informé.
+Pour plus d’informations, voir comment [Connexions Microsoft Viva permet à tout le monde de rester impliqué et informé](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009).
