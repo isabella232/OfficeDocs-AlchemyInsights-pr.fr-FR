@@ -1,5 +1,5 @@
 ---
-title: Disponibilité de Microsoft Insights
+title: Disponibilité de Informations Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "8337"
 ms.openlocfilehash: 141a896fe181a554ae2b5ace46b6f09b6006692f
 ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50295449"
 ---
-# <a name="microsoft-viva-insights-availability"></a><span data-ttu-id="3e65f-102">Disponibilité de Microsoft Insights</span><span class="sxs-lookup"><span data-stu-id="3e65f-102">Microsoft Viva Insights Availability</span></span>
+# <a name="microsoft-viva-insights-availability"></a><span data-ttu-id="9ae28-102">Disponibilité de Informations Microsoft Viva</span><span class="sxs-lookup"><span data-stu-id="9ae28-102">Microsoft Viva Insights Availability</span></span>
 
-<span data-ttu-id="3e65f-103">Microsoft Insights est désormais disponible en prévisualisation.</span><span class="sxs-lookup"><span data-stu-id="3e65f-103">Microsoft Viva Insights is available now in preview.</span></span>
+<span data-ttu-id="9ae28-103">Informations Microsoft Viva est désormais disponible en prévisualisation.</span><span class="sxs-lookup"><span data-stu-id="9ae28-103">Microsoft Viva Insights is available now in preview.</span></span>
 
-<span data-ttu-id="3e65f-104">[Télécharger](https://aka.ms/InsightsDocumentation) Insights dans Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="3e65f-104">[Download](https://aka.ms/InsightsDocumentation) Viva Insights in Microsoft Teams.</span></span>
+<span data-ttu-id="9ae28-104">[Téléchargez](https://aka.ms/InsightsDocumentation) Informations Viva dans Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="9ae28-104">[Download](https://aka.ms/InsightsDocumentation) Viva Insights in Microsoft Teams.</span></span>
 
-<span data-ttu-id="3e65f-105">[En savoir plus](https://aka.ms/VivaInsights) sur la façon dont Insights aide à créer une culture dans laquelle les personnes et les entreprises peuvent s’en donner.</span><span class="sxs-lookup"><span data-stu-id="3e65f-105">[Learn more](https://aka.ms/VivaInsights) about how Viva Insights helps create a culture where people and business can thrive.</span></span>
+<span data-ttu-id="9ae28-105">[En savoir plus](https://aka.ms/VivaInsights) sur la façon dont Informations Viva aide à créer une culture où les personnes et les entreprises peuvent s'épanouir.</span><span class="sxs-lookup"><span data-stu-id="9ae28-105">[Learn more](https://aka.ms/VivaInsights) about how Viva Insights helps create a culture where people and business can thrive.</span></span>
 
-<span data-ttu-id="3e65f-106">Pour plus d’informations, voir comment Microsoft Insights aide les personnes à favoriser le [bien-être](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010)et à être la meilleure .</span><span class="sxs-lookup"><span data-stu-id="3e65f-106">For more information, see how [Microsoft Viva Insights helps people nurture wellbeing and be the best](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010).</span></span>
+<span data-ttu-id="9ae28-106">Pour plus d’informations, consultez [Informations Microsoft Viva permet aux personnes de s’améliorer et d’être le meilleur](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010).</span><span class="sxs-lookup"><span data-stu-id="9ae28-106">For more information, see how [Microsoft Viva Insights helps people nurture wellbeing and be the best](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010).</span></span>
