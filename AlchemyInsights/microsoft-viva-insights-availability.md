@@ -1,5 +1,5 @@
 ---
-title: Disponibilité de Microsoft Insights
+title: Disponibilité de Informations Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "8337"
 ms.openlocfilehash: 141a896fe181a554ae2b5ace46b6f09b6006692f
 ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50295449"
 ---
-# <a name="microsoft-viva-insights-availability"></a>Disponibilité de Microsoft Insights
+# <a name="microsoft-viva-insights-availability"></a>Disponibilité de Informations Microsoft Viva
 
-Microsoft Insights est désormais disponible en prévisualisation.
+Informations Microsoft Viva est désormais disponible en prévisualisation.
 
-[Télécharger](https://aka.ms/InsightsDocumentation) Insights dans Microsoft Teams.
+[Téléchargez](https://aka.ms/InsightsDocumentation) Informations Viva dans Microsoft Teams.
 
-[En savoir plus](https://aka.ms/VivaInsights) sur la façon dont Insights aide à créer une culture dans laquelle les personnes et les entreprises peuvent s’en donner.
+[En savoir plus](https://aka.ms/VivaInsights) sur la façon dont Informations Viva aide à créer une culture où les personnes et les entreprises peuvent s'épanouir.
 
-Pour plus d’informations, voir comment Microsoft Insights aide les personnes à favoriser le [bien-être](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010)et à être la meilleure .
+Pour plus d’informations, consultez [Informations Microsoft Viva permet aux personnes de s’améliorer et d’être le meilleur](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010).
