@@ -3,7 +3,7 @@ title: Cogestion
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681258"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896793"
 ---
 # <a name="co-management"></a>Cogestion
 
-**Conditions préalables à la migration du gestionnaire de configuration hybride vers Intune**
+**Conditions préalables à la migration de Config Manager hybride vers Intune**
 
-- Consultez [cet article](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Ajoutez une licence Intune à vos utilisateurs](https://docs.microsoft.com/intune/licenses-assign).
-- Utilisez le [navigateur Edge](https://www.microsoft.com/windows/microsoft-edge) lors de la configuration de la co-gestion.
+- Examinez [cet article.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Ajoutez une licence Intune à vos utilisateurs.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Utilisez le [navigateur Edge lors](https://www.microsoft.com/edge) de la configuration de la cogestion.
 
-**Comment installer le client du gestionnaire de configuration sur les appareils gérés par Intune**
+Une expérience de configuration pas à pas et guidée de la cogestion est possible [ici.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-Voir [INTUNE MDM-gestion des appareils Windows](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**Comment installer le client Gestionnaire de config sur les appareils gérés par Intune**
 
-**Que se passe-t-il si je souhaite simplement modifier l’autorité MDM ?**
+Voir appareils Windows gérés par [MDM Intune.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-Vous pouvez modifier l’autorité MDM sans avoir à ouvrir un cas de support technique. Consultez la documentation suivante pour vous aider à modifier votre autorité MDM :
+**Que se passe-t-il si je souhaite simplement modifier l’autorité mdm ?**
 
-- [Modifier l’autorité MDM depuis le gestionnaire de configuration vers la version Intune autonome](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Modifier l’autorité MDM de Intune autonome vers le gestionnaire de configuration](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+L’autorité de gestion des stratégies de gestion des stratégies de groupe peut être modifiée sans ouvrir de dossier de support. Consultez la documentation suivante pour vous aider à modifier votre autorité mdm :
+
+- [Modifier l’autorité de gestion des stratégies de gestion des stratégies de groupe (MDM) de Configuration Manager en instance autonome Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Modifier l’autorité mdm d’Intune autonome en Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

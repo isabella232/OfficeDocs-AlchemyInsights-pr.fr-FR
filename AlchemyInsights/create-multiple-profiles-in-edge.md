@@ -3,7 +3,7 @@ title: Créer plusieurs profils dans Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003923"
 - "6976"
-ms.openlocfilehash: 01f503c797c89ef8f3240b6349f3f7d596fadb32
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+- "9004596"
+- "8216"
+ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665583"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897009"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Créer plusieurs profils dans Microsoft Edge
 
-Les profils permettent à plusieurs utilisateurs d’opérer dans un environnement partagé tout en conservant l’accès à leurs paramètres de navigateur, signets et extensions personnalisés. Pour ajouter plusieurs profils dans Microsoft Edge, procédez comme suit :
+Les profils permet à plusieurs utilisateurs de fonctionner dans un environnement partagé tout en conservant l’accès à leurs paramètres de navigateur personnalisés, signets et extensions. Pour ajouter plusieurs profils dans Microsoft Edge, suivez les étapes suivantes :
 
 1. Démarrez Microsoft Edge.
-    - Si vous n’êtes pas connecté, sélectionnez l’icône profil > **vous connecter**. Cette opération vous permet d’accéder automatiquement à la page **gérer les paramètres de profil** .
-    - Si vous êtes connecté, sélectionnez l’icône profil > **gérer les paramètres de profil**.
-2. Sélectionnez **profil > + ajouter un profil > ajouter**.
-3. Sélectionnez se **connecter pour synchroniser les données** afin de se connecter à un compte existant.
-4. Sélectionnez **Oui** pour activer la synchronisation de connexion, puis **confirmer**.
+    - Si vous n’êtes pas inscrit, sélectionnez l’icône de profil > **se connectez.** Cela vous dirigera automatiquement vers la page Gérer les **paramètres de profil.**
+    - Si vous êtes inscrit, sélectionnez l’icône de profil > **gérer les paramètres de profil.**
+2. Select **Profile > + Add profile > Add**.
+3. Sélectionnez **Se connecter pour synchroniser les données** et se connecter à un compte existant.
+4. Sélectionnez **Oui** pour activer la synchronisation de la signature, puis sélectionnez **Confirmer.**
 
-    Le profil supplémentaire est maintenant disponible.
+    Le profil supplémentaire est désormais disponible pour une utilisation.
