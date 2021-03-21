@@ -1,5 +1,5 @@
 ---
-title: Problèmes liés à l’intégration d’ordinateurs
+title: Problèmes avec les ordinateurs d’intégration à Microsoft Defender pour point de terminaison
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676880"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901565"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problèmes liés à l’intégration d’ordinateurs
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problèmes avec les ordinateurs d’intégration à Microsoft Defender pour point de terminaison
 
-Il se peut que vous rencontriez des problèmes avec l’intégration d’ordinateurs au service MDATP. Si vous pouvez accéder à l’ordinateur de l’utilisateur final, procédez comme suit :
+Il se peut que vous rencontriez des problèmes avec l’intégration d’ordinateurs au service MDE. Si vous pouvez accéder à l’ordinateur de l’utilisateur final, procédez comme suit :
 
-1. Téléchargez l’outil de diagnostic [Analyseur de connectivité client](https://aka.ms/mdatpanalyzer).
-2. Faites l’extraction et exécutez MDATPAnalyzer.cmd.
-3. Localisez le journal de diagnostic dans le dossier nommé MDATPClientAnalyzerResult, dossier identique à celui dans lequel l’outil Analyseur est téléchargé.
-4. Examinez le fichier du journal, MDATPClientAnalyzer.txt, pour rechercher les problèmes de connectivité ou de paramètres de proxy Internet.
+1. Téléchargez la dernière version d’évaluation de l’outil de diagnostic [Analyseur de client MDE](https://aka.ms/betamdeanalyzer).
+2. Cliquez avec le bouton droit sur **MDEClientAnalyzer.cmd**, puis sélectionnez « Exécuter en tant qu’administrateur ».
+3. Suivez les instructions suggérées dans **MDEClientAnalyzer.htm**.
+4. Pour consulter des journaux plus détaillés, examinez le sous-dossier créé nommé **MDEClientAnalyzerResult**.
+5. Si des instructions supplémentaires sont nécessaires, contactez le [Support Microsoft Defender pour point de terminaison](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) et fournissez le fichier MDEClientAnalysult.zip résultant pour analyse.
