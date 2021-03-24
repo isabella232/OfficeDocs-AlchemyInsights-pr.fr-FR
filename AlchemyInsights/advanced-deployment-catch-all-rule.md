@@ -13,19 +13,19 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 305fe22b71e0f0aa149837a7b3da0e8283603bb2
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: bc340bb0242315eb46767074ce846df9393bc426
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901529"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122985"
 ---
 # <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Installer Office avec le conseiller de déploiement microsoft 365 Apps
 
-Le conseiller de déploiement Des applications [Microsoft 365](https://admin.microsoft.com/adminportal/home) vous aide à obtenir les appareils de vos utilisateurs exécutant la dernière version des produits Office tels que Word, Excel, PowerPoint et OneNote.
-
+Le conseiller de déploiement Des applications [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2145748) vous aide à obtenir les appareils de vos utilisateurs exécutant la dernière version des produits Office tels que Word, Excel, PowerPoint et OneNote.
+  
 Vous recevrez des conseils sur les différentes méthodes de déploiement, qui incluent des options d’installation autonome faciles, ainsi que sur les déploiements d’entreprise à l’aide des outils de gestion. Les instructions vous aideront à évaluer votre environnement, à déterminer vos besoins de déploiement spécifiques et à implémenter les outils de support nécessaires pour garantir une installation réussie.
-
+  
 Pour plus d’informations sur la configuration de Microsoft 365 et la préparation de votre environnement pour les services Microsoft 365 et Office 365, voir :
 
 - [Préparer votre guide d’environnement](https://go.microsoft.com/fwlink/?linkid=2005213)

@@ -11,12 +11,12 @@ ms.custom:
 - "6500001"
 - "4353"
 ms.assetid: ''
-ms.openlocfilehash: 1acb7b2510f2134911b5429eee9637e95848d05c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603bc90b53839f32c70a895b456a61da3a33556d
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706053"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122913"
 ---
 # <a name="guest-access-to-teams-files"></a>Accès invité aux fichiers Teams
 
@@ -24,4 +24,4 @@ ms.locfileid: "47706053"
 
 - Sélectionnez **Invités existants**, **Nouveaux et existants**, ou **Quiconque** à partir du [Centre d’administration SharePoint](https://admin.microsoft.com/sharepoint?page=sharing&modern=true). Pour plus d’informations, voir [Activer ou désactiver le partage externe](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
 
-- Activez l’option autoriser les propriétaires de groupe à ajouter des personnes extérieures à l’organisation à des groupes de [Paramètres du groupe](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/SettingsMultiPivot/:/Settings/L1/O365Groups). Pour plus d’informations, voir [Contrôler l’accès invité dans les groupes Microsoft](https://docs.microsoft.com/microsoftteams/teams-dependencies#control-guest-access-in-office-365-groups).
+- Activez l’option autoriser les propriétaires de groupe à ajouter des personnes extérieures à l’organisation à des groupes de [Paramètres du groupe](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services/:/Settings/L1/O365Groups). Pour plus d’informations, voir [Contrôler l’accès invité dans les groupes Microsoft](https://docs.microsoft.com/microsoftteams/teams-dependencies#control-guest-access-in-office-365-groups).
