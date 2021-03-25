@@ -2,7 +2,7 @@
 title: Rechercher et activer ma clé de produit
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708573"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200707"
 ---
 # <a name="find-and-activate-my-product-key"></a>Rechercher et activer ma clé de produit
 
-Si vous avez acheté Microsoft 365 pour les entreprises via un [programme de licence Microsoft Open](https://go.microsoft.com/fwlink/p/?LinkID=613298), voici comment trouver et activer votre clé de produit.
+Si vous avez acheté Microsoft 365 pour les entreprises via un programme de licence [Microsoft Open,](https://go.microsoft.com/fwlink/p/?LinkID=613298)voici comment rechercher et activer votre clé de produit.
 
-1. Une fois que vous avez acheté une clé auprès d’un partenaire Microsoft 365, vérifiez si votre boîte de réception contient un message électronique de Microsoft contenant un lien d’activation.  **Remarque**: le courrier électronique est envoyé à la personne mentionnée en tant qu’administrateur en ligne dans le contrat de licence en volume.  Si vous ne savez pas qui est désigné en tant qu’administrateur en ligne, demandez à votre partenaire Microsoft 365.
+1. Après avoir acheté une clé auprès d’un partenaire Microsoft 365, recherchez dans votre boîte de réception un courrier électronique de Microsoft contenant un lien d’activation.
 
-2. Suivez le lien figurant dans le message électronique pour vous connecter avec votre compte professionnel ou scolaire, acceptez le contrat de licence Open et renouvelez l’abonnement.  Pour obtenir une procédure pas à pas, téléchargez le guide PDF, [activer les services en ligne : abonnement Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+    > [!NOTE]
+    > Le message est envoyé à la personne mentionnée comme administrateur en ligne dans le contrat de licence en volume. Si vous ne savez pas qui est désigné comme administrateur en ligne, demandez à votre partenaire Microsoft 365.
+1. Suivez le lien dans l’e-mail pour vous inscrire avec votre compte scolaire ou scolaire, acceptez le contrat de licence Open et renouvelez l’abonnement. Pour une walkthrough pas à pas, téléchargez le guide PDF [Activate Online Services: Microsoft 365 Subscription](https://go.microsoft.com/fwlink/p/?LinkId=618100).
 
-**Remarque**: les clients de licences en volume peuvent également choisir d’activer les abonnements dans le centre de gestion des [licences en volume](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Pour savoir comment procéder, téléchargez le guide PDF, [active Online Services dans le centre de gestion des licences en volume](https://go.microsoft.com/fwlink/p/?LinkId=618096).
-
-Si vous avez acheté Microsoft 365 Business Premium standard auprès d’un détaillant, procédez comme suit pour prolonger la date d’expiration ou ajouter une licence à un abonnement existant.
-
-**Remarque**: pour utiliser une clé de produit afin d’étendre la date d’expiration ou d’ajouter une licence à votre abonnement Microsoft 365 Business Premium standard existant, vous avez besoin d’une clé nouvelle et inutilisée pour le même abonnement Microsoft 365.  La saisie de votre clé de produit Microsoft 365 ne fonctionnera pas, car une clé qui a déjà été échangée ne peut pas être réutilisée.
-
-1. Dans le centre d’administration, accédez à la page **facturation**  >  **[de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Recherchez l’abonnement pour lequel vous souhaitez prolonger la date d’expiration ou ajouter des licences.  Cliquez sur [prolonger la date de fin](https://go.microsoft.com/fwlink/p/?linkid=842054) ou sur Ajouter d' [autres licences](https://go.microsoft.com/fwlink/p/?linkid=842054).
-
-3. Cliquez sur **utiliser une clé de produit nouvelle et inutilisée** , puis sur **suivant**.
-
-4. Entrez la clé de produit, puis cliquez sur **suivant**.
-
-5. Consultez les détails de votre commande.  Si tout semble correct, cliquez sur **échanger**.
+    > [!NOTE]
+    > Les clients de licences en volume peuvent également choisir d’activer les abonnements dans le Centre de gestion des licences [en volume.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Pour en savoir plus, téléchargez le guide [PDF, Active Online Services dans le Centre](https://go.microsoft.com/fwlink/p/?LinkId=618096)de gestion des licences en volume.
