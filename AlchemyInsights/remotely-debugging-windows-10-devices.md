@@ -1,5 +1,5 @@
 ---
-title: Prise en main du débogage à distance des appareils Windows 10
+title: Commencer à déboguer à distance des appareils Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576530"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398559"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Prise en main du débogage à distance des appareils Windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Commencer à déboguer à distance des appareils Windows 10
 
-Pour déboguer à distance le contenu actif sur un appareil Windows 10 à partir d’un ordinateur Windows ou macOS :
+Pour déboguer à distance du contenu en direct sur un appareil Windows 10 à partir d’un ordinateur Windows ou macOS :
 
-1. Configurez votre appareil Windows 10 pour le débogage à distance, puis connectez-vous à partir de votre ordinateur de développement.
-2. Inspectez et déboguez le contenu en direct sur votre appareil Windows 10 à partir de votre ordinateur de développement.
-3. Capture vidéo de votre appareil Windows 10 sur une instance DevTools sur votre ordinateur de développement.
+1. Configurer votre appareil Windows 10 pour le débogage à distance, puis vous y connecter à partir de votre ordinateur de développement.
+2. Inspectez et déboguer le contenu en direct sur votre appareil Windows 10 à partir de votre ordinateur de développement.
+3. Contenu de la capture vidéo de votre appareil Windows 10 sur une instance DevTools sur votre ordinateur de développement.
 
-Pour en savoir plus, consultez la rubrique [prise en main du débogage distant de appareils Windows 10 à l’aide de Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Pour en savoir plus, consultez La mise en place du débogage à distance d’appareils [Windows 10 à l’aide de Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
