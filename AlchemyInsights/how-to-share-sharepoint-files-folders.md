@@ -1,5 +1,5 @@
 ---
-title: Comment partager des fichiers ou des dossiers SharePoint
+title: Comment partager des fichiers ou dossiers SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779013"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408112"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a><span data-ttu-id="04ec9-102">Comment partager des fichiers ou des dossiers SharePoint</span><span class="sxs-lookup"><span data-stu-id="04ec9-102">How to share SharePoint files or folders</span></span>
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a><span data-ttu-id="f997a-102">Comment partager des fichiers ou dossiers SharePoint ou OneDrive</span><span class="sxs-lookup"><span data-stu-id="f997a-102">How to share SharePoint or OneDrive files or folders</span></span>
 
-<span data-ttu-id="04ec9-103">Les fichiers que vous stockez sur un site SharePoint sont généralement accessibles à tous les utilisateurs disposant d’autorisations sur le site, mais vous pouvez souhaiter partager des fichiers ou des dossiers spécifiques avec des personnes qui n’ont pas accès au site.</span><span class="sxs-lookup"><span data-stu-id="04ec9-103">The files you store on a SharePoint site are usually available to everyone with permissions to the site, but you may want to share specific files or folders with people who don't otherwise have access to the site.</span></span> <span data-ttu-id="04ec9-104">Lorsque vous partagez des fichiers et des dossiers, vous pouvez décider de laisser les utilisateurs modifier ou simplement les afficher.</span><span class="sxs-lookup"><span data-stu-id="04ec9-104">When you share files and folders, you can decide whether to let people edit or just view them.</span></span>
+<span data-ttu-id="f997a-103">Les fichiers que vous stockez sur un site SharePoint sont généralement accessibles à tous les utilisateurs ayant des autorisations sur le site, mais vous pouvez partager des fichiers ou dossiers spécifiques avec des personnes qui n’ont pas accès au site.</span><span class="sxs-lookup"><span data-stu-id="f997a-103">The files you store on a SharePoint site are usually available to everyone with permissions to the site, but you may want to share specific files or folders with people who don't otherwise have access to the site.</span></span> <span data-ttu-id="f997a-104">Lorsque vous partagez des fichiers et des dossiers, vous pouvez décider de laisser les utilisateurs les modifier ou simplement les afficher.</span><span class="sxs-lookup"><span data-stu-id="f997a-104">When you share files and folders, you can decide whether to let people edit or just view them.</span></span> <span data-ttu-id="f997a-105">Pour plus d’informations, reportez-vous aux rubriques suivantes :</span><span class="sxs-lookup"><span data-stu-id="f997a-105">For more information, see:</span></span>
 
-[<span data-ttu-id="04ec9-105">Partager des fichiers SharePoint ou des dossiers</span><span class="sxs-lookup"><span data-stu-id="04ec9-105">Share SharePoint files or folders</span></span>](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[<span data-ttu-id="f997a-106">Partager des fichiers ou dossiers SharePoint</span><span class="sxs-lookup"><span data-stu-id="f997a-106">Share SharePoint files or folders</span></span>](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[<span data-ttu-id="f997a-107">Partager des fichiers et des dossiers OneDrive</span><span class="sxs-lookup"><span data-stu-id="f997a-107">Share OneDrive files and folders</span></span>](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
