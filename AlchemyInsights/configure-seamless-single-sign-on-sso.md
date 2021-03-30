@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004344"
+- "9004357"
 - "9384"
-ms.openlocfilehash: 32790b23547de36cd2864e85ebae67f54ad91707
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+- "9863"
+ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50819547"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402265"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Configurer l' sign-on unique (SSO) transparente
 
@@ -27,14 +29,14 @@ ms.locfileid: "50819547"
 2. De nombreuses applications ont déjà été pré-configurées pour fonctionner avec Azure AD. Ces applications sont répertoriées dans la galerie d’applications que vous pouvez parcourir lorsque vous ajoutez une application à votre client Azure AD. La [série de démarrage rapide](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) vous dirige tout au long du processus.
 3. Pour créer une application non galerie, vous pouvez cliquer sur + Créer votre propre bouton **Application** et donner un nom à votre application.
     - Par défaut, il sélectionne Intégrer toute autre application que vous ne trouvez pas dans la galerie, ce qui est **l’option** correcte pour les applications non-galerie.
-    - Une fois que vous avez atteint **Créer** après avoir mis le nom de l’application, il crée une application d’entreprise non galerie.
+    - Une fois que **vous avez atteint Créer** après avoir mis le nom de l’application, il crée une application d’entreprise non galerie.
     - Ensuite, vous pouvez accéder à l' **sign-on** unique sous **Gérer** cette application et vous pourrez voir différentes techniques pour l’implémenter dans votre environnement.
 
 **Configurer l' sso transparente pour une application spécifique**
 
 Pour les applications de la galerie, vous trouverez des instructions détaillées pas à pas. Pour accéder aux étapes, vous pouvez parcourir la liste de tous les didacticiels de configuration d’application dans [les didascticiels](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)de configuration d’application SaaS.
 
-**Configurer l' sso saml**
+**Configurer l’pertinence basée sur SAML**
 
 1. Démarrage rapide : configurer l' [sign-on saml (SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)pour une application dans votre client Azure Active Directory (Azure AD).
 2. Pour en savoir plus sur l’option SAML pour l' sign-on unique, voir Comprendre l' [sign-on basée sur SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)

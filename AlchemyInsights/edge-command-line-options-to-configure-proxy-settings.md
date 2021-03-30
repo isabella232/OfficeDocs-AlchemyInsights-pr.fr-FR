@@ -11,17 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004254"
+- "9004632"
 - "7561"
-ms.openlocfilehash: a54e30034cc0dbfe60a3d88f04ffe119ca451bb6
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+- "8363"
+ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693380"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403417"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Utiliser les options de ligne de commande pour configurer les paramètres de proxy dans Microsoft Edge
 
-Dans Microsoft Edge versions 77 et versions ultérieures, la pile réseau utilise par défaut les paramètres réseau du système. Dans les scénarios hybrides dans lesquels les utilisateurs demandent une alternative, Microsoft Edge prend en charge les options de ligne de commande pour la configuration des paramètres de proxy personnalisés. Pour obtenir des informations détaillées, voir :
+Dans Les versions 77 et ultérieures de Microsoft Edge, la pile réseau utilise les paramètres réseau du système par défaut. Dans les scénarios hybrides où les utilisateurs demandent une alternative, Microsoft Edge prend en charge les options de ligne de commande pour la configuration des paramètres de proxy personnalisés. Pour obtenir des informations détaillées, voir :
 
 1. [Paramètres du réseau système](https://go.microsoft.com/fwlink/?linkid=2133962)
 2. [Options de ligne de commande pour les paramètres de proxy](https://go.microsoft.com/fwlink/?linkid=2134292)
