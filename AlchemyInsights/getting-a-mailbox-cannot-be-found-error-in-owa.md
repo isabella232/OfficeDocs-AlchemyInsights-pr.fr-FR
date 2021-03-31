@@ -1,5 +1,5 @@
 ---
-title: 126 l’obtention d’une boîte aux lettres est introuvable. erreur dans OWA ?
+title: 126 Erreur d’obtention d’une boîte aux lettres dans OWA ?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,17 +14,23 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
+ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706748"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51426660"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="44548-102">Erreur lors de l’obtention d’une boîte aux lettres introuvable dans Outlook sur le Web ?</span><span class="sxs-lookup"><span data-stu-id="44548-102">Getting a mailbox not found error in Outlook on the web?</span></span>
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a><span data-ttu-id="5842c-102">Erreur d’obtention d’une boîte aux lettres in trouvée dans Outlook sur le web ?</span><span class="sxs-lookup"><span data-stu-id="5842c-102">Getting a mailbox not found error in Outlook on the web?</span></span>
 
-<span data-ttu-id="44548-103">Si vous utilisez Outlook sur le Web et que vous obtenez une **boîte aux lettres introuvable pour** erreur, le compte que vous avez utilisé pour vous connecter à Outlook sur le Web ne dispose pas d’une licence Exchange Online et, par conséquent, aucune boîte aux lettres n’est associée au compte.</span><span class="sxs-lookup"><span data-stu-id="44548-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="44548-104">Votre administrateur peut attribuer une licence à votre compte en procédant comme suit :</span><span class="sxs-lookup"><span data-stu-id="44548-104">Your admin can assign a license to your account by following these steps:</span></span>
+<span data-ttu-id="5842c-103">Si vous utilisez Outlook sur le web  et que vous obtenez une boîte aux lettres indessable pour erreur, le compte que vous avez utilisé pour vous connecter à Outlook sur le web n’a pas de licence Exchange Online et, par conséquent, aucune boîte aux lettres n’est associée au compte.</span><span class="sxs-lookup"><span data-stu-id="5842c-103">If you're using Outlook on the web and you get a **Mailbox couldn't be found for** error, the account that you used to connect to Outlook on the web doesn't have an Exchange Online license and therefore, no mailbox is associated with the account.</span></span> <span data-ttu-id="5842c-104">Votre administrateur peut attribuer une licence à votre compte en suivant les étapes suivantes :</span><span class="sxs-lookup"><span data-stu-id="5842c-104">Your admin can assign a license to your account by following these steps:</span></span>
 
-1. <span data-ttu-id="44548-105">Ouvrez le [Centre d’administration Microsoft 365](https://portal.office.com/adminportal/home#/homepage) et accédez à **utilisateurs actifs** sous la section **utilisateurs** , puis sélectionnez l’utilisateur qui voit l’erreur.</span><span class="sxs-lookup"><span data-stu-id="44548-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and go to **Active users** under the **Users** section, and select the user who is seeing the error.</span></span>
+1. <span data-ttu-id="5842c-105">Ouvrez le Centre d’administration Microsoft  [365](https://portal.office.com/adminportal/home#/homepage) et sélectionnez Utilisateurs actifs sous la **section** Utilisateurs, puis sélectionnez l’utilisateur qui voit l’erreur.</span><span class="sxs-lookup"><span data-stu-id="5842c-105">Open the [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) and go to **Active users** under the **Users** section, and select the user who is seeing the error.</span></span>
 
-2. <span data-ttu-id="44548-106">Dans la page utilisateur qui s’ouvre, accédez à la section **licences et applications** , sélectionnez la valeur d' **emplacement** appropriée et attribuez une licence qui contient Exchange Online (développez la licence pour afficher ses détails).</span><span class="sxs-lookup"><span data-stu-id="44548-106">In the user page that opens, go to the **Licenses and Apps** section, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="44548-107">Lorsque vous avez terminé, cliquez sur **Enregistrer les modifications**.</span><span class="sxs-lookup"><span data-stu-id="44548-107">When you're finished, click **Save changes**.</span></span>
+2. <span data-ttu-id="5842c-106">Dans la page utilisateur qui s’ouvre, allez à la  section **Licences** et applications, sélectionnez la valeur d’emplacement appropriée et attribuez une licence qui contient Exchange Online (développez la licence pour en voir les détails).</span><span class="sxs-lookup"><span data-stu-id="5842c-106">In the user page that opens, go to the **Licenses and Apps** section, select the appropriate **Location** value, and assign a license that contains Exchange Online (expand the license to see its details).</span></span> <span data-ttu-id="5842c-107">Lorsque vous avez terminé, cliquez sur **Enregistrer les modifications**.</span><span class="sxs-lookup"><span data-stu-id="5842c-107">When you're finished, click **Save changes**.</span></span>
+
+<span data-ttu-id="5842c-108">Dans certains cas, si la licence est déjà attribuée à un compte d’utilisateur, la suppression et la réaffectation de la licence permettent de résoudre le problème et de l’obtenir correctement mis en service dans le système :</span><span class="sxs-lookup"><span data-stu-id="5842c-108">In some cases, if the license is already assigned to a user account, removing and reassigning the license helps to resolve the issue and get it properly provisioned in the system:</span></span> 
+
+- <span data-ttu-id="5842c-109">Vérifiez si vos abonnements Exchange Online M365 (et d’autres, si vous en avez) sont à jour et n’ont pas expiré récemment.</span><span class="sxs-lookup"><span data-stu-id="5842c-109">Check to see if your M365 Exchange Online (and other, if you have any) subscriptions are current and have not recently expired.</span></span>
+
+<span data-ttu-id="5842c-110">Une fois que vous vous êtes assuré que votre abonnement n’a pas expiré et qu’une licence valide a été attribuée au compte d’utilisateur, la mise en service de la licence peut prendre jusqu’à 24 heures, ce qui vous permet d’attendre la résolution de votre problème.</span><span class="sxs-lookup"><span data-stu-id="5842c-110">Once you have made sure that your subscription has not expired and a valid license has been assigned to the user account, it can take up to 24 hours for license to get provisioned, so you might have to wait for your issue to resolve.</span></span> <span data-ttu-id="5842c-111">Pour plus d’informations, voir [Attribuer et gérer des licences.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)</span><span class="sxs-lookup"><span data-stu-id="5842c-111">For more info, see [Assign and manage licenses](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses).</span></span>
