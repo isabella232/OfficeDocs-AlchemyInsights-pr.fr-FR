@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897649"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505318"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Vérifier l’état de la garantie pour un appareil Surface ou Xbox
 
 Si vous avez un appareil Surface ou Xbox, vous pouvez utiliser votre compte Microsoft pour vérifier votre garantie. Voici comment :
 
-1. Connectez-vous à votre compte Microsoft. 
+1. Connectez-vous à votre [compte Microsoft](https://account.microsoft.com/devices/). 
 
 1. Sélectionnez le périphérique que vous souhaitez vérifier la garantie.
 
