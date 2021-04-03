@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774700"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505684"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Restaurer un groupe Microsoft 365 supprimé
 
-Les groupes supprimés sont conservés pendant 30 jours. Pour restaurer un groupe supprimé :
-  
-1. Dans le [Centre d’administration Exchange](https://outlook.office365.com/ecp/), sélectionnez **destinataires** dans le volet de gauche, puis sélectionnez **groupes**. Si un groupe a été supprimé il y a moins de 30 jours, il apparaît dans la liste et la colonne État indique la date de suppression.
+Vous pouvez restaurer un groupe Microsoft 365 supprimé ou Microsoft Teams dans les 30 jours suivant la suppression.
 
-2. Sélectionnez le groupe, puis cliquez sur **restaurer** dans la barre de commandes, ou cliquez sur le lien « cliquez ici pour restaurer » dans le volet d’informations.
+1. Pour vous connecter au Centre d’administration Microsoft 365 et lister les groupes et équipes supprimés, allez au Centre d’administration [Microsoft 365.](https://aka.ms/RestoreDeletedGroup)
 
-Pour plus d’informations ou pour apprendre à restaurer des groupes à l’aide de PowerShell, consultez [la rubrique Restore a Deleted Microsoft 365 Group](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Remarque :** Connectez-vous à l’aide du compte attribué à l’administrateur client ou au rôle d’administrateur des groupes.
+
+1. Sélectionnez le groupe Microsoft 365 supprimé/Teams à restaurer, puis cliquez sur **Restaurer le groupe.**
+
+    Si le groupe ne peut pas être restauré en raison d’une adresse SMTP conflictuelle, utilisez la commande suivante pour rechercher l’objet à l’origine du conflit et supprimez l’adresse SMTP :
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Remarque :** Dans certains cas, la restauration du groupe et de toutes ses données peut prendre jusqu’à 24 heures.
+
+    Pour plus d’informations ou pour découvrir comment restaurer des groupes à l’aide de PowerShell, voir Restaurer un groupe [Microsoft 365 supprimé.](https://go.microsoft.com/fwlink/?linkid=867802)

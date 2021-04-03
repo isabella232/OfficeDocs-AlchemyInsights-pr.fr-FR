@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003881"
 - "6936"
-ms.openlocfilehash: d0fda273317a2f2437f8808cbf29d9a9788df225
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8311"
+- "9004621"
+ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652142"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504958"
 ---
 # <a name="remove-an-extension-from-microsoft-edge"></a>Supprimer une extension de Microsoft Edge
 
-Pour supprimer une extension de Microsoft Edge :
+Pour supprimer une extension de Microsoft Edge :
 
 1. Ouvrez Microsoft Edge.
-2. Sélectionnez les **Extensions... >**.
-3. Sur la page **extensions installées** , recherchez l’extension que vous souhaitez supprimer, puis sélectionnez **supprimer** en regard de celle-ci.
-4. Dans la boîte de dialogue de confirmation, sélectionnez **supprimer**.
+2. Sélectionnez **... > extensions**.
+3. Dans la page **Extensions installées,** recherchez l’extension que vous souhaitez supprimer, puis sélectionnez **Supprimer** en côté.
+4. Dans la boîte de dialogue de confirmation, sélectionnez **Supprimer.**

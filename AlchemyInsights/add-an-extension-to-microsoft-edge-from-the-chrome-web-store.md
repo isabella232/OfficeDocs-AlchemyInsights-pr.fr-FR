@@ -1,5 +1,5 @@
 ---
-title: Ajouter une extension à Microsoft Edge à partir du magasin Web chrome
+title: Ajouter une extension à Microsoft Edge à partir du magasin web Chrome
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003868"
 - "6922"
-ms.openlocfilehash: b11a1304ce6c82c6182dfdcc13716d295ab802d3
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "8312"
+- "9004621"
+ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609596"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505024"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Ajouter une extension à Microsoft Edge à partir du magasin Web chrome
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Ajouter une extension à Microsoft Edge à partir du magasin web Chrome
 
-Pour ajouter une extension à Microsoft Edge à partir du magasin Web chrome, procédez comme suit :
+Pour ajouter une extension à Microsoft Edge à partir du magasin web Chrome, complétez les étapes suivantes :
 
-1. Accédez au magasin Web chrome.
-2. Dans la bannière en haut de la page, sélectionnez **autoriser les extensions d’autres magasins**.
-3. Sélectionnez l’extension que vous souhaitez ajouter, puis cliquez sur **Ajouter au chrome**.
-4. Dans la boîte de dialogue de confirmation, vérifiez attentivement les modifications que l’extension peut apporter, puis cliquez sur **Ajouter une extension**.
-La boîte de dialogue finale confirmera que l’extension a été ajoutée.
+1. Go to the Chrome Web Store.
+2. Dans la bannière en haut de la page, sélectionnez **Autoriser les extensions d’autres magasins.**
+3. Sélectionnez l’extension que vous souhaitez ajouter, puis cliquez sur **Ajouter à Chrome.**
+4. Dans la boîte de dialogue de confirmation, examinez attentivement les modifications que l’extension peut apporter, puis cliquez sur **Ajouter une extension.**
+La boîte de dialogue finale confirme que l’extension a été ajoutée.
