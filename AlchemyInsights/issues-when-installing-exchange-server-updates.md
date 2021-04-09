@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50586489"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645165"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Problèmes lors de l’installation Exchange Server mises à jour
 
-Avant d’installer Exchange Server mises à jour, consultez la section « Meilleures pratiques » de l’article Mettre à niveau Exchange vers la dernière mise à jour [cumulative.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Il est particulièrement important d’installer les mises à jour à l’aide de l’invite CMD avec élévation de niveaux (sauf si les mises à jour sont installées via Microsoft Update). Cela s’applique aux mises à jour cumulatives et de sécurité !
+Si vous devez mettre à jour la dernière mise à jour cumulative pour Exchange Server, vous pouvez utiliser un ensemble détaillé d’étapes de mise à jour de votre mise à jour cumulative actuelle vers la mise à jour cumulative [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) cible.
 
-Si vous voyez des erreurs lors de l’installation des mises à jour de sécurité ou après l’installation de la mise à jour, consultez cet article sur la résolution des problèmes d’installations qui ont [échoué.](https://aka.ms/exupdatefaq)
+S’il existe des erreurs pendant ou après l’installation des mises à jour Exchange Server, consultez la section « Meilleures pratiques » de l’article Mettre à niveau Exchange vers la dernière mise à jour [cumulative.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Il est très important d’installer les mises à jour de sécurité à l’aide de l’invite CMD avec élévation de élévation de niveaux (si les mises à jour ne sont pas installées via Microsoft Update).
+
+Si vous voyez des erreurs lors de l’installation des mises à jour de sécurité ou après l’installation de la mise à jour, voir Réparer les installations qui ont échoué des mises à jour cumulatives et [de sécurité Exchange.](https://aka.ms/exupdatefaq)

@@ -1,5 +1,5 @@
 ---
-title: Corriger l’erreur 0x8004de40 dans OneDrive
+title: Corriger 0x8004de40'erreur dans OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
+ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745128"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51649746"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Corriger l’erreur 0x8004de40 dans OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Corriger 0x8004de40'erreur dans OneDrive
 
-Si vous recevez une erreur 0x8004de40 avec OneDrive :
+Si vous exécutez Windows 7 et recevez cette erreur, mettez à jour pour activer [TLS 1.1 et TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)en tant que protocoles sécurisés par défaut dans WinHTTP dans Windows.
 
-- Redémarrez l’ordinateur concerné en étant connecté à votre domaine d’annuaire acitve.
-- Si un redémarrage ne résout pas le problème, Déjoignez et rejoignez votre appareil à partir d’Azure AD. 
+Si vous exécutez Windows 10 et que vous recevez une erreur 0x8004de40 avec OneDrive :
 
-**Remarque**: vous devez être sur votre réseau d’entreprise tout en effectuant ces étapes. N’effectuez pas ces étapes Lorsque vous ne parvenez pas à vous connecter à votre infrastructure d’entreprise (par exemple, lors de vos déplacements). 
+- Redémarrez l’ordinateur affecté lorsque vous êtes connecté à votre domaine Acitve Directory.
+- Si un redémarrage ne corrige pas le problème, déjoinez-vous et rejoignez votre appareil à partir d’Azure AD. 
 
-- Ouvrez une invite de commandes avec élévation de privilèges. 
-- Pour ouvrir une invite de commandes avec élévation de privilèges, cliquez sur- **Démarrer**, cliquez avec le bouton droit sur **invite de commandes**, puis cliquez sur **exécuter en tant qu’administrateur**.
-- Tapez *dsregcmd/Leave* , puis appuyez sur **entrée**.
-- Lorsque vous avez terminé, tapez *dsregcmd/Join* , puis appuyez sur **entrée**.
-- Lorsque vous avez terminé, fermez l’invite de commandes.
-- Redémarrez l’ordinateur, puis connectez-vous à OneDrive.
+**Remarque**: vous devez être sur votre réseau d’entreprise lors de ces étapes. N’effectuez pas ces étapes lorsque vous n’êtes pas connecté à votre infrastructure d’entreprise (par exemple, en déplacement). 
+
+1. Ouvrez une invite de commandes avec élévation de niveau élevé en sélectionnant **Démarrer,** cliquez avec le bouton droit sur Invite de **commandes,** puis **sélectionnez Exécuter en tant qu’administrateur.**
+
+1. Tapez *dsregcmd /leave et* appuyez sur **Entrée**.
+
+1. Lorsque vous terminez, *tapez dsregcmd /join* et appuyez sur **Entrée**.
+
+1. Lorsque vous terminez, fermez l’invite de commandes.
+
+1. Redémarrez l’ordinateur et connectez-vous à OneDrive.
