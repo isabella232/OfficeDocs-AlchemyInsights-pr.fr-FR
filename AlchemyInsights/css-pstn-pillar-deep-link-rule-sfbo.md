@@ -1,5 +1,5 @@
 ---
-title: 'CSS : règle de lien profond du pilier PSTN'
+title: 'CSS : règle de lien profond de colonne PSTN'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 9e0e95ce9890609a878f9346ad1e1ffc7ce5ca98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 277afb1deeca90d1bd56608c969b4b141abe49c2
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746361"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692572"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Appel RTC avec Skype entreprise Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Appel PSTN avec Skype Entreprise Online
 
-Si vous souhaitez passer des appels RTC dans Microsoft 365, vous aurez besoin d’un [plan d’appel microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) ou d’une connexion à votre infrastructure de téléphonie RTC locale. Si vous souhaitez plus d’informations, consultez :
+Si vous souhaitez effectuer des appels PSTN dans Microsoft 365, vous aurez besoin d'un plan d'appel [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) ou d'une connexion avec votre infrastructure téléphonique PSTN locale. Pour plus d'informations, voir :
 
-- [Disponibilité des forfaits d’appels et de l’audioconférence selon les régions et les pays](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Questions fréquemment posées concernant l’audioconférence Microsoft 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Disponibilité des forfaits d'appels Microsoft Teams et d'audioconférence dans les pays et régions](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [Questions courantes relatives à l'audioconférence Microsoft 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Ajouter des fonds et gérer les Crédits de Communications](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Les appelants RTC ne peuvent pas participer à une téléconférence téléphonique Skype entreprise](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Les appelants PSTN ne peuvent pas participer à une conférence téléphonique skype entreprise](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
