@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737015"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692392"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Problèmes courants de Teams pour les clients du secteur de l’éducation
 
@@ -46,7 +46,7 @@ Si vous avez besoin d’aide pour déployer Teams afin de prendre en charge la f
     6. Dans le centre d’administration Skype Entreprise, cliquez sur **Audioconférence**, puis sur **Utilisateurs**.
     7. Sélectionnez l’utilisateur concerné et vérifiez que l’utilisateur dispose d’un numéro payant par défaut.
 
-    Pour plus d’informations, consultez [Plans d’appels](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou appelez l’équipe de facturation Microsoft Commerce pour obtenir de l’aide sur les questions liées à la gestion des licences.
+    Pour plus d'informations, reportez-vous aux [plans de téléphonie de Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ou appelez l'équipe de facturation de Microsoft Commerce pour toute question relative aux licences.
 
     Ressources supplémentaires
 
@@ -59,7 +59,7 @@ Si vous avez besoin d’aide pour déployer Teams afin de prendre en charge la f
     
         Par exemple, vous avez un grand nombre d’utilisateurs et vous voulez limiter la bande passante requise par la réunion. Vous devez créer une stratégie personnalisée nommée « bande passante limitée » et désactiver les paramètres suivants :
 
-        Sous** Audio & vidéo** :
+        Sous **Audio & vidéo** :
         - Désactivez **Autoriser l'enregistrement dans le cloud**.
         - Désactivez **Autoriser la vidéo IP**.
 

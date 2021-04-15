@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662503"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692464"
 ---
 # <a name="pstn-calling-plans"></a>Forfaits d’appels RTC
 
@@ -28,4 +28,4 @@ Si vous souhaitez que les utilisateurs puissent appeler des téléphones standar
 
 - Configurer [Crédits de communication](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) pour éviter que les utilisateurs soient **à court de minutes**. Voir les tarifs [ici](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Pour plus d’informations, voir [le Système téléphonique et les Forfaits d’appels](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ou [qu’est-ce que les Crédits de communication ?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Pour plus d'informations, voir[ Téléphone Microsoft Teams et Plans de téléphonie Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ou [Que sont les crédits de communication ?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

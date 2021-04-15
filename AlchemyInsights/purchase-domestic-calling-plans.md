@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002447"
 - "5526"
-ms.openlocfilehash: 1afafaf5b46db169af0fae099448afd9bc1a077f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50f6932aa6767112e9eacfbf48459783c4419b5c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771503"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692800"
 ---
 # <a name="purchase-domestic-calling-plans"></a>Acheter des forfaits d’appels nationaux
 
 Deux types de forfaits d’appels sont disponibles avec Microsoft 365 : **National** et **National et international**. [Sélectionnez votre pays ou région pour découvrir les fonctionnalités disponibles pour votre organisation](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#select-your-country-or-region-to-see-whats-available-for-your-organization).
 
-- Pour plus d’information, consultez [Système téléphonique et forfaits d’appels](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
-- Pour comparer les forfaits et les prix, consultez [Tarification pour Système téléphonique](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling#Requirements).
-- Ajoutez [Crédits de communication](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#communications-credits) pour les utilisateurs qui ont besoin de pouvoir composer un numéro vers n'importe quelle destination.
+- Voir [Téléphone Microsoft Teams et Plans de téléphonie Microsoft Teams ](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)pour plus de détails.
+- Voir [Téléphone Microsoft Teams et Plans de téléphonie](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling#Requirements) Microsoft Teams pour plus de détails.
+- Ajoutez[ des crédits de communication](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#communications-credits) pour les utilisateurs qui doivent pouvoir composer un numéro vers n'importe quelle destination.
 
-Pour plus d’informations, reportez-vous à la section [Disponibilité des forfaits d'appels et de l’audioconférence selon les régions et les pays](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans). 
+Pour plus d'informations, voir [la disponibilité par pays et par région des plans de conférence audio et de téléphonie Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans). 
