@@ -13,19 +13,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662503"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692464"
 ---
-# <a name="pstn-calling-plans"></a><span data-ttu-id="b6e2b-102">Forfaits d’appels RTC</span><span class="sxs-lookup"><span data-stu-id="b6e2b-102">PSTN calling plans</span></span>
+# <a name="pstn-calling-plans"></a><span data-ttu-id="3953f-102">Forfaits d’appels RTC</span><span class="sxs-lookup"><span data-stu-id="3953f-102">PSTN calling plans</span></span>
 
-<span data-ttu-id="b6e2b-103">Si vous souhaitez que les utilisateurs puissent appeler des téléphones standard et que vous n’avez pas de fournisseur de services pour passer des appels vocaux, vous devez acquérir la fonctionnalité Forfait d’appels.</span><span class="sxs-lookup"><span data-stu-id="b6e2b-103">If you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span>
+<span data-ttu-id="3953f-103">Si vous souhaitez que les utilisateurs puissent appeler des téléphones standard et que vous n’avez pas de fournisseur de services pour passer des appels vocaux, vous devez acquérir la fonctionnalité Forfait d’appels.</span><span class="sxs-lookup"><span data-stu-id="3953f-103">If you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span>
 
-- <span data-ttu-id="b6e2b-104">Veuillez consulter la page [comment acquérir un Forfait d’appels](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) pour démarrer le processus d’achat.</span><span class="sxs-lookup"><span data-stu-id="b6e2b-104">See [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) to start the purchasing process.</span></span>
+- <span data-ttu-id="3953f-104">Veuillez consulter la page [comment acquérir un Forfait d’appels](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) pour démarrer le processus d’achat.</span><span class="sxs-lookup"><span data-stu-id="3953f-104">See [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) to start the purchasing process.</span></span>
 
-- <span data-ttu-id="b6e2b-105">Configurer [Crédits de communication](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) pour éviter que les utilisateurs soient **à court de minutes**.</span><span class="sxs-lookup"><span data-stu-id="b6e2b-105">Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users from **running out of minutes**.</span></span> <span data-ttu-id="b6e2b-106">Voir les tarifs [ici](https://products.office.com/microsoft-teams/voice-calling).</span><span class="sxs-lookup"><span data-stu-id="b6e2b-106">See rates [here](https://products.office.com/microsoft-teams/voice-calling).</span></span> 
+- <span data-ttu-id="3953f-105">Configurer [Crédits de communication](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) pour éviter que les utilisateurs soient **à court de minutes**.</span><span class="sxs-lookup"><span data-stu-id="3953f-105">Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users from **running out of minutes**.</span></span> <span data-ttu-id="3953f-106">Voir les tarifs [ici](https://products.office.com/microsoft-teams/voice-calling).</span><span class="sxs-lookup"><span data-stu-id="3953f-106">See rates [here](https://products.office.com/microsoft-teams/voice-calling).</span></span> 
 
-- <span data-ttu-id="b6e2b-107">Pour plus d’informations, voir [le Système téléphonique et les Forfaits d’appels](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ou [qu’est-ce que les Crédits de communication ?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="b6e2b-107">For more info, see [Phone System and Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) or [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
+- <span data-ttu-id="3953f-107">Pour plus d'informations, voir[ Téléphone Microsoft Teams et Plans de téléphonie Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ou [Que sont les crédits de communication ?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="3953f-107">For more info, see [Microsoft Teams Phone and Microsoft Teams Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) or [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
