@@ -1,8 +1,8 @@
 ---
-title: Gérer les comptes d’utilisateurs synchronisés
+title: Gérer les comptes d'utilisateur synchronisés
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 7566ad9a9591735a704649fd2599c75aef2895b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777817"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802885"
 ---
-# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="3b45d-102">Gérer les comptes d’utilisateurs synchronisés</span><span class="sxs-lookup"><span data-stu-id="3b45d-102">Manage synchronized user accounts</span></span>
+# <a name="manage-synchronized-user-accounts"></a><span data-ttu-id="138bc-102">Gérer les comptes d'utilisateur synchronisés</span><span class="sxs-lookup"><span data-stu-id="138bc-102">Manage synchronized user accounts</span></span>
 
-<span data-ttu-id="3b45d-103">En règle générale, vous utilisez le centre d’administration Microsoft 365 pour ajouter et modifier des comptes d’utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="3b45d-103">Typically, you use the Microsoft 365 admin center to add and change user accounts.</span></span> <span data-ttu-id="3b45d-104">Toutefois, vous ne pouvez pas l’utiliser si la synchronisation d’annuaires ou l’authentification unique est activée.</span><span class="sxs-lookup"><span data-stu-id="3b45d-104">However, you can't use it if directory sychronization or SSO are enabled.</span></span> <span data-ttu-id="3b45d-105">Au lieu de cela, gérez vos utilisateurs à l’aide de Windows PowerShell comme décrit dans [configure User Account Properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span><span class="sxs-lookup"><span data-stu-id="3b45d-105">Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
+<span data-ttu-id="138bc-103">En règle générale, vous utilisez le Centre d'administration Microsoft 365 pour ajouter et modifier des comptes d'utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="138bc-103">Typically, you use the Microsoft 365 admin center to add and change user accounts.</span></span> <span data-ttu-id="138bc-104">Toutefois, vous ne pouvez pas l'utiliser si la synchronisation d'annuaires ou l' ssO sont activés.</span><span class="sxs-lookup"><span data-stu-id="138bc-104">However, you can't use it if directory sychronization or SSO are enabled.</span></span> <span data-ttu-id="138bc-105">Au lieu de cela, gérez vos utilisateurs avec Windows PowerShell comme décrit dans Configurer les propriétés de compte d'utilisateur avec [Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span><span class="sxs-lookup"><span data-stu-id="138bc-105">Instead, manage your users with Windows PowerShell as described in [Configure user account properties with Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ).</span></span> 
   
 
