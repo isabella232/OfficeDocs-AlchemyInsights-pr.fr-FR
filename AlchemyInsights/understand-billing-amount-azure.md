@@ -2,7 +2,7 @@
 title: Comprendre votre facture
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782689"
 ---
 # <a name="understand-billing-amount"></a>Comprendre le montant de la facturation
 
@@ -70,7 +70,7 @@ Non. Les clients bénéficient d’un nombre fixe de services de niveau gratuit 
 
 **Comment vérifier que les services gratuits sont actifs ou la date à laquelle ils expirent ?**
 
-Dans le portail Ibiza > Abonnement > page Vue d’ensemble > faites défiler vers le bas jusqu’aux services gratuits pendant 12 mois, puis cliquez sur l’icône Informations. Celle-ci affiche la date à laquelle les services gratuits arrivent à expiration. **Remarque**  : aucun service V1 n’est inclus dans les services Azure gratuits. Pour obtenir la liste des services gratuits la plus à jour, voir [Quels produits sont gratuits pendant 12 mois](http://www.microsoftazuresponsorships.com/)
+Dans le portail Ibiza > Abonnement > page Vue d’ensemble > faites défiler vers le bas jusqu’aux services gratuits pendant 12 mois, puis cliquez sur l’icône Informations. Celle-ci affiche la date à laquelle les services gratuits arrivent à expiration. **Remarque** : aucun service V1 n’est inclus dans les services Azure gratuits. Pour obtenir la liste des services gratuits la plus à jour, voir [Quels produits sont gratuits pendant 12 mois](http://www.microsoftazuresponsorships.com/)
 
 Forum aux questions supplémentaire : [FAQ sur le compte gratuit](https://azure.microsoft.com/free/free-account-faq/)
 

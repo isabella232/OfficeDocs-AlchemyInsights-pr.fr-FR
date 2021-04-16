@@ -2,7 +2,7 @@
 title: Mettre à jour les paramètres de confidentialité de votre appareil photo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: b4731cb8abc7cc8b146a752940fa954138ddb188
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48210379"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782653"
 ---
 # <a name="update-your-cameras-privacy-settings"></a>Mettre à jour les paramètres de confidentialité de votre appareil photo
 
-Ce code d’erreur signifie que les paramètres de confidentialité de votre appareil ont un impact sur l’application. Procédez comme suit pour mettre à jour les paramètres de confidentialité de votre appareil :
+Ce code d'erreur signifie que les paramètres de confidentialité de votre appareil photo ont un impact sur l'application. Suivez ces étapes pour mettre à jour les paramètres de confidentialité de votre appareil photo :
 
-- Ouvrir le **bouton démarrer > les paramètres > confidentialité > appareil photo**.
-- Sous **autoriser l’accès à l’appareil photo sur cet appareil**, sélectionnez **modifier**. Assurez-vous que le bouton bascule est **activé.**
-- Ensuite, sous **autoriser les applications à accéder à votre appareil photo**, vérifiez que le bouton bascule est **activé.**
-- Ensuite, sous **Choisissez les applications qui peuvent accéder à votre appareil photo**, vérifiez que le bouton bascule en regard de l’application souhaitée est également activé.
+- Ouvrez **le bouton Démarrer > paramètres > confidentialité > caméra.**
+- Sous **Autoriser l’accès à l’appareil photo sur cet appareil**, sélectionnez **Modifier**. Assurez-vous que le bouton bascule est **Activé**.
+- Sous **Autoriser les applications à accéder à votre appareil photo**, assurez-vous que le bouton bascule est **Activé**.
+- Ensuite, sous **Sélectionner les applications qui peuvent accéder à votre appareil photo**, assurez-vous que le bouton bascule en dessous de l’application souhaitée est également Activé .
