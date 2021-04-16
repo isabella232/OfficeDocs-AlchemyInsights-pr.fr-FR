@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 pour les offres et tarifs professionnels
+title: Plans et tarifs Microsoft 365 pour les entreprises
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 9db0179b8f755cec931b6b630b038b2b05cc553b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729725"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790798"
 ---
 # <a name="compare-microsoft-365-for-business"></a>Comparer Microsoft 365 pour les entreprises
 
-Microsoft 365 pour les entreprises propose trois offres différentes. [Comparez les offres et tarifs de Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=2).  
+Il existe trois plans différents disponibles avec Microsoft 365 pour les entreprises. [Comparez les tarifs et les plans Microsoft 365 pour les entreprises.](https://products.office.com/compare-all-microsoft-office-products?tab=2)  

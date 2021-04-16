@@ -1,8 +1,8 @@
 ---
-title: Le prix ne semble pas correct ?
+title: Le prix n’a pas l’air correct ?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92290384e7995ccb44f41665b7166fd07196f947
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693661"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790438"
 ---
-# <a name="price-doesnt-look-correct"></a>Le prix ne semble pas correct ?
+# <a name="price-doesnt-look-correct"></a>Le prix n’a pas l’air correct ?
 
-Si le prix sur votre facture ne semble pas correct, cela peut être dû à un changement de prix lors du renouvellement. Si vous estimez que le problème persiste, utilisez l’option nous contacter pour contacter un ingénieur du support technique.
+Si le prix de votre facture ne semble pas correct, cela peut être dû à un changement de prix au moment du renouvellement. Si vous ne pensez pas que cela explique le problème, utilisez l’option « Laissez-nous vous appeler » pour parler à un ingénieur du support technique.
