@@ -1,8 +1,8 @@
 ---
-title: Le fichier XLS n’a pas été ouvert sur un double-clic
+title: Le fichier XLS ne s'est pas ouvert en double-cliquant
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770593"
 ---
-# <a name="excel-file-doesnt-open"></a>Impossible d’ouvrir le fichier Excel
+# <a name="excel-file-doesnt-open"></a>Le fichier Excel ne s'ouvre pas
 
-Essayez l’une des suggestions suivantes :
+Essayez l'une de ces suggestions :
 
 **Choisir Excel comme valeur par défaut**
 
-* Cliquez avec le bouton droit sur la feuille de calcul, choisissez **Ouvrir avec**, puis **Excel**
+* Cliquez avec le bouton droit sur la feuille de calcul, choisissez **Ouvrir avec,** puis **excel**
 
 **Exécuter une réparation rapide**
 
 1. Accédez à **Panneau de configuration > Programmes > Programmes et fonctionnalités**.
 
-2. Sélectionnez le produit Office que vous souhaitez réparer, puis cliquez sur **modifier**.
+2. Sélectionnez le produit Office à réparer, puis choisissez **Modifier.**
 
-3. Sélectionnez l’option **réparation rapide** , puis **réparer**.
+3. Choisissez **l'option Réparation** rapide, puis choisissez **Réparer.**
 
-**Désinstaller les versions d’Office que vous n’utilisez pas**
+**Désinstaller les versions d'Office que vous n'utilisez pas**
 
-1. Accédez au **panneau de configuration > désinstaller un programme**, puis sélectionnez la version d’Office que vous souhaitez supprimer.
+1. Go to **Control Panel > Uninstall a Program,** and then select the version of Office you want to remove.
 
 2. Cliquez sur **Désinstaller**.
 
 3. Restart your computer.
 
-**Exécuter cet utilitaire de résolution des problèmes pour définir les extensions de fichiers Office à ouvrir dans Office**
+**Exécutez cet dépannage pour configurer les extensions de fichier Office à ouvrir dans Office**
 
-1. Exécutez cet utilitaire de résolution des problèmes : https://aka.ms/diag_officefile .
+1. Exécutez cet dépannage : https://aka.ms/diag_officefile .
 
-2. En fonction de votre navigateur, **ouvrez** ou **Enregistrez** l’utilitaire de résolution des problèmes sur votre bureau, puis **Exécutez** -le.
+2. Selon votre navigateur, **ouvrez** ou **enregistrez** l'outil de dépannage sur votre bureau, puis **exécutez-le.**

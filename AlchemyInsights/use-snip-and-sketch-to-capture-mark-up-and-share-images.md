@@ -1,8 +1,8 @@
 ---
-title: Utiliser la capture & esquisse pour capturer, marquer et partager des images
+title: Utiliser Snip & Sketch pour capturer, marquer et partager des images
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773197"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770809"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Utiliser la capture & esquisse pour capturer, marquer et partager des images
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Utiliser Snip & Sketch pour capturer, marquer et partager des images
 
-L’esquisse est maintenant appelée **capture & esquisse**. **Pour effectuer une capture rapide**:
+L'croquis à l'écran s'appelle **désormais & Sketch**. **Pour prendre rapidement un snip**:
 
-1. Appuyez sur la **touche du logo Windows + Maj + S**. Vous verrez votre écran obscurcir et le curseur affiché sous la forme d’une croix. 
+1. Appuyez **sur la touche de logo Windows + Shift + S**. Votre écran s'assombrit et votre curseur s'affiche sous la forme d'une croix. 
 
-2. Choisissez un point au niveau du bord de la zone à copier et cliquez sur le curseur. 
+2. Choisissez un point au bord de la zone que vous souhaitez copier, puis cliquez avec le bouton gauche sur le curseur. 
 
-3. Déplacez votre curseur pour mettre en surbrillance la zone que vous souhaitez capturer. La zone que vous capturez apparaît à l’écran.
+3. Déplacez votre curseur pour mettre en surbrillez la zone que vous souhaitez capturer. La zone que vous capturez s'affiche sur votre écran.
 
-   ![image de la sélection en surbrillance](media/snipone.png)
+   ![image de la sélection mise en surbrill](media/snipone.png)
 
-L’image que vous ciselés est enregistrée dans votre presse-papiers, prête à être collée dans un message électronique ou un document. 
+L'image que vous avez extraite est enregistrée dans votre Presse-papiers, prête à être pastée dans un e-mail ou un document. 
 
-**Si vous souhaitez modifier ou afficher l’image**: 
+**Si vous souhaitez modifier ou afficher l'image**: 
 
-- Cliquez sur l’icône notifications située à l’extrême droite de la barre des tâches ; Ensuite, cliquez sur l’image que vous venez de capturer. Votre capture s’ouvre dans l’application de capture & esquisse.
+- Cliquez sur l'icône notifications à l'extrême droite de la barre des tâches ; cliquez ensuite sur l'image que vous avez capturée. Votre snip s'ouvre dans l'application & Sketch.
 
-   ![image de l’image affichée dans l’application capture](media/sniptwo.png)
+   ![image de l'image affichée dans l'application de sirotation](media/sniptwo.png)
