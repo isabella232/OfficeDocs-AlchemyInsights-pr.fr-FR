@@ -2,7 +2,7 @@
 title: Rapport sur le partage de fichiers et de dossiers dans les sites SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: f6c0e7d183ee7d656d0dd63ed7af621c03f3ce94
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccf53ac09e6f5ad5bc48dcd8b31fb27b3a7c7b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692365"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799015"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a><span data-ttu-id="b0408-102">Rapport sur le partage de fichiers et de dossiers dans les sites SharePoint</span><span class="sxs-lookup"><span data-stu-id="b0408-102">Report on file and folder sharing in SharePoint sites</span></span>
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a><span data-ttu-id="34e9d-102">Rapport sur le partage de fichiers et de dossiers dans les sites SharePoint</span><span class="sxs-lookup"><span data-stu-id="34e9d-102">Report on file and folder sharing in SharePoint sites</span></span>
 
-<span data-ttu-id="b0408-103">Vous pouvez créer un fichier CSV détaillant tous les fichiers, utilisateurs, autorisations et liens uniques sur un site SharePoint donné ou une bibliothèque OneDrive.</span><span class="sxs-lookup"><span data-stu-id="b0408-103">You can create a CSV file detailing every unique file, user, permission, and link on a given SharePoint site or OneDrive library.</span></span> <span data-ttu-id="b0408-104">Cela peut vous aider à comprendre comment le partage est utilisé et si des fichiers ou des dossiers sont partagés avec les invités.</span><span class="sxs-lookup"><span data-stu-id="b0408-104">This can help you understand how sharing is being used and whether any files or folders are being shared with guests.</span></span>
+<span data-ttu-id="34e9d-103">Vous pouvez créer un fichier CSV détaillant chaque fichier unique, utilisateur, autorisation et lien sur un site SharePoint ou une bibliothèque OneDrive donné.</span><span class="sxs-lookup"><span data-stu-id="34e9d-103">You can create a CSV file detailing every unique file, user, permission, and link on a given SharePoint site or OneDrive library.</span></span> <span data-ttu-id="34e9d-104">Cela peut vous aider à comprendre comment le partage est utilisé et si des fichiers ou des dossiers sont partagés avec les invités.</span><span class="sxs-lookup"><span data-stu-id="34e9d-104">This can help you understand how sharing is being used and whether any files or folders are being shared with guests.</span></span>
 
-<span data-ttu-id="b0408-105">Pour plus d’informations, [Reporting sur le partage de fichiers et de dossiers dans un site SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).</span><span class="sxs-lookup"><span data-stu-id="b0408-105">For more information, [Report on file and folder sharing in a SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).</span></span>
+<span data-ttu-id="34e9d-105">Pour plus d'informations, [reportez-vous au partage de fichiers et de dossiers dans un site SharePoint.](https://docs.microsoft.com/sharepoint/sharing-reports)</span><span class="sxs-lookup"><span data-stu-id="34e9d-105">For more information, [Report on file and folder sharing in a SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="b0408-106">Cette fonctionnalité est actuellement déployée vers les locataires de première publication et se déploie progressivement sur tous les clients de production.</span><span class="sxs-lookup"><span data-stu-id="b0408-106">This feature is currently deployed to First Release tenants and will gradually rolling out to all Production tenants.</span></span>
+> <span data-ttu-id="34e9d-106">Cette fonctionnalité est actuellement déployée sur les locataires First Release et sera progressivement déployée sur tous les locataires production.</span><span class="sxs-lookup"><span data-stu-id="34e9d-106">This feature is currently deployed to First Release tenants and will gradually rolling out to all Production tenants.</span></span>
