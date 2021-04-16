@@ -1,8 +1,8 @@
 ---
-title: Comprendre votre facture
+title: Aide à comprendre votre facture
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +14,18 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705441"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811598"
 ---
-# <a name="help-understanding-your-bill"></a>Comprendre votre facture
+# <a name="help-understanding-your-bill"></a>Aide à comprendre votre facture
 
-Le montant facturé pour votre abonnement reflète le prix de la licence multiplié par le nombre de licences achetées et les taxes/frais requises.
+Le montant facturé pour votre abonnement reflète le prix de la licence multiplié par le nombre de licences achetées et les taxes/frais requis.
   
-Si le montant facturé est différent de la valeur attendue, cela peut se produire pour plusieurs raisons :
+Si le montant facturé est différent de celui prévu, cela peut se produire pour plusieurs raisons :
   
 - Des licences ont été ajoutées à votre abonnement ou en ont été supprimées. Si les licences sont modifiées avant la fin du terme, la facture suivante le mentionne. Un crédit et une nouvelle facturation pour la période de service précédente peuvent apparaître en relation avec cette modification.
 
@@ -33,4 +33,4 @@ Si le montant facturé est différent de la valeur attendue, cela peut se produi
 
 - Votre abonnement est renouvelé pour un nouveau terme et le prix de la licence a changé.
 
-Pour plus d’informations sur votre facture, voir : [comprendre votre facture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Pour plus d'informations sur votre facture, voir : [Comprendre votre facture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

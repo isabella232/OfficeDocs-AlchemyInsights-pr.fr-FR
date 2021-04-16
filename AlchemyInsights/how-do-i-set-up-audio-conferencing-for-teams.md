@@ -2,7 +2,7 @@
 title: Configurer l’audioconférence pour Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 61312e3b74e41c4474ac89eeeee8bc6e75372fa8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781533"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811058"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams : audioconférence
 

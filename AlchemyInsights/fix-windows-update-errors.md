@@ -1,8 +1,8 @@
 ---
-title: Corriger les erreurs Windows Update
+title: Corriger les erreurs de Windows Update
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744660"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812642"
 ---
-# <a name="fix-windows-update-errors"></a>Corriger les erreurs Windows Update
+# <a name="fix-windows-update-errors"></a>Corriger les erreurs de Windows Update
 
-Si vous obtenez un code d’erreur pendant le téléchargement et l’installation de Windows Update, l' **utilitaire de résolution des problèmes de mise à jour** peut vous aider à résoudre le problème.
+Si vous obtenez un code d'erreur lors  du téléchargement et de l'installation de Windows Update, l'dépannage de la mise à jour peut vous aider à résoudre le problème.
 
-- [Télécharger l’utilitaire de résolution des problèmes de mise à jour pour Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Exécutez l’utilitaire de résolution des problèmes. Une fois cette opération terminée, il est recommandé de redémarrer votre appareil. Ensuite, recherchez les nouvelles mises à jour en accédant à [démarrer > les paramètres > mise à jour & sécurité > Windows Update](ms-settings:windowsupdate).
+- [Télécharger l'dépannage des mises à jour pour Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Exécutez l'dépannage. Lorsque vous avez terminé, il est préférable de redémarrer votre appareil. Ensuite, recherchez les nouvelles mises à jour en allant sur Démarrer > Paramètres > Mise à jour & [sécurité > Windows Update.](ms-settings:windowsupdate)
 
-Si cela ne fonctionne toujours pas, veuillez consulter la [mise à jour Windows : Forum aux questions](https://support.microsoft.com/help/12373/windows-update-faq) pour plus d’informations.
+Si ceux-ci ne fonctionnent toujours pas, consultez [Windows Update : FAQ](https://support.microsoft.com/help/12373/windows-update-faq) pour plus d'informations.

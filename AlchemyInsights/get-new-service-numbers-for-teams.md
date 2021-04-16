@@ -2,7 +2,7 @@
 title: Obtention de nouveaux numéros de service pour Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5140"
-ms.openlocfilehash: c777669405ac9d4ba4b4b5afbd15345b65aedd72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90cc994398de0b53d3501cb9d95c860ad6b397d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707493"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812246"
 ---
 # <a name="get-new-service-numbers-for-teams"></a>Obtention de nouveaux numéros de service pour Microsoft Teams
 

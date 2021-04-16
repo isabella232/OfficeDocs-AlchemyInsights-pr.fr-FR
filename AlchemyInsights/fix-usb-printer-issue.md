@@ -1,8 +1,8 @@
 ---
-title: Résolution des problèmes liés aux imprimantes USB
+title: Résoudre les problèmes d'imprimante USB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677493"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812714"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>Corriger les problèmes de connexion de l’imprimante USB
+# <a name="fix-usb-printer-connection-issues"></a>Résoudre les problèmes de connexion d'imprimante USB
 
-Suivez les **étapes de dépannage** suivantes pour faire fonctionner votre imprimante USB :
+Essayez les **étapes de résolution des** problèmes suivantes pour que votre imprimante USB fonctionne à nouveau :
 
-1. Éteignez votre imprimante et débranchez le câble USB de votre PC et de votre imprimante.
-2. Inspectez le câble pour vous assurer qu’il n’y a pas de dommage.
-3. Rebranchez le câble sur votre PC et votre imprimante.
+1. Étecher votre imprimante et débrancher le câble USB de votre PC et de votre imprimante.
+2. Examinez le câble pour vous assurer qu'il n'y a aucun dommages.
+3. Branchez à nouveau le câble sur votre PC et votre imprimante.
 
 Si cela ne fonctionne pas, essayez de **supprimer et de réinstaller votre imprimante USB**:
 
-1. Supprimez l’imprimante dans paramètres :
-    1. Débranchez le câble USB de l’imprimante de votre PC.
-    2. Sélectionnez **Démarrer**  >  **paramètres**  >  **périphériques**  >  **imprimantes & scanneurs**.
-    3. Sous **imprimantes & scanneurs**, sélectionnez l’imprimante que vous dépannez. Sélectionnez **Supprimer l’appareil**. Suivez les instructions pour supprimer complètement l’imprimante.
-2. Supprimez tout logiciel de fabricant d’imprimantes tiers :
-    1. Sélectionnez **Démarrer**les applications des  >  **paramètres**  >  **Apps**.
-    2. Sous **applications & fonctionnalités**, faites défiler pour trouver les logiciels installés par le fabricant de votre imprimante (par exemple, HP, Canon ou Epson).
-    3. Sélectionnez le logiciel et sélectionnez **désinstaller**.
+1. Supprimez l'imprimante dans Paramètres :
+    1. Débrancher le câble USB de l'imprimante de votre PC.
+    2. Sélectionnez   >  **Imprimantes des périphériques** de  >    >  **paramètres de démarrage & scanneurs.**
+    3. Sous **Imprimantes & scanneurs,** sélectionnez l'imprimante que vous dépannagez. Sélectionnez **Supprimer l'appareil.** Suivez les instructions pour supprimer complètement l’imprimante.
+2. Supprimez les logiciels de fabricant d'imprimantes tiers :
+    1. Sélectionnez **Démarrer**  >  **les applications de**  >  **paramètres.**
+    2. Sous **Applications & fonctionnalités,** faites défiler pour rechercher les logiciels installés auprès du fabricant de votre imprimante (par exemple, HP, Canon ou Epson).
+    3. Sélectionnez le logiciel et **sélectionnez Désinstaller.**
 3. Désactivez et redémarrez votre imprimante.<br>
-    1. Éteignez votre imprimante et débranchez son câble d’alimentation. Patientez 30 secondes. Rebranchez votre imprimante.
-    2. Reconnectez le câble USB de votre imprimante à votre PC. Votre PC doit automatiquement enregistrer votre appareil branché.
-4. Réessayez d’imprimer.
+    1. Éteignez votre imprimante et débranchez son câble d’alimentation. Patientez 30 secondes. Branchez de nouveau votre imprimante.
+    2. Branchez le câble USB de votre imprimante sur votre PC. Votre PC doit automatiquement enregistrer que votre appareil était branché.
+4. Essayez d'imprimer à nouveau.
