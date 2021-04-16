@@ -1,8 +1,8 @@
 ---
-title: Transférer la propriété d’un formulaire à un autre utilisateur
+title: Transférer la propriété du formulaire à un autre utilisateur
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db71635a5f925df85e6613c6cb4760406b4be3e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700129"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809041"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="8dc85-102">Transférer la propriété d’un formulaire Microsoft</span><span class="sxs-lookup"><span data-stu-id="8dc85-102">Transfer ownership of a Microsoft Form</span></span>
+# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="1821c-102">Transférer la propriété d'un formulaire Microsoft</span><span class="sxs-lookup"><span data-stu-id="1821c-102">Transfer ownership of a Microsoft Form</span></span>
 
-<span data-ttu-id="8dc85-103">Vous pouvez déplacer une enquête, un quiz ou une interrogation dans Microsoft Forms vers un groupe, afin que tous les membres de votre groupe deviennent des propriétaires de ce formulaire.</span><span class="sxs-lookup"><span data-stu-id="8dc85-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="8dc85-104">Vous pouvez également transférer la propriété de formulaire à un autre utilisateur si le propriétaire précédent a quitté l’organisation.</span><span class="sxs-lookup"><span data-stu-id="8dc85-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
+<span data-ttu-id="1821c-103">Vous pouvez déplacer une enquête, un questionnaire ou un sondage dans Microsoft Forms vers un groupe afin que tous les membres de votre groupe deviennent propriétaires de ce formulaire.</span><span class="sxs-lookup"><span data-stu-id="1821c-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="1821c-104">Vous pouvez également transférer la propriété du formulaire à un autre utilisateur si le propriétaire précédent a quitté l'organisation.</span><span class="sxs-lookup"><span data-stu-id="1821c-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
 
-<span data-ttu-id="8dc85-105">Pour plus d’informations, consultez [la rubrique transférer la propriété d’un formulaire](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span><span class="sxs-lookup"><span data-stu-id="8dc85-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>
+<span data-ttu-id="1821c-105">Pour plus d'informations, voir [Transférer la propriété d'un formulaire.](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)</span><span class="sxs-lookup"><span data-stu-id="1821c-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>

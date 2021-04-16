@@ -1,8 +1,8 @@
 ---
-title: Transition vidéo Office 365 vers Microsoft Stream
+title: Transition d’Office 365 Video vers Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: b975c5eb6f0fc1e04984912ba323d673ac231279
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0937a7664b0cff3fa98ba86fadeb7f360df474d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666580"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810158"
 ---
-# <a name="office-365-video-transition-to-microsoft-stream"></a><span data-ttu-id="f3da2-102">Transition vidéo Office 365 vers Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="f3da2-102">Office 365 Video transition to Microsoft Stream</span></span>
+# <a name="office-365-video-transition-to-microsoft-stream"></a><span data-ttu-id="f9b90-102">Transition d’Office 365 Video vers Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="f9b90-102">Office 365 Video transition to Microsoft Stream</span></span>
 
-<span data-ttu-id="f3da2-103">Pour plus d’informations sur la migration de la vidéo Office 365 vers Microsoft Stream, voir :</span><span class="sxs-lookup"><span data-stu-id="f3da2-103">For detailed information on migration from Office 365 Video to Microsoft Stream, see:</span></span>
+<span data-ttu-id="f9b90-103">Pour plus d’informations sur la migration d’Office 365 Video vers Microsoft Stream, voir :</span><span class="sxs-lookup"><span data-stu-id="f9b90-103">For detailed information on migration from Office 365 Video to Microsoft Stream, see:</span></span>
 
-- [<span data-ttu-id="f3da2-104">Vue d’ensemble de la migration</span><span class="sxs-lookup"><span data-stu-id="f3da2-104">Migration overview</span></span>](https://docs.microsoft.com/stream/migrate-from-office-365)
-- [<span data-ttu-id="f3da2-105">Détails de la migration</span><span class="sxs-lookup"><span data-stu-id="f3da2-105">Migration details</span></span>](https://docs.microsoft.com/stream/migration-experience)
-- [<span data-ttu-id="f3da2-106">Paramètre de minutage de la migration</span><span class="sxs-lookup"><span data-stu-id="f3da2-106">Migration timing setting</span></span>](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
-- [<span data-ttu-id="f3da2-107">Script de préparation de la migration</span><span class="sxs-lookup"><span data-stu-id="f3da2-107">Migration prep script</span></span>](https://docs.microsoft.com/stream/migration-o365video-prep)
+- [<span data-ttu-id="f9b90-104">Vue d’ensemble de la migration</span><span class="sxs-lookup"><span data-stu-id="f9b90-104">Migration overview</span></span>](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [<span data-ttu-id="f9b90-105">Détails de la migration</span><span class="sxs-lookup"><span data-stu-id="f9b90-105">Migration details</span></span>](https://docs.microsoft.com/stream/migration-experience)
+- [<span data-ttu-id="f9b90-106">Paramètre de minutage de la migration</span><span class="sxs-lookup"><span data-stu-id="f9b90-106">Migration timing setting</span></span>](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
+- [<span data-ttu-id="f9b90-107">Script de préparation de la migration</span><span class="sxs-lookup"><span data-stu-id="f9b90-107">Migration prep script</span></span>](https://docs.microsoft.com/stream/migration-o365video-prep)
