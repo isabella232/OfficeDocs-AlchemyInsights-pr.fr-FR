@@ -1,8 +1,8 @@
 ---
-title: Utiliser l’option de déverrouillage par empreinte digitale dans Windows 10
+title: Utiliser l'option de déverrouillage d'empreinte digitale dans Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795242"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796675"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Utiliser l’option de déverrouillage par empreinte digitale dans Windows 10
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Utiliser l'option de déverrouillage d'empreinte digitale dans Windows 10
 
-**Activer l’empreinte digitale Windows Hello**
+**Activer l'empreinte numérique Windows Hello**
 
-Pour déverrouiller Windows 10 à l’aide de votre empreinte digitale, vous devez configurer une empreinte digitale Windows Hello en ajoutant (permettant à Windows d’apprendre à reconnaître) au moins un doigt. 
+Pour déverrouiller Windows 10 à l'aide de votre empreinte digitale, vous devez configurer l'empreinte digitale Windows Hello en ajoutant (permettant à Windows d'apprendre à reconnaître) au moins un doigt. 
 
-1. Accédez à **paramètres > comptes > options de connexion** (ou cliquez sur [ici](ms-settings:signinoptions?activationSource=GetHelp)). Les options de connexion disponibles seront affichées. Par exemple :
+1. Go to **Settings > Accounts > Sign-in options** (or click [here](ms-settings:signinoptions?activationSource=GetHelp)). Les options de personnalisation disponibles sont répertoriées. Par exemple :
 
-    ![Options de connexion.](media/sign-in-options.png)
+    ![Options de connectez-vous.](media/sign-in-options.png)
 
-2. Cliquez ou appuyez sur **Windows Hello Fingerprint**, puis cliquez sur **configurer**. Dans la fenêtre installation de Windows Hello, cliquez sur **prise en main**. Le capteur d’empreintes digitales est activé et vous êtes invité à placer votre doigt sur le capteur :
+2. Cliquez ou appuyez **sur Windows Hello Fingerprint,** puis cliquez **sur Configurer**. Dans la fenêtre d'installation de Windows Hello, cliquez **sur Démarrer.** Le capteur d'empreintes digitales s'active et vous êtes invité à placer votre doigt sur le capteur :
 
-   ![Capteur d’empreintes digitales.](media/fingerprint-sensor.png)
+   ![Capteur d'empreintes digitales.](media/fingerprint-sensor.png)
 
-3. Suivez les instructions, qui vous demanderont d’analyser votre doigt de manière répétée. Une fois cette opération terminée, vous aurez la possibilité d’ajouter d’autres doigts que vous souhaiterez peut-être utiliser pour vous connecter. La prochaine fois que vous vous connecterez à Windows 10, vous aurez la possibilité d’utiliser votre empreinte digitale pour le faire.
+3. Suivez les instructions qui vous demanderont d'analyser votre doigt à plusieurs reprises. Lorsque cette option est terminée, vous avez la possibilité d'ajouter d'autres doigts que vous souhaiterez peut-être utiliser pour vous inscrire. La prochaine fois que vous vous connectez à Windows 10, vous aurez la possibilité d'utiliser votre empreinte digitale pour le faire.
 
-**Empreinte digitale Windows Hello non disponible en tant qu’option de connexion**
+**Windows Hello Fingerprint non disponible en tant qu'option de sign-in**
 
-Si Windows Hello Fingerprint n’est pas affiché en tant qu’option dans les **options de connexion**, cela signifie que Windows n’est pas conscient d’un lecteur d’empreintes digitales ou d’un scanneur connecté à votre PC, ou qu’une stratégie système empêche son utilisation (si votre PC est géré par exemple). Pour résoudre les problèmes : 
+Si l'empreinte digitale Windows Hello n'est pas affichée en tant qu'option dans les **options** de personnalisation, cela signifie que Windows ne connaît aucun lecteur/scanneur d'empreintes digitales connecté à votre PC, ou qu'une stratégie système empêche son utilisation (si, par exemple, votre PC est géré par votre espace de travail). Pour résoudre les problèmes : 
 
-1. Sélectionnez le bouton **Démarrer** dans la barre des tâches et recherchez **Gestionnaire de périphériques**.
+1. Sélectionnez **le bouton** Démarrer dans la barre des tâches et recherchez Gestionnaire de **périphériques.**
 
-2. Cliquez ou appuyez pour ouvrir le **Gestionnaire de périphériques**.
+2. Cliquez ou appuyez pour ouvrir **le Gestionnaire de périphériques.**
 
-3. Dans le gestionnaire de périphériques, développez périphériques biométriques en cliquant sur le Chevron correspondant.
+3. Dans le Gestionnaire de périphériques, développez les appareils biométriques en cliquant sur son chevron.
 
-   ![Périphériques biométriques.](media/biometric-devices.png)
+   ![Appareils biométriques.](media/biometric-devices.png)
 
-4. Votre scanneur d’empreintes digitales doit être mentionné comme un périphérique biométrique, tel que le scanneur Synaptics WBDI :
+4. Votre scanneur d’empreintes digitales doit être répertorié en tant que périphérique biométrique, tel que le scanneur Synaptics WBDI :
 
-   ![Périphériques biométriques.](media/biometric-devices-expanded.png)
+   ![Appareils biométriques.](media/biometric-devices-expanded.png)
 
-5. Si votre scanneur d’empreintes digitales n’est pas affiché et que le scanneur est intégré à votre PC, accédez au site Web du fabricant de PC. Dans la section Support technique de votre modèle PC, recherchez un pilote Windows 10 pour un scanneur que vous pouvez installer.
+5. Si votre scanneur d’empreintes digitales n’est pas affiché et qu’il est intégré à votre PC, allez sur le site web du fabricant du PC. Dans la section de support technique de votre modèle PC, recherchez un pilote Windows 10 pour un scanneur que vous pouvez installer.
 
-6. Si le scanneur est séparé du PC (attaché via USB), accédez au site Web du fabricant du scanneur pour trouver et installer le logiciel de pilote de périphérique Windows 10 pour le modèle de scanneur que vous avez.
+6. Si le scanneur est distinct du PC (connecté via USB), allez sur le site web du fabricant du scanneur pour rechercher et installer le logiciel de pilote de périphérique Windows 10 pour le modèle de scanneur dont vous avez besoin.
