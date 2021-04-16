@@ -2,7 +2,7 @@
 title: Supprimer un mot de passe de votre document
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8c0edcbd511e929bb618dfc51d79bb7b5b13e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768209"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799411"
 ---
-# <a name="remove-a-password-from-a-word-document"></a>Supprimer un mot de passe d’un document Word
+# <a name="remove-a-password-from-a-word-document"></a>Supprimer un mot de passe d'un document Word
 
-Tant que vous connaissiez le mot de passe d’origine, la suppression d’un mot de passe d’un document est un processus simple.
+Tant que vous connaissez le mot de passe d'origine, la suppression d'un mot de passe d'un document est un processus simple.
 
 1. Ouvrez le document et entrez le mot de passe.
-2. Accédez à infos sur le **fichier**  >  **Info**  >  **protéger le document**  >  **avec le mot de passe**.
-3. Effacez le mot de passe dans la **zone mot de passe**, puis sélectionnez **OK**.
+2. Go to **File**  >  **Info**  >  **Protect Document** Encrypt with  >  **Password**.
+3. Effacer le mot de passe dans la **zone Mot de** passe, puis sélectionner **OK**.
