@@ -2,7 +2,7 @@
 title: Une version plus récente est disponible
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598982"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804271"
 ---
 # <a name="delete-the-office-document-cache"></a>Supprimer le cache de documents Office
 
-Si vous avez reçu une invite Excel indiquant qu' **une version plus récente du fichier est disponible**, essayez de supprimer le cache de documents Office en suivant les instructions indiquées dans la procédure de [Suppression de votre cache de documents Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Essayez ensuite de rouvrir le fichier.
+Si vous avez reçu une invite Excel pour vous demander qu'une **version** plus récente du fichier est disponible, essayez de supprimer le cache de documents Office en suivant les instructions de La suppression de votre cache de [documents Office.](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d) Essayez ensuite de rouvrir le fichier.
