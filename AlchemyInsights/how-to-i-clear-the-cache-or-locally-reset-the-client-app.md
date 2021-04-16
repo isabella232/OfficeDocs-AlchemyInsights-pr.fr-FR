@@ -1,8 +1,8 @@
 ---
-title: Comment effacer le cache ou réinitialiser/actualiser localement le client/l’application ?
+title: Comment effacer le cache ou réinitialiser/actualiser localement le client/l'application ?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780273"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795946"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a><span data-ttu-id="bb23d-102">Comment effacer le cache ou réinitialiser/actualiser localement le client/l’application ?</span><span class="sxs-lookup"><span data-stu-id="bb23d-102">How do I clear the cache or locally reset/refresh the client/app?</span></span>
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a><span data-ttu-id="75afe-102">Comment effacer le cache ou réinitialiser/actualiser localement le client/l'application ?</span><span class="sxs-lookup"><span data-stu-id="75afe-102">How do I clear the cache or locally reset/refresh the client/app?</span></span>
 
-<span data-ttu-id="bb23d-103">Si vous voyez des données incomplètes ou incorrectes, essayez de fermer et de rouvrir l’application.</span><span class="sxs-lookup"><span data-stu-id="bb23d-103">If you are seeing incomplete or incorrect data, try to force close and reopen the app.</span></span>  
+<span data-ttu-id="75afe-103">Si vous voyez des données incomplètes ou incorrectes, essayez de forcer la fermeture et rouvrez l'application.</span><span class="sxs-lookup"><span data-stu-id="75afe-103">If you are seeing incomplete or incorrect data, try to force close and reopen the app.</span></span>  
 
-<span data-ttu-id="bb23d-104">Si cela ne fonctionne pas, vous pouvez essayer de réinitialiser le compte sur l’appareil.</span><span class="sxs-lookup"><span data-stu-id="bb23d-104">If that doesn't work, you can try to reset the account on the device.</span></span>
+<span data-ttu-id="75afe-104">Si cela ne fonctionne pas, vous pouvez essayer de réinitialiser le compte sur l'appareil.</span><span class="sxs-lookup"><span data-stu-id="75afe-104">If that doesn't work, you can try to reset the account on the device.</span></span>
  
-<span data-ttu-id="bb23d-105">Ouvrez l’application, accédez à **paramètres**, sélectionnez le compte de messagerie, puis choisissez **Réinitialiser le compte**.</span><span class="sxs-lookup"><span data-stu-id="bb23d-105">Open the app, go to **Settings**, select the email account, and choose **Reset Account**.</span></span>
+<span data-ttu-id="75afe-105">Ouvrez l'application, sélectionnez **Paramètres,** sélectionnez le compte de messagerie, puis choisissez **Réinitialiser le compte.**</span><span class="sxs-lookup"><span data-stu-id="75afe-105">Open the app, go to **Settings**, select the email account, and choose **Reset Account**.</span></span>
