@@ -1,8 +1,8 @@
 ---
-title: Pour plus d’informations sur le client Windows Defender
+title: Pour plus d'aide sur Windows Defender client
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: e39ba958540c85eab3b35e78bf75adf017773247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5c584bdd39a98e19fde88c59bfdcb64cbd33d69
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708141"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812498"
 ---
-# <a name="for-more-help-with-windows-defender-client"></a><span data-ttu-id="bf9ac-102">Pour plus d’informations sur le client Windows Defender</span><span class="sxs-lookup"><span data-stu-id="bf9ac-102">For more help with Windows Defender client</span></span>
+# <a name="for-more-help-with-windows-defender-client"></a><span data-ttu-id="f4cd3-102">Pour plus d'aide sur Windows Defender client</span><span class="sxs-lookup"><span data-stu-id="f4cd3-102">For more help with Windows Defender client</span></span>
 
-<span data-ttu-id="bf9ac-103">Visitez le centre de [documentation sur la sécurité](https://docs.microsoft.com/security/#pivot=products&panel=products1) Microsoft.</span><span class="sxs-lookup"><span data-stu-id="bf9ac-103">Visit Microsoft [Security documentation](https://docs.microsoft.com/security/#pivot=products&panel=products1) center.</span></span>
+<span data-ttu-id="f4cd3-103">Visitez le Centre [de documentation sur la sécurité](https://docs.microsoft.com/security/#pivot=products&panel=products1) Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f4cd3-103">Visit Microsoft [Security documentation](https://docs.microsoft.com/security/#pivot=products&panel=products1) center.</span></span>
