@@ -1,8 +1,8 @@
 ---
-title: Restauration ou réinstallation
+title: Rollback or reinstall
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: 4a5c613cecf9287ca4a7ac709fc5993a480d8bd8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 51ec547d99c6d13ddc14bc1b3288ff54fb1cd056
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560510"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809221"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Réinstaller ou restaurer Office
+# <a name="reinstall-or-roll-back-office"></a>Réinstaller ou réinstaller Office
 
-Si vous rencontrez des problèmes généraux après une mise à jour récente de la suite Office, il se peut que vous puissiez résoudre le problème en réinstallant Office ou en revenant à la version précédente d’Office.
+Si vous rencontrez des problèmes généraux après une mise à jour récente de la suite Office, vous pourrez peut-être résoudre le problème en réinstallant Office ou en revenir à la version précédente d'Office.
 
-Pour effectuer une **réinstallation** d’Office, consultez [Télécharger et installer ou réinstaller Office 365 ou Office 2019 sur un PC ou un Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
+Pour effectuer une **réinstallation** d'Office, examinez Télécharger et installer ou [réinstaller Office 365 ou Office 2019](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)sur un PC ou Mac.
 
-Pour effectuer une **restauration** d’Office, consultez [la procédure de retour à une version antérieure d’Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).
+Pour effectuer une **rollback** d'Office, voir Comment revenir à une [version antérieure d'Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).

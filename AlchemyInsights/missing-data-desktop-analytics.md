@@ -1,8 +1,8 @@
 ---
-title: Impossible de créer une évaluation de la compatibilité
+title: Impossible de créer une évaluation de compatibilité
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 9843afe5392778993a2197f2ce76761dcf732d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a42872d1685782abc86b55674e84ad1ace338c88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810338"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Impossible de créer une évaluation de la compatibilité
+# <a name="cant-create-a-compatibility-assessment"></a>Impossible de créer une évaluation de compatibilité
 
-Le gestionnaire de configuration de point de terminaison Microsoft a correctement configuré le périphérique, mais l’analyseur de bureau ne peut pas créer d’évaluation de compatibilité. Il ne dispose pas d’un jeu de données complet pour la configuration (recensement) ou les applications installées (inventaire) de l’appareil.
+Microsoft Endpoint Configuration Manager a correctement configuré l'appareil, mais Desktop Analytics ne peut pas créer d'évaluation de compatibilité. Il n'a pas de jeu de données complet pour la configuration de l'appareil (recensement) ou les applications installées (inventaire).
 
-Ce problème est souvent résolu automatiquement en cas de nouvelle tentative de l’appareil. S’il persiste, vérifiez que l’appareil peut communiquer avec le service. Pour plus d’informations, consultez la rubrique [points de terminaison](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) et [données manquantes](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
+Ce problème est souvent résolu automatiquement lorsque l'appareil retent. S'il persiste, assurez-vous que l'appareil peut communiquer avec le service. Pour plus d'informations, [voir Points de terminaison et](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) données [manquantes.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)

@@ -2,7 +2,7 @@
 title: Paramètres de sécurité par défaut
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740328"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809185"
 ---
 # <a name="security-defaults"></a>Paramètres de sécurité par défaut
 
-Pour plus d’informations sur les paramètres de sécurité par défaut, consultez [qu’est-ce que les paramètres de sécurité par défaut ?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Pour plus d'informations sur les paramètres de sécurité par défaut, reportez-vous [à What are security defaults?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Les paramètres de sécurité par défaut d’Azure Active Directory (Azure AD) facilitent la sécurisation et la protection de votre organisation. Les paramètres de sécurité par défaut contiennent des paramètres de sécurité préconfigurés pour les attaques courantes.
+Les paramètres de sécurité par défaut dans Azure Active Directory (Azure AD) facilitent la sécurisation et contribuent à protéger votre organisation. Les paramètres de sécurité par défaut contiennent des paramètres de sécurité préconfigurés pour les attaques courantes.
 
-Microsoft rend les paramètres de sécurité par défaut accessibles à tous les utilisateurs. L’objectif est de s’assurer que toutes les organisations disposent d’un niveau de sécurité de base activé sans frais supplémentaires. Vous activez les paramètres de sécurité par défaut dans le portail Azure.
+Microsoft rend les paramètres de sécurité par défaut accessibles à tous. L'objectif est de s'assurer que toutes les organisations ont un niveau de sécurité de base activé sans frais supplémentaires. Vous pouvez activer les paramètres de sécurité par défaut dans le portail Azure.

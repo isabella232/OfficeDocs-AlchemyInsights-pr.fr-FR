@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 pour les organisations à but non lucratif approuvées '
+title: 'Microsoft 365 pour les associations - approuvé '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779806"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810662"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 pour les organisations à but non lucratif approuvées
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 pour les associations - approuvé
 
-Votre statut en tant qu’organisation caritative qualifiée Microsoft a été approuvé. Vous pouvez effectuer l’achat à partir du centre d’administration Microsoft 365.
+Votre statut d'organisation à but non lucratif qualifié Microsoft a été approuvé. Vous pouvez effectuer l'achat à partir du Centre d'administration Microsoft 365.
 
-1. Dans le centre d’administration, accédez à **Billing** la \> page [services d’achat](https://go.microsoft.com/fwlink/p/?linkid=868433) de facturation.
+1. Dans le Centre d'administration, allez à la page **Services** \> [d'achat de](https://go.microsoft.com/fwlink/p/?linkid=868433) facturation.
 
-2. Choisissez dans la liste sous **forfaits**.
+2. Choisissez dans la liste sous **Plans NonProfits**.
 
-3. Placez le pointeur de la souris sur l’abonnement que vous souhaitez acheter, puis sélectionnez **acheter maintenant**.
+3. Pointez sur l'abonnement que vous souhaitez acheter, puis choisissez **Acheter maintenant.**
 
-Pour plus d’informations, consultez la rubrique [ressources 365 de Microsoft pour les organisations à but non lucratif](https://www.microsoft.com/nonprofits/microsoft-365) ou [Contact commercial](https://www.microsoft.com/nonprofits/contact-us).
+Pour plus d'informations, voir les ressources [Microsoft 365 pour les associations](https://www.microsoft.com/nonprofits/microsoft-365) ou les ventes de [contact.](https://www.microsoft.com/nonprofits/contact-us)

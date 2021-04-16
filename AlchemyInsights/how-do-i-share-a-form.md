@@ -1,8 +1,8 @@
 ---
-title: Comment puis-je partager un formulaire ?
+title: Comment partager un formulaire ?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 5bea2ab14fcf585344c795302f38202a2b582593
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f74e2c7697e040a17341794968fe901dfea0091f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781497"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810986"
 ---
 # <a name="share-a-form"></a>Partager un formulaire
 
-Pour partager un questionnaire ou un formulaire dans Microsoft Forms, reportez-vous [à la rubrique partager un formulaire pour collaborer](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
+Pour partager un questionnaire ou un formulaire dans Microsoft Forms, voir [Partager un formulaire pour collaborer.](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
 
-Pour gérer la possibilité de partager des formulaires en externe, voir [configurer Microsoft Forms](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
+Pour gérer la possibilité de partager des formulaires en externe, voir [Configurer Microsoft Forms.](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240) 
 
-Pour obtenir un lien de synthèse afin de partager des résultats avec d’autres utilisateurs :
+Pour obtenir un lien de synthèse pour partager des résultats avec d'autres personnes :
 
-1. Sous l’onglet **réponses** , cliquez sur le bouton de sélection (**...**).
-3. Sélectionnez **créer un lien de synthèse**.
-4. Cliquez sur **copier**.
+1. Sous **l'onglet Réponses,** cliquez sur le bouton ellipses (**...**).
+3. Choose **Create a summary link**.
+4. Cliquez sur **Copier**.
 
 Toute personne avec laquelle vous partagez ce lien peut afficher un résumé des réponses pour votre formulaire.
