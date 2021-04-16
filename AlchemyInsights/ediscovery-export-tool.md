@@ -2,7 +2,7 @@
 title: Outil d’exportation de la découverte électronique
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,18 +15,18 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277925"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814586"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Vous ne parvenez pas à installer ou exécuter l’outil d’exportation de découverte électronique ?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Vous ne pouvez pas installer ou exécuter l'outil d'exportation eDiscovery ?
 
-Si vous ne pouvez pas installer ou exécuter l’outil d’exportation de découverte électronique pour télécharger les résultats de la recherche, vérifiez les points suivants :
+Si vous ne pouvez pas installer ou exécuter l'outil d'exportation eDiscovery pour télécharger les résultats de recherche, vérifiez les points suivants :
   
-- L’ordinateur que vous utilisez répond aux conditions préalables suivantes :
+- L'ordinateur que vous utilisez répond aux conditions préalables ci-après :
 
   - versions 32 ou 64 bits de Windows 7 et versions ultérieures
 
@@ -40,12 +40,12 @@ Si vous ne pouvez pas installer ou exécuter l’outil d’exportation de décou
 
   - Internet Explorer 10 et versions ultérieures
 
-    D’autres navigateurs, tels que Google Chrome et Mozilla Firefox ne sont pas pris en charge.
+    Les autres navigateurs, tels que Google Chrome et Mozilla Firefox, ne sont pas pris en charge.
 
-- Votre organisation peut se connecter au point de terminaison dans Azure, c’est-à-dire ** \* . blob.Core.Windows.net** (le caractère générique représente un identificateur unique pour votre tâche d’exportation).
+- Votre organisation peut se connecter au point de terminaison dans Azure, qui est **\* .blob.core.windows.net** (le caractère générique représente un identificateur unique pour votre travail d'exportation).
 
-- Vous avez reçu le rôle d’exportation dans le centre de sécurité conformité Microsoft 365 &amp; . Par défaut, ce rôle est uniquement attribué au groupe de rôles gestionnaire eDiscovery. Consultez la rubrique [attribution d’autorisations eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Le rôle Exporter vous est attribué dans le Centre de conformité de sécurité Microsoft 365. &amp; Par défaut, ce rôle est attribué uniquement au groupe de rôles Gestionnaire eDiscovery. Voir [Attribuer des autorisations eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-Pour plus d’informations, consultez la rubrique [exporter des résultats de recherche de contenu](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Pour plus d'informations, [voir Exporter les résultats de la recherche de contenu.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-Si vous exportez plus de 100 000 boîtes aux lettres, vous devez utiliser le PowerShell suivant pour télécharger les résultats de l’exportation :  [Exporter les résultats de plus de 100 000 boîtes aux lettres](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Si vous exportez plus de 100 000 boîtes aux lettres, vous devrez utiliser le Powershell suivant pour télécharger les résultats de l'exportation : Exportation des résultats de plus de  [100 000](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)boîtes aux lettres.

@@ -1,8 +1,8 @@
 ---
-title: Erreurs lors de l’ouverture ou de l’enregistrement de fichiers
+title: Erreurs d'ouverture ou d'enregistrement de fichiers
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783585"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813614"
 ---
-# <a name="resolve-errors-opening-or-saving-word-files"></a>Résoudre les erreurs d’ouverture ou d’enregistrement des fichiers Word
+# <a name="resolve-errors-opening-or-saving-word-files"></a>Résoudre les erreurs d'ouverture ou d'enregistrement des fichiers Word
 
-Si vous rencontrez des problèmes lors de l’ouverture ou de l’enregistrement de documents Word, procédez comme suit :
+Si vous avez des difficultés à ouvrir ou à enregistrer des documents Word, essayez ce qui suit :
 
-- [Installez les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Pour obtenir la liste des dernières mises à jour d’Office, consultez la rubrique [dernières mises à jour](https://docs.microsoft.com/officeupdates/office-updates-msi).
-- [Résoudre les problèmes liés aux documents endommagés dans Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
-- [Réparez une application Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Si le document contient des marques de révision, utilisez les suggestions de [Word lentes ou cessent de répondre s’il y a des modifications ou des commentaires excessifs](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) pour résoudre le problème.
+- [Installez les mises à jour d'Office.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Pour obtenir la liste des dernières mises à jour d'Office, voir [Dernières mises à jour.](https://docs.microsoft.com/officeupdates/office-updates-msi)
+- [Résoudre les problèmes de documents endommagés dans Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
+- [Réparer une application Office.](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- Si le document contient le suivi des modifications, utilisez les suggestions dans Word ralentit ou cesse de répondre s'il existe un nombre [excessif](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) de modifications ou de commentaires pour résoudre le problème.
 
-Si vous avez reçu une erreur semblable à l’une des suivantes, utilisez le [message d’erreur suggestions dans Office lorsqu’un fichier est bloqué par les paramètres de stratégie de Registre](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
+Si vous avez reçu une erreur comme l'une des [suivantes,](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)utilisez les suggestions du message d'erreur dans Office lorsqu'un fichier est bloqué par les paramètres de stratégie du Registre :
 
 - Vous essayez d’ouvrir un type de fichier qui est bloqué par le paramètre de stratégie du Registre.
 - Vous essayez d’ouvrir un type de fichier **\<File Type\>** qui a été bloqué par les paramètres de blocage des fichiers du Centre de gestion de la confidentialité.
 - Vous essayez d’ouvrir un fichier qui a été créé dans une version précédente de Microsoft Office. L’ouverture de ce type de fichier est bloquée dans cette version par le paramètre de stratégie du Registre.
 - Vous essayez d’enregistrer un type de fichier qui est bloqué par le paramètre de stratégie du Registre.
-- Vous tentez d’enregistrer un type de fichier qui a été bloqué par vos paramètres de blocage des fichiers dans le centre de gestion de la confidentialité.
+- Vous tentez d'enregistrer un type de fichier qui a été bloqué par vos paramètres de blocage de fichiers dans le Centre de confiance.
 
 Si vous rencontrez des problèmes lors de l’ouverture de fichiers Office à partir de SharePoint ou de bibliothèques de documents OneDrive, procédez comme suit :
 
