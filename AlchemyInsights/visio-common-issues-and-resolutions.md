@@ -2,7 +2,7 @@
 title: Problèmes courants de Visio et résolutions
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699265"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806584"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Problèmes courants de Visio et résolutions
 
