@@ -1,8 +1,8 @@
 ---
-title: Définir ou modifier les autorisations des dossiers publics
+title: Définir ou modifier des autorisations de dossier public
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: c035d56ffade45cc4360a1d0dfca4c63bf110a38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e419c72a890e68fc7b6d40d2b64406e42f9b0769
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771170"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789205"
 ---
 # <a name="permissions-and-public-folders"></a>Autorisations et dossiers publics
 
-Vous pouvez modifier les autorisations sur vos dossiers publics à l’aide d’Outlook, du centre d’administration Exchange ou de PowerShell :
+Vous pouvez modifier les autorisations sur vos dossiers publics à l'aide d'Outlook, du Centre d'administration Exchange (EAC) ou de PowerShell :
   
-- Pour obtenir des instructions pour Outlook, [cliquez ici](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- Pour obtenir des instructions Sur Outlook, [cliquez ici.](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx)
     
-- Pour le centre d’administration Exchange, reportez-vous à [cet article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pour obtenir des instructions. 
+- Pour le EAC, reportez-vous [à cet article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) pour obtenir des instructions. 
     
-- Pour PowerShell, consultez [cet article](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) pour obtenir des instructions sur l’utilisation de l’applet de commande Add-PublicFolderClientPermission. Si vous avez besoin d’instructions pour vous connecter à Exchange PowerShell, cliquez [ici](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Pour Powershell, reportez-vous [à cet article pour](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) obtenir des instructions sur l'utilisation Add-PublicFolderClientPermission commande. Si vous avez besoin d'instructions pour vous connecter à Exchange Powershell, cliquez [ici.](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx)
     
-Si **les utilisateurs externes ne peuvent pas envoyer de messages électroniques à un dossier public à extension messagerie**, il se peut que le dossier public ne dispose pas des autorisations requises pour la remise des messages externes. Vous pouvez résoudre ce problème en utilisant les instructions Outlook [ici](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), ou les instructions de PowerShell [ici](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+Si **les utilisateurs externes** ne peuvent pas envoyer de courriers électroniques à un dossier public à messagerie, la raison peut être que le dossier public ne contient pas les autorisations requises pour la remise du courrier externe. Vous pouvez résoudre ce problème à l'aide des instructions Outlook [ici](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)ou des instructions PowerShell [ici.](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)
   
 
