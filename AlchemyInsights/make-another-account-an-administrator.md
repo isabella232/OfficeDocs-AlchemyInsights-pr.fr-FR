@@ -1,8 +1,8 @@
 ---
-title: Définir un autre compte comme administrateur
+title: Faire d'un autre compte un administrateur
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794692"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795010"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Modifier un compte d’utilisateur standard en administrateur dans Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Modifier un compte d'utilisateur standard en administrateur dans Windows 10
 
-Voici comment modifier un compte d’utilisateur standard en administrateur dans Windows 10 :
+Voici comment modifier un compte d'utilisateur standard en un administrateur dans Windows 10 :
 
-1. Accédez à la section Configuration du compte de **démarrage**  >  **Settings**  >  **Account**  >  **& autres personnes** (ou **autres personnes**, si vous utilisez Windows 10 entreprise).
-2. Sélectionnez le compte que vous souhaitez attribuer à un administrateur, puis sélectionnez **modifier le compte**.
-3. Sous **type de compte**, sélectionnez **administrateur**, puis cliquez sur **OK**.
+1. Go to **Start**  >  **Settings**  >  **Account**  >  **Family & other people** (or Other **people,** if you're using Windows 10 Enterprise).
+2. Sélectionnez le compte que vous voulez rendre administrateur, puis sélectionnez **Modifier le compte**.
+3. Sous **Type de compte**, sélectionnez **Administrateur**, puis sélectionnez **OK**.
 
-**Remarque :** Vous ne pouvez modifier des comptes qu’en tant qu’administrateur à partir d’un compte d’administrateur existant.
+**Remarque :** Vous pouvez uniquement changer de compte en administrateur à partir d'un compte d'administrateur existant.
