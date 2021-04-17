@@ -1,8 +1,8 @@
 ---
-title: Déjà payé ?
+title: Déjà payé ?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 1e3915f2120b5ba017741dbb9bac42528db9cee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9192eaeeb35a1adc00658f9248bc3bb5d26ae022
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718007"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821517"
 ---
-# <a name="already-paid"></a><span data-ttu-id="46495-102">Déjà payé ?</span><span class="sxs-lookup"><span data-stu-id="46495-102">Already paid?</span></span>
+# <a name="already-paid"></a><span data-ttu-id="9eb9d-102">Déjà payé ?</span><span class="sxs-lookup"><span data-stu-id="9eb9d-102">Already paid?</span></span>
 
-<span data-ttu-id="46495-103">Si vous avez déjà envoyé le paiement, vous pouvez nous le faire comprendre :</span><span class="sxs-lookup"><span data-stu-id="46495-103">If you've already sent payment, you can let us know:</span></span>
+<span data-ttu-id="9eb9d-103">Si vous avez déjà envoyé un paiement, vous pouvez nous faire savoir :</span><span class="sxs-lookup"><span data-stu-id="9eb9d-103">If you've already sent payment, you can let us know:</span></span>
   
-1. <span data-ttu-id="46495-104">Dans le Centre d’administration, accédez à la page **Facturation** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="46495-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="9eb9d-104">Dans le centre d’administration, accédez à la page **Facturation** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="9eb9d-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="46495-105">Sélectionnez un abonnement, puis, dans la section **mon facture** , sélectionnez **Afficher Bill**.</span><span class="sxs-lookup"><span data-stu-id="46495-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span></span>
+2. <span data-ttu-id="9eb9d-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span><span class="sxs-lookup"><span data-stu-id="9eb9d-105">Choose a subscription, and in the **My bill** section, choose **View Bill**.</span></span>
 
-3. <span data-ttu-id="46495-106">Sur la page Détails de la **facture** , sélectionnez **déjà payé ?**</span><span class="sxs-lookup"><span data-stu-id="46495-106">On the **Bill details** page, choose **Already Paid?**</span></span> <span data-ttu-id="46495-107">Vous serez invité à entrer des informations relatives au paiement envoyé.</span><span class="sxs-lookup"><span data-stu-id="46495-107">You'll be asked to enter information related to the payment that was sent.</span></span>
+3. <span data-ttu-id="9eb9d-106">Dans la page **Détails de la facture,** **sélectionnez Déjà payé ?**</span><span class="sxs-lookup"><span data-stu-id="9eb9d-106">On the **Bill details** page, choose **Already Paid?**</span></span> <span data-ttu-id="9eb9d-107">Vous serez invité à entrer les informations relatives au paiement qui a été envoyé.</span><span class="sxs-lookup"><span data-stu-id="9eb9d-107">You'll be asked to enter information related to the payment that was sent.</span></span>
 
-4. <span data-ttu-id="46495-108">Une fois toutes les informations requises entrées, sélectionnez **Envoyer**.</span><span class="sxs-lookup"><span data-stu-id="46495-108">When all required information has been entered, choose **Send**.</span></span>
+4. <span data-ttu-id="9eb9d-108">Lorsque toutes les informations requises ont été entrées, choisissez **Envoyer**.</span><span class="sxs-lookup"><span data-stu-id="9eb9d-108">When all required information has been entered, choose **Send**.</span></span>
