@@ -1,8 +1,8 @@
 ---
-title: Modifier le profil d’organisation
+title: Modifier le profil de l'organisation
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: 157ad13c6171bd221ca61a29ae2d15281784529e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726386"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818538"
 ---
-# <a name="change-organization-profile"></a>Modifier le profil d’organisation
+# <a name="change-organization-profile"></a>Modifier le profil de l'organisation
 
-Modifiez le nom de votre société, votre adresse, les informations de contact technique, et bien plus encore dans le centre d’administration, **sous l'**  >    >  onglet Profil de l'[organisation paramètres d’organisation](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) des paramètres d’organisation.
+Modifiez le nom, l'adresse, les informations de contact technique et plus encore de votre société dans le Centre d'administration sous l'onglet **Paramètres** de l'organisation  >  **Paramètres** de  >  [l'organisation.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
-Veillez à renseigner tous les champs obligatoires marqués avec un astérisque (*) pour pouvoir enregistrer vos modifications.
+N'oubliez pas de remplir tous les champs obligatoires marqués par un * pour permettre l'enregistrement de vos modifications.
 
-[Pour plus d’informations sur les modifications des adresses ou des adresses de facturation](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).
+[Consultez plus d'informations sur les modifications d'adresse ou d'adresse de facturation.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)
