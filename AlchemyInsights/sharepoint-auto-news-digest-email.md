@@ -1,8 +1,8 @@
 ---
-title: Courrier électronique de résumé automatique SharePoint
+title: SharePoint Auto Digest Email
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751169"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831192"
 ---
-# <a name="sharepoint-auto-digest-email"></a>Courrier électronique de résumé automatique SharePoint
+# <a name="sharepoint-auto-digest-email"></a>SharePoint Auto Digest Email
 
-SharePoint Auto-News Digest envoie des messages électroniques automatisés aux utilisateurs de votre entreprise sur les derniers billets qu’ils n’ont pas encore lus et qui leur sont propres.
+SharePoint Auto-News Digest envoie un courrier électronique automatisé aux utilisateurs de votre entreprise concernant les dernières publications d'actualités qu'ils n'ont pas encore lues et qui leur sont pertinentes.
 
-Pour plus d’informations, reportez-vous à [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Pour plus d'informations, visitez [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- ID de feuille de route Microsoft 365 :  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Calendrier : clients disposant d’une publication ciblée en  **milieu de juillet (précédemment juin**  et complet pour tous les clients de la  **mi-août)**.
-- Déploiement : déploiement au niveau de l’utilisateur
-- Type de contrôle : contrôle utilisateur, * * contrôle d’administration via PowerShell (bientôt disponible)
+- ID de feuille de route Microsoft 365 :  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Minutage : clients de publication ciblée à la **mi-juillet (précédemment** en juin et terminé pour tous les clients à la **mi-août (précédemment début août).**
+- Déploiement : déploiement au niveau de l'utilisateur
+- Type de contrôle : contrôle utilisateur, **Contrôle d'administration via PowerShell (bientôt disponible)
