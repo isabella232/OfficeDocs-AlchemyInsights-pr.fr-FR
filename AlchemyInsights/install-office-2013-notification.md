@@ -2,7 +2,7 @@
 title: Installer la notification Office 2013
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,14 +14,14 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: f966b407fcbd70ab883027f113fe3aeb2b0f6a91
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 789b68c3cd2765ac63c59c964727f7ce2f6d6333
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755345"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833217"
 ---
-# <a name="upgrade-to-office-2016"></a><span data-ttu-id="3cef2-102">Mise à niveau vers Office 2016</span><span class="sxs-lookup"><span data-stu-id="3cef2-102">Upgrade to Office 2016</span></span>
+# <a name="upgrade-to-office-2016"></a><span data-ttu-id="1c9a5-102">Mise à niveau vers Office 2016</span><span class="sxs-lookup"><span data-stu-id="1c9a5-102">Upgrade to Office 2016</span></span>
 
-<span data-ttu-id="3cef2-103">Malheureusement, Office 2013 n’est plus disponible en téléchargement, mais vous pouvez effectuer une mise à niveau vers Office 2016 gratuitement !</span><span class="sxs-lookup"><span data-stu-id="3cef2-103">Unfortunately, Office 2013 isn't available for download anymore, but you can upgrade to Office 2016 for free!</span></span> <span data-ttu-id="3cef2-104">Pour plus d’informations et pour obtenir la procédure d’installation d’Office 2016, procédez comme suit : [installer ou mettre à niveau vers office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span><span class="sxs-lookup"><span data-stu-id="3cef2-104">For more details and steps to install Office 2016 use this article: [Install or upgrade to Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span></span>
+<span data-ttu-id="1c9a5-103">Malheureusement, Office 2013 n'est plus disponible en téléchargement, mais vous pouvez mettre à niveau vers Office 2016 gratuitement !</span><span class="sxs-lookup"><span data-stu-id="1c9a5-103">Unfortunately, Office 2013 isn't available for download anymore, but you can upgrade to Office 2016 for free!</span></span> <span data-ttu-id="1c9a5-104">Pour plus d'informations et pour savoir comment installer Office 2016, utilisez cet article : Installer ou mettre à [niveau vers Office 2016.](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx)</span><span class="sxs-lookup"><span data-stu-id="1c9a5-104">For more details and steps to install Office 2016 use this article: [Install or upgrade to Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span></span>
   
