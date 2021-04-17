@@ -1,8 +1,8 @@
 ---
-title: Installation de teams en tant qu’autonome ou avec des installations Office nouvelles/existantes
+title: Installation de Teams en tant qu'installation autonome ou avec des installations Office nouvelles/existantes
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: dc6c083c0f28a4724a23d829d03b9b78ea627270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3fb8c1430a54024c5cb00f2e002e4702d15e33c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663079"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831912"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Installation de teams en tant qu’autonome ou avec des installations Office nouvelles ou existantes
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Installation de Teams en tant qu'installation autonome ou avec des installations Office nouvelles ou existantes
 
-Microsoft teams est inclus dans le cadre des *nouvelles installations* d’applications Microsoft 365 pour les entreprises, de Microsoft 365 applications pour les entreprises et d’Office pour Mac. Pour plus d’informations, consultez la rubrique [quand Microsoft teams commencera-t-il à être inclus avec les nouvelles installations d’Office ?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams est inclus dans le cadre des nouvelles *installations* de Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et Office pour Mac. Pour plus d'informations, [voir Quand Microsoft Teams sera-t-il inclus dans les nouvelles installations d'Office ?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-En outre, à partir de la version 1906 du canal actuel, teams est *ajouté aux installations existantes* d’applications Microsoft 365 pour Enterprise (et Microsoft 365 apps pour les entreprises) sur les appareils exécutant Windows lorsque vous mettez à jour votre installation existante vers la dernière version. Pour plus d’informations, consultez [qu’en est-il des installations d’Office existantes ?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+En outre, à partir de la version 1906 dans le canal actuel, Teams est ajouté aux *installations* existantes de Microsoft 365 Apps for enterprise (et Microsoft 365 Apps for business) sur les appareils exécutant Windows lorsque vous mettez à jour votre installation existante vers la dernière version. Pour plus d'informations, [voir Qu'en est-il des installations existantes d'Office ?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-Vous pouvez déployer teams en tant que autonome pour vos utilisateurs en [suivant ces instructions](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), ou vous pouvez faire en sorte que vos utilisateurs installent teams pour eux-mêmes https://teams.microsoft.com/downloads .
+Vous pouvez déployer Teams en tant qu'équipe autonome pour vos utilisateurs en suivant ces [instructions,](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ou vous pouvez les faire installer pour eux-mêmes à partir de https://teams.microsoft.com/downloads .
 
-Une fois teams installé, il est [automatiquement mis à jour](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) environ toutes les deux semaines avec les nouvelles fonctionnalités et les mises à jour de qualité. 
+Une fois Teams installé, [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) il est automatiquement mis à jour environ toutes les deux semaines avec les nouvelles fonctionnalités et mises à jour qualité. 
 

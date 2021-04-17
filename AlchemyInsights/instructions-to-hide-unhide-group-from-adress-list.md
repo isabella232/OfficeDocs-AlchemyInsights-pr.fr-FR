@@ -1,8 +1,8 @@
 ---
-title: Instructions pour masquer/afficher le groupe de la liste d’adresses
+title: Instructions pour masquer/démasqueler le groupe de la liste d’adresses
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 1ad9ab294d46ca0fc88a454e3503ddcf80398896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d55866700b9b8494f1f692cd3b865116b96a1bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663007"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831876"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Masquer le groupe Microsoft 365 de la liste d’adresses (LAG)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Masquer le groupe Microsoft 365 dans la liste d’adresses
 
-Pour masquer un groupe Microsoft 365 dans les listes d’adresses (LAG) des clients Exchange (par exemple, Outlook ou OWA), utilisez la commande suivante dans l’environnement de EXO :
+Pour masquer un groupe Microsoft 365 dans les listes d’adresses des clients Exchange (comme Outlook ou OWA), utilisez la commande suivante dans l’shell EXO :
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Pour masquer le groupe Microsoft 365 de façon à ce qu’il soit visible pour les clients Exchange, utilisez la commande suivante dans EXO Shell :
+Pour masquer la visibilité du groupe Microsoft 365 pour les clients Exchange, utilisez la commande suivante dans l’shell EXO :
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

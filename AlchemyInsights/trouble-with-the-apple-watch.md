@@ -1,8 +1,8 @@
 ---
-title: Problèmes avec le espion Apple
+title: Problèmes avec l'Apple Watch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700021"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832272"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Problèmes avec le espion Apple
+# <a name="trouble-with-the-apple-watch"></a>Problèmes avec l'Apple Watch
 
-Si vous rencontrez des problèmes lors de l’utilisation d’Outlook sur Apple Watch, voici quelques étapes de résolution des problèmes : 
+Si vous avez des difficultés à utiliser Outlook sur Apple Watch, voici quelques étapes de résolution des problèmes : 
 
-1. Accédez à l’application espion sur iPhone.
+1. Go to the Watch app on iPhone.
 
-2. Faites défiler jusqu’à l’application Outlook.
+2. Faites défiler jusqu'à l'application Outlook.
 
-3. Désactivez l’option « Afficher l’application sur **OFF** Apple Watch » pour désinstaller.
+3. Basculez « Afficher l'application sur Apple Watch » sur **OFF** pour désinstaller.
 
-4. Basculez « afficher l’application sur Apple Watch » sur **activé** pour réinstaller sur le espion.
+4. Basculez « Afficher l'application sur Apple Watch » sur **ON** pour le réinstaller sur l'application Watch.
 
-5. Lancez l’application Outlook sur Apple Watch et patientez jusqu’à ce que les données soient synchronisées avec la dernière version. 
+5. Lancez l'application Outlook sur Apple Watch et attendez que les données se synchronisent avec la dernière version. 
 
-Si votre problème n’est pas résolu, l’équipe de support technique est heureux de vous aider. Accédez à **paramètres > aide & de commentaires > contacter le support technique**. 
+Si votre problème n'est pas résolu, l'équipe de support est satisfaite de vous aider. Go to **Settings > Help & Feedback > Contact Support**. 

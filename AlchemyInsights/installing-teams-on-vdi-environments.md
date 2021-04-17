@@ -1,8 +1,8 @@
 ---
-title: Installation de teams sur des environnements VDI
+title: Installation de Teams sur des environnements VDI
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 729eb7c0189c0c0944f15fd25f7c24807e5b04de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663043"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831840"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>Installation de teams sur des environnements VDI
+# <a name="installing-teams-on-vdi-environments"></a>Installation de Teams sur des environnements VDI
 
-Pour plus d’informations sur le déploiement d’équipes sur des ordinateurs partagés, des services Bureau à distance (RDS) ou une infrastructure VDI (Virtual Desktop Infrastructure), voir [environnements d’ordinateurs et VDI partagés avec Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+Pour plus d'informations sur le déploiement de Teams sur des [ordinateurs partagés,](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)les services Bureau à distance (RDS) ou l'infrastructure VDI (Virtual Desktop Infrastructure), voir Ordinateur partagé et environnements VDI avec Microsoft Teams.
