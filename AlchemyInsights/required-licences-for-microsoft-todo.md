@@ -2,7 +2,7 @@
 title: Licences requises pour Microsoft ToDo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,40 +14,40 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692293"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828762"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Licences requises pour Microsoft ToDo
 
 [Licences requises pour Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Un utilisateur doit disposer de l’une des licences suivantes pour utiliser Microsoft ToDo :
+Un utilisateur doit avoir l'une des licences suivantes pour utiliser Microsoft ToDo :
   
 - Business Essentials
 
 - Business Premium
 
-- Microsoft 365 terrain F1
+- Microsoft 365 Firstline F1
 
-- Tout plan Office 365 entreprise
+- N'importe quel plan Office 365 Entreprise
 
-- Sécurisation des activités productives
+- Sécuriser les entreprises productives
 
 - Secure Productive Enterprise E3
 
 - Secure Productive Enterprise E5
 
-- Tout plan Office 365 éducation
+- N'importe quel plan Office 365 Éducation
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-En plus d’une licence de produit valide, l’une des versions suivantes d’Exchange Online est nécessaire pour que les utilisateurs puissent synchroniser les données utilisateur :
+En plus d'une licence de produit valide, l'une des versions suivantes d'Exchange Online est nécessaire pour que ToDo puisse synchroniser les données utilisateur :
   
 - Exchange Online (plan 1)
 
@@ -57,7 +57,7 @@ En plus d’une licence de produit valide, l’une des versions suivantes d’Ex
 
 - Exchange Online Kiosk
 
-- POP Exchange Online
+- Exchange Online POP
 
 [Attribuer des licences à des comptes d'utilisateurs avec Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

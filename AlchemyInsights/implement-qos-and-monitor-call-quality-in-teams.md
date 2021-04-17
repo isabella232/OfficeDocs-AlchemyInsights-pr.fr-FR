@@ -1,8 +1,8 @@
 ---
-title: Implémentation de QoS et surveillance de la qualité des appels dans teams
+title: Implémenter QoS et surveiller la qualité des appels dans Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667948"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829230"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implémentation de QoS et surveillance de la qualité des appels dans teams
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implémenter QoS et surveiller la qualité des appels dans Teams
 
-L’analyse des appels et le tableau de bord de qualité des appels permettent de résoudre les problèmes de qualité des appels dans Microsoft Teams. Pour en savoir plus sur la qualité de service, l’analyse des appels et le tableau de bord de qualité des appels (CQD), voir [implement QoS and Monitor Call Quality in Microsoft teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
+L'analyse des appels et le tableau de bord de qualité des appels permettent de résoudre les problèmes de qualité des appels dans Microsoft Teams. Pour en savoir plus sur la qualité de service (QoS), l'analyse des appels et le tableau de bord de qualité des appels, voir Implémenter [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)et surveiller la qualité des appels dans Microsoft Teams. 

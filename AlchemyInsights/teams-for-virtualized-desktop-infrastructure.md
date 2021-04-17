@@ -1,8 +1,8 @@
 ---
-title: Teams pour l’infrastructure de bureau virtualisée
+title: Teams pour l'infrastructure bureau virtualisée
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736430"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829410"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams pour l’infrastructure de bureau virtualisée
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams pour l'infrastructure bureau virtualisée
 
-Pour plus d’informations sur teams pour les environnements de bureau virtualisés, consultez [la rubrique teams for Virtual Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Pour plus d'informations sur Teams pour les environnements d'infrastructure de bureau virtualisée, voir [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
-Les problèmes et limitations connus dans les environnements VDI sont détaillés dans la section relative [aux problèmes et limitations connus ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) du même article, qui comprend les rubriques suivantes :
+Les problèmes et limitations connus dans les environnements VDI sont détaillés dans la section Problèmes connus et [limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) du même article, qui inclut les rubriques suivantes :
  - Déploiement, installation et configuration du client
  - Appels et réunions
