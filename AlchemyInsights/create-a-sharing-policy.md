@@ -2,7 +2,7 @@
 title: Créer une stratégie de partage pour permettre à vos utilisateurs de partager leur calendrier avec des personnes extérieures à votre organisation.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 9ece122e0905d1afeb26e50fa0a5e049eee5c09d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806721"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816270"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Créer une stratégie de partage pour permettre à vos utilisateurs de partager leur calendrier avec des personnes extérieures à votre organisation.
 
-1. À partir du tableau de bord du Centre d’administration Microsoft 365, accédez à **Admin** > ** Exchange**.
+1. À partir du tableau de bord du Centre d’administration Microsoft 365, accédez à **Admin** > **Exchange**.
 2. Accédez à **organisation** > **partage**.
 3. Dans l’affichage de liste, sous **Partage individuel**, cliquez sur **Nouveau**.
 4. Dans **nouvelle stratégie de partage**, tapez un nom convivial pour la stratégie de partage dans la zone **Nom de la stratégie**.
