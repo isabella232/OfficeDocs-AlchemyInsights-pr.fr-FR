@@ -1,8 +1,8 @@
 ---
-title: Quelle version d’Android votre application prend-elle en charge ?
+title: Quelle version d'Android prend en charge votre application ?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773053"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824181"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Quelle version d’Android votre application prend-elle en charge ?
+# <a name="what-version-of-android-does-your-app-support"></a>Quelle version d'Android prend en charge votre application ?
 
-Pour des performances optimales, notre application fonctionne sur n’importe quel appareil doté d’Android version 5,0 et versions ultérieures.
+Pour de meilleures performances, notre application fonctionne sur n'importe quel appareil avec Android version 5.0 et supérieure.
 
-Si vous êtes à jour sur votre système d’exploitation Android, mais que vous recevez toujours des notifications indiquant que le système d’exploitation est incompatible avec votre appareil, essayez d’effacer le cache et les données de l’application Play Store.
+Si vous êtes à jour sur votre système d'exploitation Android, mais que vous recevez toujours des notifications d'incompatibilité du système d'exploitation avec votre appareil, essayez d'effacer le cache et les données de l'application Play Store.
 
 Pour ce faire, procédez comme suit : 
 
-1. Sur votre **tablette ou téléphone** Android, ouvrez **paramètres** , puis applications ou **applications**.
+1. Sur votre téléphone ou tablette Android, ouvrez **Paramètres,** puis **Applications** ou **Applications.**
 
-2. En haut de l’écran, cliquez sur **plus** (il peut s’agir également d’un bouton de sélection, ou de trois points verticaux), puis **afficher le système**. 
+2. En haut de l'écran, appuyez sur **Plus** (il peut également s'agit d'une ellipse ou de trois points verticaux), puis **afficher le système**. 
 
-3. Faites défiler vers le bas et appuyez sur **Google Play services**. 
+3. Faites défiler vers le bas et appuyez **sur les services Google Play.** 
 
-4. Appuyez sur **stockage** , puis **videz le cache**. 
+4. Appuyez **sur Stockage,** puis **effacer le cache.** 
 
-5. Appuyez sur **gérer l’espace** , puis **Effacez toutes les données**. 
+5. Appuyez **sur Gérer l'espace,** **puis effacer toutes les données.** 
 
-6. Ouvrez le **Google Play Store**. 
+6. Ouvrez **le Google Play Store.** 
 
-7. Patientez 5 minutes, puis réessayez. 
+7. Patientez 5 minutes, puis recommencez. 

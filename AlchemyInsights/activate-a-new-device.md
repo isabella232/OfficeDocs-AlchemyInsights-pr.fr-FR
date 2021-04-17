@@ -1,8 +1,8 @@
 ---
-title: Activer un nouveau périphérique
+title: Activer un nouvel appareil
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668380"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823281"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Activation d’un nouveau périphérique exécutant Windows 10
+# <a name="activating-a-new-device-running-windows-10"></a>Activation d'un nouvel appareil exécutant Windows 10
 
-Si vous avez acheté un nouvel appareil exécutant Windows 10, il s’active automatiquement lorsque vous connectez votre appareil à Internet. Si les serveurs d’activation sont occupés, il se peut que vous deviez patienter pendant que Windows s’active.
+Si vous avez acheté un nouvel appareil exécutant Windows 10, il s'active automatiquement lorsque vous connectez votre appareil à Internet. Si les serveurs d'activation sont occupés, vous devrez peut-être patienter un certain temps pour que Windows s'active.
 
-Pour vérifier le statut d’activation, sélectionnez **Démarrer** la **Settings**  >  **mise à jour des paramètres &**  >  **activation**de la sécurité.
+Pour vérifier l'état de l'activation, **sélectionnez Démarrer** la mise à jour des   >  **paramètres & activation de**  >  **sécurité.**
 
-**Remarque :** Dans certains cas, vous devrez peut-être entrer la clé de produit Windows 10 fournie avec l’emballage de l’appareil ou incluse en tant que carte ou sur le certificat d’authenticité (COA) attaché au périphérique.
+**Remarque :** Dans certains cas, vous devrez peut-être entrer la clé de produit Windows 10 incluse dans l'empaquetage de l'appareil, ou incluse en tant que carte ou sur le certificat d'authenticité (COA) attaché à l'appareil.
 
-[En savoir plus sur l’activation dans Windows 10](https://support.microsoft.com/help/12440)
+[En savoir plus sur l'activation dans Windows 10](https://support.microsoft.com/help/12440)

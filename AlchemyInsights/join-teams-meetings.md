@@ -1,8 +1,8 @@
 ---
-title: Participer à des réunions teams
+title: Participer à des réunions Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772909"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824001"
 ---
-# <a name="join-a-meeting-in-teams"></a>Rejoindre une réunion dans teams
+# <a name="join-a-meeting-in-teams"></a>Rejoindre une réunion dans Teams
 
-Pour participer à une réunion Teams, commencez par définir les stratégies de réunion, puis demandez aux utilisateurs de se joindre à partir de leurs appareils préférés :
+Pour participer à une réunion Teams, définissez d'abord les stratégies de réunion, puis dirigez les utilisateurs vers la réunion à partir de leurs appareils préférés :
 
-- Définir des stratégies de réunion qui contrôlent les personnes qui seront en mesure de participer à la réunion en tant que [participants ou invités](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Définir des stratégies de réunion qui contrôlent qui pourra participer à la réunion en tant [que participants ou invités.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- Utilisez les [applets](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) de commande PowerShell Microsoft teams pour modifier la stratégie.    
+- Utilisez les [cmdlets Microsoft](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Teams PowerShell pour apporter des modifications de stratégie.    
 
-**Remarque :** L’application des modifications de stratégie peut prendre jusqu’à 24 heures.
+**Remarque :** L'application des modifications de stratégie peut prendre jusqu'à 24 heures.

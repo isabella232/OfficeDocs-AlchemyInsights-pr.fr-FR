@@ -1,8 +1,8 @@
 ---
-title: Résoudre les problèmes liés au chargement de fichiers dans OneDrive ou SharePoint
+title: Résoudre les problèmes de chargement de fichiers OneDrive ou SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200007"
 - "3422"
-ms.openlocfilehash: d7fe379826445f0412b37ff80bdca35c12a9c5fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1bdd799b4ebe902f119ad9bf75895d40548e1d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690601"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824541"
 ---
-# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>Résoudre les problèmes liés au chargement de fichiers dans OneDrive ou SharePoint
+# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>Résoudre les problèmes de chargement de fichiers OneDrive ou SharePoint
 
-Si vous avez des difficultés à charger ou synchroniser des fichiers sur OneDrive ou SharePoint, les articles suivants peuvent vous aider :
+Si vous avez des difficultés à télécharger ou synchroniser des fichiers vers OneDrive ou SharePoint, les articles suivants peuvent vous aider :
 
 - [Charger un dossier ou des fichiers dans une bibliothèque de documents](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 - [Résoudre les problèmes de téléchargement de fichiers sur le site web OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
