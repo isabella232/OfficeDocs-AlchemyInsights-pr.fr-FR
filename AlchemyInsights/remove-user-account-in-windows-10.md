@@ -1,8 +1,8 @@
 ---
-title: Supprimer un compte d’utilisateur dans Windows 10
+title: Supprimer un compte d'utilisateur dans Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 58f18a2ef8f685b4ebb4b274f506e2de03bb0807
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801326"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835773"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Supprimer un compte dans Windows 10
 
-Voici comment supprimer un compte de Windows 10 :
+Voici comment supprimer un compte de Windows 10 :
 
-1. Accédez à la section Configuration du compte de **démarrage**  >  **Settings**  >  **Account**  >  **& autres personnes** (ou **autres personnes**, si vous utilisez Windows 10 entreprise).
-2. Sélectionnez le compte que vous souhaitez supprimer, sélectionnez **supprimer**, puis supprimer le **compte et les données**.
+1. Go to **Start**  >  **Settings**  >  **Account**  >  **Family & other people** (or Other **people,** if you're using Windows 10 Enterprise).
+2. Sélectionnez le compte à supprimer, sélectionnez **Supprimer,** puis Supprimer le compte **et les données.**
  
-**Remarque :** Vous ne pouvez pas supprimer un compte auquel vous êtes actuellement connecté.  Si vous devez remplacer le compte auquel vous êtes connecté, procédez comme suit :
+**Remarque :** Vous ne pouvez pas supprimer un compte à qui vous êtes actuellement inscrit.  Si vous devez remplacer le compte avec qui vous êtes inscrit :
 
-1. Ajoutez un nouveau compte d’utilisateur.
-2. Définissez le nouveau compte d’utilisateur en tant qu’administrateur sur votre PC.
-3. Supprimez l’ancien compte d’utilisateur. Lorsque vous supprimez un compte d’utilisateur, vous perdez définitivement tous les paramètres, les fichiers et les données associés à cet utilisateur. [Suivez les étapes ci-dessous pour sauvegarder tous les éléments que vous souhaitez enregistrer](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore).
+1. Ajoutez un nouveau compte d'utilisateur.
+2. Faites du nouveau compte d'utilisateur un administrateur sur votre PC.
+3. Supprimez l'ancien compte d'utilisateur. Lorsque vous supprimez un compte d'utilisateur, vous perdez définitivement tous les paramètres, fichiers et données associés à cet utilisateur. [Suivez ces étapes pour sauvegarder tout ce que vous souhaitez enregistrer.](https://support.microsoft.com/help/4027408/windows-10-backup-and-restore)
