@@ -1,8 +1,8 @@
 ---
-title: Active Directory n’est pas en cours de synchronisation
+title: Synchronisation d'Active Directory non
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697627"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822849"
 ---
-# <a name="active-directory-not-syncing"></a>Active Directory n’est pas en cours de synchronisation
+# <a name="active-directory-not-syncing"></a>Synchronisation d'Active Directory non
 
-Si vous recevez des erreurs de synchronisation, telles que « pas de synchronisation récente », ou Notez que l’état de synchronisation d’annuaires dans le portail d’administration Office indique « dernière synchronisation il y a plus de 3 jours », il se peut que AADConnect ait des paramètres incorrects ou des autorisations insuffisantes pour effectuer une synchronisation.  
+Si vous recevez des erreurs de synchronisation, telles que « aucune synchronisation récente », ou si vous remarquez que l'état de la synchronisation d'annuaires dans le portail d'administration Office indique « Dernière synchronisation il y a plus de 3 jours », il se peut qu'AADConnect dispose de paramètres incorrects ou d'autorisations insuffisantes pour effectuer une synchronisation.  
 
-La réinstallation de AADConnect à l’aide des paramètres rapides peut résoudre le problème rapidement :
+La réinstallation d'AADConnect à l'aide de paramètres express peut résoudre rapidement le problème :
 
-1. [Téléchargez la dernière version de AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Téléchargez la dernière version d'AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Suivez les instructions pour l’installation d’Express](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Suivez les instructions pour l'installation rapide.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
 Pour plus d’informations sur les comptes de service AADConnect, consultez [Azure AD Connect : comptes et autorisations](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
