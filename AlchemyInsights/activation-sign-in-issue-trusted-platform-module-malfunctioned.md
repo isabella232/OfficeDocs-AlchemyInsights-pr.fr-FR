@@ -1,8 +1,8 @@
 ---
-title: Problème d’activation/de connexion-dysfonctionnement du module de plateforme sécurisée
+title: "Problème d'activation/de sign-in : le module de plateforme de confiance a mal fonctionne"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697519"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822885"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a><span data-ttu-id="e2039-102">Résolution des applications Microsoft 365 les applications « le module de plateforme approuvée de votre ordinateur ne fonctionne pas correctement » s’affiche</span><span class="sxs-lookup"><span data-stu-id="e2039-102">Fixing the Microsoft 365 apps "Your computer's Trusted Platform module is not functioning properly" message</span></span>
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a><span data-ttu-id="c2098-102">Résolution du message des applications Microsoft 365 « Le module de plateforme de confiance de votre ordinateur ne fonctionne pas correctement »</span><span class="sxs-lookup"><span data-stu-id="c2098-102">Fixing the Microsoft 365 apps "Your computer's Trusted Platform module is not functioning properly" message</span></span>
 
-<span data-ttu-id="e2039-103">Pour corriger cette erreur, procédez comme suit :</span><span class="sxs-lookup"><span data-stu-id="e2039-103">To fix this error, try the following:</span></span>
+<span data-ttu-id="c2098-103">Pour corriger cette erreur, procédez comme suit :</span><span class="sxs-lookup"><span data-stu-id="c2098-103">To fix this error, try the following:</span></span>
 
-1. <span data-ttu-id="e2039-104">Ouvrez une application Office, puis [se déconnecter](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) de tous les comptes d’utilisateur existants.</span><span class="sxs-lookup"><span data-stu-id="e2039-104">Open an Office app, and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>   
-2. <span data-ttu-id="e2039-105">Utilisation des comptes de **paramètres**Windows  >  **Accounts**  >  **&** des comptes de messagerie, supprimer des comptes de travail existants.</span><span class="sxs-lookup"><span data-stu-id="e2039-105">Using Windows **Settings** > **Accounts** > **Email & accounts**, remove existing work accounts.</span></span> 
-3. <span data-ttu-id="e2039-106">Utilisation des **Settings**  >  **comptes**de paramètres Windows  >  **accès professionnel ou scolaire**, déconnecter les comptes existants.</span><span class="sxs-lookup"><span data-stu-id="e2039-106">Using Windows **Settings** > **Accounts** > **Access work or school**, disconnect existing accounts.</span></span> 
-4. <span data-ttu-id="e2039-107">Réactiver l’état d’activation de Microsoft Office.</span><span class="sxs-lookup"><span data-stu-id="e2039-107">Reset Office activation state.</span></span> <span data-ttu-id="e2039-108">[Découvrir comment](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
-).</span><span class="sxs-lookup"><span data-stu-id="e2039-108">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+1. <span data-ttu-id="c2098-104">Ouvrez une application Office, puis [se déconnecter](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) de tous les comptes d’utilisateur existants.</span><span class="sxs-lookup"><span data-stu-id="c2098-104">Open an Office app, and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>   
+2. <span data-ttu-id="c2098-105">À **l'aide des comptes**  >  **de paramètres**  >  **Windows, & comptes** de messagerie, supprimez les comptes de travail existants.</span><span class="sxs-lookup"><span data-stu-id="c2098-105">Using Windows **Settings** > **Accounts** > **Email & accounts**, remove existing work accounts.</span></span> 
+3. <span data-ttu-id="c2098-106">À l'aide **de** Windows  >  **Settings Accounts**  >  **Access work or school,** déconnectez les comptes existants.</span><span class="sxs-lookup"><span data-stu-id="c2098-106">Using Windows **Settings** > **Accounts** > **Access work or school**, disconnect existing accounts.</span></span> 
+4. <span data-ttu-id="c2098-107">Réactiver l’état d’activation de Microsoft Office.</span><span class="sxs-lookup"><span data-stu-id="c2098-107">Reset Office activation state.</span></span> <span data-ttu-id="c2098-108">[Découvrir comment](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+).</span><span class="sxs-lookup"><span data-stu-id="c2098-108">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).</span></span>
-5. <span data-ttu-id="e2039-109">Essayez le [processus de récupération](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) par l’utilisateur pour corriger les défaillances du module de plateforme sécurisée (TPM).</span><span class="sxs-lookup"><span data-stu-id="e2039-109">Try the [user recovery process](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) to fix Trusted Platform Module (TPM) failures.</span></span>
+5. <span data-ttu-id="c2098-109">Essayez le processus [de récupération utilisateur pour](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) corriger les défaillances du module de plateforme de confiance (TPM).</span><span class="sxs-lookup"><span data-stu-id="c2098-109">Try the [user recovery process](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) to fix Trusted Platform Module (TPM) failures.</span></span>
