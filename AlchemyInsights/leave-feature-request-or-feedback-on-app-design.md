@@ -1,8 +1,8 @@
 ---
-title: Laisser une demande de fonctionnalité ou des commentaires sur la conception de l’application
+title: Laisser une demande de fonctionnalité ou des commentaires sur la conception de l'application
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676520"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836529"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Laisser une demande de fonctionnalité ou des commentaires sur la conception de l’application
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Laisser une demande de fonctionnalité ou des commentaires sur la conception de l'application
 
-Nous vous remercions de partager vos idées pour continuer à travailler sur Outlook. *UserVoice* est un forum où vous pouvez laisser des commentaires et voter sur les idées d’autres personnes.  
+Nous vous remercions de partager vos idées pendant que nous continuons à travailler sur Outlook. *UserVoice est* un forum sur lequel vous pouvez laisser vos commentaires et voter sur les idées d'autres personnes.  
 
-Pour nous laisser une idée : 
+Pour nous laisser une idée : 
 
-**Paramètres > & de commentaires > suggérer une fonctionnalité > publier une idée** 
+**Paramètres >'aide & commentaires > suggérer une fonctionnalité > publier une idée** 
 
-**Comment votre nom/courrier électronique s’affiche-t-il ?**
+**Vous vous souciez de l'affichage de votre nom/e-mail ?**
 
-Lorsque vous ajoutez un commentaire à une demande de fonctionnalité existante, l’application renseigne automatiquement votre nom ou votre adresse de messagerie à partir de votre compte principal configuré dans l’application. Pour choisir le nom à afficher, vous devez soumettre une **nouvelle** demande de fonctionnalité. 
+Lorsque vous ajoutez un commentaire à une demande de fonctionnalité existante, l'application remplit automatiquement votre nom ou votre adresse de messagerie à partir de votre compte principal installé dans l'application. Pour choisir le nom qui s'affiche, vous devez envoyer une **demande de** fonctionnalité NEW. 
 
-La soumission d’une requête est un processus en trois étapes simple. Sur la troisième et dernière page, vous verrez une ligne pour votre adresse de messagerie (obligatoire) et une ligne pour votre nom. Ici, vous pouvez choisir le mode d’affichage de votre nom ou envoyer l’idée de façon anonyme. 
+L'envoi d'une demande est un processus simple en trois étapes. Sur la troisième et dernière page, vous verrez une ligne pour votre adresse de messagerie (obligatoire) et une ligne pour votre nom. Ici, vous pouvez choisir la façon dont votre nom s'affichera, ou vous pouvez soumettre l'idée de manière anonyme. 
 
-**Remarque :** Vous devrez peut-être également modifier l’adresse de messagerie qui est renseignée automatiquement sur cette page. Si votre nom est défini d’une certaine manière dans les paramètres de votre client de messagerie, la modification de l’envoi de commentaires en anonyme peut être remplacée par vos paramètres. 
+**Remarque :** Vous devrez peut-être également modifier l'adresse e-mail remplie automatiquement sur cette page. Si votre nom est installé d'une certaine manière dans les paramètres de votre client de messagerie, la modification de la soumission de commentaires anonyme peut être changée par vos paramètres. 

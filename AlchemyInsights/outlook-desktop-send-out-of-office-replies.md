@@ -2,7 +2,7 @@
 title: 'Version de bureau d’Outlook : envoyer des réponses avec notification d’absence du bureau'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 69cd963dc3171bd98444b0d865bc345e4b356f60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00f295a860c7ac7070b70929a675cfe114e5ed8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722201"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836169"
 ---
 # <a name="outlook-desktop-send-out-of-office-replies"></a>Version de bureau d’Outlook : envoyer des réponses avec notification d’absence du bureau
 
@@ -25,7 +25,7 @@ ms.locfileid: "47722201"
 
 1. Cliquez sur **Fichier > Réponses automatiques**. **Remarque** : pour Outlook 2007, cliquez sur **Outils > Gestionnaire d’absence du bureau**.
 
-2. Dans la boîte de dialogue **Réponses automatiques**, cliquez sur**Envoyer des réponses automatiques**.
+2. Dans la boîte de dialogue **Réponses automatiques**, cliquez sur **Envoyer des réponses automatiques**.
 
 3. Vous pouvez également définir une plage de dates pour vos réponses automatiques. Cela permet de désactiver les réponses automatiques aux date et heure que vous entrez pour l’heure de fin. Sinon, vous devrez désactiver les réponses automatiques manuellement.
 
