@@ -2,7 +2,7 @@
 title: Comprendre le montant de la facturation
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791535"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827862"
 ---
 # <a name="understand-billing-amount"></a>Comprendre le montant de la facturation
 
@@ -28,7 +28,7 @@ ms.locfileid: "48791535"
 - Comprendre les termes détaillant les frais d’utilisation Azure : [Termes d’utilisation expliqués](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Pour obtenir une version PDF de votre facture et une copie de votre fichier d’utilisation quotidienne détaillée (.CSV) : [Obtenir une facture et des données d’utilisation](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Remarque**  : Si vous annulez votre abonnement ou votre ressource au milieu de votre cycle de facturation, des frais correspondant à l’utilisation du mois précédent vous seront peut-être encore facturés. Par exemple, si votre cycle de facturation s’étalait du 26 d’un mois au 25 du mois suivant et que vous avez suspendu l’abonnement le 23 du mois, soit 28 jours dans le cycle de facturation du mois de juin, vous verrez peut-être des frais d’utilisation sur 28 jours. Si des frais apparaissent malgré l’annulation de votre abonnement, vérifiez qu’aucun autre plan de support n’est pas à l’origine de la facturation. Si c’est le cas, veuillez annuler le plan.
+**Remarque** : Si vous annulez votre abonnement ou votre ressource au milieu de votre cycle de facturation, des frais correspondant à l’utilisation du mois précédent vous seront peut-être encore facturés. Par exemple, si votre cycle de facturation s’étalait du 26 d’un mois au 25 du mois suivant et que vous avez suspendu l’abonnement le 23 du mois, soit 28 jours dans le cycle de facturation du mois de juin, vous verrez peut-être des frais d’utilisation sur 28 jours. Si des frais apparaissent malgré l’annulation de votre abonnement, vérifiez qu’aucun autre plan de support n’est pas à l’origine de la facturation. Si c’est le cas, veuillez annuler le plan.
 
 **Contrat client Microsoft (MCA) :**
 
@@ -51,10 +51,10 @@ ms.locfileid: "48791535"
 
 Passer en revue la facture de dépassement de service :
 
-- Connectez-vous au **portail Enterprise** . Sélectionnez **Rapports**
+- Connectez-vous au **portail Enterprise**. Sélectionnez **Rapports**
 - Dans le coin supérieur droit de l’onglet, passez de l’affichage **M** à **C** et faites correspondre la période sur la facture
-- Le total de l’ **Utilisation** doit correspondre au total **Calculé** sur votre facture de dépassement de service
-- Accédez à **Télécharger l’utilisation > Télécharger le rapport avancé** pour obtenir plus d’informations relatives à vos frais **Remarque**  : ce rapport n’inclut pas les taxes, les frais de réservations ou les frais relatifs à la Place de marché Microsoft Azure.
+- Le total de l’**Utilisation** doit correspondre au total **Calculé** sur votre facture de dépassement de service
+- Accédez à **Télécharger l’utilisation > Télécharger le rapport avancé** pour obtenir plus d’informations relatives à vos frais **Remarque** : ce rapport n’inclut pas les taxes, les frais de réservations ou les frais relatifs à la Place de marché Microsoft Azure.
 
 **Place de marché Microsoft Azure**
 
@@ -64,10 +64,10 @@ Passer en revue la facture de la Place de marché :
 
 Comparez votre total de la Place de marché Azure sur Rapports > Résumé de l’utilisation sur le portail Entreprise avec votre facture de la Place de marché Microsoft Azure. La facture de la Place de Marché est réservée aux achats et à l’utilisation de la Place de marché Microsoft Azure. Les montants indiqués dans le Résumé de l’utilisation n’incluent pas les taxes.
 
-- Connectez-vous au **portail Enterprise** . Sélectionnez **Rapports**
+- Connectez-vous au **portail Enterprise**. Sélectionnez **Rapports**
 - Dans le coin supérieur droit de l’onglet, passez de l’affichage **M** à **C** et faites correspondre la période sur la facture
 - Le total de la **Place de marché Azure** doit correspondre au **Total des ventes** de votre facture Place de marché Microsoft Azure
-- Accédez à **Télécharger l’utilisation** pour obtenir plus d’informations sur les frais basés sur l’utilisation. Sous **Frais de la Place de marché** , sélectionnez **Télécharger** **Remarque**  : ce rapport n’inclut pas les taxes ni les achats ponctuels
+- Accédez à **Télécharger l’utilisation** pour obtenir plus d’informations sur les frais basés sur l’utilisation. Sous **Frais de la Place de marché**, sélectionnez **Télécharger** **Remarque** : ce rapport n’inclut pas les taxes ni les achats ponctuels
 
 **Fournisseur de solution cloud (CSP)**
 

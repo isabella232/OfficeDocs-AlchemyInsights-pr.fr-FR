@@ -1,8 +1,8 @@
 ---
-title: Impossible de définir ou d’afficher la stratégie AllowSelfServicePurchase
+title: Impossible de définir ou d'afficher la stratégie AllowSelfServicePurchase
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735197"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826089"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Impossible de définir ou d’afficher la stratégie AllowSelfServicePurchase
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Impossible de définir ou d'afficher la stratégie AllowSelfServicePurchase
 
-Lors de la tentative de définition ou d’affichage de la stratégie AllowSelfServicePurchase, vous recevez le message d’erreur suivant :
+Lorsque vous tentez de définir ou d'afficher la stratégie AllowSelfServicePurchase, vous recevez le message d'erreur suivant :
 
-*HandleError : échec de la récupération de la stratégie de produit avec PolicyId’AllowSelfServicePurchase', ErrorMessage-la connexion sous-jacente a été fermée : une erreur inattendue s’est produite lors de l’envoi.*
+*HandleError : Échec de la récupération de la stratégie de produit avec PolicyId « AllowSelfServicePurchase » et ErrorMessage : la connexion sous-jacente a été fermée : une erreur inattendue s'est produite lors d'un envoi.*
 
-Cela peut être dû à une version plus ancienne de TLS (Transport Layer Security). Pour connecter le service MSCommerce, vous devez utiliser TLS 1,2 ou une version ultérieure.  
+Cela peut être dû à une version antérieure de TLS (Transport Layer Security). Pour connecter le service MSCommerce, vous devez utiliser TLS 1.2 ou supérieur.  
 
-Procédez comme suit pour activer/définir le protocole TLS sur 1,2, vérifiez et recommencez.
- 1. À l’invite de commandes PowerShell (PS C : \) Entrez la commande suivante pour définir le protocole TLS sur la version 1,2 :
+Essayez les étapes suivantes pour activer/définir le protocole TLS sur 1.2, vérifier et réessayer.
+ 1. À l'invite de commandes PowerShell (PS C : entrez la commande suivante pour définir le protocole \) TLS sur la version 1.2 :
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Vérifiez que les protocoles TLS sont utilisés, à l’aide de la commande suivante :
+2. Vérifiez le(s) protocole(s) TLS en cours d'utilisation, avec la commande suivante :
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Recommencez les commandes obtenir ou mettre à jour selon vos besoins.
+3. Réessayez les commandes Obtenir ou mettre à jour si nécessaire.
 

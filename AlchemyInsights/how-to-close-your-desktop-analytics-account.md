@@ -1,8 +1,8 @@
 ---
-title: Comment fermer votre compte analyse de bureau
+title: Comment fermer votre compte Desktop Analytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704712"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825765"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Comment fermer votre compte analyse de bureau
+# <a name="how-to-close-your-desktop-analytics-account"></a>Comment fermer votre compte Desktop Analytics
 
-Si vous configurez l’analyse du bureau dans votre environnement, puis que vous décidez de la supprimer, utilisez le processus dans le lien suivant :
+Si vous avez installé Desktop Analytics dans votre environnement, puis décidez de le supprimer, utilisez le processus dans le lien suivant :
 
 [Comment fermer votre compte](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-La première étape consiste à contacter le support technique Microsoft. Ouvrez un cas de support technique pour fermer votre compte d’analyse de bureau. Ne poursuivez pas d’étapes supplémentaires jusqu’à ce que vous receviez une confirmation de la fermeture de votre compte par Microsoft.
+La première étape consiste à contacter le Support Microsoft. Ouvrez un dossier de support pour fermer votre compte Desktop Analytics. Ne continuez pas d’étapes supplémentaires tant que vous n’avez pas reçu la confirmation que Microsoft a fermé votre compte.

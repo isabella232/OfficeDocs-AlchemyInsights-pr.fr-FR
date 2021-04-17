@@ -1,8 +1,8 @@
 ---
-title: Comment fermer votre compte analyse de bureau
+title: Comment fermer votre compte Desktop Analytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725621"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827070"
 ---
-# <a name="working-with-desktop-analytics"></a>Utilisation de l’analyse de bureau
+# <a name="working-with-desktop-analytics"></a>Utilisation de Desktop Analytics
 
-Il semble que vous vous interrogeiez sur l’analyse de bureau. Nous pouvons vous aider à obtenir une réponse plus précise si vous reformulez votre question.
+Il semble que vous vous posez des questions sur Desktop Analytics. Nous pouvons vous aider avec une réponse plus précise si vous reformulez votre question.
 
 - [Que sont les analyses de bureau ?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Procédure de configuration de l’analyse de bureau](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Comment configurer Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Forum Aux Questions](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Résoudre les problèmes d’analyse de bureau](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Résoudre les problèmes d'analyse du bureau](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

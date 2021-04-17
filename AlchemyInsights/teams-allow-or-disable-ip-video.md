@@ -2,7 +2,7 @@
 title: Teams autorise ou désactive la vidéo IP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670182"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826341"
 ---
 # <a name="teams-allow-or-disable-ip-video"></a>Teams autorise ou désactive la vidéo IP
 
@@ -27,7 +27,7 @@ Pour modifier ou créer une stratégie de réunion, accédez au **Centre d’adm
 
 Par exemple, imaginons que vous avez de nombreux d’utilisateurs et que vous voulez limiter la quantité de bande passante requise par la réunion. Vous devez créer une stratégie personnalisée nommée « bande passante limitée » et désactiver les paramètres suivants :
 
-Sous ** Audio & vidéo** :
+Sous **Audio & vidéo** :
 
 - Désactivez l’option Autoriser l’enregistrement Cloud.
 - Désactivez Autoriser la vidéo IP.
