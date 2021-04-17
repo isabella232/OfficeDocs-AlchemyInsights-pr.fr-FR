@@ -1,8 +1,8 @@
 ---
-title: Résolution des problèmes de configuration pour la disponibilité de l’API de flux
+title: "Résolution des problèmes d'installation de Stream : disponibilité des API"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: d25849c36eda0f286e7758955104e8df2ed46d76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6648aec3d027a0768af3c39b3176b0be68b017cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658588"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834801"
 ---
-# <a name="api-availability"></a><span data-ttu-id="a90b7-102">Disponibilité de l’API</span><span class="sxs-lookup"><span data-stu-id="a90b7-102">API Availability</span></span>
+# <a name="api-availability"></a><span data-ttu-id="8d92a-102">Disponibilité des API</span><span class="sxs-lookup"><span data-stu-id="8d92a-102">API Availability</span></span>
 
-<span data-ttu-id="a90b7-103">Les API pour Stream ne sont pas disponibles aujourd’hui.</span><span class="sxs-lookup"><span data-stu-id="a90b7-103">APIs for Stream are not available today.</span></span>
-<span data-ttu-id="a90b7-104">Pour plus d’informations, procédez comme suit :https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="a90b7-104">For more information: https://stream.microsoft.com/support/</span></span>
+<span data-ttu-id="8d92a-103">Les API pour Stream ne sont pas disponibles aujourd'hui.</span><span class="sxs-lookup"><span data-stu-id="8d92a-103">APIs for Stream are not available today.</span></span>
+<span data-ttu-id="8d92a-104">Pour plus d'informations : https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="8d92a-104">For more information: https://stream.microsoft.com/support/</span></span>
