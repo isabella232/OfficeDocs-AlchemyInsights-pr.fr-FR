@@ -1,8 +1,8 @@
 ---
-title: Problèmes de connexion à Microsoft Skype entreprise
+title: Problèmes de signature à Microsoft Skype Entreprise
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,14 +13,14 @@ ms.custom:
 - "406"
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
-ms.openlocfilehash: be6b6df663ab96d7c01754529ffe26404d49e280
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5720214e1d067fc9a2c2e6227955e715e2356f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797978"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831408"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="648bd-102">Problèmes de connexion à Microsoft Skype entreprise</span><span class="sxs-lookup"><span data-stu-id="648bd-102">Problems Signing in to Microsoft Skype for Business</span></span>
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a><span data-ttu-id="5e477-102">Problèmes de signature à Microsoft Skype Entreprise</span><span class="sxs-lookup"><span data-stu-id="5e477-102">Problems Signing in to Microsoft Skype for Business</span></span>
 
-<span data-ttu-id="648bd-103">Téléchargez et utilisez l' [Assistant support et récupération (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span><span class="sxs-lookup"><span data-stu-id="648bd-103">Download and use the [Support and Recovery Assistant (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
-<span data-ttu-id="648bd-104">Cet outil peut vous aider à diagnostiquer et à résoudre automatiquement un éventail de problèmes connus liés à la connexion à Skype entreprise.</span><span class="sxs-lookup"><span data-stu-id="648bd-104">This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
+<span data-ttu-id="5e477-103">Téléchargez et utilisez [l'Assistant Support et récupération (SaRA).](https://aka.ms/SaRA-SkypeForBusinessSignIn)</span><span class="sxs-lookup"><span data-stu-id="5e477-103">Download and use the [Support and Recovery Assistant (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
+<span data-ttu-id="5e477-104">Cet outil peut vous aider à diagnostiquer et résoudre automatiquement un ensemble de problèmes connus liés à la signature de Skype Entreprise.</span><span class="sxs-lookup"><span data-stu-id="5e477-104">This tool can help you automatically diagnose and fix a range of known issues related to signing in to Skype for Business.</span></span>
