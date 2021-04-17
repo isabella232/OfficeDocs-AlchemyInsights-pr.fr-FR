@@ -2,7 +2,7 @@
 title: Demander une exonération de taxe
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716783"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821292"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Demander une exonération de taxe
 
@@ -29,7 +29,7 @@ Munissez-vous des documents suivants. Vous devez [démarrer une demande de servi
 
 - **Irlande** : munissez-vous du **Certificat d’exonération des taxes 13B/56A**.
 
-- **Organisations internationales bénéficiant d’une exonération fiscale** : munissez-vous d’une ** lettre ou d’une attestation de confirmation provenant des autorités fiscales locales**.
+- **Organisations internationales bénéficiant d’une exonération fiscale** : munissez-vous d’une **lettre ou d’une attestation de confirmation provenant des autorités fiscales locales**.
 
 - **Porto Rico** : munissez-vous du **Certificado de Compras Exentas**.
 

@@ -2,7 +2,7 @@
 title: Facturation et paiement
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686028"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820392"
 ---
 # <a name="billing-and-payment"></a>Facturation et paiement
 
-Vos **factures sont disponibles dans l'**  >  onglet[factures & paiement](https://go.microsoft.com/fwlink/p/?linkid=848039) .  Par défaut, les trois derniers mois de factures sont affichés.  Pour afficher les factures plus anciennes, ajustez le filtre.  Cliquez sur le lien **Télécharger le fichier PDF** de la facture pour afficher la facture.
+Vos factures se trouvent sous l'onglet Factures &  >  [paiements.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Par défaut, les 3 derniers mois de factures sont affichés.  Pour afficher les anciennes factures, ajustez le filtre.  Cliquez sur **le lien télécharger la facture PDF** pour afficher la facture.
 
 **Recevoir des factures par courrier électronique**
 
-Sur la **Billing**  >  page[notifications de facturation](https://go.microsoft.com/fwlink/p/?linkid=853212) de facturation, vous pouvez **on** activer et gérer les utilisateurs qui recevront la facture en tant que pièce jointe. La facture sera envoyée aux adresses de messagerie des utilisateurs figurant dans la liste des destinataires de la notification. La liste inclut tous les administrateurs de facturation et globaux.  Vous pouvez gérer les notifications de facturation en modifiant le rôle.  La suppression du rôle administrateur général ou administrateur de facturation supprime cet utilisateur de la liste des destinataires et l’ajout du rôle administrateur général ou administrateur de facturation ajoute l’utilisateur à la liste des destinataires.
+Dans **la**  >  page [Notifications de](https://go.microsoft.com/fwlink/p/?linkid=853212) facturation,  vous pouvez activer cette fonctionnalité et gérer les utilisateurs qui recevront la facture en pièce jointe. La facture est envoyée aux adresses de messagerie des utilisateurs de la liste des destinataires de la notification. La liste inclut tous les administrateurs de facturation et globaux.  Vous pouvez gérer qui reçoit les notifications de facture en modifiant le rôle.  La suppression du rôle d'administrateur global ou de facturation supprime cet utilisateur de la liste des destinataires et l'ajout du rôle d'administrateur global ou de facturation ajoute l'utilisateur à la liste des destinataires.
 
-**Remarque**: vous recevrez deux e-mails distincts : un qui vous indique que votre facture est prête, avec des instructions pour vous connecter au centre d’administration afin de l’afficher, ainsi qu’un deuxième courrier électronique qui contient le relevé de facturation en pièce jointe.
+**Remarque**: vous recevrez deux e-mails distincts : un qui vous indique que votre facture est prête, avec des instructions pour vous connecter au Centre d'administration pour l'afficher, et un second qui contient le relevé de facturation en pièce jointe.
 
-**Avance**
+**Paiement**
 
-Si vous payez par carte de crédit ou compte bancaire, le mode de paiement associé à vos abonnements est débité au bout de quelques jours après la création de la facture. En cas d’échec du paiement, mettez à jour ou modifiez votre mode de paiement.
+Si vous payez par carte bancaire ou compte bancaire, le mode de paiement associé à vos abonnements est facturé quelques jours après la création de la facture. En cas d'échec du paiement, mettez à jour ou modifiez votre mode de paiement.
 
-Si vous avez ajouté une nouvelle carte et que vous recevez toujours une notification de refus sur l’ancienne carte de crédit, vous devrez peut-être associer cette nouvelle carte à l’abonnement.
+Si vous avez ajouté une nouvelle carte et que vous êtes toujours en train d'obtenir une notification de refus sur l'ancienne carte de crédit, vous devrez peut-être associer cette nouvelle carte à l'abonnement.
 
 1. Dans le Centre d’administration, accédez à la page **Facturation** > **Factures et paiements** > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
@@ -54,8 +54,8 @@ Si vous avez ajouté une nouvelle carte et que vous recevez toujours une notific
 
 Pour plus d’informations, consultez [Gérer les modes de paiement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-**Périodicité de facturation**
+**Fréquence de facturation**
 
-Les factures sont générées mensuellement ou annuellement en fonction de la périodicité de facturation choisie lors de l’extraction.  
+Les factures sont générées mensuellement ou annuellement en fonction de la fréquence de facturation choisie lors de l'enregistrement.  
 
-**Remarque**: les commandes avec facturation annuelle peuvent recevoir une facture à mi-parcours si des modifications ont été apportées, telles que l’ajout ou la suppression de licences. [Modifiez votre périodicité de facturation](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Remarque**: les commandes à facturation annuelle peuvent recevoir une facture à mi-terme si des modifications ont été apportées, telles que l'ajout ou la suppression de licences. [Modifiez votre fréquence de facturation.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

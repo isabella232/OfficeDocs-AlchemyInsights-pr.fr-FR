@@ -1,8 +1,8 @@
 ---
-title: Demander à votre administrateur d’activer Microsoft teams
+title: Demander à votre administrateur d'activer Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716243"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821184"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Vous n’êtes pas absent ! Demander à votre administrateur d’activer Microsoft teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Vous êtes en train de manquer ! Demander à votre administrateur d'activer Microsoft Teams
 
-Si vous avez un client EDU, vous devez activer Microsoft Teams manuellement. Pour ce faire, accédez au centre d’administration 365 de Microsoft > **services et compléments > Microsoft teams**. Si vous utilisez le nouveau centre d’administration Teams, vous devez désactiver **essayez le nouveau centre d’administration**   pour trouver des **services et des compléments**. 
+Si vous avez un client EDU, vous devez activer Microsoft Teams manuellement. Pour ce faire, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**. Si vous utilisez le nouveau Centre d'administration Teams, **** vous devez désactiver essayer le nouveau centre d'administration pour rechercher des services et   des **modules.** 
 
-**Important**: vous devrez peut-être patienter jusqu’à 24 heures pour que vos modifications prennent effet.
+**IMPORTANT**: vous de devez peut-être patienter jusqu'à 24 heures pour que vos modifications prennent effet.
