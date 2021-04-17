@@ -1,8 +1,8 @@
 ---
-title: Configuration de l’audioconférence RTC Dial-in Skype entreprise Online
+title: Configuration de l'audioconférence PSTN dans Skype Entreprise Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739535"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835485"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Configuration de l’audioconférence RTC Dial-in Skype entreprise Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Configuration de l'audioconférence PSTN dans Skype Entreprise Online
 
-Si vous souhaitez configurer la conférence audio pour Skype entreprise Online, vous devez effectuer quelques opérations différentes. 
+Si vous souhaitez configurer l'audioconférence pour Skype Entreprise Online, vous devez faire quelques choses. 
 
-- Déterminer si l’audioconférence est disponible dans votre pays/région.
+- Découvrez si l'audioconférence est disponible dans votre pays/région.
 
 - Obtenez et attribuez des licences à vos utilisateurs.
 
 - Obtenir et affecter des numéros de service.
 
-- Complétez la liste de vérification de la configuration de la [conférence audio pour Skype entreprise](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Complétez la liste [de contrôle dans Configurer l'audioconférence pour Skype Entreprise.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)

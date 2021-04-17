@@ -1,8 +1,8 @@
 ---
-title: GatewayNotReachable lors de la définition des informations d’identification
+title: GatewayNotReachable lors de la définition des informations d'identification
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1321"
 - "2500002"
-ms.openlocfilehash: eefd024944282f26460b8ae6da04829dd4239983
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d02ff9db70a8c8db82b573121cb52c031899fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690853"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834945"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable lors de la définition des informations d’identification
+# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable lors de la définition des informations d'identification
 
-Vous pouvez rencontrer GatewayNotReachable lorsque vous tentez de définir des informations d’identification pour une source de données au sein du service Power BI. Il peut s’agir du résultat d’une passerelle obsolète. Installez la dernière passerelle et réessayez.
+Vous pouvez rencontrer GatewayNotReachable lorsque vous essayez de définir des informations d'identification pour une source de données dans le service Power BI. Cela peut être le résultat d'une passerelle obsolète. Installez la passerelle la plus récente et recommencez.
 
-Pour plus d’informations, procédez comme suit : [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Pour plus d'informations : [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
