@@ -1,5 +1,5 @@
 ---
-title: Les stratégies de rétention dans le centre d’administration Exchange ne fonctionnent pas
+title: Les stratégies de rétention dans le Centre d'administration Exchange ne fonctionnent pas
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740508"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952226"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Stratégies de rétention dans le centre d’administration Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Stratégies de rétention dans le Centre d'administration Exchange
 
-Si vous souhaitez que nous puissions exécuter des vérifications automatiques pour les paramètres mentionnés ci-dessous, sélectionnez le bouton précédent <--en haut de cette page, puis entrez l’adresse de messagerie de l’utilisateur qui rencontre des problèmes avec les stratégies de rétention.
+Si vous souhaitez que nous 2007-2016 exécutez des vérifications automatisées pour les paramètres mentionnés ci-dessous, sélectionnez le bouton Retour <- en haut de cette page, puis entrez l'adresse e-mail de l'utilisateur qui a des problèmes avec les stratégies de rétention.
 
- **Problème :** Les stratégies de rétention nouvellement créées ou mises à jour dans le centre d’administration Exchange ne s’appliquent pas aux boîtes aux lettres ou les éléments ne sont pas déplacés vers la boîte aux lettres d’archivage ni supprimés. 
-  
- **Causes racines :**
-  
-- Cela peut être dû au fait que l' **Assistant dossier géré** n’a pas traité la boîte aux lettres de l’utilisateur. L’Assistant dossier géré tente de traiter toutes les boîtes aux lettres de votre organisation en nuage une fois tous les sept jours. Si vous modifiez une balise de rétention ou appliquez une autre stratégie de rétention à une boîte aux lettres, vous pouvez attendre que le dossier géré facilite le traitement de la boîte aux lettres ou exécuter l’applet de commande Start-ManagedFolderAssistant pour démarrer l’Assistant dossier géré afin de traiter une boîte aux lettres spécifique. L’exécution de cette applet de commande est utile pour tester ou résoudre les problèmes d’une stratégie de rétention ou des paramètres de balise. Pour plus d’informations, consultez [la portion exécuter l’Assistant dossier géré](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **Solution :** Exécutez la commande suivante pour démarrer l’Assistant dossier géré pour une boîte aux lettres spécifique :
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+Si vous avez des problèmes avec les stratégies de rétention dans le Centre d'administration Exchange qui ne s'appliquent pas aux boîtes aux lettres ou aux éléments qui ne sont pas en déplacement vers la boîte aux lettres d'archivage, vérifiez les points suivants :
 
-- Cela peut également se produire si **RetentionHold** a été **activé** sur la boîte aux lettres. Si la boîte aux lettres a été placée sur un RetentionHold, la stratégie de rétention de la boîte aux lettres ne sera pas traitée pendant cette période. Pour plus d’informations sur le paramètre RetentionHold, voir : [conservation de rétention de boîte aux lettres](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
-    
-    **Elle**
-    
-  - Vérifiez l’état du paramètre RetentionHold sur la boîte aux lettres spécifique dans [exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**Causes premières :**
 
-  - Exécutez la commande suivante pour **Désactiver** RetentionHold sur une boîte aux lettres spécifique :
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **L'Assistant Dossier géré** n'a pas traitée la boîte aux lettres de l'utilisateur. L'Assistant Dossier géré tente de traiter toutes les boîtes aux lettres de votre organisation en nuage tous les sept jours.
 
-  - À présent, réexécutez l’Assistant dossier géré :
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **Solution :** Exécutez l'Assistant Dossier géré.
 
- **Remarque :** Si la taille d’une boîte aux lettres est inférieure à 10 Mo, l’Assistant dossier géré ne traitera pas automatiquement la boîte aux lettres.
+- **RetentionHold** a été **activé sur la** boîte aux lettres. Si la boîte aux lettres a été placée sur un retentionHold, la stratégie de rétention sur la boîte aux lettres n'est pas traitée pendant cette période.
+
+  **Solution :** Vérifiez l'état du paramètre conservation de rétention et mettez-le à jour selon vos besoins. Pour plus d'informations, voir [Conservation de rétention de boîte aux lettres.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
  
-Pour plus d’informations sur les stratégies de rétention dans le centre d’administration Exchange, voir :
+**Remarque :** Si une boîte aux lettres est plus petite que 10 Mo, l'Assistant Dossier géré ne traitera pas automatiquement la boîte aux lettres.
+ 
+Pour plus d'informations sur les stratégies de rétention dans le Centre d'administration Exchange, voir :
+
 - [Balises et stratégies de rétention](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Appliquer une stratégie de rétention aux boîtes aux lettres](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Ajouter ou supprimer des balises de rétention](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [Appliquer une stratégie de rétention à des boîtes aux lettres](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) ou ajouter ou supprimer des [balises de rétention](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
 - [Comment identifier le type de conservation placé sur une boîte aux lettres](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

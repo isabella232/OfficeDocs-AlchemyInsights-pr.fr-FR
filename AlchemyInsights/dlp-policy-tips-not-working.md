@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
+ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679583"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51958700"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problèmes de Conseil de stratégie DLP
+# <a name="dlp-policy-tip-issues"></a>Problèmes de conseil de stratégie DLP
 
 **Important** : dans cette situation sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint Online et OneDrive demeurent très disponibles – Veuillez consulter [Ajustements temporaire des fonctionnalités SharePoint Online](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
 
-**Conseils de stratégie DLP**
+Pour configurer des conseils de stratégie sur votre stratégie DLP dans le Centre de sécurité & conformité en mode d'application complète, faites les choses suivantes :
 
-Lorsque vous utilisez des **stratégies DLP**, les utilisateurs peuvent être avertis d’une violation de stratégie à l’aide de **conseils de stratégie**. Les administrateurs peuvent configurer des conseils de stratégie à afficher pendant le test de leur stratégie DLP ou lorsque la stratégie est en mode d’application complète.
-  
-Pour configurer des conseils de stratégie sur votre stratégie DLP dans le centre de sécurité et de conformité en mode d’application complète, procédez comme suit :
-  
-- Assurez-vous que les conseils de stratégie ont été **activés** sur la règle DLP en suivant les étapes [ci-dessous](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Assurez-vous que les conseils de **stratégie ont été activés** sur la règle DLP. Pour obtenir la procédure à suivre, [voir Envoyer des notifications par courrier électronique et afficher des conseils de stratégie pour les stratégies DLP.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Vérifiez que votre **contenu correspond** à ce qui est **requis** pour déclencher la règle décrite dans cet article [ici](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+- Assurez-vous que votre contenu correspond à ce qui est requis pour déclencher la règle décrite dans les définitions d'entité de [type d'informations sensibles.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Les conseils de stratégie sont affichés dans OWA et Outlook. Toutefois, lorsque vous utilisez **Outlook 2013 ou une version ultérieure**, les conseils de stratégie s’affichent uniquement dans certaines conditions. Ces conditions sont répertoriées ci-dessous : [conditions prises en charge pour Outlook 2013 ou version ultérieure pour l’affichage des conseils de stratégie](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Les conseils de stratégie s'affichent à la OWA outlook. Toutefois, lorsque vous utilisez Outlook 2013 ou une édition ultérieure, les conseils de stratégie s'affichent uniquement dans certaines conditions. Pour obtenir la liste des conditions spécifiques, voir Conditions de prise en charge pour [Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)ou une ultérieure pour afficher les conseils de stratégie.
 
-Pour plus d’informations sur les conseils de stratégie DLP, voir : [afficher les conseils de stratégie pour les stratégies DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+Pour plus d'informations sur les conseils de stratégie DLP, consultez la référence des conseils de stratégie [DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) et la matrice de support pour les [conseils de stratégie DLP.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
