@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ac93b93639a518a66d45f644bbd80a61c23c62
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796250"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261806"
 ---
 # <a name="user-mailbox-creation-is-taking-a-long-time"></a>La création de boîtes aux lettres utilisateur prend beaucoup de temps
 
-Une nouvelle boîte aux lettres peut prendre jusqu’à 24 heures avant d’être utilisée.
+L’utilisation d’une nouvelle boîte aux lettres peut prendre jusqu’à 24 heures.
   
-Si la boîte aux lettres de l’utilisateur a été « en préparation » pendant plus d’une heure, essayez de la supprimer et de la rajouter, ou [Contactez le support technique](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
+Si la boîte aux lettres de l’utilisateur est en cours de préparation depuis plus d’une heure, essayez de supprimer la licence Exchange de l’utilisateur et de la rajouter, ou contactez le [support technique.](/microsoft-365/admin/contact-support-for-business-products?tabs=online)

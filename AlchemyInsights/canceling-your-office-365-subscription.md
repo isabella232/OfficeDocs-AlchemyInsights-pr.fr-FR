@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896865"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261590"
 ---
 # <a name="canceling-your-subscription"></a>Annuler votre abonnement ?
 
 Nous sommes désolés de vous voir partir, mais si vous souhaitez annuler votre abonnement, voici vos options :
   
 - Si vous avez moins de 25 licences attribuées, vous pouvez annuler votre abonnement en ligne. Go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, and find the subscription that you want to cancel. Sélectionnez **Autres actions** (points de suspension), puis sélectionnez **Annuler l’abonnement**.
-- Si vous avez plus de 25 licences attribuées à des utilisateurs, appelez le [support technique pour annuler votre abonnement.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
+- Si vous avez plus de 25 licences attribuées à des utilisateurs, appelez le [support technique pour annuler votre abonnement.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
 **Remboursement : tout crédit au prorat vous sera renvoyé au cours du prochain cycle de facturation.**
 

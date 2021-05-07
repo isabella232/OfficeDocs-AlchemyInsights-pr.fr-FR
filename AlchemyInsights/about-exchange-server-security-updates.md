@@ -1,5 +1,5 @@
 ---
-title: À propos Exchange Server mises à jour de sécurité
+title: À propos Exchange Server mises à jour
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726525"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233460"
 ---
-# <a name="about-exchange-server-security-updates"></a>À propos Exchange Server mises à jour de sécurité
+# <a name="about-exchange-server-updates"></a>À propos Exchange Server mises à jour
 
-Microsoft a publié une série de mises à jour de sécurité critiques pour Exchange Server sur site. Les versions de serveur affectées sont les niveaux de mise à jour Exchange Server 2010, 2013, 2016 et 2019. Exchange Online n’est PAS touché, mais si vous avez des serveurs Exchange locaux en raison de la configuration hybride, ils sont potentiellement vulnérables.
+Microsoft publie généralement Exchange Server mises à jour le mardi (mises à jour de sécurité) ou tous les trimestres (mises à jour cumulatives). Pour voir les annonces des dernières mises à jour publiées, consultez le blog [Exchange l’équipe.](https://aka.ms/ehlo)
 
-Veuillez consulter l’annonce suivante pour l’emplacement des correctifs : Publiée en [mars 2021 Exchange Server mises à jour de sécurité](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Pour inventorier vos Exchange, utilisez le script de vérification d’Exchange Server,(GitHub, utilisez [la dernière version).](https://aka.ms/ExchangeHealthChecker) L’exécution de ce script vous indique si l’un de vos serveurs Exchange est en arrière-plan sur les mises à jour (CUS et SUS).
 
-**Remarques importantes** :
+- Pour mettre à jour la [](https://aka.ms/ExchangeUpdateWizard) dernière mise à jour cumulative, Exchange l’Assistant Mise à jour et choisissez votre mise à jour cumulative en cours d’exécution et votre mise à jour cumulative cible. Sélectionnez **Indiquer les étapes à** suivre pour obtenir des instructions pour votre environnement.
 
-Si vous installez des mises à jour manuellement, lisez la section « Problèmes connus » des articles de la mise à jour de la Ko pour obtenir des informations importantes. Les mises à jour de sécurité DOIVENT être exécutés à partir d’une invite CMD/PowerShell élevée !
-
-Les informations de résolution des problèmes de mise à jour sont [disponibles ici.](https://aka.ms/exupdatefaq)
+- Si vous rencontrez des erreurs pendant ou après l’installation Exchange Server mises à jour, voir Réparer les installations Exchange mises à jour [cumulatives et](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)de sécurité.

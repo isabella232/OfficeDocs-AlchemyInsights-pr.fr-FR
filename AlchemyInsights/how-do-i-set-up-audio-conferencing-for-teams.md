@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811058"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261751"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams : audioconférence
 
@@ -40,4 +40,4 @@ Si [des licences ont été acquises](https://docs.microsoft.com/microsoftteams/s
 
 7. Sélectionnez l’utilisateur concerné et vérifiez que l’utilisateur dispose d’un **numéro payant par défaut**.
 
-Si vous avez besoin d’une aide supplémentaire pour l’achat de licences pour l’**audioconférence Microsoft**, appelez le [support de facturation Microsoft](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).
+Si vous avez besoin d’une aide supplémentaire pour l’achat de licences pour l’**audioconférence Microsoft**, appelez le [support de facturation Microsoft](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).
