@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 4fc592ed3bf9da97ae22c19054d424015c1c0b09
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6799b2112458a7ab3715c9b63e03c2c7ca3fe6be
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51805343"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233496"
 ---
-# <a name="401-unauthorized-error-in-sharepoint"></a><span data-ttu-id="29794-102">401 Erreur non autorisée dans SharePoint</span><span class="sxs-lookup"><span data-stu-id="29794-102">401 Unauthorized error in SharePoint</span></span>
+# <a name="401-unauthorized-error-in-sharepoint"></a><span data-ttu-id="96a3b-102">401 Erreur non autorisée dans SharePoint</span><span class="sxs-lookup"><span data-stu-id="96a3b-102">401 Unauthorized error in SharePoint</span></span>
 
-<span data-ttu-id="29794-103">Si vous recevez l&apos;erreur « (401) Non autorisé » dans SharePoint, elle peut être liée à la retrait de TLS 1.0/1.1.</span><span class="sxs-lookup"><span data-stu-id="29794-103">If you receive the error "(401) Unauthorized" in SharePoint it might be related to the deprecation of TLS 1.0/1.1.</span></span> <span data-ttu-id="29794-104">Si vous souhaitez obtenir plus d’informations, voir :</span><span class="sxs-lookup"><span data-stu-id="29794-104">For more info, see:</span></span>
+<span data-ttu-id="96a3b-p101">Si vous recevez l’erreur « (401) Non autorisé » dans SharePoint, elle peut être liée au retrait de TLS 1.0/1.1. Pour plus d’informations, consultez :</span><span class="sxs-lookup"><span data-stu-id="96a3b-p101">If you receive the error "(401) Unauthorized" in SharePoint it might be related to the deprecation of TLS 1.0/1.1. For more info, see:</span></span>
 
-[<span data-ttu-id="29794-105">Préparation de TLS 1.2 dans Office 365 et Office 365 Cloud de la communauté du secteur public</span><span class="sxs-lookup"><span data-stu-id="29794-105">Preparing for TLS 1.2 in Office 365 and Office 365 GCC</span></span>](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+[<span data-ttu-id="96a3b-105">Préparation de TLS 1.2 dans Office 365 et Office 365 Cloud de la communauté du secteur public</span><span class="sxs-lookup"><span data-stu-id="96a3b-105">Preparing for TLS 1.2 in Office 365 and Office 365 GCC</span></span>](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 
-[<span data-ttu-id="29794-106">Des erreurs d’authentification se produisent si le client n’a pas de prise en charge TLS 1.2</span><span class="sxs-lookup"><span data-stu-id="29794-106">Authentication errors occur if client doesn't have TLS 1.2 support</span></span>](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+[<span data-ttu-id="96a3b-106">Des erreurs d’authentification se produisent si le client n’a pas de prise en charge TLS 1.2</span><span class="sxs-lookup"><span data-stu-id="96a3b-106">Authentication errors occur if client doesn't have TLS 1.2 support</span></span>](https://review.docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+
+<span data-ttu-id="96a3b-107">Si des utilisateurs utilisent Windows 7, assurez-vous qu’ils vérifient les [Suites de chiffrement TLS dans Windows 7](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7).</span><span class="sxs-lookup"><span data-stu-id="96a3b-107">If users are on Windows 7, make sure they check [TLS Cipher Suites in Windows 7](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7).</span></span>
