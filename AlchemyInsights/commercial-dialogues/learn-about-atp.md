@@ -1,5 +1,5 @@
 ---
-title: En savoir plus sur la atp
+title: En savoir plus sur Microsoft Defender pour Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403561"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539786"
 ---
-# <a name="learn-about-atp"></a>En savoir plus sur la atp
+# <a name="learn-about-microsoft-defender-for-office-365"></a>En savoir plus sur Microsoft Defender pour Office 365
 
-Voici quelques informations sur Office 365 - Protection avancée contre les menaces ( ATP) :
+Voici quelques informations sur Microsoft Defender pour Office 365 :
 
-**Qu’est-ce qu’ATP ?**
+**Qu’est-ce que Microsoft Defender pour Office 365 ?**
 
-AtP est un service de filtrage de courrier électronique basé sur le cloud qui permet de protéger les organisations contre les programmes malveillants et les virus inconnus en offrant une protection zero-day robuste. Il inclut des fonctionnalités pour protéger les organisations contre les liens dangereux en temps réel.
+Microsoft Defender pour Office 365 est un service cloud de filtrage du courrier électronique qui permet de protéger les organisations contre les programmes malveillants et les virus inconnus en offrant une protection zero-day robuste. Il inclut des fonctionnalités pour protéger les organisations contre les liens dangereux en temps réel.
 
-**Comment activer LAP ?**
+**Comment activer Microsoft Defender pour Office 365 ?**
 
-Les pièces jointes sécurisées, les liens sécurisés et l’anti-hameçonnage font partie de la fonctionnalité protection anti-hameçonnage. Entreprise E5, Éducation A5 et Microsoft 365 Business incluent des fonctionnalités atp intégrées. Tous les autres plans nécessitent un abonnement atP de modules Vous devez attribuer les licences appropriées à vos utilisateurs pour qu’ils soient protégés par Office 365 ATP. Vous devez avoir des autorisations d’administrateur général ou d’administrateur de sécurité pour accéder à cette fonctionnalité. Pour en savoir plus sur l’application de licences en bloc à vos utilisateurs finaux, voir Attribuer des licences aux utilisateurs dans [Office 365 pour les entreprises.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Les pièces jointes sécurisées, les liens sécurisés et l’anti-hameçonnage font partie de la fonctionnalité Microsoft Defender Office 365 protection. Enterprise E5, Éducation A5 et Microsoft 365 Business incluent des fonctionnalités intégrées de Microsoft Defender Office 365 intégrées. Tous les autres plans nécessitent un module de développement Microsoft Defender pour Office 365 abonnement. Vous devez attribuer les licences appropriées à vos utilisateurs pour qu’ils soient protégés par Microsoft Defender Office 365. Vous devez avoir des autorisations d’administrateur général ou d’administrateur de sécurité pour accéder à cette fonctionnalité. Pour en savoir plus sur l’application de licences en bloc à vos utilisateurs finaux, voir Attribuer des licences aux utilisateurs dans [Office 365 entreprise.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Comment gérer la atp ou en savoir plus à ce sujet ?**
+**Comment gérer Microsoft Defender pour Office 365 ou en savoir plus à ce sujet ?**
 
 a. Go to [Setup](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 b. Sous **Se connectez-vous et sécurité,** **recherchez Augmenter la protection** contre les menaces avancées, puis sélectionnez [Afficher.](https://go.microsoft.com/fwlink/?linkid=2109302)

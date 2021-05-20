@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286848"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539966"
 ---
-# <a name="subscription-recurring-billing"></a>Facturation périodique de l’abonnement
+# <a name="subscription-recurring-billing"></a>Facturation récurrente de l’abonnement
 
-Si vous souhaitez savoir quand votre abonnement mensuel ou annuel est facturé (si la **facturation périodique** est activée) ou expirer (si la **facturation périodique** est désactivée), procédez comme suit :
+Si vous souhaitez savoir quand votre abonnement mensuel  ou annuel est facturé (si la  facturation périodique est désactivée) ou quand il expire (si la facturation périodique est désactivée), utilisez les étapes suivantes :
   
-1. Dans le centre d’administration, accédez à la page **Facturation** \> [Produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Sur l’onglet **produits** , recherchez l’abonnement sur lequel vous souhaitez en savoir plus. La colonne État de l' **abonnement** indique la date de renouvellement ou d’expiration.
-3. Pour apporter une modification, sélectionnez **autres actions** (trois points), puis **modifier la facturation périodique**.
-4. Dans le volet **modifier la facturation périodique** , sélectionnez **activé**, **le renouveler une fois**ou **inactif**.
+1. Dans le centre d’administration, accédez à la page **Facturation** \> [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Sous **l’onglet** Produits, recherchez l’abonnement dont vous souhaitez en savoir plus. La **colonne État de l’abonnement** affiche la date de renouvellement ou d’expiration.
+3. Pour apporter une modification, sélectionnez les trois points (plus d’actions), puis **sélectionnez Modifier la facturation périodique.**
+4. Dans le **volet Modifier la facturation** périodique, sélectionnez **On**, **On, renew once**, or **Off**.
 5. Sélectionnez **Enregistrer**.
 
-Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](/microsoft-365/commerce/subscriptions/renew-your-subscription).
