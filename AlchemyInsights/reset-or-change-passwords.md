@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810194"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569649"
 ---
 # <a name="reset-or-change-passwords"></a>Réinitialiser ou modifier les mots de passe
 
-Un utilisateur peut modifier son propre mot de passe à partir de **Mon** compte  >  [Sécurité & confidentialité](https://portal.office.com/account/#security).
+Un utilisateur peut modifier son propre mot de passe en sélectionnant sa photo ou ses initiales > **compte d’affichage.**
   
-Si l'utilisateur a oublié son mot de passe, un administrateur peut réinitialiser le mot de passe en sélectionnant Utilisateurs actifs, sélectionnez le ou les utilisateurs, puis cliquez sur Réinitialiser le mot   >  [](https://portal.office.com/adminportal/home#/users) **de passe.**
+Si l’utilisateur a oublié son mot de passe, un administrateur peut réinitialiser le mot de passe en sélectionnant Utilisateurs actifs, sélectionnez le ou les utilisateurs, puis cliquez sur Réinitialiser le mot   >  [](https://portal.office.com/adminportal/home#/users) **de passe.**
   
-[Cliquez ici pour en savoir plus](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)ou pour laisser les utilisateurs réinitialiser leurs mots de passe oubliés.
+Pour en savoir plus sur les mots de passe et autoriser les utilisateurs à réinitialiser leurs propres mots de passe, voir [Réinitialiser les mots de passe.](/microsoft-365/admin/add-users/reset-passwords)

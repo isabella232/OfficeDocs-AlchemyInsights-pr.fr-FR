@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683864"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569613"
 ---
 # <a name="how-to-verify-your-domain"></a>Comment vérifier votre domaine
 
-Pour vérifier un domaine, suivez l' [Assistant Ajouter un domaine](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ou accédez manuellement au domaine **d’installation**  >    >  **Ajouter un domaine**.
+Pour vérifier un domaine, suivez [l’Assistant](https://admin.microsoft.com/Adminportal#/Domains/Wizard)Ajouter un domaine ou allez manuellement sur   >  **Paramètres de domaines**  >  **Ajouter un domaine.**
 
-Pour plus d’informations sur les modifications DNS requises pour vérifier votre domaine, consultez les instructions de la section [Ajouter des enregistrements DNS pour connecter votre domaine](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Pour plus d’informations sur les modifications DNS requises pour vérifier votre domaine, consultez les instructions dans Ajouter des enregistrements [DNS pour connecter votre domaine.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Pour les autres questions sur les domaines, consultez le [Forum aux questions sur les domaines](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Pour d’autres questions sur les domaines, consultez la FAQ [sur les domaines.](/microsoft-365/admin/setup/domains-faq)
