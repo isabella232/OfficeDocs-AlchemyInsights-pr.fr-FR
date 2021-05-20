@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50696828"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545374"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Spécialistes des menaces Microsoft - Notification d’attaque ciblée
 
-La notification d’attaque ciblée est l’une des deux fonctionnalités d’experts microsoft en matière de menaces. Il s’agit d’un service de recherche de menaces proactif qui fournit des informations et une analyse spéciales qui permettent de s’assurer que les menaces les plus critiques sont identifiées et y répondent rapidement et avec précision.
+La notification d’attaque ciblée est l’une Spécialistes des menaces Microsoft fonctionnalités. Il s’agit d’un service de recherche de menaces proactif qui fournit des informations et une analyse spéciales qui permettent de s’assurer que les menaces les plus critiques sont identifiées et y répondent rapidement et avec précision.
 
-Si vous êtes un client Microsoft Defender pour point de terminaison, vous devez demander des experts microsoft en matière de menaces - Notifications d’attaque ciblées pour obtenir des informations et une analyse spéciales qui vous aident à identifier les menaces les plus critiques afin de pouvoir y répondre rapidement.
+Si vous êtes un client Microsoft Defender pour point de terminaison, vous devez demander Spécialistes des menaces Microsoft - Notifications d’attaque ciblées pour obtenir des informations et une analyse spéciales qui vous aident à identifier les menaces les plus critiques afin de pouvoir y répondre rapidement.
 
-Pour vous inscrire à Microsoft Threat Experts - Avantages des notifications d’attaque ciblée, voir **Paramètres** généraux Avancés fonctionnalités Microsoft Threat Experts - Notifications d’attaques  >    >    >  **ciblées** à appliquer. Une fois accepté, vous bénéficiez des avantages des notifications d’attaque ciblée.
+Pour vous inscrire à Spécialistes des menaces Microsoft - Avantages des notifications d’attaques ciblées, Paramètres fonctionnalités générales avancées   >    >    >  **Spécialistes des menaces Microsoft - Notifications** d’attaque ciblée à appliquer. Une fois accepté, vous bénéficiez des avantages des notifications d’attaque ciblée.
 
-Vous pouvez recevoir une notification d’attaque ciblée de la part d’experts microsoft en matière de menaces via le support suivant :
+Vous pouvez recevoir des notifications d’attaques ciblées Spécialistes des menaces Microsoft via le support suivant :
 
 - Page Incidents du portail Defender pour les points de terminaison
-- Tableau de bord Alertes du portail Defender pour point de terminaison
+- Tableau de bord Alertes du portail Defender pour les points de terminaison
 - API d’alerte OData et API REST
 - Table DeviceAlertEvents en recherche avancée
 - Votre courrier électronique, si vous choisissez de le configurer
 
 Pour recevoir des notifications d’attaque ciblée par courrier électronique, créez une règle de notification par courrier électronique. 
 
-Pour plus [d’informations, voir](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) Configurer et gérer les fonctionnalités des experts microsoft en matière de menaces.
+Pour [plus d’informations, voir Configurer et Spécialistes des menaces Microsoft fonctionnalités](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) de gestion des données.

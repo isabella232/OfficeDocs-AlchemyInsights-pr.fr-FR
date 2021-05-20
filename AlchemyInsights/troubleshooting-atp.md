@@ -1,5 +1,5 @@
 ---
-title: Dépannage de Microsoft Defender pour Office 365
+title: Résolution des problèmes de Microsoft Defender pour Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801441"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545266"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Dépannage de Microsoft Defender pour Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Résolution des problèmes de Microsoft Defender pour Office 365
 
-- Remarquez-vous des retards dans la remise des messages ? Utilisez l’option de [remise dynamique](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) dans votre stratégie de pièces jointes approuvées ATP. Cela permet d’éviter les retards de message tout en protégeant les destinataires des fichiers malveillants.
+- **Remarquez-vous des retards dans la remise des messages ?** Utilisez [l’option Remise](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) dynamique dans votre Microsoft Defender pour Office 365 stratégie de pièces jointes sécurisées. Cela permet d’éviter les retards de messages tout en protégeant les destinataires contre les fichiers malveillants.
 
-- Voulez-vous signaler les faux positifs ou les faux négatifs à Microsoft ? Utilisez ce [lien](https://www.microsoft.com/wdsi/filesubmission/) pour soumettre des fichiers pour analyse.
+- **Voulez-vous signaler des faux positifs ou des faux négatifs à Microsoft ?** Utilisez [l’Explorateur de soumissions.](https://protection.office.com/reportsubmission)
 
-- Saviez-vous que vous pouvez activer la protection des liens fiables pour les messages internes envoyés entre les destinataires au sein de votre organisation ? Procédez comme suit :
+-** Savez-vous que vous pouvez activer la protection des liens sécurisés pour les messages électroniques internes envoyés entre des destinataires au sein de votre organisation ?** Suivez les étapes suivantes :
 
-  1. Accédez à [https://protection.office.com](https://protection.office.com) et connectez-vous à l’aide d’un compte d’administrateur général ou d’administrateur de sécurité.
+  1. Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.
 
-  2. Dans le volet de navigation de gauche, sous **gestion des menaces** , sélectionnez **Policy** \> **liens approuvés** de stratégie.
+  2. Dans le volet de navigation de gauche sous **Gestion des menaces,** choisissez **Liens** \> **sécurisés de stratégie.**
 
-  3. Dans la section **stratégies qui s’appliquent à l’ensemble de l’organisation** , sélectionnez la stratégie, puis cliquez sur **modifier** .
+  3. Dans la **section Stratégies qui s’appliquent à l’ensemble** de l’organisation, sélectionnez la stratégie, puis cliquez sur **Modifier.**
 
-  4. Sous **paramètres** , activez l' **application de liens fiables aux messages envoyés au sein de l’organisation** .
+  4. Sous **Paramètres**, **activez Appliquer des liens sécurisés aux messages envoyés au sein de l’organisation.**

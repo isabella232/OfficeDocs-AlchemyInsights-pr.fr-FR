@@ -1,5 +1,5 @@
 ---
-title: Procédure d’impression d’une pièce jointe
+title: Comment imprimer une pièce jointe
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: eb497d3555a2c044e42b5877b1d9b0f524819f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c52e13b159edb5215e39f10fcfca983fcecb08d8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798122"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544396"
 ---
 # <a name="print-an-attachment-in-outlookcom"></a>Imprimer une pièce jointe dans Outlook.com
 
-1. Ouvrez le message contenant la pièce jointe que vous souhaitez imprimer.
-2. Déplacez votre curseur sur la pièce jointe et sélectionnez l’icône **autres actions** . <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> > **Téléchargement**.
-3. Une fois que le fichier a été téléchargé, ouvrez-le avec le programme approprié et choisissez l’option d’impression. Par exemple, ouvrez un fichier. doc dans Word, puis imprimez.
+1. Ouvrez le message qui contient la pièce jointe que vous souhaitez imprimer.
+2. Déplacez votre curseur sur la pièce jointe et sélectionnez les trois points (autres actions) > **télécharger.**
+3. Une fois le fichier téléchargé, ouvrez-le avec le programme approprié et choisissez l’option d’impression. Par exemple, ouvrez un .doc dans Word, puis imprimez.
 
-Pour plus d’informations, consultez la [page imprimer des messages électroniques, des pièces jointes et des calendriers dans Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d’informations, lisez Imprimer les messages électroniques, les pièces jointes et les [calendriers dans Outlook.com.](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)

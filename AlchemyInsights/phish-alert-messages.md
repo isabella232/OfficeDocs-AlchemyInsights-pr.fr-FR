@@ -1,5 +1,5 @@
 ---
-title: 2491 alerte les messages électroniques provenant de la stratégie « hameçonnage fourni suite à une substitution de client ou d’utilisateur »
+title: 2491 Alerte des messages électroniques à partir de la stratégie « Hameçonnage remis en raison d’un remplacement par le client ou l’utilisateur »
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728609"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544576"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alertez les messages électroniques provenant de la stratégie « hameçonnage fourni suite à une substitution de client ou d’utilisateur »
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Alerte des messages électroniques à partir de la stratégie « Hameçonnage remis en raison d’un remplacement par le client ou l’utilisateur »
 
-Une stratégie d’alerte par défaut nommée « hameçonnage remis en raison de la substitution du client ou de l’utilisateur » a été déployée pour les locataires ayant des licences P1 et P2 Office 365 ATP. Si vous avez reçu cette alerte, Voici les étapes à suivre pour examiner :
+Une stratégie d’alerte par défaut nommée « Phish Delivered due to tenant or user override » a été déployée aux clients avec Microsoft Defender pour les licences Office 365 P1 et P2. Si vous avez reçu cette alerte, voici les étapes à suivre pour examiner :
 
-1. Dans le message d’alerte, cliquez sur **afficher l’alerte** pour accéder à la page des **alertes** dans le centre de sécurité & conformité.
+1. Dans le message d’alerte, cliquez sur **Afficher** l’alerte pour aller à la page **Alertes** dans le Centre de sécurité & conformité.
 
-2. Sélectionnez l’alerte pour voir l’option permettant d' **afficher la liste des messages** ou d’afficher les **messages dans l’Explorateur**. Ces deux options vous permettent d’accéder aux détails du message, qui inclut l’ID du message. Notez que le lien de l’Explorateur de menaces filtre automatiquement les messages qui correspondent aux critères d’alerte. Vous devrez peut-être ajuster le filtre de date dans l’Explorateur de menaces.
+2. Sélectionnez l’alerte pour afficher l’option Afficher la liste **des messages** ou Afficher les messages **dans l’Explorateur.** Ces deux options vous prennent en compte pour obtenir les détails du message, notamment l’ID de message. Notez que le lien Explorateur de menaces filtre automatiquement les messages qui correspondent aux critères d’alerte. Vous devrez peut-être ajuster le filtre de date dans l’Explorateur de menaces.
 
-Le message de hameçonnage a été remis en raison d’une substitution configurée manuellement :
+Le message d’hameçonnage a été remis en raison d’une substitution configurée manuellement :
 
-- Un expéditeur ou domaine autorisé défini par l’utilisateur.
+- Expéditeur ou domaine autorisé par l’utilisateur.
 
-- Un expéditeur ou domaine autorisé défini par l’administrateur dans une stratégie de blocage du courrier indésirable.
+- Expéditeur ou domaine autorisé par l’administrateur dans une stratégie anti-courrier indésirable.
 
-- Une adresse IP autorisée dans une stratégie de filtrage des connexions.
+- Adresse IP autorisée dans une stratégie de filtrage des connexions.
 
-- Une règle de flux de messagerie (également appelée règle de transport) qui est configurée pour autoriser les messages dans.
+- Règle de flux de messagerie (également appelée règle de transport) configurée pour autoriser les messages.
 
-Si vous pensez que le message a été marqué de manière incorrecte comme hameçonnage, utilisez le [complément de message de rapport](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) Outlook pour soumettre des exemples de messages à Microsoft.
+Si vous pensez que le message a été marqué à tort comme hameçonnage, utilisez le Outlook signaler un [message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) pour envoyer des exemples de message à Microsoft.
