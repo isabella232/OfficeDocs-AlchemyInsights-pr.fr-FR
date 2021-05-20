@@ -1,5 +1,5 @@
 ---
-title: Mapper une bibliothèque SharePoint sur un lecteur réseau
+title: Ma SharePoint bibliothèque de données à un lecteur réseau
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806181"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542819"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapper une bibliothèque SharePoint sur un lecteur réseau
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Ma SharePoint bibliothèque de données à un lecteur réseau
 
-Le mappage d’une bibliothèque en tant que lecteur réseau est temporaire et pris en charge uniquement par l’intermédiaire d’Internet Explorer. Vous devez occasionnellement ouvrir le site SharePoint dans Internet Explorer et sélectionner **rester connecté** pour empêcher l’expiration de la session. Au lieu de cela, [synchronisez les fichiers SharePoint avec le nouveau client de synchronisation OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> qui fournit [des fichiers à la demande](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Accédez à l’ensemble de vos fichiers dans OneDrive sans utiliser l’espace de stockage local.
+Au lieu de ma mappage d’un lecteur réseau, synchronisez SharePoint fichiers avec le nouveau client de synchronisation OneDrive, qui fournit des fichiers à la demande. Accédez à l’ensemble de vos fichiers dans OneDrive sans utiliser l’espace de stockage local. Pour plus d’informations, voir [Synchroniser SharePoint](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) et Teams fichiers avec votre ordinateur et économiser de l’espace disque [avec OneDrive fichiers](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)à la demande Windows 10 .
 
-Si vous choisissez de mapper un lecteur au lieu d' [utiliser le nouveau client de synchronisation OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), veillez à suivre les étapes décrites dans l’article ci-dessous. 
+Si vous choisissez de ma cartographier un lecteur au lieu d’utiliser le nouveau client de synchronisation [OneDrive,](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)veillez à suivre les étapes suivantes :
 
+- [Résoudre les problèmes de lecteurs réseau mappés qui se connectent à SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**Procédure de configuration et de dépannage des lecteurs réseau mappés**
+- [Des erreurs d’authentification se produisent lorsque le client ne prend pas en charge TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-Voir [Dépannage des lecteurs réseau mappés qui se connectent à SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
-
-Remarque : Si vous utilisez Internet Explorer 10 avec Windows 8 ou Windows 7 et que vous recevez un **accès refusé** ou que le **chemin d’accès n’est pas accessible** lors du mappage d’un lecteur, installez [ce correctif logiciel](https://support.microsoft.com/help/2846960) pour résoudre ce problème. 
+**REMARQUE :** Si vous utilisez Internet Explorer 10 avec Windows 8 ou Windows 7 et  que vous recevez un accès refusé ou que le chemin d’accès n’est pas **accessible** lors du mappage d’un lecteur, résolvez ce problème en installant ce correctif [logiciel.](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)

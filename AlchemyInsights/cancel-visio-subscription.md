@@ -1,5 +1,5 @@
 ---
-title: Annuler l’abonnement Visio
+title: Annuler Visio abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f3f08ebf58473f82ad57dae0e6dd59a065f519a6
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416379"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543359"
 ---
-# <a name="cancel-visio-subscription"></a>Annuler l’abonnement Visio
+# <a name="cancel-visio-subscription"></a>Annuler Visio abonnement
 
-Les administrateurs peuvent annuler l’abonnement Visio pour leur organisation dans le centre d’administration Microsoft 365.
+Les administrateurs peuvent annuler l’abonnement Visio pour leur organisation dans le centre d Microsoft 365'administration.
 
-1. Accédez à la page **facturation** \> [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Dans l’onglet **produits** , recherchez l’abonnement Visio que vous souhaitez annuler. Sélectionnez **autres actions** (trois points), puis **Annuler l’abonnement**.
-3. Dans le volet **Annuler l’abonnement** , choisissez une raison pour laquelle vous annulez. Fournissez éventuellement des commentaires.
+1. Accédez à la page **Facturation** \> [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Sous **l’onglet** Produits, recherchez l’abonnement Visio que vous souhaitez annuler. Sélectionnez les trois points (plus d’actions), puis **sélectionnez Annuler l’abonnement.**
+3. Dans le volet **Annuler l’abonnement** , choisissez la raison pour laquelle vous annulez l’abonnement. Vous pouvez également fournir des commentaires.
 4. Sélectionnez **Enregistrer**.
 
-**Remboursement :** Tout crédit prorata vous sera renvoyé au cours du cycle de facturation suivant.
+**Remboursement :** tout crédit calculé au prorata vous sera remboursé au cours du cycle de facturation suivant.
 
-Pour en savoir plus, consultez [la rubrique annuler votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Pour plus d’informations, voir [Annuler votre abonnement.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

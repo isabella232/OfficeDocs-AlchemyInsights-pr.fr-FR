@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416260"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543503"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Annuler la protection avancée contre les menaces
 
-Les administrateurs peuvent annuler l’abonnement de protection avancée contre les menaces pour leur organisation dans le centre d’administration 365 de Microsoft.
+Les administrateurs peuvent annuler l’abonnement à la Protection avancée contre les menaces pour leur organisation dans Microsoft 365'administration centrale.
 
-1. Accédez à la page **facturation**  >  [de vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Sur l’onglet **produits** , recherchez le plan de protection avancée contre les menaces que vous souhaitez annuler. Sélectionnez **autres actions** (trois points), puis **Annuler l’abonnement**.
-3. Dans le volet **Annuler l’abonnement** , choisissez une raison pour laquelle vous annulez. Fournissez éventuellement des commentaires.
+1. Go to the **Billing**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.
+2. Sous **l’onglet** Produits, recherchez le plan Protection avancée contre les menaces que vous souhaitez annuler. Sélectionnez les trois points (plus d’actions), puis **sélectionnez Annuler l’abonnement.**
+3. Dans le volet **Annuler l’abonnement** , choisissez la raison pour laquelle vous annulez l’abonnement. Vous pouvez également fournir des commentaires.
 4. Sélectionnez **Enregistrer**.
 
-**Remboursement :** Tout crédit prorata vous sera renvoyé au cours du cycle de facturation suivant.
+**Remboursement :** tout crédit calculé au prorata vous sera remboursé au cours du cycle de facturation suivant.
 
-Pour en savoir plus, consultez [la rubrique annuler votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Pour plus d’informations, voir [Annuler votre abonnement.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

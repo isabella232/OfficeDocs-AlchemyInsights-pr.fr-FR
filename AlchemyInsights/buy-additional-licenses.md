@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 2df9278e13ca497c7ab71bb458c672031313759f
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232283"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543539"
 ---
 # <a name="buy-additional-licenses"></a>Acheter des licences supplémentaires
 
 **REGARDez une vidéo** qui montre comment faire : [acheter des licences](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
 1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Sous **l’onglet** Produits, recherchez l’abonnement pour lequel vous souhaitez acheter des licences. Sélectionnez **Plus d’actions** (trois points), puis **sélectionnez Acheter des licences.**
+2. Sous **l’onglet** Produits, recherchez l’abonnement pour lequel vous souhaitez acheter des licences. Sélectionnez les trois points (plus d’actions), puis **sélectionnez Acheter des licences.**
 3. Sous **Nouvelle quantité dans la** zone Nombre total de **licences,** entrez le nombre total de licences que vous souhaitez pour cet abonnement. Par exemple, si vous avez 100 licences et que vous souhaitez en ajouter 25, entrez 125.
 4. Sélectionnez **Enregistrer**.
 
-Pour en savoir plus, voir [Acheter ou supprimer des licences.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Pour en savoir plus, voir [Acheter ou supprimer des licences.](/microsoft-365/commerce/licenses/buy-licenses)
 
 **Ressources supplémentaires**
 
-- [Attribuer des licences à des utilisateurs dans Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+[Attribuer des licences à des utilisateurs Microsoft 365 entreprise](/microsoft-365/admin/manage/assign-licenses-to-users)
