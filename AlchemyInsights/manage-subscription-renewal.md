@@ -13,21 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: c5f81c51ed73c70d98a02a0907fa394ddd1134db
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451353"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545518"
 ---
 # <a name="manage-subscription-renewal"></a>Gérer un renouvellement d’abonnement
 
 Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désactiver la **facturation périodique**.
 
 1. Dans le centre d’administration, accédez à la page **Facturation** > **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Sous l’onglet **Produits** , recherchez l’abonnement que vous voulez gérer, sélectionnez **Autres actions** (points de suspension), puis sélectionnez **Modifier la facturation périodique**.
-3. Dans le volet **Modifier la facturation périodique**, sélectionnez **Activé**, **Activé, renouveler une fois**ou **Désactivé**.
+2. Dans l'onglet **Produits**, trouvez l'abonnement que vous voulez gérer, sélectionnez les trois points (plus d'actions), puis sélectionnez **Modifier la facturation récurrente**.
+3. Dans le volet **Modifier la facturation périodique**, sélectionnez **Activé**, **Activé, renouveler une fois** ou **Désactivé**.
 4. Sélectionnez **Enregistrer**.
 
-Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 

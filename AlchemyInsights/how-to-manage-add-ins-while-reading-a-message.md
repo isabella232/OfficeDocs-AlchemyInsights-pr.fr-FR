@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768396"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543998"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Gestion des compléments lors de la lecture d’un message
 
 1. Dans Outlook sur le web, sélectionnez un message.
     
-2. Sélectionnez **Autres actions** en haut du message.
+2. Sélectionnez les trois points (plus d'actions) en haut du message.
 
 3. Accédez au bas de la liste et sélectionnez **Obtenir des compléments**.
     
