@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 6e7f56498326b3fb4038fbb9cdc191ec4692ca65
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: d293eb49f2f8a299feb61b4dfcd9d48011f79c3c
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815675"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569793"
 ---
 # <a name="change-default-domain"></a>Modifier le domaine par défaut
 
@@ -26,7 +26,7 @@ Une fois que vous avez ajouté un domaine personnalisé à l’aide de l’[Assi
 
 - Pour remplacer le domaine par défaut par un domaine existant, sélectionnez le domaine dans la [page Domains (domaines)](https://admin.microsoft.com/Adminportal/Home#/Domains), puis sélectionnez **Définir comme valeur par défaut**.
 
-- Pour modifier le nom de domaine des utilisateurs existants, dans la [page Utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home#/users) sélectionner plusieurs utilisateurs, sélectionnez **...,**, puis **Modifier les domaines**.
+- Pour modifier le nom de domaine des utilisateurs existants, sur la [Page Utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home#/users), sélectionnez plusieurs utilisateurs, puis sélectionnez **Modifier des domaines**.
 
 - Pour modifier le domaine ou ajouter un alias pour un seul utilisateur, dans la [page Utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home#/users) sélectionnez le nom d’utilisateur, puis sélectionnez **gérer les noms d’utilisateur et le courrier**.
 

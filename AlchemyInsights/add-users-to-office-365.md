@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822237"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569685"
 ---
 # <a name="add-a-user"></a>Ajouter un utilisateur
 
-1. Dans le Centre d’administration Microsoft 365, accédez à **Utilisateurs** > [Utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. Dans le Centre d’administration Microsoft 365, accédez à **Utilisateurs** > [Utilisateurs actifs](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
 2. Cliquez sur **Ajouter un utilisateur**.
 
-3. Renseignez les informations de l’utilisateur. Lorsque vous avez terminé, cliquez sur **Fin de l’ajout**.
+3. Suivez les étapes de l’Assistant pour ajouter des informations d’un utilisateur, des licences pProduct, des rôles facultatifs, et des informations de profil.
 
-Pour en savoir plus, consultez l’article [Ajouter des utilisateurs individuellement ou en bloc](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Pour en savoir plus, consultez l’article [Ajouter des utilisateurs individuellement ou en bloc](/microsoft-365/admin/add-users/add-users).
