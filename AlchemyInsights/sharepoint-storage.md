@@ -1,5 +1,5 @@
 ---
-title: Stockage SharePoint
+title: Gérer votre stockage SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773737"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689856"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Gérer votre espace de stockage SharePoint Online
+# <a name="manage-your-sharepoint-online-storage"></a>Gérer votre stockage SharePoint Online
 
-Découvrez comment le [stockage client est calculé](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) en fonction de votre plan.
+Pour la plupart des organisations, SharePoint stockage est géré automatiquement, vous n’avez donc pas besoin de définir de limites par collection de sites. Pour plus d’informations sur le calcul du stockage client en fonction de votre plan, voir [Limites par plan.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
 
-Pour la plupart des organisations, le stockage SharePoint est géré automatiquement, vous n’avez donc pas besoin de définir des limites par collection de sites.
+Pour plus d'informations, voir :
 
-Découvrez comment [afficher l’espace de stockage total et disponible pour votre organisation](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Gérer les limites de stockage](/sharepoint/manage-site-collection-storage-limits)
 
-Découvrez comment [gérer des limites de stockage de collection de sites individuelles](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Gérer les limites de stockage de individuelles](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Si votre site manque d’espace ou si vous souhaitez savoir quelle bibliothèque ou liste utilise l’espace, accédez à la **section paramètres**de  >  **stockage** des paramètres du site (les autorisations d’administrateur de la collection de sites sont requises).
+Si votre site est en dehors de l’espace ou si vous souhaitez savoir quelle bibliothèque ou liste utilise cet espace, allez sur Mesures de Paramètres Stockage du **site**(les autorisations d’administrateur de collection de sites sont  >  **requises).**
 
-Découvrez comment [surveiller les limites de stockage d’un site à l’aide de PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Pour plus d'informations, voir :
 
-Découvrez comment acheter de l' [espace de stockage supplémentaire](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Gérer les limites de stockage d’un site à l’aide de PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Espace de stockage ajouté pour votre abonnement](/microsoft-365/commerce/add-storage-space) 
   

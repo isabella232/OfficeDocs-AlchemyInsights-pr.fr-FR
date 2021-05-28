@@ -1,5 +1,5 @@
 ---
-title: Enregistrement de réunion Teams in find’t
+title: L’enregistrement de la réunion Teams’est pas trouvé
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50257588"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696934"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Can’t Find the Teams Meeting Recording
+# <a name="cant-find-the-teams-meeting-recording"></a>L’enregistrement de la réunion Teams’est pas trouvé
 
-Si vous ne pouvez pas localiser ou trouver un enregistrement de réunion Teams, reportez-vous à la documentation de dépannage suivante :
+Si vous ne trouvez pas d’enregistrement de réunion Teams, exécutez d’abord le diagnostic d’enregistrement de réunion manquant en tapant **Diag :** Enregistrement manquant dans la zone ci-dessus. 
 
-[Résoudre les problèmes d’enregistrement des réunions Teams - Microsoft Teams | Documents Microsoft](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Les enregistrements sont trouvés dans Stream, OneDrive ou SharePoint en fonction de la configuration de votre client et si l’enregistrement était pour une réunion de canal. Pour obtenir des instructions sur la façon de rechercher manuellement l’enregistrement de la réunion, voir : 
 
-Votre enregistrement de réunion sera situé dans Stream, OneDrive ou SharePoint en fonction de la configuration de votre client.
+[Problème 2 : le lien d’enregistrement de la réunion n’est pas visible dans une fenêtre de conversation](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Pour obtenir des instructions sur la recherche de l’enregistrement de réunion, voir :
-
-**[Problème 2 : le lien d’enregistrement de la réunion n’est pas visible dans une fenêtre de conversation](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Pour plus d’informations, voir [Problèmes avec les enregistrements de réunions.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
