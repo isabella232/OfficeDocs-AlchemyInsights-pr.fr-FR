@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426842"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702052"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>Obtenir des informations sur la prise en charge des logiciels assistés Assure et Premium
+# <a name="get-info-about-premium-assisted-software-support"></a>Obtenir des informations sur la prise en charge des logiciels assistés Premium
 
-Microsoft propose plusieurs options personnalisées pour la prise en charge assisté avec les logiciels Windows et Office :
+Microsoft propose des options personnalisées pour la prise en charge assisté avec les logiciels Windows et Office :
 
-- **Prise en charge Assure des logiciels** : un an de prise en charge des logiciels Office et Windows
 - **Support technique Premium Windows** : prise en charge ponctuelle de logiciels Windows
+
 - **Support technique Premium Office** : prise en charge ponctuelle de logiciels Office
 
-Pour plus d’informations, consultez [Options de prise en charge des logiciels assistés : Assure et Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).
-
-Si vous avez déjà acheté un abonnement Assure et que vous avez besoin d’aide, tapez **Parler à un agent** dans la zone de conversation ci-dessous et indiquez au représentant que vous êtes abonné Assure.
+**Remarque :** si vous disposez d’un abonnement Assure existant, n’oubliez pas qu’Assure n’est plus proposé en tant qu’option de support. Votre abonnement actuel reste valide pendant la durée d’achat, mais ne peut pas être renouvelé.
 
