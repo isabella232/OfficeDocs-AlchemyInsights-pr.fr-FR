@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "11443"
 - "100001"
-ms.openlocfilehash: 22777049f38eec4e71fb531b8616c505037f085d
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 1373c134e226031fe6fd7d229faf040d39604b59
+ms.sourcegitcommit: deb9a7ab71ee7a4f3b4219c3488068b48d48d630
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 05/28/2021
-ms.locfileid: "52697083"
+ms.locfileid: "52699188"
 ---
 # <a name="domain-health-status"></a>État d’intégrité du domaine
 
-Vous pouvez vérifier l’état d’intégrité de tous les domaines dans le portail d’administration en accédant à **Paramètres** > **Domaines**.
-Cochez la case en regard d’un seul domaine, puis sélectionnez **Vérifier l’intégrité** pour vérifier la configuration DNS.
+Vous pouvez vérifier l’état d’intégrité de tous les domaines dans le portail d’administration :
+
+1. Accédez à **Paramètres** > [**Domaines**](https://portal.microsoft.com/Adminportal/Home?ref=/Domains).
+1. Cochez la case en regard d’un seul domaine, puis sélectionnez **Vérifier l’intégrité** pour vérifier la configuration DNS.
 
 Pour plus d’informations sur la correction des problèmes DNS, consultez :
 
