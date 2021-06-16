@@ -2,6 +2,7 @@
 title: Configurer Advanced eDiscovery
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795530"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882687"
 ---
 # <a name="set-up-advanced-ediscovery"></a>Configurer Advanced eDiscovery
 
-Advanced eDiscovery vous permet d’analyser vos données non structurées afin de réduire les coûts d’eDiscovery. Vous pouvez appliquer des fonctionnalités d’analyse de texte, d’apprentissage automatique, de pertinence et de codage prédictif.  La fonctionnalité Advanced eDiscovery nécessite l’une des opérations suivantes :
+Avec Advanced eDiscovery; vous pouvez appliquer des fonctionnalités d’analyse de texte, d’apprentissage automatique, de pertinence et de codage prédictif. La fonctionnalité Advanced eDiscovery nécessite l’une des opérations suivantes :
 
 - Abonnement Microsoft 365 E5 ou Office 365 E5
 
@@ -29,7 +30,7 @@ Advanced eDiscovery vous permet d’analyser vos données non structurées afin 
 
 - Abonnement Office 365 E3 avec un composant additionnel de Conformité avancé
 
-Vous trouverez ci-dessous une vue d’ensemble des étapes de configuration et de gestion d’une Advanced eDiscovery :
+Vous trouverez ci-dessous une vue d’ensemble des étapes de configuration et de gestion d’une Advanced eDiscovery :
 
 **1. Vérifier et attribuer des licences appropriées**
 
@@ -39,4 +40,6 @@ Vous trouverez ci-dessous une vue d’ensemble des étapes de configuration et d
 
 **4. Créer un cas d’ Advanced eDiscovery**
 
-Pour plus d’informations sur les étapes nécessaires à la configuration d’Advanced eDiscovery, consulter [Prise en main d’ Advanced eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide)
+Pour plus d’informations sur les étapes nécessaires à la configuration d’Advanced eDiscovery, consulter [Prise en main d’ Advanced eDiscovery.](/microsoft-365/compliance/get-started-with-advanced-ediscovery)
+
+Pour plus d’informations sur la création et la gestion des cas, consultez [Créer et gérer des cas eDiscovery avancés dans Microsoft 365](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case).
