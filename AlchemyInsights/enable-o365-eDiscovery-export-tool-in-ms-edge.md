@@ -1,5 +1,5 @@
 ---
-title: Activer l’outil d’exportation eDiscovery d’Office 365 dans Microsoft Edge
+title: Activer Office 365'outil d’exportation eDiscovery dans Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576392"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023173"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Activer l’outil d’exportation eDiscovery d’Office 365 dans Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Activer Office 365'outil d’exportation eDiscovery dans Microsoft Edge
 
-Par défaut, la prise en charge de ClickOnce n’est plus activée dans Microsoft Edge. Pour continuer à utiliser l’outil d’exportation de découverte électronique Microsoft Office 365, vous devez utiliser Microsoft Internet Explorer ou activer l’option de prise en charge ClickOnce dans Microsoft Edge basée sur le chrome, comme suit :
+La prise en charge de ClickOnce n’est plus activée dans Microsoft Edge par défaut. Pour continuer à utiliser l’outil d’exportation eDiscovery Microsoft Office 365, vous devez utiliser Microsoft Internet Explorer ou activer l’option de support ClickOnce dans Chromium Microsoft Edge, comme suit :
 
-1. Accédez à edge://flags/#edge-cliquez-une seule fois.
-1. **Pour l'** option de **prise en charge ClickOnce** , modifiez la valeur **par défaut** **ou désactivée** .
-1. En bas de la fenêtre du navigateur, cliquez sur **redémarrer**. La modification prend effet après le redémarrage de Microsoft Edge.
+1. Go to edge://flags/#edge-click-once.
+1. Pour **l’option ClickOnce prise en charge,** modifiez la valeur de **Default** ou **Disabled en** **Enabled**.
+1. En bas de la fenêtre du navigateur, cliquez sur **Redémarrer.** La modification prend effet après le redémarrage de Microsoft Edge.
 
-Pour en savoir plus, consultez [la rubrique utiliser l’outil d’exportation EDiscovery Office 365 dans Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Pour en savoir plus, consultez la Office 365'outil d’exportation [eDiscovery dans Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
