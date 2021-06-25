@@ -1,5 +1,5 @@
 ---
-title: Résolution des problèmes d’authentification SMTP
+title: Activer l'authentification et le dépannage SMTP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826413"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077649"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Résolution des problèmes d’authentification SMTP
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>Activer l'authentification et le dépannage SMTP
 
-Si vous rencontrez des erreurs 5.7.57 ou 5.7.3 lorsque vous essayez d’envoyer des courriers électroniques SMTP et de vous authentifier auprès d’un client ou d’une application, il existe quelques points que vous devez vérifier :
+Si vous souhaitez activer l’authentification SMTP pour une boîte aux lettres ou si vous obtenez une erreur « Client non authentifié », « Échec de l’authentification » ou « SmtpClientAuthentication » avec le code 5.7.57 ou 5.7.3 ou 5.7.139 lorsque vous tentez de relayer le courrier en authentifiant un appareil ou une application avec Microsoft 365, effectuez ces trois actions pour résoudre le problème :
 
-- Il est possible que l’envoi SMTP authentifié soit désactivé dans votre client, ou sur la boîte aux lettres que vous essayez d’utiliser (vérifiez les deux paramètres). Pour en savoir plus, voir [Activer ou désactiver l’envoi SMTP du client authentifié](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).
+1. Désactivez [les valeurs par défaut de la sécurité d 'Azure](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)en mettant l'option **Activer les valeurs par défaut** de la sécurité sur **Non**.
 
-- Vérifiez si les [Valeurs par défaut d’Azure Security](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) sont activées pour votre client. Si l’option est activée, l’authentification SMTP à l’aide de l’authentification de base (également connue sous le nom de héritage ; celle-ci utilisera un nom d’utilisateur et un mot de passe) échouera.
+    a. Connectez-vous au portail Azure en tant qu'administrateur de sécurité, administrateur d'accès conditionnel ou administrateur global.<BR/>
+    b. Naviguez jusqu'à Azure Active Directory >  **Propriétés**.<BR/>
+    c. Sélectionnez **Gérer les paramètres de sécurité par défaut**.<BR/>
+    d. Définir **l'activation de la sécurité par défaut** sur **Non**.<BR/>
+    e. Sélectionnez **Enregistrer**.
+
+2. [Activez la soumission SMTP du client](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) sur la boîte aux lettres sous licence.
+
+    a. Dans le centre d'administration de Microsoft 365, accédez à **Utilisateurs actifs** , puis sélectionnez l'utilisateur.<BR/>
+    b. Allez dans l'onglet Courrier, et sous **Applications de messagerie**, sélectionnez **Gérer les applications** de messagerie.<BR/>
+    d. Assurez-vous que la case **Authenticated SMTP** est cochée (activée).<BR/>
+    e. Sélectionnez **Enregistrer les modifications**.<BR/>
+
+3. [Désactiver l'authentification multifactorielle (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) sur la boîte aux lettres sous licence.
+
+    a. Allez dans le centre d'administration de Microsoft 365, et dans le menu de navigation de gauche, sélectionnez **Utilisateurs** > **Utilisateurs actifs**.<BR/>
+    b. Sélectionnez **Authentification multifactorielle**.<BR/>
+    c. Sélectionnez l'utilisateur et désactivez **l'authentification multifactorielle**.<BR/>
