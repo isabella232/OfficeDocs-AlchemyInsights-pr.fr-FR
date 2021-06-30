@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544828"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195518"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Recevez-vous trop de courriers de hameçonnage ou de courrier indésirable dans votre boîte aux lettres ?
 
@@ -24,6 +24,10 @@ ms.locfileid: "52544828"
 
 En tant qu’administrateur Microsoft 365, la meilleure façon de déterminer pourquoi un message de hameçonnage ou de courrier indésirable a été remis consiste à soumettre l’exemple à Microsoft dans l’Explorateur de [soumissions.](https://security.microsoft.com/reportsubmission) Vous recevrez des commentaires immédiats relatifs au filtrage des messages et à la raison des problèmes.
 
-Pour faciliter l’accès, vous pouvez permettre à vos utilisateurs de signaler directement à Microsoft via le [add-in Signaler un message.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+Pour faciliter l’accès, vous pouvez autoriser vos utilisateurs à signaler directement à Microsoft via le [add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)Signaler un message.
 
 **Vous le savez ?**: vous pouvez [](https://security.microsoft.com/messagetrace) maintenant envoyer des exemples directement à partir du suivi des messages et E5/Microsoft Defender pour Office 365 Les clients plan 2 peuvent envoyer des exemples à partir de l’Explorateur de [menaces.](/microsoft-365/security/office-365-security/threat-explorer)
+
+Pour en savoir plus sur l’envoi de messages pour analyse dans le portail Microsoft 365 Defender, voir la vidéo Soumission [d’exemples pour analyse.](https://go.microsoft.com/fwlink/?linkid=2166435)
+
+Pour en savoir plus sur l’étude des faux négatifs dans Microsoft Defender pour Office 365, voir la vidéo Stratégie faux [négatifs.](https://go.microsoft.com/fwlink/?linkid=2166434)

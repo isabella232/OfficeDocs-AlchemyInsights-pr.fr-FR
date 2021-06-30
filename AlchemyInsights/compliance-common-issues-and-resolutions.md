@@ -12,29 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: b6d2ff60548cfb578b30890cba069f67515e9c05
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470201"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195482"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Problèmes courants et résolution des problèmes liés à la conformité
 
-Pour obtenir de l’aide sur l’affichage des alertes, voir l' [alertes dans le Centre de sécurité et conformité](/microsoft-365/compliance/alert-policies.md).
+Pour obtenir de l’aide sur l’affichage des alertes, voir l' [alertes dans le Centre de sécurité et conformité](/microsoft-365/compliance/alert-policies).
 
-Voici quelques rubriques fréquemment demandées pour la conformité :
+Voici quelques rubriques fréquemment demandées pour la conformité :
 
-- Configuration d’une archive et messages non migrés automatiquement vers l’archive : vous devez [Activer une archive, configurer une stratégie d’archivage](/microsoft-365/compliance/enable-archive-mailboxes.md)et [Augmenter la taille de l’archive](/microsoft-365/compliance/enable-unlimited-archiving.md).
+- Configuration d’une archive et messages non migrés automatiquement vers l’archive : vous devez [Activer une archive, configurer une stratégie d’archivage](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)et [Augmenter la taille de l’archive](/microsoft-365/compliance/enable-unlimited-archiving).
 
-- Stratégies de rétention : questions relatives au [Calcul de l’âge de rétention](/exchange/security-and-compliance/messaging-records-management/retention-age.md), [Ajouter ou supprimer des étiquettes de rétention](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md), [Utilisant les stratégies de rétention dans le centre de sécurité et conformité](/microsoft-365/compliance/retention-policies.md) pour conserver ou supprimer du contenu.
+- Stratégies de rétention : questions relatives au [Calcul de l’âge de rétention](/exchange/security-and-compliance/messaging-records-management/retention-age), [Ajouter ou supprimer des étiquettes de rétention](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [Utilisant les stratégies de rétention dans le centre de sécurité et conformité](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) pour conserver ou supprimer du contenu.
 
-- Configurer la découverte électronique et les recherches de contenu et exporter : [Recherche de contenu](/microsoft-365/compliance/search-for-content.md) et [Exporter des résultats de recherche](/microsoft-365/compliance/export-search-results.md).
+- Configurer la découverte électronique et les recherches de contenu et exporter : [Recherche de contenu](/microsoft-365/compliance/content-search) et [Exporter des résultats de recherche](/microsoft-365/compliance/export-search-results).
 
-- Audit dans Office 365 : [Journal d’audit de recherche dans Office 365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
+- Audit dans Office 365 : [Journal d’audit de recherche dans Office 365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Protection contre la perte de données (DLP) : pour plus d’informations, consultez[Vue d’ensemble de la protection contre la perte de données (DLP)](/microsoft-365/compliance/data-loss-prevention-policies.md).
+- Protection contre la perte de données (DLP) : pour plus d’informations, consultez[Vue d’ensemble de la protection contre la perte de données (DLP)](/microsoft-365/compliance/data-loss-prevention-policies).
  
-- Étiquettes de confidentialité : pour en savoir plus, voir [Créer et configurer des étiquettes de confidentialité et leurs stratégies](/microsoft-365/compliance/create-sensitivity-labels.md).
+- Étiquettes de confidentialité : pour en savoir plus, voir [Créer et configurer des étiquettes de confidentialité et leurs stratégies](/microsoft-365/compliance/create-sensitivity-labels).
+
+- Affichage des stratégies d’alerte : consultez [Stratégies d’alerte dans le Centre de conformité Microsoft 365](/microsoft-365/compliance/alert-policies).
+
+- Autorisations du centre de conformité : consultez [Autorisations dans le Centre de conformité Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Remarque**: pour obtenir une réponse plus précise sur un problème de conformité, reformulez brièvement votre question et incluez les erreurs que vous rencontrez ou celles que vous utilisez.
