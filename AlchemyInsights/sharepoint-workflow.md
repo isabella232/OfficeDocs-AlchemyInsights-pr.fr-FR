@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800246"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586932"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Résoudre les problèmes de flux de travail dans SharePoint
 
-**Dépanner et déboguer des flux de travail dans SharePoint**
+**Résoudre les problèmes et déboguer les flux de travail dans SharePoint**
 
-Voir [résoudre les erreurs de validation de flux de travail SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) et [déboguer les flux de travail SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Pour plus d’informations, voir :
+
+- [Résoudre les erreurs SharePoint de validation de flux de travail](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Débogage SharePoint flux de travail.](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- [Collecter SharePoint données de dépannage du flux de travail 2013 avec ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-Si vous prenez en main des flux de travail, envisagez [d’utiliser Power automate](https://docs.microsoft.com/power-automate/modern-approvals) à la place des solutions de flux de travail SharePoint classiques.
+Si vous débutez avec des flux de travail, envisagez d’utiliser [Power Automate](/power-automate/modern-approvals) plutôt que les solutions de flux de travail SharePoint classiques.
 
-Pour plus d’informations, reportez-vous à [flux de travail SharePoint en retraite](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Pour plus d’informations, [voir SharePoint flux de travail en cours de retrait.](/alchemyinsights/sharepoint-workflows-retiring)
