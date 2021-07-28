@@ -15,20 +15,18 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
-ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
+ms.openlocfilehash: 14680a039068688e0740ba2a7dee5c168d03d9d2
+ms.sourcegitcommit: 380ee556007d2be389b1a99795bca04bc1f9f60f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53586932"
+ms.lasthandoff: 07/27/2021
+ms.locfileid: "53604883"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Résoudre les problèmes de flux de travail dans SharePoint
 
-**Résoudre les problèmes et déboguer les flux de travail dans SharePoint**
-
 Pour plus d’informations, voir :
 
-- [Résoudre les erreurs SharePoint de validation de flux de travail](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Résoudre les erreurs SharePoint validation de flux de travail](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
 - [Débogage SharePoint flux de travail.](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
 - [Collecter SharePoint données de dépannage du flux de travail 2013 avec ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
