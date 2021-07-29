@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779049"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630175"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifier l’activité des règles de boîte de réception dans les journaux d’audit
 
-Vous pouvez utiliser la recherche dans le journal d’audit du centre de sécurité & de Microsoft 365 pour afficher les événements de règles de boîte de réception (création, modification et suppression de règles de boîte de réception).
+Vous pouvez utiliser la recherche dans le journal d’audit dans le Centre de sécurité & conformité Microsoft 365 pour afficher les événements de règle de boîte de réception (création, modification et suppression de règles de boîte de réception).
 
-1. Connectez-vous au [Centre de conformité & Microsoft 365 Security](https://protection.office.com/).
+1. Connectez-vous au [Centre Microsoft 365 conformité.](https://protection.office.com/)
 
-2. Accédez à la **Search**  >  page de**recherche du journal d’audit** de la recherche.
+2. Go to the **Search**  >  **Audit log search** page.
 
-3. Sélectionnez la plage de dates dans les champs **Date de début** et **Date de fin** .
+3. Sélectionnez la plage de dates dans les champs **Date de** début et **Date de** fin.
 
-4. Sous **activités de boîte aux lettres Exchange**, vérifiez que le champ **activités** est défini sur **nouveau-InboxRule créer/modifier/activer/désactiver la règle de boîte de réception**.
+4. Sous **Exchange activités** de boîte aux  lettres, vérifiez que le champ Activités est définie sur La règle de boîte de réception **Créer/modifier/activer/désactiver la boîte de réception New-InboxRule.**
 
 5. Cliquez sur **Rechercher**.
 
-Dans les résultats, sélectionnez un enregistrement d’audit. Dans la fenêtre mobile des détails, cliquez sur **informations supplémentaires**. Les informations sur les paramètres des règles de boîte de réception sont affichées dans le champ **paramètres** .
+Dans les résultats, sélectionnez un enregistrement d’audit. Dans le volant de détails, cliquez sur **Plus d’informations.** Les informations sur les paramètres de règle de boîte de réception sont affichées dans **le champ Paramètres.**
 
-Pour plus d’informations, consultez [la rubrique déterminer si un utilisateur a créé une règle de boîte de réception](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Pour plus d’informations, voir [Déterminer si un utilisateur a créé une règle de boîte de réception](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

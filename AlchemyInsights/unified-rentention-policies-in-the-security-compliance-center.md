@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669209"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630139"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Stratégies de rétention unifiées dans le Centre de sécurité et de conformité
 
@@ -26,11 +26,11 @@ Les stratégies de rétention vous permettent de gérer le contenu de votre orga
 
 1. Dans le [Centre de sécurité et conformité](https://go.microsoft.com/fwlink/p/?linkid=2077143), sélectionnez **Gouvernance de l'information** > **Rétention** > **+Créer**. <br/>
     Dans le [Centre de conformité Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149), sélectionnez **Stratégies** > **Données > Rétention > + Nouvelle stratégie de rétention.**
-2. Ajoutez **Nom**, **Paramètres**et **Choisir des emplacements**.
+2. Ajoutez **Nom**, **Paramètres** et **Choisir des emplacements**.
 3. Vérifiez vos paramètres, puis sélectionnez **Créer cette stratégie** ou **Enregistrer pour plus tard**.  
       
 Pour plus d’informations sur les stratégies de rétention pour le contenu tel que la messagerie Exchange, OneDrive, SharePoint et le contenu Teams, consultez [Vue d’ensemble des stratégies de rétention](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Si vous utilisez des stratégies de rétention côte à côte dans le Centre d’administration Exchange et le Centre de sécurité et conformité, consultez cette recommandation pour [Utiliser une stratégie de rétention au lieu d’anciennes fonctionnalités](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Si vous utilisez des stratégies de rétention côte à côte dans le Centre d’administration Exchange et le Centre de sécurité et conformité, consultez cette recommandation pour [Utiliser une stratégie de rétention au lieu d’anciennes fonctionnalités](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Pour plus d’informations sur la rétention Teams, consultez [Stratégies de rétention dans Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Pour plus d’informations sur la rétention Teams, consultez [Stratégies de rétention dans Teams](/microsoftteams/retention-policies).
