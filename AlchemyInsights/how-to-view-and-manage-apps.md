@@ -1,8 +1,9 @@
 ---
-title: Procédure d’affichage et de gestion des applications
+title: Comment afficher et gérer des applications
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 1ee6d1a6bacdaa95054e8a7c98f11543ccae6c41
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 0789275d75bf611e2bda31ff16eafa730836fb54
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489095"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686560"
 ---
-# <a name="how-to-view-and-manage-apps"></a>Procédure d’affichage et de gestion des applications
+# <a name="how-to-view-and-manage-apps"></a>Comment afficher et gérer des applications
 
-Vous pouvez afficher vos applications dans le centre d’administration Microsoft 365.
+Vous pouvez afficher vos applications dans le Centre d’administration Microsoft 365.
 
 1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Sur l’onglet **produits** , faites défiler jusqu’à la section **applications** .
+2. Sous **l’onglet Produits,** faites défiler vers le bas **jusqu’à la** section Applications.
 3. Pour gérer une application, sélectionnez celle que vous souhaitez gérer.

@@ -3,25 +3,28 @@ title: Changer votre mode de paiement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601137"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685300"
 ---
 # <a name="change-payment-method"></a>Changer votre mode de paiement
 
-Vous pouvez modifier le mode de paiement à partir du **Centre d’administration Microsoft 365.**
+Vous pouvez modifier le mode de paiement à partir du **Centre d’administration Microsoft 365**.
   
 1. Dans le Centre d’administration, accédez à la page **Facturation** > **Factures et paiements** > [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Sélectionnez la ligne du mode de paiement à changer. Le volet droit répertorie tous les profils de facturation et les abonnements individuels qui utilisent le moyen de paiement sélectionné.
@@ -33,6 +36,6 @@ Vous pouvez modifier le mode de paiement à partir du **Centre d’administratio
 6. Dans le volet **Ajouter un mode de paiement**, entrez les informations de compte, puis sélectionnez **Enregistrer**. Vous devez utiliser un mode de paiement provenant du même pays que celui de votre client.
 7. Le nouveau mode de paiement est déjà sélectionné dans la liste déroulante. Sélectionnez **Remplacer**.
 
-Pour découvrir comment ajouter, mettre à jour, remplacer ou supprimer des modes de paiement, voir Gérer les [modes de paiement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Pour découvrir comment ajouter, mettre à jour, remplacer ou supprimer des modes de paiement, voir Gérer les [modes de paiement.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Pour savoir comment changer d’un mode de paiement à l’autre, voir [comment payer votre abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Pour savoir comment changer d’un mode de paiement à l’autre, voir [comment payer votre abonnement.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

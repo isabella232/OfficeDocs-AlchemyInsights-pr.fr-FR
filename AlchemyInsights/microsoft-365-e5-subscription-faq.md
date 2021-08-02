@@ -1,8 +1,9 @@
 ---
-title: Forum aux questions sur l’abonnement Microsoft 365 E5
+title: Forum aux questions sur l’abonnement Microsoft 365 E5
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,19 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002658"
 - "5183"
-ms.openlocfilehash: 6627a9887ac61874c59c2476834a136e6a7b6dd1
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 5ea198b013721d96f985f40830731f71dc4b3700
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602434"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688000"
 ---
-# <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Forum aux questions sur l’abonnement Microsoft 365 E5 et la gestion des licences
+# <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Forum aux questions sur l’abonnement Microsoft 365 E5 et la gestion des licences
 
-- Pour comparer Microsoft 365 E1, E3, E5, consultez[Comparer les offres Office 365 Entreprise](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans).
-- Pour **acheter** E5, accédez à **Facturation > [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Utilisez la zone de recherche pour effectuer une recherche sur « E5 », sélectionnez le forfait et le nombre d’utilisateurs. [Acheter un autre abonnement](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Pour comparer Microsoft 365 E1, E3, E5, consultez[Comparer les offres Office 365 Entreprise](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans).
+- Pour **acheter** E5, accédez à **Facturation > [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Utilisez la zone de recherche pour effectuer une recherche sur « E5 », sélectionnez le forfait et le nombre d’utilisateurs. [Acheter un autre abonnement](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Pour **changer de plan**, consultez [Mise à niveau vers une autre plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Pour **affecter** des licences E5 aux utilisateurs, accédez à **Facturation > [Licences](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Si vous souhaitez obtenir plus d’informations, consultez [Attribuer des licences aux utilisateurs](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Pour **Acheter ou supprimer** des licences E5, accédez à **Facturation > [vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Pour plus d’informations, consultez [Acheter ou supprimer des licences](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

@@ -3,6 +3,8 @@ title: Renouvellement prépayé
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,16 +12,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: d3d1a3229de8a69d9f8a48f2618b13528e7a5a93
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 63f28eb536d965dde1e6cb381632a460a02f7279
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602326"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686164"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Renouvellement Prépayé de Microsoft 365
+# <a name="prepaid-microsoft-365-renewal"></a>Renouvellement du Microsoft 365 prépayé
 
 1. Dans le centre d’administration, accédez à la page **Facturation** \> **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Sous **l’onglet** Produits, sélectionnez l’abonnement que vous souhaitez étendre.
@@ -30,4 +33,4 @@ ms.locfileid: "50602326"
     > Si vous avez plusieurs clés de produit, vous pouvez sélectionner **Ajouter une autre clé de produit** pour les entrer.
 6. Examinez les détails de votre commande, puis sélectionnez **Échanger.**
 
-Pour plus d’informations, voir Ajouter des licences à un abonnement payant ou le prolonger [pour l’utilisation d’une clé de produit.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)
+Pour plus d’informations, voir Ajouter des licences à un abonnement payant ou le prolonger [pour l’utilisation d’une clé de produit.](/microsoft-365/commerce/licenses/add-licenses-using-product-key)

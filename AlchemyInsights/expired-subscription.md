@@ -3,6 +3,7 @@ title: Abonnement expiré
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544180"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686776"
 ---
 # <a name="expired-subscription"></a>Abonnement expiré
 
@@ -27,7 +29,7 @@ Il semble que vous avez un ou plusieurs abonnements expirés. Si vous souhaitez 
 **Réactiver**
   
 1. Dans le centre d’administration, accédez à la page **Facturation** \> [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Sur la page **Produits**, recherchez l’abonnement que vous souhaitez réactiver. Sélectionnez les trois points (plus d’actions), puis **sélectionnez Réactiver cet abonnement.**
+2. Dans l'onglet **Produits**, trouvez l'abonnement que vous souhaitez réactiver. Sélectionnez les trois points (autres actions), puis sélectionnez **Réactiver cet abonnement**.
     > [!NOTE]
     > Si vous ne voyez pas réactiver cet **abonnement,** appelez le support technique.
 3. Dans le volet **Réactiver cet abonnement** , sélectionnez un mode de paiement dans la liste déroulante, ou sélectionnez **Ajouter un mode de paiement**.

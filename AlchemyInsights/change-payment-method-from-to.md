@@ -3,26 +3,29 @@ title: Changer votre mode de paiement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 7651ca75cc954e222b45fe1172554de0174fb4e0
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: b32e4e99e576a2aa118fa6a5f5b968c30709ea8b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601380"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685336"
 ---
 # <a name="change-payment-method-fromto"></a>Changer votre mode de paiement de/à
 
 1. **Passer du mode de paiement par facture au mode de paiement par carte bancaire ou compte bancaire**
 
-    - Vous ne pouvez pas passer automatiquement du mode de paiement par facturation à un autre mode de paiement. Au lieu de cela, vous devez [Acheter un autre abonnement](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) payé par carte de crédit, carte de débit, ou compte bancaire, [Passer tous les utilisateurs au nouvel abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), puis [Annuler l’ancien abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Vous ne pouvez pas passer automatiquement du mode de paiement par facturation à un autre mode de paiement. Au lieu de cela, vous devez [Acheter un autre abonnement](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) payé par carte de crédit, carte de débit, ou compte bancaire, [Passer tous les utilisateurs au nouvel abonnement](/microsoft-365/commerce/subscriptions/move-users-different-subscription), puis [Annuler l’ancien abonnement](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Passer du mode de paiement par carte bancaire ou compte bancaire au mode de paiement par facture**
 
@@ -32,4 +35,4 @@ ms.locfileid: "50601380"
 
     - Suivez les étapes de [Passer du paiement par carte de crédit au paiement par facture](how-do-i-change-from-credit-card-payments-to-invoice.md) pour effectuer la modification manuelle.
 
-Pour plus d’informations, consultez [Payer un abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Pour plus d’informations, consultez [Payer un abonnement](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
