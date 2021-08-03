@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801445"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688324"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Porter les numéros existants vers Teams
 
-Si vous disposez actuellement d’un fournisseur de services téléphoniques ou d’un opérateur et que vous avez déjà des numéros de téléphone pour vos utilisateurs ou services, vous devez créer un « ordre des ports » pour transférer ces numéros de téléphone à Microsoft Teams.
+Si vous disposez actuellement d’un fournisseur de services téléphoniques ou d’un opérateur et que vous avez déjà des numéros de téléphone pour vos utilisateurs ou services, vous devez créer un « ordre des ports » pour transférer ces numéros de téléphone à Microsoft Teams.  
 
-- Pour plus d’informations sur la façon d’achever le port, voir [Transférer des numéros de téléphone aux Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Pour créer une nouvelle demande de transfert ou pour vérifier une commande existante, procédez comme il suit : 
 
-- Pour plus d’informations sur la gestion des numéros de téléphone, voir [Gérer les numéros de téléphone de votre organisation](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Accédez au [Centre d’administration Teams](https://admin.teams.microsoft.com/phone-numbers) pour ouvrir la page Numéros de téléphone. 
 
-Pour plus d’informations, voir [vue d’ensemble de l’ordre des ports](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview). 
+1. Sélectionnez **Obtenir le lien d'assistance par numéro de téléphone**. 
+
+Pour accéder directement à l'assistance relative aux numéros de téléphone, consultez le [Centre de service des numéros de téléphone](https://pstnsd.powerappsportals.com/).  

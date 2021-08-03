@@ -13,25 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
-ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
+ms.openlocfilehash: e164efdd5b1dec329179496f89f95867be7666d1
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798642"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687496"
 ---
 # <a name="manage-webinar-registration"></a>Gérer l’inscription au webinaire
 
-Vous pouvez gérer qui peut s’inscrire aux webinaires Teams à l’aide des commandes Teams PowerShell. Pour installer Teams PowerShell, consultez [Teams PowerShell](/microsoftteams/teams-powershell-install). 
+L'inscription au webinaire est activée par défaut. Si vous souhaitez désactiver l'inscription aux réunions, vous pouvez utiliser le centre d'administration Teams : 
 
-Par défaut, *WhoCanRegister* est activé et défini sur **Tout le monde**. 
+1. Accédez au [Centre d’administration Teams](https://admin.teams.microsoft.com/policies/meetings) 
 
-Si vous ne voyez pas l’option permettant d’autoriser l’inscription à Tout le monde dans l’invitation à la réunion, réexécutez le paramètre *WhoCanRegister* à Tout le monde et attendez 24 heures. Pour réexécuter *WhoCanRegister*, utilisez la commande PowerShell :
+2. Sélectionnez la stratégie **Globale (par défaut à l'échelle de l'organisation)** ou une autre stratégie spécifique. 
 
-`Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
+3. Sous **Général**, définissez **Autoriser l’inscription aux réunions** sur **Désactivé**. 
 
-**Remarque**: si la participation anonyme est désactivée dans les paramètres de réunion, les utilisateurs anonymes ne peuvent pas participer aux webinaires. Pour en savoir plus et activer ce paramètre, consultez [Gérer les paramètres de réunion dans Microsoft Teams](/microsoftteams/meeting-settings-in-teams).
+Lorsque l'inscription à la réunion est définie sur **Activé**, vous pouvez également gérer les personnes qui s'inscrivent aux webinaires Teams à l'aide du centre d'administration Teams : 
 
-Si vous souhaitez désactiver l’inscription à la réunion, définissez *AllowMeetingRegistration* sur **False**.
+1. Accédez au [Centre d’administration Teams](https://admin.teams.microsoft.com/policies/meetings) 
 
-Pour en savoir plus sur la configuration de qui peut s’inscrire aux webinaires, consultez [Configurer qui peut s’inscrire aux webinaires](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Pour plus d’informations sur les paramètres des listes Microsoft, consultez [Paramètres de contrôle pour Listes Microsoft](/sharepoint/control-lists).
+2. Sélectionnez la stratégie **Globale (par défaut à l'échelle de l'organisation)** ou une autre stratégie spécifique. 
+
+3. Sous **Général**, accédez au paramètre **Qui peut s’inscrire** et sélectionnez **Tout le monde** ou **Tout le monde dans l’entreprise**. 
+
+**Remarque**: si la participation anonyme est désactivée dans les paramètres de réunion, les utilisateurs anonymes ne peuvent pas participer aux webinaires. Pour en savoir plus et activer ce paramètre, consultez  [Gérer les paramètres de réunion dans Microsoft Teams](/microsoftteams/meeting-settings-in-teams). 
+
+Pour en savoir plus sur la configuration des personnes autorisées à s’inscrire aux webinaires et sur la gestion de ces stratégies à l’aide de Teams PowerShell, consultez [Configurer qui peut s’inscrire aux webinaires](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Pour plus d’informations sur les paramètres des listes Microsoft, consultez  [Paramètres de contrôle pour les Listes Microsoft](/sharepoint/control-lists). 
+
+ 
