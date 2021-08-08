@@ -13,22 +13,22 @@ ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 6172168af77a72a362318bb9d411646a718f2477
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9fcb8b39e2debf8e312a24242c47bfe4b4c5d53488d09cd5ad33d54ae109b10b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006420"
 ---
 # <a name="check-in-several-files-at-once"></a>Archiver plusieurs fichiers à la fois
 
-L’archivage et l’extraction de fichiers dans une bibliothèque SharePoint constituent un excellent moyen de suivre et de contrôler la mise à jour du contenu. Si vous souhaitez apporter des modifications à un fichier sur un site et que personne d’autre ne puisse le modifier, extrayez le fichier. Lorsque le fichier est extrait, vous pouvez le modifier en ligne ou hors connexion, puis l’enregistrer plusieurs fois, si nécessaire.
+L’enregistrement de fichiers dans une bibliothèque SharePoint est un excellent moyen de suivre et de contrôler la façon dont le contenu est mis à jour. Si vous souhaitez apporter des modifications à un fichier sur un site et que vous voulez vous assurer que personne d’autre ne peut le modifier, consultez le fichier. Une fois le fichier extrait, vous pouvez le modifier en ligne ou hors connexion et l’enregistrer plusieurs fois, si nécessaire.
 
-Vous trouverez ci-dessous des liens utiles concernant cette fonctionnalité.
+Voici quelques liens utiles concernant cette fonctionnalité.
 
-- [Comment extraire, archiver ou ignorer les modifications apportées aux fichiers](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Comment extraire, archiver ou annuler les modifications apportées aux fichiers](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [Principales questions sur l'extraction, l'archivage et les versions](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [Principales questions sur l’extraction, l’archivage et les versions](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
 - [Archiver plusieurs fichiers à la fois](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 

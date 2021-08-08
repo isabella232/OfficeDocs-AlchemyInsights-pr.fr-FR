@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908672"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Résolution d'une erreur dans le Presse-papiers Excel
+# <a name="resolving-excel-clipboard-error"></a>Résolution d’Excel d’erreur dans le Presse-papiers
 
-Si vous recevez dans Excel une erreur qui indique « Il y a un problème avec le Presse-papiers, mais vous pouvez toujours coller votre contenu dans ce workbook », essayez de désactiver la fonctionnalité Live Preview en suivant les étapes ci-après :
+Si vous recevez une erreur dans Excel qui indique « Il y a un problème avec le Presse-papiers, mais vous pouvez toujours coller votre contenu dans ce workbook », essayez de désactiver la fonctionnalité Live Preview en suivant les étapes suivantes :
 
 1. Dans Excel, cliquez sur  >  **Options de fichier.**
-3. Dans la **boîte de dialogue Options Excel,** sélectionnez **Général**.
-4. Sous les **options de l'interface utilisateur,** effacer **Activer l'aperçu en direct.**
+3. Dans la **boîte Excel Options** d’personnalisation, sélectionnez **Général.**
+4. Sous options **de l’interface utilisateur,** effacer **Activer l’aperçu en direct.**
 5. Cliquez sur **OK**.
 6. Redémarrez Excel.

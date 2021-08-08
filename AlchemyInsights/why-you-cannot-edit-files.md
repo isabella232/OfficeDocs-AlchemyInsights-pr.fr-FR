@@ -14,22 +14,22 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907808"
 ---
-# <a name="why-cant-i-edit-files"></a>Pourquoi ne puis-je pas modifier les fichiers ?
+# <a name="why-cant-i-edit-files"></a>Pourquoi ne puis-je pas modifier des fichiers ?
 
 Découvrez rapidement quelques-unes des raisons [pour lesquelles vous ne parvenez pas à modifier le fichier](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Si vous avez des bibliothèques avec des colonnes de **validation** , des colonnes **obligatoires** ou des métadonnées ou des métadonnées, ou lorsque la sécurité d’un **élément de brouillon** est définie sur **uniquement les utilisateurs pouvant modifier** ou **uniquement les utilisateurs pouvant approuver des éléments** dans les paramètres de version de la bibliothèque :
+Si vous avez des bibliothèques  avec **checkout,** des  colonnes ou des  métadonnées obligatoires ou de **validation,** ou lorsque la sécurité des éléments de brouillon est définie sur Uniquement les utilisateurs qui peuvent modifier ou uniquement les utilisateurs qui peuvent approuver des éléments dans la version Paramètres de la bibliothèque :
 
-- Pour les bibliothèques de documents SharePoint, ces éléments sont synchronisés en lecture seule.
+- Pour SharePoint bibliothèques de documents, ces éléments sont synchronisés en lecture seule.
 
-- Pour les bibliothèques OneDrive, OneDrive affiche une icône de verrou (icône de fichier OneDrive verrouillé) en regard de l’état de synchronisation et l’utilisateur ne peut pas synchroniser la bibliothèque tant que les paramètres mentionnés n’ont pas été supprimés. 
+- Pour les bibliothèques OneDrive, OneDrive affiche une icône de verrouillage (icône verrouillée de fichier OneDrive) à côté de l’état de synchronisation et l’utilisateur ne peut pas synchroniser la bibliothèque tant que les paramètres mentionnés n’ont pas été supprimés. 
 
 Pour plus d’informations sur les fichiers verrouillés pour Word ou Excel, consultez les articles ci-dessous.
 
