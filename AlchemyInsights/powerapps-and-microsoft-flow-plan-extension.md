@@ -1,5 +1,5 @@
 ---
-title: 1575-extension du plan de gestion des flux pour les PowerApp et Microsoft
+title: 1575-PowerApps et extension Microsoft Flow plan
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960437"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Extension du plan de gestion des offres PowerApp et Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Extension powerApps et Microsoft Flow plan
 
-Si vous avez l’intention de demander une extension de plan pour **Microsoft Flow** ou **powerapps** et que votre client a déjà des utilisateurs actifs de l’une des fonctionnalités suivantes, il n’est pas nécessaire de classer une demande de support technique.
+Si vous avez l’intention de demander une extension de plan pour **Microsoft Flow** ou **PowerApps** et que votre client dispose déjà d’utilisateurs actifs de l’une des fonctionnalités suivantes, il n’est pas nécessaire de déposer une demande de support.
 
-- Création et publication de connecteurs personnalisés dans les PowerApp et Microsoft Flow
-- Actions personnalisées HTTP intégrées en transit à l’extérieur de SharePoint et OneDrive
-- Intégration de données locales via la passerelle de données locale
+- Création et publication de connecteurs personnalisés dans PowerApps et Microsoft Flow
+- Actions personnalisées HTTP intégrées dans Flow externes SharePoint et OneDrive
+- Intégration des données locales via la passerelle de données locale
 
-Les clients avec des utilisateurs actifs de ces fonctionnalités recevront une extension automatique jusqu’au 31 janvier 2020, ou l’expiration de leur délai d’abonnement Microsoft 365 existant, en fonction de la plus longue.
+Les clients ayant des utilisateurs actifs de ces fonctionnalités disposeront d’une extension automatique jusqu’au 31 janvier 2020 ou de l’expiration de leur abonnement Microsoft 365 existant, selon la période la plus longue.

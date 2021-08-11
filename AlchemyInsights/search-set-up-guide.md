@@ -1,5 +1,5 @@
 ---
-title: Commencer à utiliser Microsoft Search (recherche Microsoft) à l’aide du guide de mise en place
+title: Prendre en Recherche Microsoft à l’aide du guide de mise en place
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003287"
 - "11208"
-ms.openlocfilehash: 3f90f2d2f20756643d72a5a3086fe9e94d9eaf19
-ms.sourcegitcommit: e7b6827015e05fb3280b153605498bfae7d09c7c
+ms.openlocfilehash: 3c401cd3c0bb7b5838b416513c0d0ee6d3846eb9a2e5a18fca8f8b782fda6098
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52325520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943157"
 ---
-# <a name="get-started-with-microsoft-search-using-the-set-up-guide"></a>Commencer à utiliser Microsoft Search (recherche Microsoft) à l’aide du guide de mise en place
+# <a name="get-started-with-microsoft-search-using-the-set-up-guide"></a>Prendre en Recherche Microsoft à l’aide du guide de mise en place
 
-Microsoft Search (recherche Microsoft) fournit une interface conviviale pour rechercher et rechercher des résultats dans Microsoft 365 services et applications de votre organisation. Microsoft Search (recherche Microsoft) est inclus dans votre abonnement Microsoft 365 éligible sans frais supplémentaires. 
+Recherche Microsoft fournit une interface conviviale pour rechercher et rechercher des résultats dans Microsoft 365 services et applications de votre organisation. Recherche Microsoft est inclus dans votre abonnement Microsoft 365 éligible sans frais supplémentaires. 
 
-Utilisez le guide de configuration de Microsoft Search (recherche [Microsoft)](https://go.microsoft.com/fwlink/?linkid=2156919) pour configurer si vous souhaitez piloter la recherche à un groupe d’utilisateurs ou le déployer à tous les membres de votre organisation. Vous allez affecter des administrateurs de recherche et des éditeurs de recherche et personnaliser l’expérience de recherche pour vos utilisateurs avec des réponses et des options supplémentaires, telles que l’ajout de l’extension Bing à Chrome ou la définition de Bing comme moteur de recherche par défaut.
+Utilisez le [Recherche Microsoft pour](https://go.microsoft.com/fwlink/?linkid=2156919) configurer si vous souhaitez piloter la recherche pour un groupe d’utilisateurs ou la déployer à tous les membres de votre organisation. Vous allez affecter des administrateurs de recherche et des éditeurs de recherche et personnaliser l’expérience de recherche pour vos utilisateurs avec des réponses et des options supplémentaires, telles que l’ajout de l’extension Bing à Chrome ou la définition de Bing comme moteur de recherche par défaut.

@@ -1,5 +1,5 @@
 ---
-title: Erreur Outlook impossible de démarrer Microsoft Outlook
+title: Outlook’erreur ne peut pas démarrer Microsoft Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,17 +13,17 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: c542acf753cc684afcbb02c9e11fdf509bd419f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22c3c21d9a361712e84dd75123ded376a81756989ad1d7ec5aa573e0046c04b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933643"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Erreur Outlook : impossible de démarrer Microsoft Outlook
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook erreur : Impossible de démarrer Microsoft Outlook
 
-Avez-vous des difficultés à démarrer Outlook 2016, Outlook 2013 ou Outlook 2010, ou à recevoir «impossible de démarrer Microsoft Outlook. Impossible d’ouvrir la fenêtre Outlook "messages d’erreur ?
+Avez-vous des difficultés à démarrer Outlook 2016, Outlook 2013 ou Outlook 2010, ou recevez « Impossible de démarrer Microsoft Outlook. Impossible d’ouvrir Outlook fenêtre d’erreur » ?
   
-Tout d’abord, suivez les étapes de résolution des problèmes décrites dans [cet article](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) pour résoudre ces problèmes de démarrage. 
+Tout d’abord, utilisez les étapes de résolution des problèmes de [cet article](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) pour résoudre ces problèmes de démarrage. 
   
-Vous pouvez également exécuter l' [outil de diagnostic avancé](https://aka.ms/SaRA-OutlookAdvDiagnostics) sur l’ordinateur affecté.
+Vous pouvez également exécuter [l’outil Diagnostics avancés](https://aka.ms/SaRA-OutlookAdvDiagnostics) sur l’ordinateur concerné.

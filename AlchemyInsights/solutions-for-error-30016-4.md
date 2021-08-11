@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: a025ff3684fdd453130e73c0f023a6b321d4209c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4f899b44fd3e2daf7291c95bb72779eb7d4940f21894dae50e7f3a82c6b3ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909932"
 ---
 # <a name="solutions-for-error-30016-4"></a>Solutions pour l’erreur 30016-4
 
-Lorsque vous essayez de désinstaller les applications Microsoft 365 pour Enterprise d’un ordinateur et que vous obtenez le message d’erreur, un problème est **survenu 30016-4**, cela signifie que le lecteur **% temp%** est mappé sur un lecteur différent de **% ProgramFiles%**.
+Lorsque vous essayez de désinstaller Applications Microsoft 365 pour les grandes entreprises d’un ordinateur et que vous obtenez le message d’erreur« Un problème s’est passé **30016-4**, cela signifie que le lecteur **%temp%** est mappé sur un lecteur autre que **%ProgramFiles %**.
   
-Pour résoudre le problème, téléchargez et installez l' [Assistant support et récupération](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Pour corriger, télécharger et installer le [Assistant Support et récupération](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. À l’ouverture, dans la boîte de **désinstallation des produits Office** , sélectionnez la version que vous souhaitez désinstaller, puis sélectionnez **suivant**.
+1. Lorsqu’il s’ouvre, à partir Office **produits sélectionnez** la version que vous souhaitez désinstaller, puis sélectionnez **Suivant.**
 
 2. Continuez à parcourir les écrans, puis redémarrez votre ordinateur à l’invite.
 
-    Après le redémarrage, l’Assistant support et récupération s’ouvre automatiquement pour terminer le processus de désinstallation.
+    Après le redémarrage, le Assistant Support et récupération s’ouvre automatiquement pour terminer le processus de désinstallation.
 
-3. Suivez les invites restantes, puis [réinstallez Office](https://portal.office.com/OLS/MySoftware.aspx) ou fermez l’Assistant.
+3. Suivez les invites restantes, [puis réinstallez Office](https://portal.office.com/OLS/MySoftware.aspx) ou fermez l’Assistant.
