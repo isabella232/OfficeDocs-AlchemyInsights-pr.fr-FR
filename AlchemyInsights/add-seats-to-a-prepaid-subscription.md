@@ -15,12 +15,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.date: 04/21/2020
-ms.openlocfilehash: 3fd9ec088bc58cbe062da01be31caf8e7982038a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 2d270fa84f6135ffdb5a42c0838c519ac4963a9873e3d021fcfcebf6c409fac6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680440"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935587"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Ajouter des sièges à un abonnement prépayé
 
@@ -29,7 +29,7 @@ Les licences prépayées vous sont délivrées sous la mesure d’un code alphan
 1. Dans le centre d’administration, accédez à la page **Facturation** > **[Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Sous **l’onglet** Produits, sélectionnez l’abonnement auquel vous souhaitez ajouter des licences.
 3. Dans la page détails de l’abonnement, dans la section **Licences,** **sélectionnez Ajouter des licences.**
-4. Dans le **volet Ajouter des licences,** sélectionnez Utiliser une clé de produit nouvelle et inutilisée, puis sélectionnez **Suivant.**
+4. Dans le **volet Ajouter des licences,** sélectionnez Utiliser une clé de produit nouvelle et inutilisée, puis sélectionnez **Suivant**.
 5. Entrez la clé de produit, puis sélectionnez **Suivant.**
     > [!NOTE]
     > Si vous avez plusieurs clés de produit, vous pouvez sélectionner **Ajouter une autre clé de produit** pour les entrer.

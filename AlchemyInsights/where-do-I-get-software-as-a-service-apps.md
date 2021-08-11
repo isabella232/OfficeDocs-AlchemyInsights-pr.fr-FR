@@ -15,13 +15,13 @@ ms.custom:
 - commerce_purchase
 - "9000562"
 - "2421"
-ms.openlocfilehash: 0d6ae465c769738c87370bf299157fd00a62227a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: b38dd3342b08759450216f18b970538d8a3daf25989e759cfe8ac91b4b8154af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970365"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Où puis-je obtenir des applications SaaS (software-as-a-service) de la part de partenaires Microsoft ?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Où puis-je obtenir des applications SaaS (software-as-a-service) de partenaires Microsoft ?
 
 Les clients peuvent rechercher, rechercher et acheter des applications SaaS dans [AppSource.](https://appsource.microsoft.com)
