@@ -14,26 +14,26 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972975"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Licences requises pour Microsoft ToDo
 
 [Licences requises pour Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Un utilisateur doit avoir l'une des licences suivantes pour utiliser Microsoft ToDo :
+Un utilisateur doit avoir l’une des licences suivantes pour utiliser Microsoft ToDo :
   
 - Business Essentials
 
 - Business Premium
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 première ligne F1
 
-- N'importe quel plan Office 365 Entreprise
+- N’Office 365 Entreprise plan
 
 - Sécuriser les entreprises productives
 
@@ -41,21 +41,21 @@ Un utilisateur doit avoir l'une des licences suivantes pour utiliser Microsoft T
 
 - Secure Productive Enterprise E5
 
-- N'importe quel plan Office 365 Éducation
+- N’importe Office 365 Éducation plan
 
-- Microsoft 365 A3
+- Microsoft 365 A3
 
-- Microsoft 365 A5
+- Microsoft 365 A5
 
-En plus d'une licence de produit valide, l'une des versions suivantes d'Exchange Online est nécessaire pour que ToDo puisse synchroniser les données utilisateur :
+En plus d’une licence de produit valide, l’une des versions suivantes de Exchange Online est nécessaire pour que ToDo puisse synchroniser les données utilisateur :
   
-- Exchange Online (plan 1)
+- Exchange Online (plan 1)
 
-- Exchange Online (plan 2)
+- Exchange Online (plan 2)
 
 - Exchange Essentials
 
-- Exchange Online Kiosk
+- Exchange Online Kiosk
 
 - Exchange Online POP
 

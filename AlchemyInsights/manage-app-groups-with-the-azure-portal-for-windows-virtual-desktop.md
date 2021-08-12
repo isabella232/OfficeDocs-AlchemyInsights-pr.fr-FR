@@ -1,5 +1,5 @@
 ---
-title: Gérer les groupes d’applications à l’aide du portail Azure pour Windows Virtual Desktop
+title: Gérer les groupes d’applications à l’aide du portail Azure Windows Virtual Desktop
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912056"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Gérer les groupes d’applications à l’aide du portail Azure pour Windows Virtual Desktop
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Gérer les groupes d’applications à l’aide du portail Azure Windows Virtual Desktop
 
-Le groupe d’applications par défaut créé pour un nouveau pool hôte de bureau virtuel Windows publie également l’intégralité du bureau. En outre, le portail Azure vous permet de créer un ou plusieurs groupes d’applications RemoteApp pour le pool hôte.
+Le groupe d’applications par défaut créé pour un nouveau pool Windows Virtual Desktop publie également le bureau complet. En outre, l’utilisation du portail Azure vous permet de créer un ou plusieurs groupes d’applications RemoteApp pour le pool d’hôtes.
 
-Le processus de déploiement effectue les opérations suivantes :
+Le processus de déploiement aura les opérations suivantes :
 
 1. Créez le groupe d’applications RemoteApp.
 2. Ajoutez vos applications sélectionnées au groupe d’applications.
-3. Publier des utilisateurs individuels ou des groupes d’utilisateurs dans le groupe d’applications.
-4. Inscrivez le groupe d’applications, si vous choisissez de le faire.
+3. Publiez des utilisateurs individuels ou des groupes d’utilisateurs dans le groupe d’applications.
+4. Inscrivez le groupe d’applications, si vous le souhaitez.
 5. Créez un lien vers un modèle Azure Resource Manager en fonction de votre configuration, que vous pouvez télécharger et enregistrer.
 
-Pour créer un groupe RemoteApp pour le bureau virtuel Windows, suivez les instructions de [Manage App Groups with the Azure Portal](https://go.microsoft.com/fwlink/?linkid=2129550).
+Pour créer un groupe RemoteApp pour Windows Virtual Desktop, suivez les instructions dans Gérer les groupes d’applications [avec le portail Azure.](https://go.microsoft.com/fwlink/?linkid=2129550)

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: fd1c3dd013d5f1f823555e3cd4aa6e0dcdac1b62
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b0d4f9f6958fec0dd7391280135338453a0cc345f94becc46ca7fae89cfd86f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920321"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>Activer ou désactiver le partage externe pour une collection de sites
 
-Vous devez être un administrateur général ou SharePoint pour modifier le paramètre de partage externe d'un site (précédemment appelé « collection de sites »). Les propriétaires de site ne sont pas autorisés à modifier ce paramètre. 
+Vous devez être un administrateur général ou SharePoint pour modifier le paramètre de partage externe d’un site (précédemment appelé « collection de sites »). Les propriétaires de site ne sont pas autorisés à modifier ce paramètre. 
 
-Pour plus d'informations, voir Activer ou désactiver le [partage externe pour un site.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+Pour plus d’informations, voir Activer ou désactiver le [partage externe pour un site.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
