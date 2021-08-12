@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9655"
-ms.openlocfilehash: 9dc3b1d54bb263d5e53e02a4e4dadc8cf3c1e400
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: cd7533f09ed8361e134b81979532cdebbf49971c54553a0172c7527f30e319bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951131"
 ---
 # <a name="app-registration-owner-issues"></a>Problèmes du propriétaire de l’inscription de l’application
 
@@ -40,4 +40,4 @@ Voici les méthodes disponibles pour ajouter des principaux en tant que proprié
 
 **Vous ne pouvez pas afficher votre application dans le blade Inscriptions de l’application, même si vous êtes le propriétaire de cette application ?**
 
-Le propriétaire d’une application n’est pas un rôle administratif. Si le paramètre Restreindre l’accès au portail [d’administration Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) est activé, seul l’administrateur sera en mesure d’afficher les applications sur le portail d’inscription des applications. Pour qu’un propriétaire puisse afficher les applications, désactivez ce paramètre (définissez ce paramètre sur NON) ou attribuez un rôle d’administrateur au propriétaire uniquement pour l’application spécifique. Toutefois, pour cela, vous aurez besoin d’une licence Azure AD Premium P2 et activez [Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
+Le propriétaire d’une application n’est pas un rôle administratif. Si le paramètre Restreindre l’accès au portail [d’administration Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) est activé, seul l’administrateur sera en mesure d’afficher les applications sur le portail d’inscription des applications. Pour qu’un propriétaire puisse afficher les applications, désactivez ce paramètre (définissez ce paramètre sur NON) ou attribuez un rôle d’administrateur au propriétaire uniquement pour l’application spécifique. Toutefois, pour cela, vous aurez besoin d’une licence Azure AD Premium P2 et d’activer [Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
