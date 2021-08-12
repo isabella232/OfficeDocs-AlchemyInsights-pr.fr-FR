@@ -1,5 +1,5 @@
 ---
-title: Retard de mise en service de boîte aux lettres
+title: Délai d’approvisionnement de boîte aux lettres
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 047c7d854b1afeecaf47cfd7358dd219913f5354ad7ad329a33a795c75da5d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912452"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>La boîte aux lettres de votre utilisateur est en cours de création
 
 L’utilisation d’une nouvelle boîte aux lettres peut prendre jusqu’à une heure.
   
-Si la boîte aux lettres d’un utilisateur a été « en préparation » pendant plus d’une heure, vous pouvez essayer de la supprimer puis la recréer, ou utiliser l’option « nous contacter » pour contacter un ingénieur du support technique.
+Si la boîte aux lettres d’un utilisateur est « en cours de préparation » depuis plus d’une heure, vous pouvez essayer de supprimer, puis de créer à nouveau l’utilisateur, ou utiliser l’option « Laissez-nous vous appeler » pour parler à un ingénieur du support technique.
   
 

@@ -1,5 +1,5 @@
 ---
-title: 1815 augmenter la taille de la boîte aux lettres partagée
+title: 1815 Augmenter la taille de la boîte aux lettres partagée
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912740"
 ---
 # <a name="increase-the-size-of-a-shared-mailbox"></a>Augmenter la taille d’une boîte aux lettres partagée
 
-Vous pouvez augmenter la taille d’une boîte aux lettres partagée de la taille par défaut de 50 Go à 100 Go en affectant à la boîte aux lettres partagée une licence Exchange Online P2 (incluse dans E3 et E5 licences). Lorsque vous affectez la licence P2 à la boîte aux lettres partagée dans [utilisateurs actifs](https://portal.office.com/adminportal/home), la taille est automatiquement augmentée dans les 15 minutes.
+Vous pouvez augmenter la taille par défaut d’une boîte aux lettres partagée de 50 Go à 100 Go en attribuant à la boîte aux lettres partagée une licence Exchange Online P2 (incluse dans les licences E3 et E5). Lorsque vous affectez la licence P2 à la boîte aux lettres partagée dans les utilisateurs [actifs,](https://portal.office.com/adminportal/home)la taille est automatiquement augmentée dans les 15 minutes.

@@ -1,5 +1,5 @@
 ---
-title: Désactiver l’accès à Yammer
+title: Désactiver l’accès aux Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,15 +12,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 088b3abf4b46b4a3f0424bae1d5549c6ab50963b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d344d5eceed89511c2d8252c068571e46a8277748969b41276d8204e801b3986
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929159"
 ---
-# <a name="disable-access-to-yammer"></a>Désactiver l’accès à Yammer
+# <a name="disable-access-to-yammer"></a>Désactiver l’accès aux Yammer
 
-La solution pour désactiver l’accès Yammer consiste à bloquer et à annuler l’affectation de licences Yammer pour les utilisateurs de votre organisation. Pour plus d’informations, reportez-vous à l’article suivant.
+La solution pour désactiver l’accès Yammer consiste à bloquer et à désattribuer Yammer licences aux utilisateurs de votre organisation. Pour plus d’informations, reportez-vous à l’article suivant.
   
-- [Désactiver l’accès Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
+- [Désactiver l’accès Yammer’accès](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

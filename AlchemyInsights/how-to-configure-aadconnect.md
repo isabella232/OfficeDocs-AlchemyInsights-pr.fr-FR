@@ -1,5 +1,5 @@
 ---
-title: 646 comment configurer AADConnect
+title: 646 Comment configurer AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,25 +13,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5fa5fd7586f999698fe43554fb9a2b205be3e25740c20763254a38d41297e0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704487"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963641"
 ---
 # <a name="configure-sync-features"></a>Configurer les fonctionnalités de synchronisation
 
-Azure AD Connect comprend plusieurs fonctionnalités qui sont activées par défaut ou que vous pouvez activer ultérieurement. Certaines fonctionnalités nécessitent une configuration supplémentaire dans des environnements spécifiques.
+Azure AD Connecter comprend plusieurs fonctionnalités activées par défaut, ou que vous pouvez activer ultérieurement. Certaines fonctionnalités nécessitent une configuration supplémentaire dans des environnements spécifiques.
 
-- Limites de [filtrage](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) les objets sont synchronisés avec Azure ad. Par défaut, tous les utilisateurs, contacts, groupes et comptes d’ordinateur Windows 10 sont synchronisés. Vous pouvez inclure ou exclure des objets en fonction de domaines, d’unités d’organisation ou d’autres attributs.
+- [Le filtrage](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) limite la synchronisation des objets avec Azure AD. Par défaut, tous les utilisateurs, contacts, groupes Windows 10 comptes d’ordinateur sont synchronisés. Vous pouvez inclure ou exclure des objets basés sur des domaines, des objets d’entreprise ou d’autres attributs.
 
-- La [synchronisation de hachage de mot de passe](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) synchronise le hachage de mot de passe de l’Active Directory local vers Azure ad. Cela permet de gérer les mots de passe à un seul emplacement, mais d’utiliser le même mot de passe dans les environnements locaux et Cloud. Étant donné qu’Active Directory est la source faisant autorité, vous pouvez utiliser vos propres stratégies de mot de passe.
+- [La synchronisation de hachage de](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) mot de passe synchronise le hachage de mot de passe à partir d’Active Directory local avec Azure AD. Cela permet la gestion des mots de passe à un seul emplacement, mais l’utilisation du même mot de passe dans les environnements locaux et cloud. Active Directory étant la source faisant autorité, vous pouvez utiliser vos propres stratégies de mot de passe.
 
-- [Self-service Password Reset (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) permet aux utilisateurs de réinitialiser leur mot de passe dans le Cloud tout en continuant à appliquer votre stratégie de mot de passe locale.
+- La réinitialisation du mot de passe en [libre-service (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) permet aux utilisateurs de réinitialiser leurs propres mots de passe dans le cloud tout en appliquant votre stratégie de mot de passe sur site.
 
-- L' [écriture différée du périphérique](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) permet de réécrire les appareils enregistrés dans Azure ad dans l’annuaire Active Directory local afin qu’ils puissent être utilisés pour l’accès conditionnel.
+- [L’écriture écriture sur](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) appareil permet aux appareils inscrits dans Azure AD d’être enregistrés dans l’annuaire Active Directory local afin qu’ils soient utilisés pour l’accès conditionnel.
 
-- [Empêcher les suppressions accidentelles](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) est activée par défaut pour empêcher trop de suppressions d’objets simultanées (plus de 500 objets par synchronisation). Vous pouvez modifier ce paramètre pour répondre aux besoins de votre organisation.
+- [La prévention des suppressions accidentelles](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) est activée par défaut pour éviter un trop grand nombre de suppressions simultanées d’objets (plus de 500 objets par synchronisation). Vous pouvez modifier ce paramètre pour répondre aux besoins de votre organisation.
 
-- La [mise à niveau automatique](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) est activée par défaut pour les installations rapides et garantit la mise à jour permanente de votre version d’Azure ad Connect.
+- [La mise à](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) niveau automatique est activée par défaut pour les installations express et permet de s’assurer que votre version d’Azure AD Connecter est toujours à jour.
