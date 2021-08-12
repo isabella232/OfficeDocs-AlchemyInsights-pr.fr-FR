@@ -1,5 +1,5 @@
 ---
-title: CTRL + H affiche Rechercher, pas remplacer dans Excel 2016
+title: Ctrl+H affiche Rechercher, et non Remplacer dans Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 8f141fdebbba0789a406dd18c56c16c9b2522d58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69aa31b488e268507f0d091eaa6d06c966d38ca3a7a9d099b10886e1954b956b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914721"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H affiche Rechercher, pas remplacer dans Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>Ctrl+H affiche Rechercher, et non Remplacer dans Excel
 
-Dans Excel 2016, la combinaison de touches CTRL + H ouvre la boîte de dialogue Rechercher et remplacer et affiche l’onglet Rechercher au lieu de l’onglet remplacer. le fait de cliquer sur remplacer dans l’onglet Accueil effectue la même opération. Ce problème a été corrigé dans la version 1708 (8431,2094). Pour résoudre ce problème, mettez à jour la dernière version d’Office. Sélectionnez **File** \> **Account** \> **Update Options** \> **mettre à jour**les options de mise à jour des comptes de fichiers.
+Dans Excel 2016, appuyer sur Ctrl+H ouvre la boîte de dialogue Rechercher et remplacer et affiche l’onglet Rechercher, au lieu de l’onglet Remplacer. Cliquer sur Remplacer sous l’onglet Accueil fait de même. This issue was fixed in version 1708 (8431.2094). Pour résoudre ce problème, mettez à jour la dernière version de Office. Sélectionnez Les options **de mise** \> **à jour du** compte de fichier \> **sont** mises à \> **jour maintenant.**
   

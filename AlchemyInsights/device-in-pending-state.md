@@ -1,5 +1,5 @@
 ---
-title: Appareil en état d’attente
+title: Appareil en attente
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914001"
 ---
-# <a name="device-in-pending-state"></a>Appareil en état d’attente
+# <a name="device-in-pending-state"></a>Appareil en attente
 
-**Conditions préalables**
+**Conditions préalables :**
 
-1. Si vous configurez les inscriptions d’appareils pour la première fois, vérifiez que vous avez lu la rubrique relative à la gestion des appareils [dans Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) pour vous aider à obtenir des périphériques sous le contrôle d’Azure ad.
-2. Si vous enregistrez les appareils dans Azure AD directement et en les inscrivant dans Intune, vous devez vous assurer que vous avez [configuré Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) et que la gestion des [licences](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) est en place.
-3. Assurez-vous que vous êtes autorisé à effectuer des opérations dans Azure AD et AD sur site. Seul un administrateur général dans Azure AD peut gérer les paramètres des inscriptions d’appareils. En outre, si vous configurez des enregistrements automatiques dans votre annuaire Active Directory local, vous devez être un administrateur d’Active Directory et d’AD FS (le cas échéant).
+1. Si vous êtes en train de définir des inscriptions d’appareils pour la première fois, assurez-vous d’avoir examiné l’introduction à la gestion des appareils dans [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) qui vous guidera sur la façon d’obtenir des appareils sous le contrôle d’Azure AD.
+2. Si vous inscrivez des appareils directement dans Azure AD et que vous les inscrivez dans Intune, vous [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) devez vous assurer que vous avez configuré [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) et que la licence est en place en premier.
+3. Assurez-vous que vous êtes autorisé à effectuer des opérations dans Azure AD et dans AD local. Seul un administrateur général dans Azure AD peut gérer les paramètres d’enregistrement des appareils. Par ailleurs, si vous configurez les enregistrements automatiques dans votre Active Directory local, vous devez être administrateur d’Active Directory et des services ADFS (le cas échéant).
 
-Le processus d’inscription hybride Azure AD requiert des périphériques sur le réseau d’entreprise. Il fonctionne également sur VPN, mais il existe quelques inconvénients à ce propos. Nous avons entendu des clients qui ont besoin d’aide pour résoudre les problèmes liés au processus d’inscription hybride Azure AD dans des conditions de travail à distance.
+Le processus hybride d’inscription à la jointation Azure AD nécessite que les appareils soient sur le réseau d’entreprise. Il fonctionne également sur VPN, mais il existe des avertissements à ce qui se fait. Nous avons entendu les clients qui ont besoin d’aide pour résoudre les problèmes du processus d’inscription hybride à Azure AD dans des circonstances de travail à distance.
 
-**Environnement d’authentification Cloud (à l’aide de l’authentification directe ou de synchronisation de hachage de mot de passe Azure AD)**
+**Environnement d’authentification cloud (à l’aide de la synchronisation de hachage de mot de passe Azure AD ou de l’authentification directe)**
 
-Ce flux d’enregistrement est également appelé « jointure de synchronisation ».
+Ce flux d’inscription est également appelé « synchronisation de joints ».
 
-Voici une répartition de ce qui se produit pendant le processus d’inscription :
+Voici une répartition de ce qui se produit pendant le processus d’inscription :
 
-1. Windows 10 identifie l’enregistrement du point de connexion de service (SCP) lorsque l’utilisateur se connecte à l’appareil.
+1. Windows 10 l’enregistrement SCP (Service Connection Point) lorsque l’utilisateur se connecte à l’appareil.
 
-    1. Le périphérique tente d’abord de récupérer les informations client à partir du SCP côté client dans le registre [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Pour plus d’informations, consultez la rubrique [document](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. En cas d’échec, le périphérique communique avec Active Directory local pour obtenir les informations du client auprès du SCP. Pour vérifier le SCP, reportez-vous à ce [document](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
+    1. L’appareil tente d’abord de récupérer les informations client du point de service côté client dans le Registre [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Pour plus d’informations, voir [le document.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    1. En cas d’échec, l’appareil communique avec Active Directory local pour obtenir des informations sur le client auprès de SCP. Pour vérifier SCP, reportez-vous à [ce document.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
     > [!NOTE]
-    > Nous vous recommandons d’activer SCP dans Active Directory et de n’utiliser que le SCP côté client pour la validation initiale.
+    > Nous vous recommandons d’activer SCP dans Active Directory et d’utiliser uniquement le point de contrôle de service côté client pour la validation initiale.
 
 2. Windows 10 tente de communiquer avec Azure AD dans le contexte système pour s’authentifier auprès d’Azure AD.
 
-    Vous pouvez vérifier si l’appareil peut accéder aux ressources Microsoft sous le compte système à l’aide du [script de test de connectivité de Device Registration](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
+    Vous pouvez vérifier si l’appareil peut accéder aux ressources Microsoft sous le compte système à l’aide du [script Test Device Registration Connectivity](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
 
-3. Windows 10 génère un certificat auto-signé et le stocke sous l’objet ordinateur dans Active Directory en local. Cela nécessite une visibilité du contrôleur de domaine.
+3. Windows 10 génère un certificat auto-signé et le stocke sous l’objet ordinateur dans Active Directory local. Cela nécessite une vision d’accès au contrôleur de domaine.
 
-4. L’objet appareil dont le certificat est synchronisé est synchronisé avec Azure AD via Azure AD Connect. Le cycle de synchronisation est défini toutes les 30 minutes par défaut, mais dépend de la configuration d’Azure AD Connect. Pour plus d’informations, reportez-vous à ce [document](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+4. L’objet appareil qui possède un certificat est synchronisé avec Azure AD via Azure AD Connecter. Le cycle de synchronisation est toutes les 30 minutes par défaut, mais il dépend de la configuration d’Azure AD Connecter. Pour plus d’informations, reportez-vous à [ce document.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
 
-5. À ce stade, vous devriez être en mesure d’afficher l’objet de l’objet dans l’état «**en attente**» sous Blade de périphérique d’Azure Portal.
+5. À ce stade, vous devriez être en mesure de voir l’appareil objet dans l’état «**En** attente » sous le blade device du portail Azure.
 
-6. Lors de la connexion utilisateur suivante à Windows 10, l’inscription est effectuée.
+6. Lors de la prochaine connexion de l’Windows 10, l’inscription est terminée.
 
     > [!NOTE]
-    > Si vous êtes sur un VPN et que la déconnexion et la connexion se terminent, vous pouvez déclencher l’inscription manuellement. Pour cela :
+    > Si vous êtes sur VPN et que la connexion/la connexion met fin à la connectivité de domaine, vous pouvez déclencher l’inscription manuellement. Pour cela :
     >
-    > Émettez une `dsregcmd /join` invite locale sur l’administrateur ou à distance via PsExec à votre PC.
+    > Émettre `dsregcmd /join` une invite d’administration localement ou à distance via PSExec sur votre PC.
     >
-    > Par exemple : `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    > Par exemple : `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Pour les problèmes courants liés à l’inscription d’appareils Azure Active Directory, consultez la rubrique [périphériques FAQ](https://docs.microsoft.com/azure/active-directory/devices/faq).
+Pour les problèmes courants d’Azure Active Directory’inscription des appareils, voir [faq sur les appareils.](https://docs.microsoft.com/azure/active-directory/devices/faq)
