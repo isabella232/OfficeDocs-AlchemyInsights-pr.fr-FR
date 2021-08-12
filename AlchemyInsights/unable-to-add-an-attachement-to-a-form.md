@@ -1,5 +1,5 @@
 ---
-title: Impossible d'ajouter une pièce jointe à un formulaire externe
+title: Impossible d’ajouter une pièce jointe à un formulaire externe
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: caa23df4aa0847a8c31fc015e8c18859132a5a2c1ff7fe6d3dd98357671c3435
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920213"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Impossible d'ajouter une pièce jointe à un formulaire externe
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Impossible d’ajouter une pièce jointe à un formulaire externe
 
-Si vous essayez d'ajouter une pièce jointe à une enquête Microsoft Forms externe, cette fonctionnalité n'est pas encore disponible. Pour suivre l'état de cette demande de fonctionnalité, allez à cette [entrée UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)et ajoutez votre vote.
+Si vous essayez d’ajouter une pièce jointe à une enquête Microsoft Forms externe, cette fonctionnalité n’est pas encore disponible. Pour suivre l’état de cette demande de fonctionnalité, allez à cette [entrée UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)et ajoutez votre vote.
