@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be7203521aa2acf2fcf667c26a2d996eca5f846d14cc6957c0fde6b82d887aa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925595"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Paramètres du clavier dans Windows 10
 
 **Paramètres de type**
 
-Pour modifier les paramètres Windows liés à la vérification orthographie, à la correction automatique, aux suggestions et à d'autres aspects de votre matériel et de votre clavier tactile, go to **Settings > Devices > Typing**. 
+Pour modifier Windows de contrôle d’orthographe, de correction automatique, de suggestions et d’autres aspects de votre matériel et de votre clavier tactile, Paramètres > Appareils > **saisie**. 
 
 **Paramètres de langue et de clavier**
 
-Pour modifier les paramètres relatifs au clavier ou à la méthode d'entrée à utiliser pour une langue Windows, go to **Settings > Time & Language > Language**. Sélectionnez les langues dans la **liste Langues préférées,** puis cliquez sur **Options** pour ajouter/supprimer des claviers ou des méthodes d'entrée (IME).
+Pour modifier les paramètres relatifs au clavier ou à la méthode d’entrée à utiliser pour une langue Windows, go to **Paramètres > Time & Language > Language**. Sélectionnez les langues dans la **liste Des langues préférées,** puis cliquez sur **Options** pour ajouter/supprimer des claviers ou des méthodes d’entrée (IME).

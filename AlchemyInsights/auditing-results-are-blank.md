@@ -1,5 +1,5 @@
 ---
-title: Les résultats d’audit sont vides
+title: Les résultats de l’audit sont vides
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917709"
 ---
-# <a name="auditing-results-are-blank"></a>Les résultats d’audit sont vides
+# <a name="auditing-results-are-blank"></a>Les résultats de l’audit sont vides
 
  **Rapports d’audit pour les sites classiques**
   
-Pour afficher un rapport d’audit pour une collection de sites SharePoint, vous devez être administrateur de la collection de sites. Pour vous ajouter en tant qu’administrateur, consultez [la rubrique ajouter des administrateurs de collection de sites en tant qu’administrateur global ou SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). Pour plus d’informations sur l’utilisation du journal d’audit, voir [afficher les rapports du journal d’audit](https://go.microsoft.com/fwlink/?linkid=395237). 
+Pour afficher un rapport d’audit pour SharePoint collection de sites, vous devez être administrateur de la collection de sites. Pour vous ajouter en tant qu’administrateur, voir [Ajouter des administrateurs de collection](https://go.microsoft.com/fwlink/?linkid=869390)de sites en tant qu’administrateur général ou administrateur SharePoint. Pour plus d’informations sur l’travail avec le journal d’audit, voir [Afficher les rapports du journal d’audit.](https://go.microsoft.com/fwlink/?linkid=395237) 
   
  **Rechercher le journal d’audit**
   
-Vous devez être un administrateur général pour travailler avec le journal d’audit dans le [Centre de sécurité &amp; conformité](https://protection.office.com). Avant de commencer, activez la journalisation d’audit. Ensuite, vous pouvez exécuter une recherche de journal d’audit. 
+Vous devez être un administrateur global pour travailler avec le journal d’audit dans le [Centre de conformité de &amp; sécurité.](https://protection.office.com) Avant de commencer, activer la journalisation d’audit. Ensuite, vous pouvez exécuter une recherche dans le journal d’audit. 
   
-[Découvrez comment effectuer des recherches dans le journal d’audit](https://go.microsoft.com/fwlink/?linkid=708432).
+[Découvrez comment effectuer une recherche dans le journal d’audit.](https://go.microsoft.com/fwlink/?linkid=708432)
   
 
