@@ -1,5 +1,5 @@
 ---
-title: Lecture seule pour un message de maintenance lors de la tentative d’utilisation de SharePoint ou OneDrive
+title: Read-Only message de maintenance lors de la tentative d’utilisation SharePoint ou OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910544"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Lecture seule pour un message de maintenance lors de la tentative d’utilisation de SharePoint ou OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only message de maintenance lors de la tentative d’utilisation SharePoint ou OneDrive
 
-Les utilisateurs peuvent recevoir un message **de maintenance en lecture seule** lorsqu’ils tentent d’utiliser SharePoint ou OneDrive pour l’un des scénarios suivants. 
+Les utilisateurs peuvent recevoir un message en **lecture seule** pour maintenance lorsque vous tentez d’utiliser SharePoint ou OneDrive pour l’un des scénarios suivants. 
 
--   Activité de maintenance planifiée ou active.  Vérifiez-les en accédant au [Centre de messages](https://portal.office.com/adminportal/home#/messagecenter).
--   Un incident de service actif de haute priorité susceptible de se produire. Recherchez les avis/incidents en accédant à l' [État du service](https://portal.office.com/adminportal/home#/servicehealth).
--   Un scénario de récupération de réparation automatique mineur qui peut être dû à des événements inattendus sur les serveurs qui peuvent durer moins de 30 minutes ou plus. 
+-   Une activité de maintenance planifiée ou active.  Recherchez-les en naviguant vers le [centre de messages.](https://portal.office.com/adminportal/home#/messagecenter)
+-   Incident de service actif et de haute priorité qui peut se produire. Recherchez les avis/incidents en naviguant vers [l’état d’état du service.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Scénario de récupération de réparation automatique mineure qui pourrait se produire en raison d’événements inattendus sur les serveurs qui peuvent durer moins de 30 minutes environ. 
     
-    Il n’existe aucune publication de centre de messages ou d’intégrité de service pour ces récupérateurs mineurs, mais vous devriez être redirigé vers la version normale très prochainement.
+    Il n’existe aucun message de centre de messages ou d’état du service pour ces récupérations mineures, mais vous devriez être de retour à la normale très prochainement.
 
-En très peu de occasions, nous avons observé que l’un des trois scénarios mentionnés ci-dessus était la cause, et que le service a été restauré, mais que le cache du navigateur des utilisateurs n’a pas été effacé.
+Dans très peu de cas, nous avons observé que l’un des trois scénarios répertoriés ci-dessus était la cause et que le service a été restauré, mais que le cache du navigateur des utilisateurs n’a pas été effacé.
 
-Essayez de vider le cache du navigateur avant de naviguer sur le site.
+Essayez d’effacer le cache du navigateur avant d’naviguer vers le site.
 
-1. Dans votre navigateur Microsoft Edge, sélectionnez **paramètres**, puis **confidentialité et sécurité**.
-2. Sous **effacer la navigation**, sélectionnez **choisir les éléments à effacer**.
-3. Sélectionnez **cookies et données de site Web enregistrées**, puis sélectionnez **Effacer**.
-
->[!Note] 
-> Ces étapes peuvent varier en cas d’utilisation d’autres navigateurs, tels que Mozilla Firefox ou Google Chrome.
+1. Dans votre Microsoft Edge, sélectionnez **Paramètres,** puis sélectionnez **Confidentialité et sécurité.**
+2. Sous **Effacer la navigation,** **sélectionnez ce qu’il faut effacer.**
+3. Sélectionnez **cookies et données de site web enregistrées,** puis **sélectionnez Effacer**.
 
 >[!Note] 
-> Une autre option consiste à ouvrir votre site SharePoint ou OneDrive dans une nouvelle fenêtre InPrivate.
+> Ces étapes peuvent différer lors de l’utilisation d’autres navigateurs tels que Mozilla Firefox ou Google Chrome.
+
+>[!Note] 
+> Une autre option consisterait à ouvrir votre site SharePoint ou OneDrive dans une nouvelle fenêtre InPrivate.

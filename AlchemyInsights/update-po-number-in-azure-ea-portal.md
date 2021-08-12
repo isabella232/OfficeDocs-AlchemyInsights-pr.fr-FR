@@ -1,5 +1,5 @@
 ---
-title: Mettre à jour le numéro de commande d’achat dans Azure AE Portal-étapes recommandées
+title: Mettre à jour le numéro de bon de service dans le portail Azure EA - Étapes recommandées
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49707865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007176"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Mettre à jour le numéro de commande d’achat dans Azure AE Portal-étapes recommandées
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Mettre à jour le numéro de bon de service dans le portail Azure EA - Étapes recommandées
 
-Les modifications apportées au numéro de TVA/ID taxe ou bon de commande prendront effet sur la facture suivante. Pour modifier l’ID TVA/taxe ou le numéro de commande d’achat sur une facture qui a déjà été générée, ouvrez un ticket de support. Si vous avez des problèmes liés à votre TVA/votre ID de taxe, contactez votre partenaire Microsoft Licensing (partenaire ou conseiller en logiciel). Ils contacteront le centre d’opérations régional (ROC) pour les questions relatives à votre ID TVA/taxe. 
+Les modifications apportées à l’ID DE TVA/TAXE ou au numéro de bon de commande prennent effet sur la facture suivante. Pour modifier l’ID DE TVA/TAXE ou le numéro de bon de vente en numéro de bon de paiement en facture qui a déjà été générée, ouvrez un ticket de support. Si vous avez des problèmes liés à votre numéro de TVA/TAXE, faites-en la demande auprès de votre partenaire de gestion des licences Microsoft (partenaire ou conseiller logiciel). Ils contactent le Centre des opérations régionales pour toute question concernant votre numéro de TVA/TAXE. 
 
-Le portail Azure AE génère automatiquement un numéro de bon de commande par défaut, sauf si l’administrateur AE définit un numéro avant la date de facturation. En tant qu’administrateur EA (enregistrement direct)/administrateur partenaire (inscriptions indirectes), vous pouvez mettre à jour le numéro de commande d’achat dans le portail Azure EA. Vous pouvez mettre à jour le numéro de bon de commande à tout moment avant la date de génération de la facture pour la période de facturation actuelle et jusqu’à sept jours après la réception du message électronique de notification de facture automatique.    
+Le portail Azure EA génère automatiquement un numéro de bon de service par défaut, sauf si l’administrateur EA en définit un avant la date de facturation. En tant qu’administrateur EA (inscription directe) /Administrateur partenaire (inscription indirecte), vous pouvez mettre à jour le numéro de bon de service dans le portail Azure EA. Vous pouvez mettre à jour le numéro de bon de service à tout moment avant la facturation pour la période de facturation en cours et jusqu’à sept jours après avoir reçu l’e-mail de notification de facture automatisée.    
 
-Pour mettre à jour le numéro de commande d’achat :
+Pour mettre à jour le numéro de bon de contrôle d’accès :
 
-1. Connectez-vous à [EA Portal](https://ea.azure.com/).
-1. Dans le volet de gauche, cliquez sur **rapports**.
-1. En haut de la page, cliquez sur **synthèse** de l’utilisation et sélectionnez la période appropriée dans la liste déroulante.
-1. Cliquez sur **Afficher/modifier les numéros de bon de commande**.
-1. Entrez le nouveau numéro de bon de commande, puis cliquez sur **Enregistrer**.
+1. Connectez-vous [au portail EA](https://ea.azure.com/).
+1. Dans le volet gauche, cliquez sur **Rapports.**
+1. En haut de la page, cliquez sur **Résumé** de l’utilisation et sélectionnez la période pertinente dans la liste.
+1. Cliquez sur **Afficher/Modifier les numéros de po**.
+1. Entrez le nouveau numéro de bon de saisie, puis cliquez sur **Enregistrer.**
 
 **Documents recommandés** 
 
-- [Factures d’inscriptions Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Comprendre votre facture Azure Enterprise Agreement](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [Comprendre les rôles Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Créer un autre administrateur d’entreprise (AE admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Factures d’inscription Azure Entreprise](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Comprendre votre facture Azure Accord Entreprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Comprendre les rôles Enterprise Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [Créer un autre administrateur d’entreprise (administrateur EA)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

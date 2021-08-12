@@ -1,5 +1,5 @@
 ---
-title: 718 ajout de contacts externes/personnes en dehors de l’organisation à une liste de distribution
+title: 718 Ajout de contacts externes/de personnes extérieures à l’organisation à une liste de distribution
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e9860a3c061b17a8b2fc87caa40ede0dd5277346
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df0c7e8f95d0754f362d697f155438a63e7f55f1146e8f1671932c380186baf4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934867"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Ajouter des adresses de messagerie externes à un groupe de distribution
 
-Tout d’abord, vous devez créer un contact dans votre organisation pour l’adresse de messagerie externe. Ensuite, vous pouvez ajouter le contact au groupe de distribution. Pour plus d’informations, consultez [la rubrique Ajout d’utilisateurs externes à un groupe de distribution ?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
+Tout d’abord, vous devez créer un contact dans votre organisation pour l’adresse de messagerie externe. Ensuite, vous pouvez ajouter le contact au groupe de distribution. Pour plus d’informations, voir [Ajout d’utilisateurs externes à un groupe de distribution.](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba)
 
-Si vous souhaitez que les utilisateurs externes puissent envoyer des messages au groupe de distribution, vérifiez que le groupe est configuré pour accepter les messages provenant d’expéditeurs externes. Pour plus d’informations, consultez la rubrique gestion de la [remise](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).
+Si vous souhaitez que les utilisateurs externes puissent envoyer des messages au groupe de distribution, vérifiez que le groupe est configuré pour accepter le courrier provenant d’expéditeurs externes. Pour plus d’informations, voir [Gestion des remises.](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement)

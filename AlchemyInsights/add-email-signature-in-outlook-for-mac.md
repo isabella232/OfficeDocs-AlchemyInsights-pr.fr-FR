@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8200"
-ms.openlocfilehash: 5d76bac16d640f8634903abae59fc7e61fa60cb3
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 2e5069b57f922bf782555467b2a85d9e6ae72967e06ed655212e8574ed4c091b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50165250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935875"
 ---
 # <a name="add-email-signature-in-outlook-for-mac"></a>Ajouter une signature électronique dans Outlook pour Mac
 

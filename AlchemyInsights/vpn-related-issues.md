@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1545"
 - "9000076"
-ms.openlocfilehash: 3c031725c92f5d7af7c0dd0c37ea34fecf4792c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d9c34350d16d96329d1ed56666119dba0433c93ccb7547da5dba4894531e1b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726089"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970977"
 ---
 # <a name="vpn-related-issues"></a>Problèmes liés au réseau privé virtuel
 
@@ -43,7 +43,7 @@ Le VPN par application pour les appareils iOS dans Intune est actuellement dispo
 
 Pour plus d’informations sur tous les types de connexions VPN dans Intune, consultez [Créer des profils VPN pour se connecter aux serveurs VPN dans Intune](https://docs.microsoft.com/intune/vpn-settings-configure).  
 
-** Le VPN à la demande d'iOS ne se déclenche pas lors de l'accès à un domaine configuré**
+**Le VPN à la demande d'iOS ne se déclenche pas lors de l'accès à un domaine configuré**
 
 Pour tester les paramètres VPN automatiques, configurez les valeurs suivantes :
 
