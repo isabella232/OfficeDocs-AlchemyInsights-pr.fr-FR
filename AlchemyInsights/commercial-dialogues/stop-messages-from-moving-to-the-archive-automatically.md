@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929951"
 ---
 # <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Empêcher le déplacement automatique des messages vers l’archive
 
-Si vous utilisez une stratégie de rétention, vous pouvez modifier l’âge de rétention dans cette stratégie pour arrêter automatiquement l’archivage des messages. Voici comment procéder :
+Si vous utilisez une stratégie de rétention, vous pouvez modifier l’âge de rétention dans cette stratégie pour arrêter automatiquement l’archivage des messages. Voici comment procéder :
 
-1. Dans le Centre [d’administration Exchange,](https://go.microsoft.com/fwlink/?linkid=2059104)choisissez les **balises de rétention de gestion** de la  >  **conformité.** Recherchez votre balise de rétention Déplacer vers l’archive.
+1. Dans le centre [Exchange' administration,](https://go.microsoft.com/fwlink/?linkid=2059104)choisissez les **balises** de rétention de gestion  >  **de la conformité.** Recherchez votre balise de rétention Déplacer vers l’archive.
 2. Dans la balise de rétention, modifiez  la période de rétention (période d’archivage) pour ne jamais empêcher les éléments d’être automatiquement archivés par une stratégie de rétention.
 
 > [!NOTE]

@@ -1,5 +1,5 @@
 ---
-title: Connexion au module MSCommerce
+title: Connecter au module MSCommerce
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 357604f1d4cda3ac8ef6b8b4dbf8780b96dcee59409a6c2edad4a84d6adda62a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974667"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce nécessite un compte d'administrateur de facturation ou d'entreprise
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce nécessite un compte d’administrateur de facturation ou d’entreprise
 
-Le module MSCommerce nécessite un compte avec des privilèges d'entreprise ou d'administrateur de facturation. Si vous recevez l'erreur suivante, vous devez vous reconnecter à un autre compte.
+Le module MSCommerce nécessite un compte avec des privilèges d’entreprise ou d’administrateur de facturation. Si vous recevez l’erreur suivante, vous devrez vous reconnecter à un autre compte.
 
 *ErrorMessage : le serveur distant a renvoyé une erreur : (403) Interdit. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
 *+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage « Failed to retri ...*<br>
@@ -29,4 +29,4 @@ Le module MSCommerce nécessite un compte avec des privilèges d'entreprise ou d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : NotSpecified: (:) [Write-Error], WriteErrorException*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Si votre compte ne comprend pas de privilèges d'administrateur de facturation ou d'entreprise, contactez votre administrateur informatique.
+Si votre compte ne comprend pas de privilèges d’administrateur de facturation ou d’entreprise, contactez votre administrateur informatique.

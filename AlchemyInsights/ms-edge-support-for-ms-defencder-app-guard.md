@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge prise en charge de Protection d’application Microsoft Defender
+title: Microsoft Edge prise en charge des Protection d’application Microsoft Defender
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
-ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
+ms.openlocfilehash: 193842d36004c6b1451257e46bb782d0a08e797f65b41457510339fb90aa7083
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53346060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974631"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge prise en charge de Protection d’application Microsoft Defender
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge prise en charge des Protection d’application Microsoft Defender
 
 Microsoft Defender pour l’identité fournit un emplacement central où les administrateurs peuvent identifier, détecter et examiner les menaces d’identité sur site. 
 
