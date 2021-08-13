@@ -1,5 +1,5 @@
 ---
-title: Classement des bogues Intune Insider
+title: Classement de bogues Intune Insider
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667624"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925919"
 ---
-# <a name="intune-insider-bug-filing"></a>Classement des bogues Intune Insider
+# <a name="intune-insider-bug-filing"></a>Classement de bogues Intune Insider
 
-Merci de votre intérêt pour le programme Intune Insiders. Si vous êtes déjà installé pour le programme Intune Insiders et que vous avez besoin de classer une demande de support, procédez comme suit :
+Merci de votre intérêt pour le programme Intune Insiders. Si vous êtes déjà intégré au programme Intune Insiders et que vous devez déposer une demande de support, alors :
 
 1. Décrivez votre problème dans le champ ci-dessus.
 2. Créez une demande de service à l’aide des options ci-dessous.
 
 Un ingénieur du support Intune vous contactera.
 
-Si vous n’êtes pas dans le programme Intune Insiders, Merci de votre intérêt. Nous ne recrutons actuellement pas de nouveaux participants.
+Si vous n’êtes pas dans le programme Intune Insiders, merci de votre intérêt. Nous ne recrutons actuellement pas de nouveaux participants.

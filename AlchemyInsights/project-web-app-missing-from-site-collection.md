@@ -1,5 +1,5 @@
 ---
-title: Project Web App est absent de la collection de sites SharePoint
+title: Project Web App’est pas dans SharePoint collection de sites
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973083"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App est absent de la collection de sites SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App est absent de la collection SharePoint sites
 
-Il se peut que Project Web App manque dans la collection de sites SharePoint pour les raisons suivantes :
+Project Web App de la collection de sites SharePoint pour les raisons suivantes :
 
-1. Les organisations ont uniquement une ou plusieurs licences Project Online Essentials. Les administrateurs devront ajouter une licence Project Online professionnel et/ou Premium. Le site sera en lecture seule à ce stade. Pour plus d’informations, consultez la rubrique [Comparaison de solutions de gestion de projets](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Le client a rencontré un problème de mise en service dans lequel la mise en service de site Project Web App a été retardée. Si plus de 24 heures se sont écoulées et que le problème persiste, veuillez consigner un ticket de support. Nous comprenons que 24 heures peuvent ressembler à un certain temps. Dans de nombreux cas, nous travaillons déjà sur une solution. Veuillez nous fournir au moins 24 heures pour terminer une solution.
+1. Les organisations ont une ou Project Online Essentials licence(s) de licence uniquement. Les administrateurs devront ajouter une licence Project Online Professionnel et/ou Premium licence. À ce stade, le site ne sera plus en lecture seule. Pour plus d’informations, [voir Comparer Project solutions de gestion.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Le client a rencontré un problème d’approvisionnement dans lequel la mise en service Project Web App site a été retardée. Si plus de 24 heures se sont écoulées et que vous rencontrez toujours le problème, veuillez enregistrer un ticket de support. Nous comprenons que 24 heures peuvent ressembler à un certain temps. Dans de nombreux cas, nous travaillons déjà sur une solution. Veuillez nous donner au moins 24 heures pour terminer une solution.

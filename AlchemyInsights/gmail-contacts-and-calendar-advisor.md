@@ -1,5 +1,5 @@
 ---
-title: Migrer des contacts Gmail ou Google vers Office 365 ou Outlook
+title: Migrer des contacts Gmail ou des calendriers Google vers Office 365 ou Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964298"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrer des contacts Gmail ou Google vers Office 365 ou Outlook
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrer des contacts Gmail ou des calendriers Google vers Office 365 ou Outlook
 
-Le moyen le plus simple d’importer des contacts et un calendrier Gmail vers Office est d’utiliser les contacts gmail et le conseiller du calendrier.
+Le moyen le plus simple d’importer des contacts et des calendriers Gmail dans Office est d’utiliser les contacts Gmail et le conseiller de calendrier.
 
-Les [contacts gmail et le conseiller du calendrier](https://go.microsoft.com/fwlink/?linkid=2134386) vous expliquent comment synchroniser vos contacts et éléments de calendrier Gmail avec Office 365, à l’aide de différentes méthodes d’importation et d’exportation.
+Le conseiller de calendrier et [les contacts Gmail](https://go.microsoft.com/fwlink/?linkid=2134386) vous montrent comment synchroniser vos contacts Gmail et éléments de calendrier avec Office 365, à l’aide de différentes méthodes d’importation et d’exportation.
 
-Si vous n’avez pas encore migré votre courrier, le [conseiller de configuration](https://go.microsoft.com/fwlink/?linkid=2133951) de la messagerie fournit des instructions pas à pas pour terminer la migration de votre boîte aux lettres.
+Si vous n’avez pas encore [](https://go.microsoft.com/fwlink/?linkid=2133951) migré votre courrier électronique, le conseiller d’installation de messagerie fournit des instructions détaillées pour effectuer la migration de votre boîte aux lettres.
 
-Pour en savoir plus sur l’affichage de votre calendrier Google dans Outlook, [consultez la rubrique consulter votre calendrier Google dans Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).
+Pour découvrir comment afficher votre calendrier Google dans Outlook, consultez votre calendrier [Google dans Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).

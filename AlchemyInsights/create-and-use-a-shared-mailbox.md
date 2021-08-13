@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914901"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Créer et utiliser une boîte aux lettres partagée
 
 Une boîte aux lettres partagée permet à plusieurs personnes d'envoyer et de recevoir des e-mails à l'aide d'un alias, par exemple, ventes@contoso.com, sans attribuer de nouvelle licence.
   
-- Pour commencer, [suivez ces étapes](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) dans le centre d’administration Microsoft 365. 
+- [Suivez ces étapes](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) dans la Centre d’administration Microsoft 365 pour commencer. 
 
-Vous pouvez également lire l’article [créer une boîte aux lettres partagée](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , qui vous dira tout ce que vous devez savoir sur les boîtes aux lettres partagées, notamment comment les utiliser.
+Vous pouvez également [](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) lire l’article Créer une boîte aux lettres partagée, qui vous indiquera tout ce que vous devez savoir sur les boîtes aux lettres partagées, y compris leur utilisation.
   
