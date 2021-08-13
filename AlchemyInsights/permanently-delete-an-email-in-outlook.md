@@ -1,5 +1,5 @@
 ---
-title: Supprimer définitivement un courrier électronique dans Outlook
+title: Supprimer définitivement un message électronique dans Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0aa1c016f229399f451655f691486c4618fce55d2952ea677edb902349dd270
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836097"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944381"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Supprimer définitivement un courrier électronique dans Outlook
+# <a name="permanently-delete-an-email-in-outlook"></a>Supprimer définitivement un message électronique dans Outlook
 
-- Dans la boîte de réception, appuyez longuement sur un message et l'icône de la corbeille s'affiche. Appuyez sur cette icône pour supprimer le message.
+- Dans la boîte de réception, appuyez longuement sur un message et l’icône de la corbeille s’affiche. Appuyez sur cette icône pour supprimer le message.
 
-- Vous pouvez également définir « supprimer » en tant qu'option de balayage (**Paramètres -> options de** balayage ) ; utilisez ensuite votre doigt pour effectuer un balayage sur le courrier que vous souhaitez supprimer. 
+- Vous pouvez également définir « supprimer » en tant qu’option de balayage (**Paramètres -> Swipe Options**) ; utilisez ensuite votre doigt pour effectuer un balayage sur le courrier que vous souhaitez supprimer. 
 
-- Pour supprimer un message d'un affichage de courrier ouvert, appuyez sur l'icône de la corbeille en haut de l'écran. Les messages supprimés sont déplacés vers votre dossier Corbeille. 
+- Pour supprimer un message d’un affichage de courrier ouvert, appuyez sur l’icône de la corbeille en haut de l’écran. Les messages supprimés sont déplacés vers votre dossier Corbeille. 
 
 **Pour supprimer définitivement un e-mail**
 
-- Accédez au dossier corbeille à partir de l'affichage Courrier, appuyez sur l'icône du compte (3 lignes), puis appuyez sur le dossier de corbeille.
+- Accédez au dossier corbeille à partir de l’affichage Courrier, appuyez sur l’icône du compte (3 lignes), puis appuyez sur le dossier de corbeille.
 
-- Supprimez des e-mails individuels ou marquez plusieurs e-mails et supprimez-les à partir d'ici ; ils seront définitivement supprimés.
+- Supprimez des messages électroniques individuels ou marquez plusieurs e-mails et supprimez-les à partir d’ici ; ils seront supprimés définitivement.

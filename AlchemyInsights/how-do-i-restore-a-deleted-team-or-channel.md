@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927251"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Comment restaurer une équipe ou un canal supprimé
 
-Les canaux supprimés au sein d'une équipe peuvent être restaurés pendant 21 jours après la suppression du canal.
+Les canaux supprimés au sein d’une équipe peuvent être restaurés pendant 21 jours après la suppression du canal.
 
-Pour récupérer un canal supprimé, le propriétaire de l'équipe peut :
+Pour récupérer un canal supprimé, le propriétaire de l’équipe peut :
 
-1. Ouvrez les paramètres de l'équipe en sélectionnant les 3 points à droite du nom de l'équipe.
-2. Sélectionnez **Gérer les**  >    >  **canaux d'équipe** supprimés, puis **sélectionnez Restaurer** sur la droite.
+1. Ouvrez les paramètres de l’équipe en sélectionnant les 3 points à droite du nom de l’équipe.
+2. Sélectionnez **Gérer les**  >    >  **canaux d’équipe** supprimés, puis **sélectionnez Restaurer** sur la droite.
 
-Pour plus d'informations sur la restauration d'une équipe, voir Archiver ou supprimer une équipe dans [Microsoft Teams - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Pour plus d’informations sur la restauration d’une équipe, voir Archiver ou supprimer [une équipe dans Microsoft Teams - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

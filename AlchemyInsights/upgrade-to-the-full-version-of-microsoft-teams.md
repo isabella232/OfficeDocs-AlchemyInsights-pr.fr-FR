@@ -1,5 +1,5 @@
 ---
-title: Effectuer une mise à niveau vers la version complète de Microsoft teams
+title: Mettre à niveau vers la version complète de Microsoft Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919601"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Effectuer une mise à niveau vers la version complète de Microsoft teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Mettre à niveau vers la version complète de Microsoft Teams
 
-Vous avez besoin d’effectuer une mise à niveau à partir de la version gratuite vers la version complète de Microsoft teams ? Consultez la rubrique [mise à niveau gratuite de Microsoft teams vers la version d’abonnement microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Vous devez mettre à niveau la version gratuite vers la version complète de Microsoft Teams ? Voir [Mise à niveau Microsoft Teams gratuite vers la version Microsoft 365 abonnement](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Vous devez respecter les conditions suivantes :
+Vous devez répondre aux exigences ci-après :
 
-- Vous êtes la personne qui a souscrit à la version gratuite actuelle de teams.
-- Si vous avez votre propre domaine, il ne peut pas être associé à Azure Active Directory.
-- Pour transférer des données lors de la mise à niveau, vous devez vous abonner pendant le processus de mise à niveau. Si vous avez acheté un abonnement en dehors du processus de mise à niveau, vous ne pouvez pas transférer de données.
+- Vous êtes la personne qui s’est inscrite à la version gratuite actuelle de Teams.
+- Si vous avez votre propre domaine, il ne peut pas déjà être associé à Azure Active Directory.
+- Pour transférer des données lors de la mise à niveau, vous devez vous abonner au cours du processus de mise à niveau. Si vous avez acheté un abonnement en dehors du processus de mise à niveau, vous ne pouvez pas transférer de données.
