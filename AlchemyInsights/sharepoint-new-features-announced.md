@@ -1,5 +1,5 @@
 ---
-title: Nouvelles fonctionnalités SharePoint annoncées
+title: SharePoint nouvelles fonctionnalités annoncées
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31d6370b3f9232efa282426799293a08a45c638077ef60ad00bd11140e4c3d1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093914"
 ---
-# <a name="sharepoint-new-features-announced"></a>Nouvelles fonctionnalités SharePoint annoncées
+# <a name="sharepoint-new-features-announced"></a>SharePoint nouvelles fonctionnalités annoncées
 
-Lors de la Conférence enflamme 2018, Microsoft a annoncé de nouvelles innovations pour SharePoint, notamment de nouvelles fonctionnalités pour les portails modernes, de nouveaux composants WebPart, de nombreuses améliorations aux sites hub, lien de News, ciblage de l’audience, disponibilité de nouvelles applications mobiles, connexion avec Teams, et plus encore...
+Lors de la conférence Ignite 2018, Microsoft a annoncé de nouvelles innovations pour SharePoint, notamment de nouvelles fonctionnalités pour les portails modernes, de nouveaux composants Web Part, de nombreuses améliorations apportées aux sites hub, le lien d’actualités, le ciblage du public, la disponibilité de nouvelles applications mobiles, la connexion avec Teams, et bien plus encore...
   
-Pour plus d’informations sur ces fonctionnalités, voir le billet de blog [nouvelles innovations dans SharePoint &amp; Microsoft 365 apporter puissance et simplicité pour la collaboration de contenu.](https://go.microsoft.com/fwlink/?linkid=2026502)
+Pour plus d’informations sur ces fonctionnalités, consultez le billet de blog Sur les nouvelles innovations SharePoint Microsoft 365 la puissance et la simplicité [pour la collaboration de &amp; contenu.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-Votre organisation peut rejoindre le programme de publication ciblée pour accéder en avant-première aux nouvelles fonctionnalités. Consultez [la rubrique Configurer les options de publication standard ou ciblée dans Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).
+Votre organisation peut rejoindre le programme De publication ciblée pour avoir un accès en avant-première aux nouvelles fonctionnalités. Voir [Configurer les options de publication standard](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365)ou ciblée dans Microsoft 365 .
