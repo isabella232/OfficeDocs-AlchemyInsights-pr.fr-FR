@@ -1,5 +1,5 @@
 ---
-title: Créer un dossier dans Outlook sur le Web
+title: Créer un dossier dans Outlook sur le web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000009"
 - "1994"
-ms.openlocfilehash: 85762dad63607ff9e141d275266233687d7bdad2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214f563f51d7e5d73145decb67a77e1cad201ab05098874145691e42b94c65e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961229"
 ---
 # <a name="create-a-folder"></a>Créer un dossier
 
-1. En bas du volet des dossiers dans Outlook sur le Web, sélectionnez **nouveau dossier**. Vous devrez peut-être faire défiler le volet des dossiers vers le bas pour afficher le bouton **nouveau dossier** .
-1. Dans la zone de texte, entrez un nom pour le dossier, puis appuyez sur entrée.
+1. En bas du volet de dossiers de Outlook sur le web, **sélectionnez Nouveau dossier.** Vous devrez peut-être faire défiler le dossier vers le bas pour voir le **bouton Nouveau** dossier.
+1. Dans la zone de texte, entrez un nom pour le dossier, puis appuyez sur Entrée.
 
-Pour en savoir plus, consultez [la rubrique utilisation des dossiers de messages dans Outlook sur le Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Pour plus d’informations, [voir Working with message folders in Outlook sur le web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

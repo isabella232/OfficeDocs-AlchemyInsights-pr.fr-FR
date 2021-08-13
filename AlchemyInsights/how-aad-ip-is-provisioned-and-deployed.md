@@ -1,5 +1,5 @@
 ---
-title: Mise en service et déploiement d’Azure Active Directory Identity Protection
+title: Comment Azure Active Directory Identity Protection est-elle mise en service et déployée ?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927857"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Comment la protection des identités Azure Active Directory est-elle configurée et déployée ?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Comment Azure Active Directory identity protection est-elle mise en service et déployée ?
 
-Par défaut, les fonctionnalités de la protection des identités Azure Active Directory sont activées au niveau du client pour tous les utilisateurs au sein du client.
+Par défaut, les fonctionnalités de Azure Active Directory Identity Protection sont activées au niveau du client pour tous les utilisateurs au sein du client.
 
-Pour en savoir plus, consultez la rubrique [qu’est-ce que Azure Active Directory Identity Protection ?](https://go.microsoft.com/fwlink/?linkid=2130395)
+Pour en savoir plus, [consultez la Azure Active Directory Identity Protection ?](https://go.microsoft.com/fwlink/?linkid=2130395)
