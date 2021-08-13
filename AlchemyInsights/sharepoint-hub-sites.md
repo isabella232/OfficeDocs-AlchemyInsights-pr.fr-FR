@@ -11,16 +11,16 @@ ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: 99e4cc09df3e7e687e192069c09af229202b55af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d95c282ef6b6fb33736cce1bd8112476639cb0ecacc04a99e06869bf3feb830f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093748"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>Présentation des sites hub SharePoint
 
-Les sites hub SharePoint vous aident à répondre aux besoins de votre organisation en connectant et en organisant des sites en fonction d’un projet, d’un service, d’une division, d’une région, etc., ce qui facilite la réalisation des tâches suivantes :
+SharePoint sites hub vous aident à répondre aux besoins de votre organisation en connectant et en organisant des sites en fonction d’un projet, d’un service, d’une division, d’une région, etc. ce qui facilite les choses :
 
 - Découvrir du contenu connexe (actualités et activités des autres sites, par exemple).
 
@@ -28,10 +28,10 @@ Les sites hub SharePoint vous aident à répondre aux besoins de votre organisat
 
 - Effectuer des recherches dans tous les sites associés.
 
-Pour plus d’informations sur les sites hub, consultez les rubriques suivantes :
-- [Créer un site hub dans SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Découvrez comment créer un site hub à partir du nouveau centre d’administration ou de PowerShell.
+Pour plus d’informations sur les sites hub, voir les informations suivantes :
+- [Créez un site hub dans SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): découvrez comment créer un site hub à partir du nouveau Centre d’administration ou de PowerShell.
 
-- [Associer un site SharePoint à un site hub](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): en savoir plus sur l’Association de sites existants à un site hub à partir du nouveau centre d’administration ou de PowerShell.
+- [Associer un site SharePoint site hub](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): découvrez comment associer des sites existants à un site hub à partir du nouveau Centre d’administration ou de PowerShell.
 
-- [Supprimer un site hub](https://docs.microsoft.com/sharepoint/remove-hub-site): Découvrez comment supprimer un site Hub existant dans le nouveau centre d’administration ou PowerShell.
+- [Supprimer un site hub](https://docs.microsoft.com/sharepoint/remove-hub-site): découvrez comment supprimer un site hub existant dans le nouveau Centre d’administration ou PowerShell.
 

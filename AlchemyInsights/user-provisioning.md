@@ -1,5 +1,5 @@
 ---
-title: Attribution d’utilisateurs
+title: Provisionnement des utilisateurs
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430749"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971337"
 ---
-# <a name="user-provisioning"></a>Attribution d’utilisateurs
+# <a name="user-provisioning"></a>Provisionnement des utilisateurs
 
 - Utilisez la [fonctionnalité d’approvisionnement](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) à la demande pour mettre en service un utilisateur et obtenir des diagnostics détaillés sur les étapes à suivre.
 - Pour résoudre les problèmes que vous rencontrez lors de l’approvisionnement d’utilisateurs et de groupes, consultez le guide de résolution des problèmes[Aucun utilisateur n'est approvisionné](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).
