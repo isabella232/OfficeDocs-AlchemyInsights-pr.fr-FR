@@ -1,5 +1,5 @@
 ---
-title: Outlook n’accepte pas votre mot de passe Gmail
+title: Outlook N’acceptera pas votre mot de passe Gmail
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924659"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook n’accepte pas votre mot de passe Gmail
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook n’acceptera pas votre mot de passe Gmail
 
-Nous vous recommandons d’activer l’authentification à deux facteurs et d’utiliser un mot de passe d’application.
+Nous vous recommandons d’allumer l’authentification à deux facteurs et d’utiliser un mot de passe d’application.
 
-Pour activer l’authentification à deux facteurs et obtenir un mot de passe d’application, procédez comme suit.
+Pour activer l’authentification à deux facteurs et obtenir un mot de passe d’application, utilisez les étapes suivantes.
 
-1. Accédez à Gmail à partir de votre navigateur, puis cliquez sur icône **Google Apps** dans le coin supérieur droit de l’écran.
-1. À gauche, cliquez sur **sécurité**.
-1. Sous se connecter à Google, si la **vérification en deux étapes** est **désactivée**, cliquez sur la **>** flèche **ON** en regard de **Désactiver** pour l’activer. Sinon, passez à l’étape 4.
-1. Dans le premier écran, cliquez sur **Continuer**.
-1. Si vous y êtes invité, entrez votre mot de passe Gmail, puis cliquez sur **suivant**.
-1. Entrez votre numéro de téléphone et indiquez si vous souhaitez recevoir vos codes de vérification par message texte ou par appel téléphonique.
-1. Cliquez sur **suivant**.
-1. Entrez le code que vous avez reçu, puis cliquez sur **suivant**.
-1. Cliquez sur **activer** pour terminer la configuration de la vérification en deux étapes.
-1. Revenez à l’écran précédent en cliquant sur la flèche gauche en haut de l’écran, à côté de **vérification en deux étapes**.
-1. Sélectionnez l' **>** extrémité droite de la ligne de **mots de passe d’application** .
-1. Entrez votre mot de passe Google, puis cliquez sur **se connecter**. Au bas de l’écran suivant, cliquez sur **messagerie** et **ordinateur Windows** dans la liste déroulante, puis cliquez sur **générer**.
+1. Go to Gmail from your browser and click **Google apps** icon in the upper-right corner of the screen.
+1. Sur la gauche, cliquez sur **Sécurité.**
+1. Under Signing into Google, if **2-Step Verification** is **OFF**, click the **>** next to **OFF** to turn it **ON**. Dans le cas contraire, passez à l’étape 4.
+1. Sur le premier écran, cliquez sur **CONTINUER**.
+1. Si vous y êtes invité, entrez votre mot de passe Gmail, puis cliquez sur **NEXT**.
+1. Entrez votre numéro de téléphone et sélectionnez si vous souhaitez recevoir vos codes de vérification par SMS ou par appel téléphonique.
+1. Cliquez **sur NEXT**.
+1. Entrez le code que vous avez reçu et cliquez sur **NEXT**.
+1. Cliquez **sur ACTIVER pour** terminer la configuration de la vérification en deux étapes.
+1. Revenir à l’écran précédent en cliquant sur la flèche gauche en haut de l’écran en haut de la vérification en **deux étapes.**
+1. Sélectionnez **>** l’à l’extrême droite de la ligne **Mots de passe de l’application.**
+1. Entrez votre mot de passe Google, puis cliquez **sur Se connectez.** En bas de l’écran  suivant, cliquez sur Courrier **et Windows ordinateur** dans les listes de listes, puis cliquez sur **Générer.**
 Google will display an app password for you. 
-13. Copiez ce mot de passe (sans les espaces) et entrez ce mot de passe quand Outlook vous invite à entrer un mot de passe.
+13. Copiez ce mot de passe (sans espaces) et entrez ce mot de passe lorsque Outlook vous invite à entrer un mot de passe.
 
-Pour plus d’informations, consultez [la rubrique ajouter un compte Gmail à Outlook-Outlook (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Pour plus d’informations, voir Ajouter un compte [Gmail à Outlook - Outlook (microsoft.com).](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

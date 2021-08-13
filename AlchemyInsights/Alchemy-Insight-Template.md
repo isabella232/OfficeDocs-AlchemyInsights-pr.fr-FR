@@ -1,5 +1,5 @@
 ---
-title: identique au nom de fichier recommandé
+title: le même nom de fichier est préférable
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918893"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>« En-tête Alchemy obligatoire H1, H2's ne fonctionne pas. »
-Meilleures pratiques et instructions pour la création de Alchemy :
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>« En-tête Alchemy obligatoire H1, les H2 ne fonctionnent pas. »
+Meilleures pratiques et instructions pour la authory Alchemy :
 
-1. **Ne pas imbriquer les informations Alchemy dans les dossiers**: cette opération va rompre la structure de l’URL. Nous nous penchons sur cette correction.
-1. Les fichiers dans le dossier **AlchemyInsights** doivent avoir des caractères en minuscules avec des traits d’Union pour les espaces ex. ***procédure d’activation-conservation pour litige***.
-    1. Incluez l’ID de la règle ou l’ID du compartiment à partir du [portail du partenaire Alchemy](https://alchemyportal.azurewebsites.net) dans le champ ms. Custom. ex. ***ms. Custom : 100021***
+1. **N’imbriez pas** les Informations alchemin dans les dossiers , ce qui va rompre la structure de l’URL. Nous cherchons à résoudre ce problème.
+1. Les fichiers **du dossier AlchemyInsights** doivent avoir des noms de fichiers minuscules avec des tirets pour les espaces ex. **_procédure d’activer-la-attente pour litige._**
+    1. Incluez l’ID de règle ou l’ID de compartiment du portail [Partenaire Alchemy](https://alchemyportal.azurewebsites.net) dans le champ ms.custom. ex. ***ms.custom: 100021***
 1. Utilisez le reste des métadonnées en haut de ce fichier comme modèle.
-1. Dans le [portail du partenaire Alchemy](https://alchemyportal.azurewebsites.net), accédez à la section **titre du service client :** et utilisez-la comme point de départ pour votre titre H1 pour la vue d’analyse. 
+1. Dans le [portail partenaire Alchemy,](https://alchemyportal.azurewebsites.net)accédez à la section **Titre** de l’insight client : et utilisez-le comme point de départ pour votre titre H1 pour l’aperçu. 
     > [!NOTE]
-    > Alchemy Insights ne doit avoir qu’un seul H1 en haut ou ils seront interrompus en production. H2s ne pas afficher de manière à utiliser le **gras** ou d’autres conventions pour signifier des sections distinctes.
-1. Ensuite, renseignez le corps de texte à l’aide de l’élément brouillon dans la section informations client de la page de la règle Alchemy.
-    1. Les listes à puces conviennent parfaitement
-    1. Listes numérotées
-    1. **Gras** et *italique* sont un-OK
-    1. Les liens doivent toujours être **« liens vers le Web »/External** ou **des liens détaillés vers les éléments de l’interface utilisateur**, pas les liens internes.
-    1. Les images ne sont pas officiellement prises en charge pour le moment, mais elles figurent dans la feuille de route.
+    > Alchemy Informations DOIT avoir qu’un seul H1 en haut, sinon ils seront en rupture de production. Les H2 ne s’affichent pas. Utilisez donc des conventions en gras ou d’autres pour signer des sections distinctes. 
+1. Ensuite, remplissez le corps de texte à l’aide du document de brouillon dans la section Insights client de la page Règle d’alchemy
+    1. Les listes à puces sont corrects
+    1. Listes numéroées également
+    1. **Gras** et *italique* sont a-ok
+    1. Les liens doivent toujours être des « liens vers le web » **/externes** ou des liens profonds vers des éléments d’interface **utilisateur,** et non des liens internes.
+    1. Les images ne sont pas officiellement prises en charge pour le moment, mais elles sont dans la feuille de route.
 
-Et cela est déjà un peu trop long. La meilleure pratique est de 400 caractères---------------------------------
+Et c’est déjà un peu trop long. La meilleure pratique est d’environ 400 caractères ---------------------------------
 
-Une fois que votre contenu est prêt, tirez-le vers la branche Live. Ensuite, accédez au [portail du partenaire Alchemy](https://alchemyportal.azurewebsites.net) et entrez le nom du fichier dans le champ URL. 
+Une fois votre contenu prêt, tirez-le vers la branche en direct. Ensuite, go to the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) and enter the filename into the url field. 
