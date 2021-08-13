@@ -14,18 +14,18 @@ ms.custom:
 - "9006495"
 - "6903"
 - "11118"
-ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
-ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
+ms.openlocfilehash: 12f8aabae40fc1caa3e27a62f14b8b60b73d83d95d7ce95a7101bcc4379e4fbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52312402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922213"
 ---
 # <a name="run-microsoft-edge-in-kiosk-mode"></a>Exécuter Microsoft Edge en mode plein écran
 
 Vous pouvez configurer le mode plein écran Microsoft Edge versions 87 et ultérieures, ainsi que dans Version antérieure de Microsoft Edge versions 45 et antérieures. Pour plus d’informations, [voir Configurer Microsoft Edge mode plein écran.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Vous pouvez configurer les appareils qui s’exécutent Windows 10 pour qu’ils s’exécutent en mode plein écran d’application unique ou [multi-application.](https://go.microsoft.com/fwlink/?linkid=2133659)
+Vous pouvez configurer les appareils qui s’exécutent sur Windows 10 pour qu’ils s’exécutent en mode plein écran d’application unique ou [multi-application.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
 Pour plus d’informations sur la configuration du mode plein écran dans la dernière version du canal stable Microsoft Edge et dans Version antérieure de Microsoft Edge, voir :
 

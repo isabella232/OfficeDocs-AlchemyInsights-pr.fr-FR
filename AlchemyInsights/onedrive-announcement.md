@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 53f58f2f506a6bb8e8956b14243c7624e75208b4b486b0722c40ab895a303796
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984927"
 ---
 # <a name="one-drive-announcement"></a>One Drive announcement
 
-Stockez automatiquement des fichiers et des photos, afin que vous y accédiez toujours même si votre PC est perdu, endommagé ou volé. [Configurer la back up du dossier PC OneDrive gratuit.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
+Stockez automatiquement des fichiers et des photos, afin que vous y accédiez toujours même si votre PC est perdu, endommagé ou volé. [Configurer la OneDrive dossier PC.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
