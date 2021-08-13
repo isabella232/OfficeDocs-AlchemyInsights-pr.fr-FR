@@ -1,5 +1,5 @@
 ---
-title: 414 expérience de recherche mise à jour
+title: Expérience de recherche 414 mise à jour
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -14,13 +14,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c0386b821e16226a50e49410fdbd23a8da02ac74b4967adf7409f93c49d8068
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958547"
 ---
 # <a name="search-experience-updated"></a>Expérience de recherche mise à jour
 
-La recherche est désormais située en bas de l’application. En appuyant dessus, vous bénéficiez d’un accès direct à vos contacts principaux, aux itinéraires de voyage à venir, aux livraisons de package et aux pièces jointes récentes. Vous pouvez rechercher des messages électroniques, des fichiers et des contacts dans l’un de vos comptes à partir d’une seule zone de recherche ou utiliser nos nouveaux filtres pour affiner votre recherche.
+La recherche se trouve maintenant au bas de l’application. Appuyer dessus vous permet d’accéder directement à vos contacts principaux, itinéraires de voyage à venir, livraisons de package et pièces jointes récentes. Vous pouvez rechercher des messages électroniques, des fichiers et des contacts dans l’un de vos comptes à partir d’une seule zone de recherche ou utiliser nos nouveaux filtres pour affiner votre recherche.

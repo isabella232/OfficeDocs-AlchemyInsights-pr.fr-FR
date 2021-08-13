@@ -13,28 +13,28 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e72766f441e210a81fcfd6c07b1801f6c0474afb02a70edf2ad8dbb571f3d2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974955"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Déplacer le courrier électronique vers la boîte aux lettres d’archivage
 
-Si vous souhaitez que nous puissions exécuter des vérifications automatiques pour les paramètres mentionnés ci-dessous, sélectionnez le bouton précédent <--en haut de cette page, puis entrez l’adresse de messagerie de l’utilisateur qui rencontre des problèmes lors du transfert du courrier électronique vers sa boîte aux lettres d’archivage.
+Si vous souhaitez que nous 2007-2016 exécutez des vérifications automatisées pour les paramètres mentionnés ci-dessous, sélectionnez le bouton Retour <- en haut de cette page, puis entrez l’adresse e-mail de l’utilisateur qui a des difficultés à déplacer le courrier vers sa boîte aux lettres d’archivage.
 
-1. Vérifiez qu’une **boîte aux lettres d’archivage** a été activée. Si ce n’est pas le cas, suivez les étapes décrites dans [cet article](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) pour activer la boîte aux lettres d’archivage.
+1. Confirmez **qu’une boîte aux lettres** d’archivage a été activée. Si ce n’est pas le cas, utilisez les étapes [de cet article](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) pour activer la boîte aux lettres d’archivage.
 
-2. Pour archiver automatiquement les messages dans la boîte aux lettres d’archivage, une balise de rétention avec l’action **déplacer vers l’archive** doit être définie sur **appliqué automatiquement à la balise de boîte aux lettres (par défaut) entière**. Suivez les étapes ci-dessous pour créer la balise : [archive default](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Pour archiver les messages automatiquement dans la boîte aux lettres d’archivage, une balise de rétention avec l’action Déplacer vers **l’archive** doit être définie pour être appliquée automatiquement à la balise de boîte aux lettres entière **(par défaut).** Utilisez les étapes ci-après pour créer la balise : [Archiver la balise par défaut.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)
 
-3. Ensuite, ajoutez la balise **Archive** à votre stratégie de rétention. Dans le centre d’administration Exchange, choisissez **stratégies de Rétention** > ajouter la **balise déplacer vers l’archive** à la stratégie > **Enregistrer**.
+3. Ensuite, ajoutez la **balise Archive** à votre stratégie de rétention. Dans le centre Exchange' administration, sélectionnez Stratégies  de **rétention** > ajouter la balise Déplacer vers l’archive à la stratégie > **Enregistrer.**
 
-4. À présent, [affectez la stratégie de rétention](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) à la boîte aux lettres de l’utilisateur spécifique. La même stratégie sera appliquée à la boîte aux lettres **principale** et à la boîte aux lettres d' **archivage** .
+4. Maintenant, [affectez la stratégie de](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) rétention à la boîte aux lettres de l’utilisateur spécifique. La même stratégie sera appliquée à la boîte aux lettres **principale** et à la boîte **aux lettres d’archivage.**
 
-Il peut s’avérer nécessaire de forcer l’Assistant dossier géré à exécuter et d’appliquer les nouveaux paramètres à la boîte aux lettres de l’utilisateur. Exécutez la commande suivante lorsque [vous êtes connecté à exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) pour démarrer l’Assistant dossier géré pour une boîte aux lettres spécifique :
+Il peut être nécessaire de forcer l’Assistant Dossier géré (MFA) à s’exécuter et à appliquer les nouveaux paramètres à la boîte aux lettres de l’utilisateur. Exécutez la commande suivante lorsque vous [êtes connecté à EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) pour démarrer l’Assistant Dossier géré pour une boîte aux lettres spécifique :
   
-Start-ManagedFolderAssistant-Identity <name of the mailbox>
+Start-ManagedFolderAssistant -Identity <name of the mailbox>
 
-Pour plus d’informations sur la configuration d’une stratégie d’archivage, consultez la rubrique [configurer une stratégie d’archivage et de suppression pour les boîtes aux lettres](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Pour plus d’informations sur la configuration d’une stratégie d’archivage, voir Configurer une stratégie [d’archivage](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)et de suppression pour les boîtes aux lettres.
   

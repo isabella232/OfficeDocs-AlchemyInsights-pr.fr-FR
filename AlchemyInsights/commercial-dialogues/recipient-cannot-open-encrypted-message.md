@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967151"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Résoudre le problème d’affichage des messages protégés dans Outlook
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Résolution du problème d’affichage des messages protégés dans Outlook
 
 Si un destinataire a des difficultés à ouvrir un message chiffré, assurez-vous que le destinataire clique sur le lien dans le message pour demander un code secret à une seule fois.
 
@@ -35,6 +35,6 @@ Pour ouvrir des messages chiffrés, les utilisateurs doivent suivre les étapes 
 
 3. Cliquez **sur Continuer** pour lire le message.
 
-Pour plus d’informations, voir Envoyer, afficher et répondre à des messages chiffrés [dans Outlook pour PC.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
+Pour plus d’informations, voir [Envoyer, afficher et](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)répondre à des messages chiffrés Outlook pc.
 
 
