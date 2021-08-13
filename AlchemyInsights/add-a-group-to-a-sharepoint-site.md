@@ -1,5 +1,5 @@
 ---
-title: Ajouter un groupe à un site SharePoint
+title: Ajouter un groupe à un site SharePoint site
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,39 +12,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936955"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Ajouter un groupe à un site SharePoint
+# <a name="add-a-group-to-a-sharepoint-site"></a>Ajouter un groupe à un site SharePoint site
 
-Certains sites d’équipe SharePoint (y compris ceux créés dans Microsoft Teams) sont gérés par les propriétaires de groupe Microsoft 365. Les sites et le contenu SharePoint peuvent également être partagés avec les groupes Microsoft 365, ainsi qu’avec les groupes SharePoint. Un groupe SharePoint est un ensemble d’utilisateurs qui ont le même ensemble d’autorisations pour les sites et le contenu. Pour les sites classiques, nous vous recommandons d’utiliser des groupes pour attribuer facilement le même niveau d’autorisation à de nombreux utilisateurs à la fois au lieu d’affecter des autorisations une personne à la fois.
+Certains SharePoint sites d’équipe (y compris ceux créés dans Microsoft Teams) sont gérés par Microsoft 365 de groupe. SharePoint sites et le contenu peuvent également être partagés avec Microsoft 365 groupes et avec SharePoint groupes. Un groupe SharePoint est un ensemble d’utilisateurs qui ont tous le même ensemble d’autorisations pour les sites et le contenu. Pour les sites classiques, nous vous recommandons d’utiliser des groupes pour attribuer facilement le même niveau d’autorisation à de nombreuses personnes à la fois au lieu d’attribuer des autorisations une personne à la fois.
   
-Gérer les membres du groupe Microsoft 365 :
+Gérez Microsoft 365 membres du groupe :
   
-1. Accédez à la [page groupes dans le centre d’administration Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Go to the [Groups page in the Centre d’administration Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Sélectionnez un groupe pour afficher ses propriétaires et ses membres. Pour ajouter ou supprimer des personnes, cliquez sur le lien **modifier** dans la ligne **propriétaires** ou **membres** . 
+2. Sélectionnez un groupe pour voir ses propriétaires et ses membres. Pour ajouter ou supprimer des personnes, cliquez sur **le** lien Modifier dans la ligne **Propriétaires** **ou** membres. 
     
-Partagez un site de communication avec un groupe Microsoft 365 :
+Partagez un site de communication avec un Microsoft 365 groupe :
   
-1. Accédez au site dans un navigateur et cliquez sur **partager le site** dans le coin supérieur droit. 
+1. Go to the site in a browser and click **Share site** in the upper right. 
     
-2. Entrez le nom du groupe, puis sélectionnez le niveau d’autorisation (lecture, modification ou contrôle total).
+2. Entrez le nom du groupe, puis sélectionnez le niveau d’autorisation (Lecture, Modification ou Contrôle total).
     
-Créez un groupe SharePoint à utiliser avec un site classique :
+Créez un SharePoint à utiliser avec un site classique :
   
-1. Accédez au site dans un navigateur, puis cliquez sur l’icône des paramètres dans le coin supérieur droit.
+1. Go to the site in a browser and click the Paramètres icon in the upper right.
     
-2. Cliquez sur **paramètres du site**, puis sous **utilisateurs et autorisations**, cliquez sur **autorisations de site**.
+2. Cliquez **sur Paramètres du site,** puis sous **Utilisateurs et autorisations,** cliquez **sur Autorisations du site.**
     
-3. Sous l’onglet autorisations, cliquez sur **créer un groupe**.
+3. Sous l’onglet Autorisations, cliquez sur **Créer un groupe**.
     
-[Connecter un site d’équipe classique à un nouveau groupe Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Connecter site d’équipe classique à un nouveau groupe Microsoft 365 groupe](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[En savoir plus sur l’utilisation des groupes SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
+[En savoir plus sur l’SharePoint groupes](https://go.microsoft.com/fwlink/?linkid=874658)
   
 
