@@ -1,5 +1,5 @@
 ---
-title: Plans d'étage
+title: Plans d’étage
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 330d778f54567ada5a2408a4e6ca1984f4380e37948e98e9ccda7c3f1c8cb30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992874"
 ---
-# <a name="floor-plans"></a>Plans d'étage
+# <a name="floor-plans"></a>Plans d’étage
 
-Pour plus d'informations sur les plans d'étage Microsoft Search (recherche **Microsoft),**  lisez les articles de support suivants :
-- [Meilleures pratiques pour les plans d'étage Microsoft Search (recherche Microsoft)](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [Gérer les plans d'étage](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Pour plus d'informations sur la création d'un plan d'étage  **dans Visio,** voir [Créer un plan d'étage](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+Pour plus d’informations **Recherche Microsoft** plans d’étage, lisez les articles de support suivants :
+- [Meilleures pratiques en matière Recherche Microsoft plans d’étage](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [Gérer les plans d’étage](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- Pour plus d’informations sur la création d’un plan d’étage **dans Visio**, voir Créer un [plan d’étage](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

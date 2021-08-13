@@ -1,5 +1,5 @@
 ---
-title: Installation et référence du module Microsoft teams PS
+title: Teams Installation et référence du module PS
 ms.author: heidip
 author: heidip
 manager: serdards
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956543"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Ce que vous pouvez faire avec le module PowerShell Microsoft teams
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Ce que vous pouvez accomplir avec Microsoft Teams module PowerShell
 
-Si vous avez besoin de savoir comment installer le module PowerShell Teams, vous pouvez consulter [ce blog](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
+Si vous avez besoin de savoir comment installer Teams module PowerShell, vous pouvez consulter [ce blog.](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)
 
-Pour plus d’informations :
+En savoir plus :
 
-- Consultez la [vue d’ensemble de teams PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) pour comprendre les [fonctionnalités de rôle d’administrateur](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [créer et gérer des équipes via PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell), et [gérer les stratégies](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) ou les [configurations](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
-- Consultez la [référence de la commande PowerShell Microsoft teams](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) pour obtenir la liste des commandes disponibles via PowerShell. 
+- Examinez la Teams vue d’ensemble [de PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) pour comprendre les fonctionnalités de rôle d’administrateur, [](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)créer et gérer des équipes via [PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)et gérer des stratégies [ou](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) des [configurations.](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) 
+- Examinez la [Microsoft Teams de commande PowerShell](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) pour obtenir la liste des commandes disponibles via PowerShell. 
