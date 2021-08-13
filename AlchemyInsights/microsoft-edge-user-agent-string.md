@@ -1,5 +1,5 @@
 ---
-title: Chaîne de l’agent utilisateur Microsoft Edge (bureau)
+title: Microsoft Edge de l’agent utilisateur (Bureau)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975999"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Chaîne de l’agent utilisateur Microsoft Edge (bureau)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge de l’agent utilisateur (Bureau)
 
-Les chaînes de l’agent utilisateur (UA) permettent de détecter la version d’un navigateur spécifique utilisée sur un certain système d’exploitation. Comme les autres navigateurs, Microsoft Edge inclut ces informations dans l’en-tête HTTP « User-agent » chaque fois qu’il effectue une demande à un site. Les informations de version du navigateur sont également accessibles via JavaScript en interrogeant la valeur de « Navigator. userAgent ».
+Les chaînes de l’agent utilisateur peuvent être utilisées pour détecter la version d’un navigateur spécifique utilisée sur un certain système d’exploitation. Comme d’autres navigateurs, Microsoft Edge inclut ces informations dans l’en-tête HTTP « Agent utilisateur » chaque fois qu’il effectue une demande d’accès à un site. Les informations sur la version du navigateur sont également accessibles via JavaScript en interrogeant la valeur de « navigator.userAgent ».
 
-Nous recommandons aux développeurs Web d’utiliser la détection de fonctionnalité chaque fois que cela est possible pour améliorer la facilité de gestion du code, réduire les Fragility de code et éliminer le risque de rupture du code en cas de mise à jour ultérieure des chaînes UA.
+Nous recommandons aux développeurs web d'utiliser la détection des fonctionnalités chaque fois que possible afin d'améliorer la maintenabilité du code, de réduire sa fragilité et d'éliminer le risque de rupture du code en cas de futures mises à jour de la chaîne de l'agent utilisateur.
 
-Pour plus d’informations, consultez la rubrique [Microsoft Edge user agent String (bureau)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Pour plus d’informations, consultez [Chaîne de l'agent utilisateur de Microsoft Edge (Bureau)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).

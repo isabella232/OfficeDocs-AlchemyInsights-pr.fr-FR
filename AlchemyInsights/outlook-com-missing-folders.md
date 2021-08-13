@@ -1,5 +1,5 @@
 ---
-title: Dossiers manquants Outlook.com
+title: Outlook.com Dossiers manquants
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ede5d5a7dede4356e20af57740440ce8773d27ddc97de699466ad05c1c7a4bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984063"
 ---
 # <a name="find-missing-folders"></a>Rechercher les dossiers manquants
 
-Il se peut que certains utilisateurs ne puissent pas voir le volet de dossiers de gauche lors de l’affichage sur un petit écran.
+Certains utilisateurs peuvent ne pas être en mesure de voir le volet de dossiers gauche lors de l’affichage sur un petit écran.
 
-- Si vous ne voyez pas le volet des dossiers, agrandissez la fenêtre de votre navigateur ou faites défiler vers la gauche pour afficher la liste des dossiers.
-- Développez le volet de dossiers uniquement lorsque vous en avez besoin. Sélectionnez l’icône à trois lignes dans la barre latérale gauche pour afficher ou masquer les dossiers.
-- Ouvrez les [paramètres de disposition](https://outlook.live.com/mail/options/mail/layout) et sélectionnez Masquer le volet de **lecture** , puis **Enregistrer**. Cette opération donnera davantage d’espace à l’écran pour afficher les dossiers.
+- Si vous ne pouvez pas voir le volet de dossiers, agrandissez la fenêtre de votre navigateur ou faites défiler vers la gauche pour afficher la liste des dossiers.
+- Développez le volet de dossiers uniquement lorsque vous en avez besoin. Sélectionnez l’icône de trois lignes dans la barre de gauche pour afficher ou masquer les dossiers.
+- Ouvrez [les paramètres de disposition](https://outlook.live.com/mail/options/mail/layout) et **sélectionnez Masquer le volet de lecture,** puis **Enregistrer.** L’écran aura ainsi plus d’espace pour afficher les dossiers.
 
-Si vous supprimez accidentellement un dossier, vous pouvez le récupérer s’il se trouve toujours dans votre dossier éléments supprimés. Pour en savoir plus, consultez la [restauration de messages électroniques supprimés dans Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
+Si vous supprimez accidentellement un dossier, vous pouvez le récupérer s’il se trouverait toujours dans votre dossier Éléments supprimés. Pour en savoir plus, consultez La restauration des messages électroniques supprimés [dans Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)

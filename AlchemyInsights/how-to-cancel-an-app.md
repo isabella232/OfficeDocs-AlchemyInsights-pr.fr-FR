@@ -15,16 +15,16 @@ ms.custom:
 - commerce_subscriptions
 - "9000566"
 - "2424"
-ms.openlocfilehash: 898bdd2831d10c77585143b7ce8f574f516dc0d9
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 504d0af989d93130bca0d91183cbfe608b76fd95d88f46af465e87cff1f052df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926459"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>Comment annuler des applications logicielles en tant que service
 
-1. Dans le Centre d’administration, dans la page **Facturation**  >  [de vos produits.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. Dans le Centre d’administration, dans la page   >  [Facturation de vos produits.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Dans la page **Produits,** faites défiler vers le bas jusqu’à la section **Applications** et recherchez l’abonnement à annuler. 
 3. Sélectionnez les trois points (autres actions), puis sélectionnez **Annuler l'abonnement**.
 4. Dans le volet **Annuler l'abonnement**, choisissez la raison pour laquelle vous annulez. Si vous le souhaitez, vous pouvez fournir des commentaires.
