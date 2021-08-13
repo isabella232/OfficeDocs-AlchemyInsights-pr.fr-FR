@@ -1,5 +1,5 @@
 ---
-title: 607 utilitaire de résolution des problèmes de disponibilité
+title: 607 Troubleshooter free/busy
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987681"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Étapes de dépannage pour la disponibilité du calendrier (disponible/occupé)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Étapes de résolution des problèmes de disponibilité du calendrier (disponibilité)
 
-En règle générale, le meilleur outil pour résoudre les problèmes de disponibilité est l' [Analyseur de connectivité à distance Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) pour déterminer la cause de l’échec. Le RCA vous donnera un enregistrement détaillé de ce qui a fonctionné et des messages d’erreur spécifiques que vous pouvez rechercher pour trouver des solutions. Elle comporte également un lien vers l' [Assistant support et récupération Microsoft](https://diagnostics.office.com/).
+En règle générale, le meilleur outil pour résoudre les problèmes de libre/occupé est Exchange’analyseur de connectivité à distance [(RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) pour voir où il échoue. La rca vous donne un enregistrement détaillé de ce qui a fonctionné et de ce qui a échoué avec des messages d’erreur spécifiques que vous pouvez rechercher pour trouver des solutions. Il possède également un lien vers [l’Assistant Support et récupération Microsoft.](https://diagnostics.office.com/)
 
-Un autre outil utile est l' [outil de vérification du calendrier pour Outlook](https://www.microsoft.com/download/details.aspx?id=28786) si l’utilisateur dispose d’Outlook.
+Un autre bon outil à essayer est l’outil de vérification du [calendrier pour Outlook](https://www.microsoft.com/download/details.aspx?id=28786) si l’utilisateur a Outlook.

@@ -1,5 +1,5 @@
 ---
-title: Notifications d’alerte SharePoint non remises
+title: SharePoint notifications d’alerte non remis
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957899"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Notifications d’alerte SharePoint non remises
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint notifications d’alerte non remis
 
-Vérifiez le dossier de courrier indésirable dans votre courrier électronique, car des alertes pourraient y figurer.
+Veuillez vérifier le dossier COURRIER INDÉSIRABLE dans votre courrier électronique, car parfois des alertes peuvent y être.
 
-Déterminez si **toutes les alertes ne sont pas remises** ou si **une alerte individuelle** d’un fichier ou d’une bibliothèque spécifique n’est pas remise.
+Déterminez **si toutes les alertes ne sont** pas remis ou si une alerte individuelle d’un fichier ou d’une bibliothèque spécifique n’est pas remis. 
 
-- **Les alertes individuelles ne sont pas remises**: si une alerte individuelle d’un fichier ou d’une bibliothèque spécifique n’est pas remise, vous pouvez essayer de la supprimer et de la recréer. Consultez la rubrique [Manage, View, or delete SharePoint Alerts](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) pour recréer l’alerte.
-- **Toutes les alertes ne sont pas remises**: si toutes les alertes provenant de plusieurs fichiers ou bibliothèques ne sont pas remises, consultez le [tableau de bord État du service](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) pour vérifier les avis/incidents susceptibles de se produire avec SharePoint ou Exchange. Le problème peut être lié à la capacité d’alerte ou aux retards d’alertes de SharePoint par le biais d’Exchange. Il est également important de noter si d’autres e-mails sont remis et, si ce n’est pas le cas, le problème est probablement lié à Exchange.
+- **Les alertes individuelles** ne sont pas remis : si une alerte individuelle d’un fichier ou d’une bibliothèque spécifique n’est pas remis, vous pouvez essayer de la supprimer et de la recréer. Voir [Gérer, afficher ou supprimer SharePoint alertes pour](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) recréer l’alerte.
+- Toutes les **alertes** ne sont pas remis : si toutes les alertes [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) de plusieurs fichiers ou bibliothèques ne sont pas remis, visitez le tableau de bord d’état du service pour vérifier les avis/incidents qui peuvent se produire avec SharePoint ou Exchange. Le problème peut se faire avec la fonctionnalité d SharePoint d’alerte ou les retards dans les e-mails par Exchange. Il est également important de noter si d’autres messages électroniques sont remis et, si ce n’est pas le cas, le problème est probablement Exchange retards.
 
-FAQ sur les alertes :
+FAQ sur les alertes :
 
-- Il n’est pas possible d’envoyer des alertes à un groupe de distribution, seuls les groupes Security et O365 sont pris en charge.
-- Vous ne pouvez pas personnaliser les modèles de courrier électronique d’alerte ; vous devez utiliser le flux de travail Microsoft FLOW ou SharePoint Designer pour y parvenir.
+- Il n’est pas possible d’envoyer des alertes au groupe de distribution, seuls les groupes Sécurité et O365 sont pris en charge.
+- Vous ne pouvez pas personnaliser les modèles de courrier d’alerte ; vous devez utiliser Microsoft FLOW ou SharePoint Workflow Designer pour y parvenir.
 
-## <a name="related-topics"></a>Voir aussi
+## <a name="related-topics"></a>Rubriques connexes
 
-Vous souhaitez essayer Microsoft Flow dans SharePoint Online ?
+Vous souhaitez essayer Microsoft Flow dans SharePoint Online ?
 
-- [Créer un flux](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Créer Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint et flux](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint et Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
