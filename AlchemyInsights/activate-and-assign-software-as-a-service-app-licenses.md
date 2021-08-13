@@ -1,5 +1,5 @@
 ---
-title: Activer et attribuer des licences d'application de service logiciel
+title: Activer et attribuer des licences d’application de service logiciel
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af767f4c2ab03ab4d0757b572085ff77d9a2901ddcde61523c7f314b11726f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823209"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938035"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activer et attribuer des licences d'application de service logiciel 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Activer et attribuer des licences d’application de service logiciel 
 
 ## <a name="to-activate-apps"></a>Pour activer des applications
 
-1. Dans le Centre d'administration, allez sur **la**  >  page Facturation de **[vos produits,](https://go.microsoft.com/fwlink/p/?linkid=842054)** puis choisissez **l'onglet** Applications.
+1. Dans le Centre d’administration, allez sur **la**  >  page Facturation de **[vos produits,](https://go.microsoft.com/fwlink/p/?linkid=842054)** puis sélectionnez **l’onglet** Applications.
 
-2. Recherchez et sélectionnez l'application que vous souhaitez gérer.
+2. Recherchez et sélectionnez l’application que vous souhaitez gérer.
 
 3. Sous **Licences,** sélectionnez **Configurer le compte.**  
 
-## <a name="to-assign-app-licenses"></a>Pour attribuer des licences d'application
+## <a name="to-assign-app-licenses"></a>Pour attribuer des licences d’application
 
-1. Dans le Centre d'administration, allez sur **la**  >  page Facturation de **[vos produits,](https://go.microsoft.com/fwlink/p/?linkid=842054)** puis choisissez **l'onglet** Applications.
+1. Dans le Centre d’administration, allez sur **la**  >  page Facturation de **[vos produits,](https://go.microsoft.com/fwlink/p/?linkid=842054)** puis sélectionnez **l’onglet** Applications.
 
-2. Recherchez et sélectionnez l'application que vous souhaitez gérer.  
+2. Recherchez et sélectionnez l’application que vous souhaitez gérer.  
 
-3. Sous **Paramètres & actions,** sélectionnez le lien **Gérer dans le portail de l'éditeur.**
+3. Sous **Paramètres & actions,** sélectionnez le lien gérer dans le portail **de l’éditeur.**
