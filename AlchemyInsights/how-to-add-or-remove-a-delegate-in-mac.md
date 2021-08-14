@@ -1,5 +1,5 @@
 ---
-title: Procédure d’ajout ou de suppression d’un délégué dans Mac
+title: Comment ajouter ou supprimer un délégué dans Mac
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576395"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945371"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Procédure d’ajout ou de suppression d’un délégué dans Mac
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Comment ajouter ou supprimer un délégué dans Mac
 
-Procédez comme suit pour ajouter ou supprimer un délégué dans Mac :
+Pour ajouter ou supprimer un délégué dans Mac, vous pouvez :
 
-**Procédure d’ajout d’un délégué dans Mac**:
+**Comment ajouter un délégué dans Mac**:
 
-1. Dans le menu **Outils** , sélectionnez **comptes**.
-1. Sélectionnez le compte Exchange que vous allez utiliser pour accéder aux éléments délégués, cliquez sur **avancé**, puis sur **délégués**.
-1. Sous **personnes dont je suis le délégué**, cliquez sur **Ajouter**. .
+1. Dans le menu **Outils,** sélectionnez **Comptes.**
+1. Sélectionnez le Exchange que vous utiliserez pour accéder aux éléments **délégués,** cliquez sur **Avancé,** puis sur Délégués .
+1. Sous **Personnes pour qui je suis délégué,** cliquez sur **Ajouter.** .
 1. Tapez le nom de la personne qui vous a ajouté en tant que délégué.
-1. Sélectionnez le nom de la personne dans les résultats de la recherche, puis cliquez sur **Ajouter**.
+1. Sélectionnez le nom de la personne dans les résultats de la recherche, puis cliquez sur **Ajouter.**
  
-**Procédure de suppression d’un délégué dans Mac**:
+**Comment supprimer un délégué dans Mac**:
 
-1. Dans le menu **Outils** , sélectionnez **comptes**.
-1. Sélectionnez le compte Exchange à modifier, cliquez sur **avancé**, puis sur l’onglet * * * * délégués.
-1. Sous **personnes dont je suis le délégué**, sélectionnez la personne pour laquelle vous souhaitez arrêter de déléguer, puis cliquez sur **supprimer**.
+1. Dans le menu **Outils,** sélectionnez **Comptes.**
+1. Sélectionnez Exchange compte que vous souhaitez modifier, cliquez sur **Avancé,** puis sur l’onglet ****Délégués.
+1. Sous **Personnes pour lesquelles je suis délégué,** sélectionnez la personne pour laquelle vous souhaitez arrêter d’être délégué, puis cliquez sur **Supprimer.**

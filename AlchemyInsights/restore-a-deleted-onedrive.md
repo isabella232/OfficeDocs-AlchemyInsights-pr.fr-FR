@@ -1,5 +1,5 @@
 ---
-title: Restaurer un OneDrive supprimé
+title: Restaurer une OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: f7e99a75fdac420cc2cea0ec10be681bcb2b98ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6310e3e225392a911bd1f5ae18dc3d49c6b50f0a32f603ceb60816657d5b3fc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740905"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958907"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Restaurer un OneDrive supprimé
+# <a name="restore-a-deleted-onedrive"></a>Restaurer une OneDrive
 
-Après avoir supprimé un utilisateur, vous pouvez accéder au OneDrive de l’utilisateur par le biais du centre d’administration 365 de Microsoft pendant 30 jours. Les autres utilisateurs peuvent continuer à accéder au contenu partagé de OneDrive pendant la durée que vous avez définie dans le centre d’administration OneDrive. (Pour savoir comment procéder, consultez la rubrique [définir la rétention de fichier par défaut pour les utilisateurs OneDrive supprimés](https://go.microsoft.com/fwlink/?linkid=874267).) Après cela, le OneDrive est déplacé vers la corbeille pendant 93 jours, puis il est supprimé.
+Après avoir supprimé un utilisateur, vous pouvez accéder à sa OneDrive via le Centre d’administration Microsoft 365 pendant 30 jours. D’autres utilisateurs peuvent continuer à accéder au contenu partagé dans le OneDrive pendant la durée que vous avez définie dans le centre d’administration OneDrive de gestion. (Pour savoir comment définir ce paramètre, voir Définir la rétention de fichier par défaut pour les utilisateurs [OneDrive supprimés.)](https://go.microsoft.com/fwlink/?linkid=874267) Après cela, le OneDrive est déplacé vers la Corbeille pendant 93 jours, puis supprimé.
   
-Après les 30 jours initiaux, lorsque l’utilisateur supprimé n’apparaît plus dans le centre d’administration 365 de Microsoft, vous pouvez accéder au OneDrive de l’utilisateur via PowerShell. Pour plus d’informations, consultez [la rubrique Restore a Deleted OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
+Après les 30 premiers jours, lorsque l’utilisateur supprimé n’apparaît plus dans le Centre d’administration Microsoft 365, vous pouvez accéder au compte de l’utilisateur OneDrive via PowerShell. Pour plus d’informations, [voir Restaurer une OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
   
 
