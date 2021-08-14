@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630067"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868416"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Journaux d’audit pour les messages électroniques supprimés
 
@@ -34,6 +34,6 @@ ms.locfileid: "53630067"
 
 Dans les résultats, sélectionnez un enregistrement d’audit. Dans le volant de détails, cliquez sur **Plus d’informations.** Des informations supplémentaires sur l’élément supprimé (par exemple, la ligne d’objet et l’emplacement de l’élément lors de sa suppression) s’affichent dans le champ **AffectedItems.** La **propriété ClientInfoString** indique si la suppression s’est produite dans Outlook, Outlook sur le web (anciennement Outlook Web App) ou tout autre appareil.
 
-Pour plus d’informations, voir Déterminer qui a installé le forwarding de courrier [pour une boîte aux lettres.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Pour plus d’informations, voir Déterminer qui [a installé le forwarding de courrier pour une boîte aux lettres.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
 **Remarque**: vous ne pouvez pas récupérer les éléments supprimés à l’aide de la fonctionnalité journal d’audit. Pour récupérer des messages supprimés dans Outlook sur le web, voir Récupérer les éléments supprimés [dans Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
