@@ -1,5 +1,5 @@
 ---
-title: Clé de produit Power BI Report Server
+title: Power BI Report Server Clé de produit
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bdc5b186e8de2c2b7c4f84ebd852520ac28274eb3f1baf0dba568cdb6d10e579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973263"
 ---
-# <a name="power-bi-report-server-product-key"></a>Clé de produit Power BI Report Server
+# <a name="power-bi-report-server-product-key"></a>Power BI Report Server de produit
 
-Si vous avez acheté Power BI Premium, dans l'onglet **Paramètres Premium** du portail d'administration Power BI, vous avez accès à votre clé de produit Power BI Report Server. Cette fonction est uniquement disponible pour les administrateurs globaux ou les utilisateurs affectés du rôle d'administrateur de service Power BI.
+Si vous avez acheté Power BI Premium, dans l’onglet **paramètres Premium** du portail d’administration Power BI, vous avez accès à votre clé Power BI Report Server produit. Cette fonction est uniquement disponible pour les administrateurs globaux ou les utilisateurs affectés Power BI rôle d’administrateur de service.
 
-La sélection **de la clé Du serveur** de rapports Power BI affiche une boîte de dialogue contenant votre clé de produit. Vous pouvez le copier et l'utiliser avec l'installation.
+La sélection **Power BI Report Server clé affiche** une boîte de dialogue contenant votre clé de produit. Vous pouvez le copier et l’utiliser avec l’installation.
 
-Si vous avez un contrat sa SQL Server Entreprise, vous pouvez obtenir votre clé de produit à partir du Centre de gestion des licences [en volume.](https://www.microsoft.com/Licensing/servicecenter/)
+Si vous avez un contrat SQL Server Entreprise SA, vous pouvez obtenir votre clé de produit à partir du Centre de gestion des licences [en volume.](https://www.microsoft.com/Licensing/servicecenter/)
 
-Pour plus d'informations : https://docs.microsoft.com/power-bi/report-server/install-report-server
+Pour plus d’informations : https://docs.microsoft.com/power-bi/report-server/install-report-server

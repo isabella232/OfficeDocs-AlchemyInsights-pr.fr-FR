@@ -1,5 +1,5 @@
 ---
-title: Règle DLP pour numss ne fonctionnant pas
+title: Règle DLP pour le non-fonctionnement du SSN
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,26 +13,26 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004980"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>Problèmes liés à DLP avec des numéros de sécurité sociale
+# <a name="dlp-issues-with-social-security-numbers"></a>Problèmes DLP avec les numéros de sécurité sociale
 
 **Important** : dans cette situation sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint Online et OneDrive demeurent très disponibles – Veuillez consulter [Ajustements temporaire des fonctionnalités SharePoint Online](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
 
-**Problèmes liés à DLP avec numéros**
+**Problèmes DLP avec les SSN**
 
-Avez-vous des problèmes avec la **protection contre la perte de données (DLP)** qui ne fonctionnent pas pour le contenu contenant un **numéro de sécurité sociale** lors de l’utilisation d’un type d’informations sensibles dans Microsoft 365 ? Si c’est le cas, assurez-vous que votre contenu contient les informations nécessaires pour ce que la stratégie DLP examine. 
+Avez-vous des problèmes avec la protection contre la perte de données **(DLP)** qui ne fonctionne pas pour le contenu contenant un numéro de sécurité sociale **(SSN)** lors de l’utilisation d’un type d’informations sensibles dans Microsoft 365 ? Si c’est le cas, assurez-vous que votre contenu contient les informations nécessaires à la recherche de la stratégie DLP. 
   
-Par exemple, pour une stratégie de numéro de sécurité sociale configurée avec un niveau de confiance de 85%, les éléments suivants sont évalués et doivent être détectés pour le déclenchement de la règle :
+Par exemple, pour une stratégie SSN configurée avec un niveau de confiance de 85 %, les éléments suivants sont évalués et doivent être détectés pour que la règle se déclenche :
   
-- **[Format :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 chiffres, qui peuvent être dans un modèle mis en forme ou non mis en forme
+- **[Format :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 chiffres, qui peuvent être dans un modèle formaté ou sans mise en forme
 
-- **[Modèle :](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Quatre fonctions recherchent numéros dans quatre modèles différents :
+- **[Modèle :](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Quatre fonctions recherchent des SSN dans quatre modèles différents :
 
   - Func_ssn recherche des numéros de sécurité sociale avec une mise en forme fixe d’avant l’année 2011, mis en forme avec des tirets ou des espaces (ddd-dd-dddd OU ddd dd dddd)
 
@@ -42,15 +42,15 @@ Par exemple, pour une stratégie de numéro de sécurité sociale configurée av
 
   - Func_randomized_unformatted_ssn recherche des numéros de sécurité sociale d’après l’année 2011, avec neuf chiffres consécutifs non mis en forme (ddddddddd)
 
-- **[Checksum :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Non, il n’y a pas de checksum
+- **[Checksum :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Non, il n’y a pas de checksum
 
-- **[Définition :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Une stratégie DLP est sûre à 85% d’avoir détecté ce type d’informations sensibles si, dans une proximité de 300 caractères :
+- **[Définition :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Une stratégie DLP est 85 % de confiance qu’elle a détecté ce type d’informations sensibles si, dans une proximité de 300 caractères :
 
-  - La [fonction Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) trouve le contenu qui correspond au modèle.
+  - La [fonction Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) trouve un contenu qui correspond au modèle.
 
-  - Un mot clé figurant dans la liste [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) est trouvé. Exemples de mots clés :  *Social Security, Social Security #, SOC sec, SSN*  . Par exemple, l’exemple suivant se déclenche pour la stratégie SSN DLP : **SSN : 489-36-8350**
+  - Un mot clé figurant dans la liste [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) est trouvé. Exemples de mots clés :  *Sécurité sociale, Sécurité sociale#, Soc Sec ,SSN*  . Par exemple, l’exemple suivant déclencherait la stratégie SSN DLP : **SSN : 489-36-8350**
   
-Pour plus d’informations sur les éléments requis pour la détection de numéros pour votre contenu, consultez la section suivante de cet article : [ce que recherche les types d’informations sensibles pour numéros](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+Pour plus d’informations sur les informations requises pour détecter les SSN pour votre contenu, voir la section suivante de cet article : Ce que les types d’informations sensibles recherchent pour les [SSN](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-À l’aide d’un type d’informations sensibles intégré différent, consultez l’article suivant pour obtenir des informations sur les éléments requis pour les autres types : [ce que recherche les types d’informations sensibles](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+À l’aide d’un autre type d’informations sensibles intégré, consultez l’article suivant pour plus d’informations sur ce qui est requis pour d’autres types : ce que les [types d’informations sensibles recherchent](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

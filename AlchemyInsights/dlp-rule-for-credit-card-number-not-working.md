@@ -1,5 +1,5 @@
 ---
-title: La règle DLP pour le numéro de carte de crédit ne fonctionne pas
+title: Règle DLP pour le numéro de carte de crédit qui ne fonctionne pas
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,28 +13,28 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005088"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>Problèmes liés à DLP avec les numéros de carte de crédit
+# <a name="dlp-issues-with-credit-card-numbers"></a>Problèmes DLP avec les numéros de carte de crédit
 
 **Important** : dans cette situation sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint Online et OneDrive demeurent très disponibles – Veuillez consulter [Ajustements temporaire des fonctionnalités SharePoint Online](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
 
-**Problèmes liés à DLP avec les numéros de carte de crédit**
+**Problèmes DLP avec les numéros de carte de crédit**
 
-Avez-vous des problèmes avec la **protection contre la perte de données (DLP)** qui ne fonctionnent pas pour le contenu contenant un **numéro de carte bancaire** lors de l’utilisation d’un type d’informations sensibles DLP dans O365 ? Si c’est le cas, assurez-vous que votre contenu contient les informations nécessaires pour déclencher la stratégie DLP lors de son évaluation. Par exemple, pour une **stratégie de carte de crédit** configurée avec un niveau de confiance de 85%, les éléments suivants sont évalués et doivent être détectés pour le déclenchement de la règle :
+Avez-vous des problèmes avec la protection contre la  perte de données **(DLP)** qui ne fonctionne pas pour le contenu contenant un numéro de carte de crédit lors de l’utilisation d’un type d’informations sensibles DLP dans O365 ? Si c’est le cas, assurez-vous que votre contenu contient les informations nécessaires pour déclencher la stratégie DLP lors de son évaluation. Par exemple,  pour une stratégie de carte de crédit configurée avec un niveau de confiance de 85 %, les éléments suivants sont évalués et doivent être détectés pour que la règle se déclenche :
   
-- **[Format :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 chiffres qui peuvent être mis en forme ou non (dddddddddddddddd) et doivent réussir le test Luhn.
+- **[Format :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 chiffres qui peuvent être mis en forme ou sans mise en forme (dddddd) et qui doivent réussir le test luhn.
 
-- **[Modèle :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Modèle très complexe et robuste qui détecte les cartes de toutes les principales marques dans le monde, notamment les cartes Visa, MasterCard, Discover Card, JCB, American Express, les cartes cadeaux et les cartes dîner.
+- **[Modèle :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Modèle très complexe et robuste qui détecte les cartes de toutes les principales marques dans le monde, y compris Visa, MasterCard, Discover Card, JCB, American Express, les cartes-anniversaire et les cartes-mémoire.
 
-- **[Checksum :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Oui, la somme de contrôle Luhn
+- **[Checksum :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Oui, la checksum Luhn
 
-- **[Définition :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Une stratégie DLP est sûre à 85% d’avoir détecté ce type d’informations sensibles si, dans une proximité de 300 caractères :
+- **[Définition :](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Une stratégie DLP est 85 % de confiance qu’elle a détecté ce type d’informations sensibles si, dans une proximité de 300 caractères :
 
   - La fonction Func_credit_card trouve un contenu qui correspond au modèle.
 
@@ -42,19 +42,19 @@ Avez-vous des problèmes avec la **protection contre la perte de données (DLP)*
 
   - Un mot clé figurant dans la liste Keyword_cc_verification est trouvé.
 
-  - Un mot clé depuis Keyword_cc_name est trouvé.
+  - Un mot clé de Keyword_cc_name trouvé
 
   - La fonction Func_expiration_date trouve une date au format correct.
 
-  - Le checksum passe
+  - La passe de contrôle
 
-    Par exemple, l’exemple suivant se déclenche pour une stratégie de numéro de carte de crédit DLP :
+    Par exemple, l’exemple suivant déclencherait une stratégie de numéro de carte de crédit DLP :
 
-  - Visa : 4485 3647 3952 7352
+  - Visa : 4485 3647 3952 7352
   
-  - Date d’expiration : 2/2009
+  - Expire : 2/2009
 
-Pour plus d’informations sur les éléments requis pour la détection d’un **numéro de carte de crédit** pour votre contenu, reportez-vous à la section suivante de cet article : [ce que recherche les types d’informations sensibles pour la carte de crédit #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Pour plus d’informations sur  les informations requises pour détecter un numéro de carte de crédit pour votre contenu, voir la section suivante de cet article : Ce que les types d’informations sensibles recherchent pour la carte [de crédit#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-À l’aide d’un type d’informations sensibles intégré différent, consultez l’article suivant pour obtenir des informations sur les éléments requis pour les autres types : [ce que recherche les types d’informations sensibles](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+À l’aide d’un autre type d’informations sensibles intégré, consultez l’article suivant pour plus d’informations sur ce qui est requis pour d’autres types : ce que les [types d’informations sensibles recherchent](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
