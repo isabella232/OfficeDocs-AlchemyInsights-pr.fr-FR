@@ -1,5 +1,5 @@
 ---
-title: Traitement du hameçonnage dans Outlook.com
+title: Gestion du hameçonnage dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095900"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Comment traiter un courrier électronique de hameçonnage
+# <a name="how-to-deal-with-a-phishing-email"></a>Comment traiter un e-mail de hameçonnage
 
-Une escroquerie de type phishing est un courrier électronique qui semble légitime mais qui tente de voler vos informations personnelles ou votre argent. Les arnaqueurs peuvent également utiliser une technique appelée « usurpation » pour faire en sorte qu’il apparaisse comme si vous aviez reçu un e-mail de vous-même.
+Une tentative de hameçonnage est un e-mail qui semble légitime mais qui est en fait une tentative de vol de vos informations personnelles ou de l’argent. Les scammers peuvent également utiliser une technique appelée usurpation d’adresse pour faire apparaître l’usurpation d’adresse comme si vous avez reçu un e-mail de vous-même.
 
-Si vous recevez un message électronique qui ressemble à une escroquerie de type hameçonnage, vous pouvez le signaler en sélectionnant le message et en sélectionnant **courrier indésirable**  >  **Phishing**.
+Si vous recevez un e-mail qui ressemble à une tentative de hameçonnage, vous pouvez le signaler en sélectionnant le message, puis en sélectionnant   >  **Hameçonnage indésirable.**
 
-*Remarque :* Lorsque vous marquez un message comme hameçonnage, il signale uniquement l’expéditeur.Il empêche l’expéditeur de vous envoyer des messages à l’avenir. Pour bloquer l’expéditeur, vous devez ajouter l’expéditeur à votre liste des expéditeurs bloqués. Pour plus d’informations, consultez la rubrique [bloquer des expéditeurs ou débloquer des expéditeurs dans Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Remarque :* Lorsque vous marquez un message comme hameçonnage, il signale uniquement l’expéditeur. Cela ne bloque pas cet expéditeur de vous envoyer des messages à l’avenir. Pour bloquer l’expéditeur, vous devez ajouter l’expéditeur à votre liste des expéditeurs bloqués. Pour plus d’informations, voir Bloquer les expéditeurs ou débloquer les [expéditeurs dans Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Découvrez comment [gérer les abus, le hameçonnage ou l’usurpation d’identité dans Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) et la [sécurité Outlook.com avancée pour les abonnés de Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Découvrez comment gérer les abus, le hameçonnage ou l’usurpation dans [Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) et la sécurité [Outlook.com](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)avancée pour les abonnés Microsoft 365.

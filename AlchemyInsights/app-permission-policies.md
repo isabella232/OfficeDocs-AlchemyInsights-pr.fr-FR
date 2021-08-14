@@ -1,5 +1,5 @@
 ---
-title: Stratégies d’autorisation de l’application
+title: Stratégies d’autorisation d’application
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951671"
 ---
-# <a name="app-permission-policies"></a>Stratégies d’autorisation de l’application
+# <a name="app-permission-policies"></a>Stratégies d’autorisation d’application
 
-Avec les [stratégies d’autorisation d’application](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies), vous pouvez effectuer les opérations suivantes :
-- En tant qu’administrateur, vous pouvez gérer les stratégies de configuration d’application dans le [Centre d’administration Microsoft teams](https://admin.teams.microsoft.com/policies/app-permission).
-- Contrôlez les applications disponibles pour les utilisateurs de Microsoft teams de votre organisation à l’aide de la stratégie globale ou [créez et attribuez des stratégies personnalisées](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) pour personnaliser et contrôler l’accès des utilisateurs aux applications. 
+Avec [les stratégies d’autorisation](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)d’application, vous pouvez :
+- En tant qu’administrateur, vous pouvez gérer les stratégies de configuration d’application dans [Microsoft Teams centre d’administration.](https://admin.teams.microsoft.com/policies/app-permission)
+- Contrôler les applications disponibles pour les utilisateurs Microsoft Teams de [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) votre organisation à l’aide d’une stratégie globale ou créer et affecter des stratégies personnalisées pour personnaliser et contrôler l’accès des utilisateurs aux applications. 
 > [!NOTE]
-> Les paramètres de l’application à l’échelle de l’organisation remplacent la stratégie globale et les stratégies personnalisées que vous créez et attribuez aux utilisateurs.
-- Vous pouvez utiliser les [stratégies de configuration d’application](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) pour personnaliser Microsoft teams afin de mettre en évidence les applications les plus importantes pour vos utilisateurs. 
+> Les paramètres d’application à l’échelle de l’organisation remplacent la stratégie globale et les stratégies personnalisées que vous créez et affectez aux utilisateurs.
+- Vous pouvez utiliser des [stratégies de configuration](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) d’application pour personnaliser Microsoft Teams pour mettre en évidence les applications les plus importantes pour vos utilisateurs. 
 
 
-Pour plus d’informations sur la création de stratégies d’application pour votre client, voir :
-- [Gérer vos applications dans le centre d’administration Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Gérer les stratégies d’autorisation des applications dans Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Gérer les paramètres et stratégies d’application personnalisés dans Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Pour plus d’informations sur la création de stratégies d’application pour votre client, voir :
+- [Gérer vos applications dans le centre d Microsoft Teams’administration](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Gérer les stratégies d’autorisation d’application dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Gérer les stratégies et paramètres d’application personnalisés dans Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

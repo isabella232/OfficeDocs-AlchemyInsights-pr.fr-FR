@@ -1,5 +1,5 @@
 ---
-title: Outlook.com comment obtenir de l’aide
+title: Outlook.com Comment obtenir de l’aide
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: fe8a3956dbeff811935e976a8d75274f5e736482
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 1d42e026814499c28396913906346b70c6b7299176dea67e0cd420df73a0cda4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096044"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Obtention de la prise en charge dans Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>Comment obtenir une assistance dans Outlook.com
 
-Désolé, Outlook.com ne propose pas de support téléphonique, mais nous disposons de teams dédiés qui peuvent vous aider.
-Entrez votre question ou Décrivez votre problème dans la zone **d’aide** ci-dessus, puis sélectionnez obtenir de l' **aide**.
+Désolé, Outlook.com n’offre pas de support téléphonique, mais nous avons des équipes dédiées qui peuvent vous aider.
+Entrez votre question ou décrivez votre problème dans la zone **d’aide** ci-dessus, puis **sélectionnez Obtenir de l’aide.**
 
-[Obtenir de l’aide sur Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Obtenir de l’aide Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 

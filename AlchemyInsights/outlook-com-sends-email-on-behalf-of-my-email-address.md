@@ -1,5 +1,5 @@
 ---
-title: Outlook.com envoie un courrier électronique « de la part de » de mon adresse de messagerie
+title: Outlook.com envoie un courrier électronique « de la part de » de mon adresse e-mail
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "812"
 - "8000048"
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 2ccc76ee6631ec976fcfa7d61fbc55d1b0866022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2c11a39bcaa54b0d3e449c7a11e63ee05ea23d59d113a0c6767b4ddd6c988f5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063770"
 ---
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com envoie le courrier électronique « de la part de » mon adresse de messagerie
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com envoie un e-mail « de la part de » de mon adresse e-mail
 
-Le courrier électronique envoyé à partir d’un compte connecté indique comme envoyé « de la part de » de votre compte Microsoft. Ce problème est connu et sera résolu dans une version ultérieure. En attendant, vous pouvez modifier votre adresse de l’adresse de manière à ce qu’elle soit identique à celle de votre alias de compte Microsoft principal.
+Le courrier électronique envoyé à partir d’un compte connecté indique qu’il a été envoyé « de la part de » de votre compte Microsoft. This is known issue and will be fixed in a future release. En attendant, vous pouvez modifier votre adresse De pour qu’elle soit identique à votre alias de compte Microsoft principal.
   
-Pour plus d’informations, voir [Outlook.com envoyer un courrier électronique « de la part de » mon adresse de messagerie](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d’informations, voir Outlook.com envoyer un e-mail « de la part de » [de mon adresse e-mail.](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy)

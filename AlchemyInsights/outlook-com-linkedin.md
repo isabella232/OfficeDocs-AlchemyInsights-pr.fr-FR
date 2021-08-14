@@ -1,5 +1,5 @@
 ---
-title: Problèmes avec la revendication du courrier indésirable provenant de LinkedIn
+title: Problèmes avec le courrier indésirable qui prétend être à partir de LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095972"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problèmes avec la revendication du courrier indésirable provenant de LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problèmes avec le courrier indésirable qui prétend être à partir de LinkedIn
 
-Nous sommes conscients que certains utilisateurs reçoivent des courriers indésirables qui sont à l’esprit de LinkedIn.
+Nous savons que certains utilisateurs reçoivent du courrier indésirable qui prétend être de LinkedIn.
 
-Nous vous recommandons d’utiliser une règle de boîte de réception pour filtrer ces messages.
+Nous vous recommandons d’utiliser une règle de boîte de réception pour filtrer ces messages électroniques.
 
-Pour plus d’informations, consultez la procédure d' [utilisation des règles de boîte de réception dans Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d’informations, lisez comment utiliser des règles de boîte [de réception dans Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
