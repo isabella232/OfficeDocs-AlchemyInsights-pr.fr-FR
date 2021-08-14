@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931529"
 ---
 # <a name="application-connection-issues"></a>Problèmes de connexion d’application
 
@@ -27,10 +27,10 @@ ms.locfileid: "50016846"
 
 Pour obtenir de l’aide en cas d’échec de l’installation d’un connecteur, voir Problème d’installation [du connecteur d’agent proxy d’application.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
 
-[Déboguer des problèmes](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) de connecteur de proxy d’application vous permet de résoudre les problèmes avec les connecteurs de proxy d’application Azure Active Directory (Azure AD). Si vous utilisez le service proxy d’application pour l’accès à distance à une application web sur site, mais que vous avez des difficultés à vous connecter à l’application, utilisez cet exemple de flux pour déboguer les problèmes de connecteur.
+[Déboguer des problèmes](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) de connecteur de proxy d’application vous permet de résoudre les problèmes Azure Active Directory de proxy d’application (Azure AD). Si vous utilisez le service proxy d’application pour l’accès à distance à une application web sur site, mais que vous avez des difficultés à vous connecter à l’application, utilisez cet exemple de flux pour déboguer les problèmes de connecteur.
 
 Aucun groupe de [connecteurs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) de travail trouvé pour une application proxy d’application permet de résoudre les problèmes courants rencontrés lorsqu’aucun connecteur n’est détecté pour une application proxy d’application intégrée à Azure Active Directory.
 
 **Résoudre les problèmes d’intégration de Cisco AnyConnect**
 
-Pour découvrir comment intégrer Cisco AnyConnect à Azure Active Directory (Azure AD), voir didacticiel : [Intégration d’Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)avec Cisco AnyConnect .
+Pour découvrir comment intégrer Cisco AnyConnect à Azure Active Directory (Azure AD), voir didacticiel : Azure Active Directory’intégration de l' signature unique [(SSO)](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)avec Cisco AnyConnect .

@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976892"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931447"
 ---
 # <a name="application-errors"></a>Erreurs d’application
 
-Vous recherchez des informations sur les codes d’erreur **AADSTS** renvoyés par le service d’jetons de sécurité (STS) Azure Active Directory (Azure AD) ? Lisez les codes d’erreur d’authentification et d’autorisation [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) pour trouver des descriptions d’erreur, des correctifs et des solutions de contournement AADSTS suggérées.
+Vous recherchez des informations sur les codes d’erreur **AADSTS** renvoyés par le service d’Azure Active Directory (Azure AD) security token service (STS) ? Lisez [Azure AD Authentication codes](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) d’erreur d’autorisation pour rechercher des descriptions d’erreurs AADSTS, des correctifs et des solutions de contournement suggérées.
 
-Les erreurs d’autorisation peuvent être le résultat de plusieurs problèmes différents, dont la plupart génèrent une erreur 401 ou 403. Par exemple, les problèmes suivants peuvent donner lieu à des erreurs d’autorisation :
+Les erreurs d’autorisation peuvent provenir de toutes sortes de problèmes, dont la plupart génèrent une erreur 401 ou 403. Par exemple, les problèmes suivants peuvent donner lieu à des erreurs d’autorisation :
 
 - [Flux d’acquisition de jetons d’accès](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) incorrects 
 - Mauvaise configuration des [étendues d’autorisations](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
 - Absence de [consentement](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-Pour résoudre les erreurs d’autorisation courantes, essayez les étapes ci-dessous qui sont les plus proches de l’erreur que vous recevez. Plusieurs peuvent s’appliquer.
+Pour résoudre les erreurs d’autorisation courantes, essayez les étapes fournies ci-dessous qui correspond le mieux à l’erreur que vous recevez. Plusieurs peuvent s’appliquer.
 
 **Erreur (401) Non autorisé : votre jeton est-il valide ?**
 
@@ -38,7 +38,7 @@ Assurez-vous que votre application présente un jeton d’accès valide à Micro
 
 **Erreur 403 Forbidden : avez-vous choisi le groupe d’autorisations approprié ?**
 
-Vérifiez que vous avez demandé le jeu d’autorisations correct basé sur les API Microsoft Graph que votre application appelle. Les autorisations moins privilégiées recommandées sont fournies dans toutes les rubriques de méthode de référence de l’API Microsoft Graph. Ces autorisations doivent de plus être accordées à l’application par un utilisateur ou un administrateur. L’octroi d’autorisations se produit normalement par l’intermédiaire d’une page de consentement ou par l’octroi d’autorisations en utilisant le panneau d’inscription de l’application sur le portail Azure. Dans le panneau **Paramètres** de l’application, cliquez sur **Autorisations nécessaires**, puis sur **Accorder des autorisations**.
+Vérifiez que vous avez demandé le jeu d’autorisations correct en fonction des API microsoft Graph que votre application appelle. Les autorisations moins privilégiées recommandées sont fournies dans toutes les rubriques de la méthode de référence de l’API microsoft Graph. Ces autorisations doivent de plus être accordées à l’application par un utilisateur ou un administrateur. L’octroi d’autorisations se produit normalement par l’intermédiaire d’une page de consentement ou par l’octroi d’autorisations en utilisant le panneau d’inscription de l’application sur le portail Azure. Dans le panneau **Paramètres** de l’application, cliquez sur **Autorisations nécessaires**, puis sur **Accorder des autorisations**.
 
 - [Autorisations Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
 - [Comprendre les autorisations et le consentement d’Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
@@ -60,11 +60,11 @@ Il n’existe à l’heure actuelle aucune autorisation d’application de servi
 
 **403 Interdit : l’utilisateur a-t-il accès et est-il titulaire d’une licence ?**
 
-Pour les flux de code délégués, Microsoft Graph évalue si la demande est autorisée en fonction des autorisations accordées à l’application et des autorisations dont dispose l’utilisateur. En règle générale, cette erreur indique que l’utilisateur ne dispose pas de privilèges suffisants pour effectuer la demande ou que l’utilisateur ne dispose pas de licence pour l’accès aux données. Seuls les utilisateurs disposant des autorisations ou licences requises peuvent effectuer la demande de manière correcte.
+Pour les flux de code délégués, Microsoft Graph si la demande est autorisée en fonction des autorisations accordées à l’application et des autorisations dont dispose l’utilisateur. En règle générale, cette erreur indique que l’utilisateur ne dispose pas de privilèges suffisants pour effectuer la demande ou que l’utilisateur ne dispose pas de licence pour l’accès aux données. Seuls les utilisateurs disposant des autorisations ou licences requises peuvent effectuer la demande de manière correcte.
 
 **403 Interdit : avez-vous sélectionné l’API de ressources correcte ?**
 
-Les services d’API tels que Microsoft Graph vérifient que la revendication aud (audience) dans le jeton d’accès reçu correspond à la valeur prévue pour elle-même et, si ce n’est pas le cas, une erreur 403 Forbidden se produit. Une erreur courante résultant de cette erreur est d’essayer d’utiliser un jeton acquis pour les API Azure AD Graph, les API Outlook ou les API SharePoint/OneDrive pour appeler Microsoft Graph (ou vice versa). Assurez-vous que la ressource (ou l’étendue) pour laquelle votre application fait l’acquisition d’un jeton correspond à l’API appelée par l’application.
+Les services d’API tels que Microsoft Graph vérifient que la revendication d’aud (audience) dans le jeton d’accès reçu correspond à la valeur prévue pour elle-même, et si ce n’est pas le cas, cela entraîne une erreur 403 Interdit. Généralement, cette erreur peut survenir si vous essayez d’appeler Microsoft Graph en utilisant un jeton acquis pour les API Azure AD Graph, les API Outlook ou les API SharePoint/OneDrive. Assurez-vous que la ressource (ou l’étendue) pour laquelle votre application fait l’acquisition d’un jeton correspond à l’API appelée par l’application.
 
 **400 Demande incorrecte ou 403 Interdit : l’utilisateur satisfait-il aux stratégies d’accès conditionnel (CA) de votre organisation ?**
 
