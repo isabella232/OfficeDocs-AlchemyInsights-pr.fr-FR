@@ -1,5 +1,5 @@
 ---
-title: Ajout d'une superposition à un calendrier SharePoint
+title: Ajout d’une superposition à un calendrier SharePoint’équipe
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822057"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953013"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Ajout d'une superposition à un calendrier SharePoint
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Ajout d’une superposition à un calendrier SharePoint’équipe
 
-Les calendriers SharePoint sont des types de liste classiques qui sont parfois confondus avec les calendriers de groupe Microsoft 365.
+SharePoint Les calendriers sont des types de liste classiques qui sont parfois confondus Microsoft 365 calendriers de groupe.
  
-Si vous utilisez un calendrier SharePoint sur votre site, vous pouvez superposer votre propre calendrier Exchange dessus pour créer un affichage calendrier combiné. Vous pouvez également superposer un autre calendrier SharePoint tant que les deux calendriers SharePoint se trouver dans la même collection de sites.
+Si vous utilisez un calendrier SharePoint votre site, vous pouvez superposer votre propre calendrier Exchange pour créer un affichage calendrier combiné. Vous pouvez également superposer un autre SharePoint tant que les deux SharePoint sont dans la même collection de sites.
  
-Pour ajouter une superposition à un calendrier SharePoint classique, suivez les étapes de superposition d'un calendrier SharePoint avec un calendrier à partir [d'Exchange ou de SharePoint.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)
+Pour ajouter une superposition à un calendrier SharePoint classique, suivez les étapes de superposition d’un calendrier SharePoint avec un calendrier à partir de [Exchange ou SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).

@@ -1,5 +1,5 @@
 ---
-title: URL et adresses IP Microsoft 365
+title: Microsoft 365 URL et adresses IP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,16 +15,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 9f16418ca2aa9c21e320b4263987621a0b1cfb50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 89611ac0a3f39e7317df9719d1ea4a0ab2b9fe13da0ec634bb83190870fe5874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985503"
 ---
 # <a name="microsoft-365-urls-and-ip-address-ranges"></a>URL et plages d’adresses IP Microsoft 365
 
 Microsoft 365 nécessite une connectivité à Internet via des adresses IP spécifiques *appelées points de terminaison.*
-Pour obtenir la liste des points de terminaison qui doivent être accessibles, voir URL et [plages d'adresses IP Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+Pour obtenir la liste des points de terminaison qui doivent être accessibles, voir Microsoft 365 [URL et plages d’adresses IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-Le service web d'URL et d'adresse IP Microsoft 365 vous aide à mieux identifier et différencier le trafic réseau Microsoft 365, ce qui vous permet d'évaluer, de configurer et de rester à jour plus facilement avec les modifications. Consultez [le service web d'URL et d'adresse IP Microsoft 365.](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)
+Le service web d’URL et d’adresse IP Microsoft 365 vous permet d’identifier et de différencier le trafic réseau Microsoft 365, ce qui vous permet d’évaluer, de configurer et de rester à jour plus facilement avec les modifications. Voir [Microsoft 365'adresse IP et le service web d’URL.](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)

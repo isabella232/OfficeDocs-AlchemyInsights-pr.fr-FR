@@ -1,5 +1,5 @@
 ---
-title: 620 ajuster le fuseau horaire et le paramètre de langue dans Outlook sur le Web
+title: 620 Ajuster le fuseau horaire et le paramètre de langue dans Outlook sur le web
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4908bdaa1483b34909e425b39b7a38433f8e193294085e63bf08b267d967424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952931"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Ajuster les paramètres de fuseau horaire et de langue dans Outlook sur le Web
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Ajuster les paramètres de fuseau horaire et de langue dans Outlook sur le web
 
-Pour ajuster les paramètres de fuseau horaire et de langue dans Outlook sur le Web, auxquels vous accédez à l’aide de votre compte professionnel ou scolaire, consultez la rubrique [modifier les paramètres de fuseau horaire et de langue dans Outlook sur le Web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
+Pour ajuster les paramètres de fuseau horaire et de langue dans Outlook sur le web, auquel vous accédez à l’aide de votre compte scolaire ou scolaire, voir Modifier le fuseau horaire et les [paramètres](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)de langue dans Outlook sur le web .
   
