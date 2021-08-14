@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft teams : restauration d’un site d’équipe supprimé'
+title: Microsoft Teams - Restauration d’un site d’équipe supprimé
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,13 +11,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 1b7e1d7aab665c1a529d5bfec8c7fc36bbc73441
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e51b9b34223b3122b59fd602b09103e4ca2e94444679f767e2a7005a9928694
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975459"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Restauration d’une équipe supprimée dans Microsoft teams
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Restauration d’une équipe supprimée dans Microsoft Teams
 
-Avez-vous supprimé accidentellement une équipe ? Si elle a été inférieure à 30 jours depuis que vous avez supprimé l’équipe, vous avez la chance ; vous pouvez le restaurer. Pour ce faire, suivez les étapes ci-dessous : [restaurer une équipe supprimée](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Avez-vous accidentellement supprimé une équipe ? Si cela fait moins de 30 jours que vous avez supprimé l’équipe, vous êtes en chance . vous pouvez le restaurer. Pour ce faire, suivez les étapes ci-après : [Restaurer une équipe supprimée.](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)

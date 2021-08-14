@@ -13,14 +13,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 84ce7c1a31ad3d44b10c892c1d6a1a5ef85de58d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e2b8e8948becbb1ac07ca340fb13038caf16f6093988a894e85e0cefb8a64a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948701"
 ---
 # <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Autorisations de boîte aux lettres déléguées dans un environnement hybride
 
-En fonction de la version d’Exchange que vous avez installée dans votre organisation locale, vous devrez peut-être suivre quelques étapes supplémentaires pour configurer des autorisations de boîte aux lettres déléguée entre votre organisation locale et Exchange Online dans Microsoft 365. Pour plus d’informations sur la configuration des autorisations déléguées, consultez la rubrique [configurer Exchange pour prendre en charge les autorisations de boîte aux lettres déléguée dans un déploiement hybride](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
+Selon la version de Exchange que vous avez installée dans votre organisation sur site, vous devrez peut-être prendre des mesures supplémentaires pour configurer des autorisations de boîte aux lettres déléguées entre votre organisation sur site et Exchange Online dans Microsoft 365. Pour plus d’informations sur la configuration des autorisations déléguées, voir [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
   

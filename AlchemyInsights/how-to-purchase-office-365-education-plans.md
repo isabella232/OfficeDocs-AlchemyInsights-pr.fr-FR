@@ -17,12 +17,12 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 47e00c8390c52dfe4ba1d8643601c113eea5591bed1248f8db6fe6d20cfa13c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e38733ee55b39424c65867ff23deb5282b5de114fc3e2a11a830be2dfba09eeb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501454"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868488"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Comment acheter des plans Office 365 Éducation’achat
 
@@ -38,4 +38,4 @@ Vous êtes éligible à Office 365 Éducation.  Pour acheter :
 
 - Consultez l’article [Enseignement et formation à distance dans Office 365 Éducation](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) pour découvrir les conseils les plus récents sur la mise en place de la planification de vos cours, les réunions virtuelles et le partage de contenu avec les étudiants.
 
-- Pour plus de conseils en informatique, voir [Prise en main de Microsoft Teams pour l’apprentissage à distance](/MicrosoftTeams/remote-learning-edu) et [Transition vers l’apprentissage à distance](https://www.microsoft.com/education/remote-learning).
+- Pour plus de conseils en informatique, voir [Prise en main de Microsoft Teams pour l’apprentissage à distance](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) et [Transition vers l’apprentissage à distance](https://www.microsoft.com/education/remote-learning).

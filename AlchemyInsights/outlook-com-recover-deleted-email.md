@@ -1,5 +1,5 @@
 ---
-title: Récupérer des messages électroniques supprimés dans Outlook.com
+title: Récupérer les messages supprimés dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,23 +14,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: c24980ff28d0400faadfa413eacfba37401068a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922a793fa37a3b02502d8d7368e30f4e9335144b4b39e61ea956ea708cebf07f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095354"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Récupérer des messages électroniques supprimés Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Récupérer les messages supprimés Outlook.com
 
-1. Dans le volet gauche, sélectionnez **éléments supprimés**.
-2. Sélectionnez l’élément que vous souhaitez récupérer et sélectionnez **restaurer**.
-3. Si le message n’est pas dans éléments supprimés, sélectionnez **récupérer les éléments supprimés de ce dossier** en haut de la fenêtre.
+1. Dans le volet gauche, sélectionnez **Éléments supprimés.**
+2. Sélectionnez l’élément à récupérer et sélectionnez **Restaurer.**
+3. Si le message n’est pas dans Éléments supprimés, sélectionnez Récupérer les éléments **supprimés de** ce dossier en haut de la fenêtre.
 
- **Informations importantes sur les éléments supprimés :**
+ **Informations importantes sur les éléments supprimés :**
   
-- Les éléments supprimés de votre dossier éléments supprimés sont récupérables pendant 30 jours.
-- Si vous ne vous êtes pas connecté à votre compte pendant 365 jours, votre courrier électronique sera supprimé et ne pourra pas être récupéré.
-- Il n’est pas possible de récupérer le courrier électronique supprimé des comptes enfants.
+- Les éléments supprimés de votre dossier Éléments supprimés sont récupérables pendant 30 jours.
+- Si vous ne vous êtes pas encore inscrit à votre compte pendant 365 jours, votre courrier électronique sera supprimé et ne pourra pas être récupéré.
+- Il n’est pas possible de récupérer les messages électroniques supprimés des comptes enfants.
 
-Pour en savoir plus, consultez la rubrique [restaurer les messages électroniques supprimés dans Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d’informations, voir Restaurer les messages électroniques supprimés [dans Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)
