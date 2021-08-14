@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 902a0ef2bef4e4cabfc4cd5bb335069b89fe5b932b104cd0f32dfee2266c33c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009894"
 ---
-# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Notification « produit désactivé » dans les applications Microsoft 365
+# <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Notification « produit désactivé » dans les applications Microsoft 365
 
 - Consultez la page [état d’intégrité du service](https://docs.microsoft.com/office365/enterprise/view-service-health) pour déterminer s’il existe des problèmes connus avec le service.
 
@@ -27,14 +27,14 @@ ms.locfileid: "51800536"
 
 - Ouvrez une application Office, accédez à **Fichier > Compte**, puis déconnectez-vous de tous les comptes. Reconnectez-vous à l’aide d’un compte d’utilisateur disposant d’une licence valide. Si vous souhaitez en savoir plus, consultez l’article [Les comptes dans Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Ouvrez une application Office et accédez à **Fichier > Compte > Option de mise à jour > Mettre à jour maintenant** pour mettre à jour Office sur la machine concernée. Pour consulter la procédure détaillée, voir [Installer les mises à jour d’Office](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- Ouvrez une application Office et accédez à **Fichier > Compte > Option de mise à jour > Mettre à jour maintenant** pour mettre à jour Office sur la machine concernée. Pour des informations détaillées, voir [Installer les mises à jour d'Office](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 - Exécutez l’[Utilitaire de résolution des problèmes liés à l’activation](https://aka.ms/SARA-OfficeActivation-Alchemy) et redémarrez l’ordinateur.
 
 - Sur la machine concernée, [Réinitialisez l’état d’activation d’Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-Pour obtenir des instructions détaillées, voir les rubriques suivantes : 
+Pour obtenir des instructions détaillées, voir les rubriques suivantes : 
 
-[Un avis d’abonnement apparaît lorsque j’ouvre une application Microsoft 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Un avis d’abonnement apparaît lorsque j’ouvre une application Microsoft 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Résoudre les problèmes liés à l’activation d’Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
