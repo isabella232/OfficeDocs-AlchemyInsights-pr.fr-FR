@@ -1,5 +1,5 @@
 ---
-title: Empêcher les équipes de démarrer automatiquement
+title: Empêcher Teams démarrage automatique des Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923790"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Empêcher les équipes de démarrer automatiquement
+# <a name="prevent-teams-from-starting-automatically"></a>Empêcher Teams démarrage automatique des Teams
 
-Par défaut, teams s’ouvre automatiquement lorsque vous démarrez votre appareil.
+Par défaut, Teams s’ouvre automatiquement lorsque vous démarrez votre appareil.
 
-Pour modifier ce paramètre, sélectionnez votre image de profil Teams, puis sélectionnez **paramètres**  >   **généraux**. Sous  **application**, désactivez la case à cocher  **application de démarrage automatique**.
+Pour modifier ce paramètre, sélectionnez votre Teams profil, puis sélectionnez **Paramètres**  >   **Général**. Sous **Application,** désochez **l’application de démarrage automatique.**
 
-Pour plus d’informations, consultez la rubrique  [modifier les paramètres dans teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Pour plus d’informations, [voir Modifier les paramètres dans Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).

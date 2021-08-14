@@ -1,5 +1,5 @@
 ---
-title: Se déconnecter de Outlook.com
+title: Se Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,22 +14,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983379"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Comment se déconnecter d’Outlook.com
+# <a name="how-to-sign-out-of-outlookcom"></a>Comment se Outlook.com
 
 1. Sélectionnez votre nom ou votre image dans le coin supérieur droit.
 
-    Si vous ne voyez pas votre image en haut de l’écran, vérifiez si le blocage des publicités est activé. Cela peut empêcher l’affichage de l’image.
+    Si vous ne voyez pas votre image en haut de l’écran, vérifiez si le blocage des publicités est allumé. Cela peut empêcher l’affichage de l’image.
 
-2. Sélectionnez **déconnexion**.
+2. Sélectionnez **Déconnexion**.
 
-    Pour cesser de se connecter automatiquement, désactivez la case à cocher **maintenir la connexion** sur la page où vous entrez votre mot de passe.
+    Pour arrêter la signature automatique, décochez la case Conserver la signature sur la page où vous entrez votre mot de passe. 
 
-Pour en savoir plus, consultez [la rubrique How to sign in or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d’informations, [voir Comment se connectez-vous à Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

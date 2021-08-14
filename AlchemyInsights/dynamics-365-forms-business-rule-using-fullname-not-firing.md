@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Forms Business Rule utilisant un champ FullName ne se déclenche pas
+title: Règle d’entreprise Dynamics 365 Forms utilisant le champ Nom complet qui ne se tire pas
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947405"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Champ nom complet non pris en charge avec les applications inteface unifiées
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Champ Nom complet non pris en charge avec les applications entières unifiées
 
-Les actions ou conditions qui utilisent un champ **nom complet** (FullName) ne sont pas prises en charge dans les applications basées sur l’interface unifiée. Vous pouvez également utiliser des actions ou des conditions avec les champs **prénom** (prénom) et **nom (nom** ).
+Les actions ou conditions qui utilisent un champ Nom complet **(nom** complet) ne sont pas prises en charge dans les applications basées sur l’interface unifiée. Vous pouvez également utiliser des actions ou des conditions avec les champs **Prénom** (prénom) et Nom **(nom).**
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

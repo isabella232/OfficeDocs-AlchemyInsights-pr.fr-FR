@@ -1,5 +1,5 @@
 ---
-title: 2589 aider à empêcher les pièces jointes Winmail. dat dans les messages électroniques de votre organisation
+title: 2589 Empêcher les pièces jointes Winmail.dat dans les messages électroniques de votre organisation
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64212b0a8cb1ccd2158aaa84ea2725b879e608ab4fcada1fbf1032e896be12c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923816"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Empêcher les pièces jointes Winmail. dat dans les messages électroniques de votre organisation
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Empêcher les pièces jointes Winmail.dat dans les messages électroniques de votre organisation
 
-En tant qu’administrateur, procédez comme suit :
+En tant qu’administrateur, essayez les étapes suivantes :
 
 1. Ouvrez le [Centre d’administration Exchange](https://outlook.office365.com/ecp/).
 
-2. Accédez à **Mail flow**  >  **domaines distants**de flux de messagerie.
+2. Go to **Mail flow**  >  **Remote domains**.
 
-3. Sélectionnez le domaine distant par défaut nommé **par défaut**, puis cliquez sur **modifier**.
+3. Sélectionnez le domaine distant par défaut nommé **Default,** puis cliquez sur **Modifier**.
 
-4. Dans la section **utiliser le format RTF** , sélectionnez **jamais**.
+4. Dans la section **Utiliser le format de texte enrichi,** sélectionnez **Jamais**.
 
-Pour plus d’informations, consultez [la rubrique spécifier le format de message pour les domaines distants](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Pour plus d’informations, [voir Spécifier le format de message pour les domaines distants.](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format)

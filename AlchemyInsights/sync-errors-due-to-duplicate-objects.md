@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998792"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Erreurs de synchronisation dues à des objets en double
 
-Vous pouvez recevoir l’un des messages d’erreur suivants à la fin de la synchronisation d’annuaires dans Microsoft 365 :
+Vous pouvez recevoir l’un des messages d’erreur suivants lorsque la synchronisation d’annuaires se termine Microsoft 365 :
 
 - Impossible de mettre à jour cet objet dans Microsoft Online Services car les attributs suivants associés à cet objet ont des valeurs qui peuvent déjà être associées à un autre objet dans votre répertoire local.
 
