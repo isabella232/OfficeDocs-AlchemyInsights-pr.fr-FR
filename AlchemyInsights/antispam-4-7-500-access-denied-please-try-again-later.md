@@ -1,5 +1,5 @@
 ---
-title: 1051 accès anti-courrier indésirable 4.7.500 refusé, réessayez plus tard
+title: Accès 1051 Antispam 4.7.500 refusé, veuillez essayer à nouveau plus tard
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: f5ee8db0239ad86501b175f069acf28211e3a323
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f783a4c931318003b36f38600e69918c43b474d0039d039da25684c865c5e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932671"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>accès 4.7.500 refusé, réessayez ultérieurement
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Accès refusé, veuillez essayer à nouveau plus tard
 
-Cette erreur se produit lorsque le volume du trafic de courrier électronique à partir de l’adresse IP source dépasse la limite basée sur la réputation (ou l’absence de réputation) de l’adresse IP source.
+Cette erreur se produit lorsque le volume du trafic de messagerie provenant de l’adresse IP source dépasse la limite basée sur la réputation (ou l’absence de réputation) de l’adresse IP source.
 
-Le blocage du courrier électronique à partir de l’adresse IP source expirera au cours d’une heure. Si l’adresse IP source est un serveur de messagerie local qui vous appartient, vérifiez la configuration du connecteur de flux de messagerie. Si le comportement persiste pendant plus d’une heure, contactez le support technique pour demander une exception pour l’adresse IP source.
+Le blocage du courrier provenant de l’adresse IP source expirera dans l’heure. Si l’adresse IP source est un serveur de messagerie local qui vous appartient, vérifiez la configuration du connecteur de flux de messagerie. Si le comportement persiste pendant plus d’une heure, contactez le support technique pour demander une exception pour l’adresse IP source.

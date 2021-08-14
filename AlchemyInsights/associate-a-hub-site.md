@@ -1,5 +1,5 @@
 ---
-title: Associer un site hub
+title: Associer un site Hub
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989625"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>Associer un site existant à un site hub
 
-Pour associer un site existant à votre site Hub, procédez comme suit :
+Pour associer un site existant à votre site hub, vous pouvez :
   
-1. Sur votre site, sélectionnez **paramètres** (icône représentant un engrenage dans le coin supérieur droit), puis sélectionnez **informations sur le site**.
+1. Sur votre site, sélectionnez **Paramètres** (icône d’engrenage dans le coin supérieur droit), puis sélectionnez **Informations sur le site.**
 
-2. Dans le panneau **modifier les informations sur le site** , dans le menu Association de **site hub** , sélectionnez le site hub que vous souhaitez associer à votre site, puis cliquez sur **Enregistrer**. L’apparence de votre site est modifiée pour correspondre à celle du site Hub et la barre de navigation site hub apparaît en haut.
+2. Dans le panneau Modifier les informations du **site,** dans le menu **d’association** de sites hub, sélectionnez le site hub que vous souhaitez associer à votre site, puis cliquez sur **Enregistrer.** L’apparence de votre site change pour correspondre à celle du site hub et la barre de navigation du site hub s’affiche en haut.
 
 >**Remarque**
 >
->Si l’option d’association de site Hub n’est pas présente ou si aucun site n’y est répertorié, il est possible que les sites hub ne soient pas activés ou que vous ne soyez pas autorisé à associer des sites à un site hub. Pour plus d’informations, contactez votre administrateur.
+>Si l’option d’association de sites Hub n’est pas présente ou si aucun site n’y est répertorié, il se peut que les sites hub ne soient pas activés ou que vous ne soyez pas autorisé à associer des sites à un site hub. Pour plus d’informations, contactez votre administrateur.
 >
->Le nombre de sites pouvant être associés à un site Hub n’est pas limité.
+>Il n’existe aucune limite au nombre de sites qui peuvent être associés à un site hub.
   

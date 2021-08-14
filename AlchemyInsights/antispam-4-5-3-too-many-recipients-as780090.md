@@ -1,5 +1,5 @@
 ---
-title: 1049 courrier indésirable 4.5.3 trop de destinataires (AS780090)
+title: 1049 AntiSpam 4.5.3 Nombre de destinataires trop élevé (AS780090)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: deb57e6e872ce5769a339c7d130a63a8e90ab4c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f187674294a8fd64b164697946ac0366b41f30894478fba3f37843730f445d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932708"
 ---
-# <a name="453-too-many-recipients-as780090"></a>4.5.3 trop de destinataires (AS780090)
+# <a name="453-too-many-recipients-as780090"></a>4.5.3 Nombre de destinataires trop élevé (AS780090)
 
-Cette erreur se produit lorsque le volume du trafic de courrier électronique à partir de l’adresse IP source dépasse la limite basée sur la réputation (ou l’absence de réputation) de l’adresse IP source.
+Cette erreur se produit lorsque le volume du trafic de messagerie provenant de l’adresse IP source dépasse la limite basée sur la réputation (ou l’absence de réputation) de l’adresse IP source.
 
-Le blocage du courrier électronique à partir de l’adresse IP source expirera au cours d’une heure. Si l’adresse IP source est un serveur de messagerie local qui vous appartient, vérifiez la configuration du connecteur de flux de messagerie. Si le comportement persiste pendant plus d’une heure, contactez le support technique pour demander une exception pour l’adresse IP source.
+Le blocage du courrier provenant de l’adresse IP source expirera dans l’heure. Si l’adresse IP source est un serveur de messagerie local qui vous appartient, vérifiez la configuration du connecteur de flux de messagerie. Si le comportement persiste pendant plus d’une heure, contactez le support technique pour demander une exception pour l’adresse IP source.

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender pour Office 365 pour SharePoint, OneDrive et Microsoft Teams
+title: Microsoft Defender pour Office 365 pour SharePoint, OneDrive et Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997132"
 ---
-# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender pour Office 365 pour SharePoint, OneDrive et Microsoft Teams
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender pour Office 365 pour SharePoint, OneDrive et Microsoft Teams
 
 Suivez ces étapes pour activer Microsoft Defender pour Office 365 :
 
 1. Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.
 
-2. Dans le volet de navigation gauche sous **Gestion des menaces,** choisissez **Pièces** \> **jointes sécurisées de stratégie.**
+2. Dans le volet de navigation gauche sous **Gestion des menaces,** choisissez **Stratégie** Coffre \> **pièces jointes**.
 
 3. Sélectionnez **Activer Defender pour Office 365 pour SharePoint, OneDrive et Microsoft Teams**.
 
 4. [Créez une stratégie d’alerte d’activité](/microsoft-365/compliance/create-activity-alerts) pour recevoir des notifications lorsque nous détectons des fichiers malveillants.
 
-Pour obtenir des instructions complètes, voir l’étape Activer les pièces [jointes sécurisées pour SharePoint, OneDrive et Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Pour obtenir des instructions complètes, consultez cette Coffre pièces jointes pour [SharePoint, OneDrive et Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Remarque**: Par conception, Microsoft Defender pour Office 365 n’analyse pas chaque fichier dans SharePoint Online, OneDrive Entreprise ou Microsoft Teams. Les fichiers sont analysés de manière asynchrone par un processus qui utilise l’activité de partage, l’activité des invités et les signaux de menace pour identifier les fichiers malveillants. Pour plus d’informations, [voir Pièces jointes SharePoint, OneDrive et Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Remarque**: Par conception, Microsoft Defender pour Office 365 n’analyse pas chaque fichier dans SharePoint Online, OneDrive Entreprise ou Microsoft Teams. Les fichiers sont analysés de manière asynchrone par un processus qui utilise l’activité de partage, l’activité des invités et les signaux de menace pour identifier les fichiers malveillants. Pour plus d’informations, [voir Coffre attachments for SharePoint, OneDrive, and Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
