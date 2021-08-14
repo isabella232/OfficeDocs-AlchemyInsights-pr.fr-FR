@@ -1,5 +1,5 @@
 ---
-title: Problèmes liés à l’usurpation d’identité, au hameçonnage ou à l’emprunt d’identité ?
+title: Problèmes d’usurpation d’identité, de hameçonnage ou d’emprunt d’identité ?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,29 +10,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52a62298081e554d328fc3cca0f77ca9949b765396c27d4d9da247f411d6d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986781"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problèmes liés à l’usurpation d’identité, au hameçonnage ou à l’emprunt d’identité ?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problèmes d’usurpation d’identité, de hameçonnage ou d’emprunt d’identité ?
 
-Découvrez comment Microsoft vous protège des éléments suivants :
+Découvrez comment Microsoft vous protège contre :
 
 - [Usurpation](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
 - [Hameçonnage et emprunt d’identité](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
-Recommandations supplémentaires :
+Recommandations supplémentaires :
 
-- Pour les expéditeurs usurpés qui semblent provenir de votre propre domaine, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) et [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) peuvent vous aider.
+- Pour les expéditeurs usurpés qui semblent être issus de votre propre domaine, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) et [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) peuvent vous aider.
 
-- Vérifier que les expéditeurs de votre propre domaine ne sont pas configurés pour contourner le filtrage du courrier indésirable à l’aide des règles de flux de messagerie (également appelées règles de transport) ou des entrées de liste d’autorisation. Pour plus d’informations, consultez la rubrique [attention contre le contournement des filtres de courrier indésirable Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Vérifiez que les expéditeurs dans votre propre domaine ne sont pas configurés pour contourner le filtrage anti-courrier indésirable à l’aide de règles de flux de messagerie (également appelées règles de transport) ou d’autoriser les entrées de liste. Pour plus d’informations, voir [Avertissements contre le contournement des filtres de courrier indésirable Microsoft.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-- Vérifiez que les utilisateurs n’ont pas configuré les entrées de la [liste des expéditeurs approuvés](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) qui pourraient autoriser les attaques par hameçonnage.
+- Vérifiez que les utilisateurs n’ont pas configuré Coffre [liste](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) des expéditeurs qui pourraient autoriser les attaques par hameçonnage.
 
-- Envisagez de mettre en quarantaine des messages de courrier indésirable et de hameçonnage à la place du dossier courrier indésirable. Pour plus d’informations, consultez la rubrique [mise en quarantaine des messages électroniques](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- Envisagez de mettre en quarantaine les messages de courrier indésirable et de hameçonnage à haut niveau de confiance au lieu du dossier Courrier indésirable. Pour plus d’informations, voir [Mettre en quarantaine les messages électroniques.](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
 
-**La [création de rapports de messages à Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) est la meilleure façon de nous faire part de vos performances.**
+**[Signaler des messages à Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) est la meilleure façon de nous faire savoir comment fonctionnent les filtres.**
