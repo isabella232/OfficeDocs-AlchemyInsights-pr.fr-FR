@@ -1,5 +1,5 @@
 ---
-title: Basculer en paiement par facture (transfert de chèques/virements)
+title: Basculer pour payer par facture (transfert de chèque/virement)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009066"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Basculer en paiement par facture (transfert de chèques/virements)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Basculer pour payer par facture (transfert de chèque/virement)
 
-En fonction de la description de votre problème, nous avons trouvé une solution pour vous. La plupart des clients pouvaient résoudre leurs propres problèmes après avoir suivi notre documentation.
+En fonction de la description de votre problème, nous avons trouvé une solution pour vous. La plupart des clients ont pu résoudre eux-mêmes leur problème après avoir suivi notre documentation.
 
-Si vous passez en mode paiement par facture, cela signifie que vous payez votre facture dans les 30 jours suivant la date de facturation. Pour pouvoir payer votre abonnement Azure par facture, soumettez une demande au support Azure. Une fois que votre demande est approuvée, vous pouvez passer un abonnement au paiement de facture dans le portail Azure.
+Si vous passez au paiement par facture, cela signifie que vous réglerez votre facture dans les 30 jours suivant la date de facturation. Pour être éligible au paiement de votre abonnement Azure par facture, envoyez une demande au support Azure. Une fois votre demande approuvée, vous pouvez changer d’abonnement pour payer les factures dans le portail Azure.
 
-**Avant de poursuivre, consultez les conditions requises/limitations suivantes lors de la demande de l’option de paiement de facture :**
+**Avant de poursuivre, examinez les exigences/limitations suivantes concernant la demande d’option de paiement par facture :**
 
-- Connectez-vous au [portail Azure](https://portal.azure.com/), accédez à modes de paiement et vérifiez que vous êtes déjà approuvé pour le paiement de la facture.
-- Le paiement de facture est uniquement disponible pour les comptes professionnels, pas pour les comptes personnels.
-- Vous devez payer tous les frais impayés avant de passer au paiement de facture.
-- L’équipe de support technique examinera le compte pour déterminer s’il est éligible au mode de paiement de la facture.
-- Une fois que vous avez basculé vers le paiement de facture, vous ne pouvez plus revenir au paiement par carte bancaire.
+- Connectez-vous au [portail Azure,](https://portal.azure.com/)accédez aux modes de paiement et vérifiez si vous êtes déjà pré-approuvé pour le paiement par facture.
+- Le paiement par facture est disponible uniquement pour les comptes d’entreprise, et non pour les comptes personnels.
+- Vous devez payer tous les frais en suspens avant de passer au paiement par facture.
+- L’équipe de support examine le compte pour déterminer s’il est éligible au mode de paiement par facture.
+- Une fois que vous passez au paiement par facture, vous ne pouvez plus revenir au paiement par carte de crédit ou de débit.
 
-Une fois que vous êtes autorisé à payer par facture, vous pouvez faire en sorte que votre abonnement Azure à la facture soit payé par chèque ou par virement bancaire dans le [portail Azure](https://portal.azure.com/).
+Une fois que vous êtes approuvé pour payer par facture, vous pouvez basculer votre abonnement Azure vers le paiement de la facture par chèque ou virement bancaire dans [le portail Azure](https://portal.azure.com/).
 Pour cela :
 
-1. Connectez-vous au [portail Azure](https://portal.azure.com/)   en tant qu’administrateur de compte. Recherchez et sélectionnez **gestion des coûts + facturation**.
-2. Dans le menu, choisissez **profils de facturation**.
+1. Connectez-vous au [portail Azure](https://portal.azure.com/)en   tant qu’administrateur de compte. Recherchez et sélectionnez **Gestion des coûts + Facturation.**
+2. Dans le menu, sélectionnez **Profils de facturation.**
 3. Sélectionnez un profil de facturation.
-4. Dans le menu *profil de facturation* , sélectionnez modes de **paiement**.
-5. Sélectionnez la bannière indiquant que vous pouvez payer par chèque/virement.
+4. Dans le menu *Profil de* facturation, sélectionnez Modes **de paiement.**
+5. Sélectionnez la bannière qui indique que vous êtes éligible au paiement par chèque/virement.
 
-**Documents recommandés**
+**Documents Recommandés**
 
-- [Demande/téléchargement/affichage de votre facture Azure facturation et des données d’utilisation](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Comment envoyer des courriers électroniques Azure directement à votre boîte de réception](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Demander/Télécharger/Afficher votre facture Azure et les données d’utilisation](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Comment envoyer des factures Azure par courrier électronique directement à votre boîte de réception](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Payer par facture](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
 - [Comprendre les termes de votre facture](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
