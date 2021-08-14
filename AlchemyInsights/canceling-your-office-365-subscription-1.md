@@ -15,22 +15,22 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 33c0aaca36aab200c98aedf1bae7785520166e65
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931195"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Annuler votre abonnement Microsoft 365 abonnement ?
 
 Nous sommes désolés de vous voir, voici les étapes à suivre pour annuler votre abonnement :
 
-1. Dans le Centre d’administration, allez à **la** page Facturation de vos  >  **[produits,](https://go.microsoft.com/fwlink/p/?linkid=842054)** puis sélectionnez **l’onglet Produits.**
+1. Dans le Centre d’administration, allez à **la**  >  page Facturation de **[vos produits,](https://go.microsoft.com/fwlink/p/?linkid=842054)** puis sélectionnez **l’onglet Produits.**
 2. Recherchez l’abonnement que vous souhaitez annuler. Sélectionnez les trois points (autres actions), puis sélectionnez **Annuler l'abonnement**.
 3. Dans le volet **Annuler l'abonnement**, choisissez la raison pour laquelle vous annulez. Si vous le souhaitez, vous pouvez fournir des commentaires.
 4. Sélectionnez **Enregistrer**.
 
 Pour en savoir plus sur l’annulation d’un abonnement, ou sur les options, voir [Annuler votre abonnement.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Si vous souhaitez continuer à utiliser votre abonnement pour la durée de votre version d’essai, vous pouvez désactiver la facturation périodique de l’abonnement. Pour en savoir plus, voir [Renouveler Microsoft 365 entreprise.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Si vous souhaitez continuer à utiliser votre abonnement pour la durée de votre version d’essai, vous pouvez désactiver la facturation périodique de l’abonnement. Pour en savoir plus, [consultez Renouveler Microsoft 365 entreprise.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
