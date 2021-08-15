@@ -1,5 +1,5 @@
 ---
-title: Panne de l’infrastructure du service de support
+title: Panne d’infrastructure de service de prise en charge
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48355429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998977"
 ---
-# <a name="support-service-infrastructure-outage"></a>Panne de l’infrastructure du service de support
+# <a name="support-service-infrastructure-outage"></a>Panne d’infrastructure de service de prise en charge
 
-Nous rencontrons actuellement une panne dans l’infrastructure de service de support. Nous travaillons à la résolution du problème aussi rapidement que possible, mais en attendant, vous pouvez voir des délais de réponse lorsque vous essayez de contacter Microsoft.
+Nous sommes actuellement confrontés à une panne dans l’infrastructure de service de support. Nous travaillons pour résoudre le problème aussi rapidement que possible, mais en attendant, vous pouvez voir des retards de temps de réponse lorsque vous essayez de contacter Microsoft.

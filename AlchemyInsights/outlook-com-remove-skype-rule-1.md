@@ -1,5 +1,5 @@
 ---
-title: Outlook.com supprimer Skype
+title: Outlook.com Supprimer Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962093"
 ---
-# <a name="skype-icon-missing"></a>Icône Skype manquante
+# <a name="skype-icon-missing"></a>Skype icône manquante
 
-Nous avons supprimé temporairement l’icône Skype de Outlook.com dans le cadre d’une actualisation de conception et de la mise à jour des fonctionnalités que nous sommes heureux de déployer. Nous vous remercions de votre patience, tandis que nous préparons une nouvelle expérience améliorée pour vous.
+Nous avons temporairement supprimé l’icône Skype de Outlook.com dans le cadre d’une actualisation de la conception et d’une mise à jour des fonctionnalités que nous sommes ravis de déployer. Nous vous remercions de votre patience pendant que nous vous préparons une expérience nouvelle et améliorée.
 
-Vous pouvez toujours utiliser Skype via votre navigateur sur [Web.Skype.com](https://web.skype.com/).
+Vous pouvez toujours utiliser Skype via votre navigateur à [l’web.skype.com](https://web.skype.com/).

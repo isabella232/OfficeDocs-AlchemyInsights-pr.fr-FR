@@ -1,5 +1,5 @@
 ---
-title: Mettre à jour les paramètres de confidentialité de votre appareil photo
+title: Mettre à jour le paramètre de confidentialité de votre appareil photo Paramètres
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d1b5a08ac612b548fb196cf8deaa20fa23218bd94ee9440024d7b1b7561c7b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990741"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Mettre à jour les paramètres de confidentialité de votre appareil photo
+# <a name="update-your-cameras-privacy-settings"></a>Mettre à jour le paramètre de confidentialité de votre appareil photo Paramètres
 
-Ce code d'erreur signifie que les paramètres de confidentialité de votre appareil photo ont un impact sur l'application. Suivez ces étapes pour mettre à jour les paramètres de confidentialité de votre appareil photo :
+Ce code d’erreur signifie que les paramètres de confidentialité de votre appareil photo ont un impact sur l’application. Suivez ces étapes pour mettre à jour les paramètres de confidentialité de votre appareil photo :
 
-- Ouvrez **le bouton Démarrer > paramètres > confidentialité > caméra.**
+- Ouvrez **le bouton Démarrer > Paramètres > confidentialité > caméra.**
 - Sous **Autoriser l’accès à l’appareil photo sur cet appareil**, sélectionnez **Modifier**. Assurez-vous que le bouton bascule est **Activé**.
 - Sous **Autoriser les applications à accéder à votre appareil photo**, assurez-vous que le bouton bascule est **Activé**.
 - Ensuite, sous **Sélectionner les applications qui peuvent accéder à votre appareil photo**, assurez-vous que le bouton bascule en dessous de l’application souhaitée est également Activé .

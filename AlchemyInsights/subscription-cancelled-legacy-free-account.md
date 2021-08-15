@@ -1,5 +1,5 @@
 ---
-title: Abonnement annulé-compte sans héritage
+title: Abonnement annulé - Hérité - Compte gratuit
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999202"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Abonnement annulé-compte sans héritage
+# <a name="subscription-cancelled---legacy---free-account"></a>Abonnement annulé - Hérité - Compte gratuit
 
-Votre abonnement est désactivé, car le crédit Azure a expiré.
+Votre abonnement est désactivé car le crédit Azure a expiré.
 
 **Le crédit Azure a expiré**
 
-Lorsque vous vous inscrivez à un compte Azure gratuit, vous recevez un abonnement d’évaluation gratuit, qui vous fournit $200 dans les crédits Azure pendant 30 jours et 12 mois de services gratuits. Au bout de 30 jours, Azure désactive votre abonnement. Votre abonnement est désactivé pour vous protéger contre les frais d’utilisation par le biais des services de crédit et gratuits inclus dans votre abonnement. Pour continuer à utiliser Azure services, vous devez [mettre à niveau votre abonnement](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription). Après la mise à niveau, votre abonnement a toujours accès aux services gratuits pendant 12 mois. Vous êtes facturé uniquement pour l’utilisation au-delà des services et quantités gratuits.
+Lorsque vous vous inscrivez à un compte gratuit Azure, vous obtenez un abonnement d’essai gratuit, qui vous fournit 200 $ en crédits Azure pour 30 jours et 12 mois de services gratuits. Au bout de 30 jours, Azure désactive votre abonnement. Votre abonnement est désactivé pour vous protéger contre l’incurisation accidentelle de frais d’utilisation au-delà des services de crédit et gratuits inclus dans votre abonnement. Pour continuer à utiliser les services Azure, vous devez [mettre à niveau votre abonnement.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) Après la mise à niveau, votre abonnement a toujours accès aux services gratuits pendant 12 mois. Vous êtes facturé uniquement pour une utilisation au-delà des services et quantités gratuits.
 
-Procédez comme suit pour mettre à niveau votre abonnement :
+Pour mettre à niveau votre abonnement, effectuez les étapes suivantes :
 
 1. Connectez-vous au [Portail Azure](https://portal.azure.com/).
-2. Recherchez des **abonnements**.
-3. Sélectionnez l’abonnement qui a été créé lorsque vous vous êtes inscrit au compte Azure gratuit.
-4. Dans la vue d’ensemble des abonnements, cliquez sur le bouton **mettre à niveau les abonnements** dans la barre de commandes. Si vous ne voyez pas le bouton d’abonnement à la mise à niveau, cliquez sur la bannière de mise à niveau en haut de la page.
+2. Rechercher des **abonnements.**
+3. Sélectionnez l’abonnement qui a été créé lorsque vous vous êtes inscrit au compte gratuit Azure.
+4. Dans la vue d’ensemble de l’abonnement, cliquez sur Le bouton **Mettre** à niveau l’abonnement dans la barre de commandes. Si vous ne voyez pas le bouton d’abonnement à la mise à niveau, cliquez sur la bannière de mise à niveau en haut de la page.
 5. Si vous n’avez pas de mode de paiement pour votre compte, vous serez invité à en ajouter un.
 6. Vous devrez peut-être entrer un numéro de téléphone pour vérifier votre identité.
 7. Tapez un nom pour votre abonnement.
-8. Cliquez sur  **mettre à niveau**.
+8. Cliquez sur **Mettre à niveau.**
