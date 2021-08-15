@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49917312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023520"
 ---
 # <a name="turn-on-ndi-technology"></a>Activer la technologie NDI
 
@@ -27,6 +27,6 @@ La technologie NDI nécessite deux étapes pour être allumée pour un utilisate
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Une fois cette modification remplie, l’utilisateur final doit activer la technologie NDI® pour son client spécifique à partir des **paramètres > autorisations**.
+2. Une fois cette modification remplie, l’utilisateur final doit activer la technologie NDI® pour son client spécifique à partir Paramètres > **autorisations.**
 
-Pour plus d’informations, voir [Utiliser la technologie NDI dans Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)
+Pour plus d’informations, [voir Utiliser la technologie NDI dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings).

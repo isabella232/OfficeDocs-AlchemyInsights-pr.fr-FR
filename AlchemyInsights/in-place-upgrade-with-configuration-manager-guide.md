@@ -1,5 +1,5 @@
 ---
-title: Guide de mise à niveau sur place avec le gestionnaire de configuration
+title: Guide de la mise à niveau sur place avec Configuration Manager
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014754"
 ---
-# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Guide de mise à niveau sur place avec le gestionnaire de configuration
+# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Guide de la mise à niveau sur place avec Configuration Manager
 
-Le processus de mise à niveau sur place conserve toutes les données, les paramètres, les applications et les pilotes à partir de la version du système d’exploitation existant. Il est conçu pour être extrêmement fiable et peut être automatiquement restauré vers le système d’exploitation précédent si des problèmes sont rencontrés.
+Le processus de mise à niveau sur place conserve toutes les données, paramètres, applications et pilotes de la version existante du système d’exploitation. Il est conçu pour être extrêmement fiable et a la possibilité de revenir automatiquement au système d’exploitation précédent en cas de problème.
 
-Utilisez le [Guide de mise à niveau sur place avec le gestionnaire de configuration](https://admin.microsoft.com/adminportal/home#/win10upgrade) lors de la mise à niveau des appareils Windows 7 et Windows 8,1 vers la dernière version de Windows 10. Vous utiliserez le script fourni pour vérifier les conditions préalables et configurer automatiquement une mise à niveau sur place.
+Utilisez le [guide de mise à](https://admin.microsoft.com/adminportal/home#/win10upgrade) niveau sur place avec Configuration Manager lors de la mise à niveau Windows 7 et Windows 8.1 vers la dernière version de Windows 10. Vous utiliserez le script fourni pour vérifier les conditions préalables et configurer automatiquement une mise à niveau sur place.

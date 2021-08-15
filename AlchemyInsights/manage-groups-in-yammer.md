@@ -12,20 +12,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: 5ff325ea3d4b736b115b09bf4d8513938a61b1a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b4348ecb55a8f0dc57e1b51f913f21ccd2e2830fd62a81e4f47a77ef371a226
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976647"
 ---
 # <a name="manage-groups-in-yammer"></a>Gérer les groupes dans Yammer
 
-- **Autorisation de création de groupe.** Yammer ne contrôle pas qui peut créer un groupe. Toutefois, il est possible de gérer la création de groupe pour les groupes Microsoft 365 connectés. Pour plus d’informations, voir [gérer les personnes qui peuvent créer des groupes Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) .
+- **Autorisation de création de groupe.** Yammer ne contrôle pas qui peut créer un groupe. Toutefois, il est possible de gérer la création de groupes pour les groupes Microsoft 365 connectés. Pour [plus d’informations, voir](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) Gérer les personnes Microsoft 365 groupes de gestion.
 
-- **Appartenance à un groupe dynamique.** Pour plus d’informations sur la création d’une appartenance dynamique pour les groupes Microsoft 365 connectés à Yammer, reportez-vous à [la rubrique Create a Dynamic Group in Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) .
+- **Appartenance à un groupe dynamique.** Reportez-vous [à Créer un](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) groupe dynamique dans Yammer pour plus d’informations sur la création d’appartenances dynamiques Yammer groupes Microsoft 365 connectés.
 
-- **Restauration des groupes supprimés.** La restauration de groupes Yammer est possible via [la restauration d’un groupe Microsoft 365 supprimé](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) les groupes non connectés ne peuvent pas être restaurés après la suppression.
+- **Restauration de groupes supprimés.** La restauration Yammer groupes est possible via la restauration [d’un](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) groupe Microsoft 365 groupe non connecté ne peut pas être restauré après la suppression.
 
-Pour plus d’informations sur la gestion d’un groupe, voir [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Pour plus d’informations sur les groupes Microsoft 365 connectés, voir [Yammer and microsoft 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
+Pour plus d’informations sur la gestion d’un groupe, voir [Gérer un groupe dans Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Pour plus d’informations sur les groupes Microsoft 365 connectés, voir [Yammer et Microsoft 365 groupes.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)
   

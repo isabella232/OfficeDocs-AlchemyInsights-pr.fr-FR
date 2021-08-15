@@ -13,12 +13,12 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976863"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identifier l’activité des règles de boîte de réception dans les journaux d’audit
 
@@ -30,7 +30,7 @@ Vous pouvez utiliser la recherche dans le journal d’audit dans le Centre de s�
 
 3. Sélectionnez la plage de dates dans les champs **Date de** début et **Date de** fin.
 
-4. Sous **Exchange activités** de boîte aux  lettres, vérifiez que le champ Activités est définie sur La règle de boîte de réception **Créer/modifier/activer/désactiver la boîte de réception New-InboxRule.**
+4. Sous **Exchange activités** de boîte aux  lettres, vérifiez que le champ Activités est définie sur Nouvelle boîte de réception **Créer/modifier/activer/désactiver la** règle de boîte de réception .
 
 5. Cliquez sur **Rechercher**.
 
