@@ -14,18 +14,18 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960113"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problèmes de partage avec Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problèmes de partage avec Outlook client
 
-Si vous avez des problèmes de partage avec outlook Customer Manager, nous vous recommandons d’essayer d’abord de vider le cache de votre navigateur. Par exemple, dans Internet Explorer, vous devez :
+Si vous avez des problèmes de partage avec Outlook customer manager, nous vous recommandons d’essayer d’abord d’effacer le cache de votre navigateur. Par exemple, dans Internet Explorer, vous devez :
 
-1. Go to **Settings**  >  **General** > Settings under **Browsing history**  >  **Caches and databases**.
+1. Go to **Paramètres**  >  **General** > Paramètres under **Navigation history**  >  **Caches and databases**.
 2. Supprimer des fichiers cache pour le site web « outlookapps.com ».
 3. Redémarrez Outlook.
 

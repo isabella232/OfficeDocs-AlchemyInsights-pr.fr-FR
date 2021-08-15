@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955199"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Accès refusé lors de l’affichage d’un flux de travail
 
-Les flux de travail SharePoint 2013 qui tentent d’envoyer un courrier électronique à un groupe SharePoint peuvent échouer avec un message d’erreur « Accès refusé » si l’appartenance au groupe SharePoint n’est pas définie sur tout le monde.
+SharePoint 2013 Les flux de travail qui tentent d’envoyer un courrier électronique à un groupe SharePoint peuvent échouer avec un message d’erreur « Accès refusé » si l’appartenance au groupe SharePoint n’est pas définie sur Tout le monde.
   
- **Pour résoudre ce problème, procédez comme suit :**
+ **Pour résoudre ce problème, faites les étapes suivantes :**
   
- 1. Autoriser tout le monde à voir les membres du groupe SharePoint.
+ 1. Autorisez tout le monde à voir les membres du SharePoint groupe.
   
- 2. Supprimez le groupe SharePoint de la ligne à ou CC du message électronique.
+ 2. Supprimez le SharePoint de la ligne À ou Cc de l’e-mail.
   
- 3. Ajoutez explicitement les utilisateurs à la ligne à ou CC si la visibilité de l’appartenance ne peut pas être modifiée pour le groupe SharePoint.
+ 3. Ajoutez explicitement les utilisateurs à la ligne À ou Cc si la visibilité de l’appartenance ne peut pas être modifiée pour SharePoint groupe.
   
-Pour plus d’informations, reportez-vous à la rubrique [http Unauthorized to/_vti_bin/client.svc/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Pour plus d’informations, reportez-vous à [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

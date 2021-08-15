@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8469"
-ms.openlocfilehash: f3564063a3adf291ec4909ffeb2f6de0e478da96
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 8d8821cda94b2af244fa317707421f9d197b6052fb316789cd286ea8b4adf19e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50428689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960149"
 ---
 # <a name="problem-with-single-user"></a>Problème avec un seul utilisateur
 
-- L’utilisateur n’a peut-être pas été mis en service car le service n’a pas encore eu l’occasion d’évaluer l’utilisateur. Examinez les instructions pour la durée de l’approvisionnement, ainsi que la barre de progression sur la page de configuration de l’approvisionnement. Si l’état stable spécifié dans la section détails supplémentaires se trouve avant la date de création/mise à jour/suppression de l’utilisateur, cela signifie que nous n’avons pas encore évalué l’utilisateur. Dans ce scénario, la meilleure chose à faire est d’attendre la fin du service d’approvisionnement.
+- L’utilisateur n’a peut-être pas été mis en service, car le service n’a pas encore eu l’occasion d’évaluer l’utilisateur. Examinez les instructions pour la durée de l’approvisionnement, ainsi que la barre de progression sur la page de configuration de l’approvisionnement. Si l’état stable spécifié dans la section détails supplémentaires se trouve avant la date de création/mise à jour/suppression de l’utilisateur, cela signifie que nous n’avons pas encore évalué l’utilisateur. Dans ce scénario, la meilleure chose à faire est d’attendre la fin du service d’approvisionnement.
 
   - Notez que notre service ne connaît que les modifications apportées à un utilisateur dans le système source (Cloud HR). Il doit y avoir une modification valide dans le système source pour Azure AD afin de détecter la modification et de la faire circuler dans Active Directory.
-- Le service d’approvisionnement a évalué l’utilisateur et déterminé qu’il ne doit pas l’être :
-  - Si vous avez définis un filtre d’attribution d’une portée basée sur les attributs, assurez-vous que l’utilisateur répond aux critères que vous avez spécifiés.
+- Le service d’approvisionnement a évalué l’utilisateur et déterminé qu’il ne doit pas être provisioné :
+  - Si vous avez définis un filtre d’attribution de l’ensemble des attributs, assurez-vous que l’utilisateur répond aux critères que vous avez spécifiés.
   - Si des utilisateurs existent déjà dans le système cible et l’état de l’utilisateur dans la correspondance source et cible, nous n’allons pas prendre d’autres mesures.
 - Le service d’approvisionnement a tenté de mettre en service l’utilisateur et a échoué. Pour ces scénarios, examinez l’onglet Résolution des problèmes et recommandations des journaux d’approvisionnement :
   - Un attribut requis sur l’utilisateur peut être manquant dans Active Directory local ou Azure AD. Par exemple, les règles de génération userPrincipalName ou sAMAccountName ne génèrent pas la bonne valeur.
