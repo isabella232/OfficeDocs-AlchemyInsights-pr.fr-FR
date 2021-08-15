@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c48c71b9084354bf5a56794795c7653b8d8e5b4c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c376447f5ca87d793d8b96617ac58706f2377e1b640270c9f861c4475b85cf72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979059"
 ---
 # <a name="how-users-open-an-encrypted-email-message"></a>Comment les utilisateurs ouvrent un message électronique chiffré
 
 Voici quelques-uns des scénarios qui décrivent comment les utilisateurs qui reçoivent un message électronique chiffré l’ouvrent :
 
-- Si l’utilisateur utilise un compte de messagerie Office 365, il pourra l’afficher comme n’importe quel autre message.
+- Si l’utilisateur utilise un compte Office 365 de messagerie, il peut l’afficher comme n’importe quel autre message.
 - Si l’utilisateur utilise Gmail, il clique sur Cliquez ici pour préparer votre  **message,** puis il se connecte, puis clique sur Autoriser l’affichage du message.
 - Si l’utilisateur utilise Yahoo ou un autre fournisseur de services Internet, il clique sur Lire le **message** ou cliquez ici pour **lire votre message**. Ils voient un lien pour obtenir un code secret à une seule fois. Ils doivent cliquer sur le lien pour obtenir le code secret, puis entrer le code secret. Ils pourront ensuite afficher le message dans un navigateur web.
 - Si les utilisateurs ne reçoivent pas de messages  électroniques chiffrés, ils doivent vérifier leur dossier Courrier **indésirable** ou Courrier indésirable.

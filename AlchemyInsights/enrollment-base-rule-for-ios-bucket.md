@@ -1,5 +1,5 @@
 ---
-title: Règle de base d’inscriptions pour le compartiment iOS
+title: Règle de base d’inscription pour le compartiment iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030054"
 ---
-# <a name="intune-device-enrollment"></a>Enregistrement d’appareil Intune
+# <a name="intune-device-enrollment"></a>Inscription d’appareils Intune
 
 [En savoir plus sur l’inscription de appareils avec Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[Configuration de l’inscription d’appareil iOS avec Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Configurer l’inscription d’appareils iOS avec Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Configuration de l’inscription de l’appareil Android avec Intune](https://docs.microsoft.com/intune/android-enroll)
+[Configurer l’inscription d’appareils Android avec Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Configurer l’inscription des appareils Windows avec Intune](https://docs.microsoft.com/intune/windows-enroll)
+[Configurer l Windows inscription des appareils avec Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-Dépannage de l’enregistrement de l’appareil
+Résolution des problèmes d’inscription des appareils
 
-1. Utilisez le [portail de résolution des problèmes Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   pour diagnostiquer et résoudre les échecs d’inscriptions courants. Pour plus d’informations, consultez [ce document](https://docs.microsoft.com/intune/help-desk-operators) .
+1. Utilisez le [portail de dépannage Intune pour](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnostiquer et résoudre les échecs d’inscription courants. Pour [plus d’informations,](https://docs.microsoft.com/intune/help-desk-operators) examinez ce document.
 
-2. Consultez ces documents pour obtenir la liste des erreurs courantes qui empêchent l’inscription et la résolution :
-    - [Guide de dépannage](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Documentation de dépannage doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Examinez ces documents pour obtenir la liste des erreurs courantes qui empêchent l’inscription et les résolutions :
+    - [Guide de résolution des problèmes](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
+    - [Documentation de dépannage.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

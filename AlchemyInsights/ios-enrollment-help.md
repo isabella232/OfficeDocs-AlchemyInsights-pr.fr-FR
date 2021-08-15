@@ -1,5 +1,5 @@
 ---
-title: aide pour l’enregistrement d’iOS
+title: Aide sur l’inscription iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001398"
 ---
-# <a name="ios-enrollment-help"></a>aide pour l’enregistrement d’iOS
+# <a name="ios-enrollment-help"></a>Aide sur l’inscription iOS
 
-Nous avons remarqué que vous avez peut-être un problème avec l’enregistrement iOS. Voici quelques articles que nous pensons être susceptibles d’aider : 
+Nous avons remarqué que vous avez peut-être des problèmes avec l’inscription iOS. Voici quelques articles qui pourraient nous aider : 
 
-[Erreurs et solutions d’inscriptions iOS courantes](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Erreurs et solutions d’inscription iOS courantes](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[Mise en route avec Intune et iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Mise en place d’Intune et d’iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Résolution des problèmes d’enregistrement généraux](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Résolution des problèmes d’inscription générale](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Utilisation du portail de résolution des problèmes Intune pour diagnostiquer et résoudre les échecs d’inscriptions courants](https://docs.microsoft.com/intune/help-desk-operators)
+[Utilisation du portail de dépannage Intune pour diagnostiquer et résoudre les échecs d’inscription courants](https://docs.microsoft.com/intune/help-desk-operators)

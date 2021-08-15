@@ -1,5 +1,5 @@
 ---
-title: Conseils pour l’exportation d’un rapport pour la recherche de contenu
+title: Astuces pour l’exportation d’un rapport pour la recherche de contenu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978879"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Conseils pour l’exportation d’un rapport pour la recherche de contenu
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Astuces pour l’exportation d’un rapport pour la recherche de contenu
 
 Vous devrez peut-être afficher un rapport d’une recherche de contenu au lieu d’exporter les résultats de recherche complets. Si c’est le cas, vous pouvez exporter uniquement un rapport des résultats de la recherche. Voici quelques conseils :
 
