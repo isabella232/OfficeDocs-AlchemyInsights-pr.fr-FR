@@ -1,5 +1,5 @@
 ---
-title: 1829-eDiscovery-problèmes
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710949"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030423"
 ---
-# <a name="ediscovery-issues"></a>problèmes eDiscovery
+# <a name="ediscovery-issues"></a>Problèmes eDiscovery
 
-Vous recherchez des options eDiscovery ? À l’aide de la navigation reconçue dans le centre de sécurité & conformité, vos options eDiscovery ont peut-être déjà été déplacées.  Les options eDiscovery se trouvent aux emplacements suivants dans le centre de sécurité & conformité en fonction de ce que vous tentez de faire :
+Vous recherchez des options eDiscovery ? Avec la navigation retentée dans le Centre de sécurité & conformité, vos options eDiscovery ont peut-être déjà été déplacées.  Vous trouverez les options eDiscovery aux emplacements suivants dans le Centre de sécurité et conformité & en fonction de ce que vous essayez de faire :
 
-- Utiliser la recherche de contenu pour rechercher du contenu dans votre organisation pour des messages électroniques, des documents, des conversations Skype entreprise, puis pour exporter les données : accédez à la recherche **> recherche de contenu**
+- Utiliser la recherche de contenu pour rechercher du contenu dans votre organisation dans des e-mails, des documents Skype Entreprise conversations, puis exporter les données : recherche de contenu > recherche de **contenu**
 
-- Créer un cas de découverte électronique pour rechercher du contenu et placer des emplacements de contenu en attente-passer à **ediscovery > eDiscovery**
+- Créer un cas eDiscovery pour rechercher du contenu et placer des emplacements de contenu en attente - Go to **eDiscovery > eDiscovery**
 
-- Utilisez la nouvelle solution eDiscovery avancée de bout en bout pour identifier et communiquer avec les dépositaires, conserver les données des dépositaires pertinents pour le cas, collecter les données et les ajouter à un ensemble de révision, et réduire le volume de données en appliquant des analyses afin d’éliminer les données inutiles et de se concentrer sur ce qui est le plus pertinent pour les cas de **découverte électronique > Advanced eDiscovery**
+- Utilisez la nouvelle solution Advanced eDiscovery de bout en bout pour identifier et communiquer avec les dépositaires, conserver les données des dépositaires pertinentes pour le cas, collecter des données et les ajouter à un groupe de révision, et réduire le volume de données en appliquant des analyses afin d’éviter les données inutiles et de vous concentrer sur ce qui est le plus pertinent pour le cas : allez à **eDiscovery > Advanced eDiscovery**
 
-Pour plus d’informations, voir :
+Pour plus d’informations, voir :
 
 - [Recherche de contenu](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [cas de découverte électronique dans le centre de sécurité & conformité](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Cas eDiscovery dans le Centre de conformité & sécurité](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 - [Solution Advanced eDiscovery dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

@@ -1,5 +1,5 @@
 ---
-title: Solutions recommandées pour la synchronisation côté serveur Dynamics Server
+title: Solutions recommandées pour la synchronisation côté serveur Dynamics
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c27f5261de7724373e414fea4ce59625b1b046f444076fe11bc7c16a194464d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991857"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Solutions recommandées pour la synchronisation côté serveur Dynamics Server
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Solutions recommandées pour la synchronisation côté serveur Dynamics
 
-* [Procédure d’affichage de l’erreur de serveur détaillée affichée sur mon portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Comment afficher l’erreur de serveur détaillée affichée sur mon portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Procédure de réinitialisation d’un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Comment réinitialiser un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Procédure d’effacement du cache côté serveur d’un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Procédure pour effacer le cache côté serveur d’un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Procédure de modification de l’audience et du type d’un portail Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Comment modifier l’audience et le type d’un portail Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Procédure de modification de l’URL de base d’un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Comment modifier l’URL de base d’un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Procédure de configuration d’un fournisseur d’identité externe avec un portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Comment configurer un fournisseur d’identité externe avec le portail](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Forum Aux Questions](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Mise en route avec mon portail Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Mise en place de My Dynamics 365 Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
