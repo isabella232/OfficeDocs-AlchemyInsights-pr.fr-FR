@@ -14,12 +14,12 @@ ms.custom:
 - "9140"
 - "11087"
 - "9006490"
-ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: e215528904a0e1176b02069a86d47884d17b1e2b04ca4f90d5deedbeb82f5dc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960689"
 ---
 # <a name="plan-your-deployment-of-microsoft-edge"></a>Planifier votre déploiement de Microsoft Edge
 
@@ -27,7 +27,7 @@ Le déploiement d’un nouveau navigateur pour un grand nombre d’utilisateurs 
 
 1. Évaluez les besoins et l’environnement de votre navigateur existant.
 2. Déterminez votre méthodologie de déploiement.
-3. Faire une découverte de site.
+3. Découverte de site.
 4. Déterminez votre stratégie de canal.
 5. Définir et configurer des stratégies.
 6. Testez la compatibilité des applications.
