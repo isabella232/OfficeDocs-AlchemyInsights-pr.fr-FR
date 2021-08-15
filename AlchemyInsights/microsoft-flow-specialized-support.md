@@ -1,5 +1,5 @@
 ---
-title: Support spécialisé Microsoft Flow
+title: Microsoft Flow Support spécialisé
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975927"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Support spécialisé Microsoft Flow
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Support spécialisé
 
-Pour obtenir une assistance dédiée à Microsoft Flow, consultez le nouveau [Centre d’administration Power Platform](https://aka.ms/flowadminsupport). Le nouveau portail fournit un chemin plus direct vers le support assisté qui est optimisé pour Microsoft Flow et d’autres produits Power Platform.
+Pour obtenir une assistance Microsoft Flow vous pouvez vous rendre dans le nouveau Centre d’administration [de plateforme Power.](https://aka.ms/flowadminsupport) Le nouveau portail fournit un chemin d’accès plus direct à la prise en charge assisté optimisée pour Microsoft Flow et d’autres produits de plateforme Power.
 
-En savoir plus :
-- [Informations sur les licences Microsoft Flow Free](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Flux de FAQ de votre organisation](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Plans Microsoft 365 et Dynamics 365 incluant Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Questions relatives à la facturation et à la mesure de Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072612)
+En savoir plus :
+- [Informations sur les licences Microsoft Flow gratuites](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow faq dans votre organisation](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 et dynamics 365 qui incluent des Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow questions sur la facturation et le compteur](https://go.microsoft.com/fwlink/?linkid=2072612)

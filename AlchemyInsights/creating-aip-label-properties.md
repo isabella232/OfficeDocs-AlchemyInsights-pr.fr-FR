@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031980"
 ---
 # <a name="creating-aip-label-policies"></a>Création de stratégies d’étiquette AIP
 
-Azure information protection (AIP) les étiquettes peuvent être utilisées avec la plage complète de données qu’une organisation crée et stocke généralement, de la classification de données personnelles la plus faible à la classification la plus élevée des données hautement confidentielles. Les stratégies Azure information protection s’appliquent au client classique Azure information protection (AIP) et non au  [client d’étiquetage unifié AIP](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Vous pouvez configurer plusieurs éléments dans une stratégie AIP, notamment des options telles que :
+Les étiquettes Azure Information Protection (AIP) peuvent être utilisées avec la gamme complète de données qu’une organisation crée et stocke généralement, de la classification la plus faible des données personnelles à la classification la plus élevée des données hautement confidentielles. Les stratégies Azure Information Protection s’appliquent au client Azure Information Protection (AIP) classique et non au  [client d’étiquetage](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)unifié AIP. Vous pouvez configurer plusieurs éléments dans une stratégie AIP, y compris des options telles que :
 
-- Option pour laquelle l’étiquette permettra aux administrateurs ou aux utilisateurs de classer et de protéger (facultatif) les documents et les e-mails
-- Option permettant d’appliquer la classification lorsque les utilisateurs enregistrent et envoient du courrier électronique
-- Option pour étiqueter automatiquement un message électronique, en fonction de ses pièces jointes.
-- Option permettant de contrôler si la barre de protection des informations est affichée dans les applications Office
+- Option pour laquelle l’étiquette permet aux administrateurs ou aux utilisateurs de classifier et de protéger (facultatif) les documents et les e-mails
+- Option d’application de la classification lorsque les utilisateurs enregistrent des documents et envoient des courriers électroniques
+- Option pour étiqueter automatiquement un message électronique en fonction de ses pièces jointes.
+- Option pour contrôler si la barre Protection des informations est affichée dans Office applications
 
-Pour obtenir des options supplémentaires et des informations sur les stratégies Azure information protection, voir : [Overview of the Azure information protection Policy](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Pour plus d’options et d’informations sur les stratégies Azure Information Protection, voir : [Vue d’ensemble de la stratégie Azure Information Protection](https://docs.microsoft.com/azure/information-protection/overview-policy).  
 
-Pour les autres ressources utiles concernant les stratégies AIP, consultez les ressources suivantes :
+Pour obtenir d’autres ressources utiles concernant les stratégies AIP, voir :
 
 - [Didacticiel : configurez les paramètres de stratégie Azure Information Protection et créez une nouvelle étiquette](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
 - [Configuration de la stratégie Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy)  

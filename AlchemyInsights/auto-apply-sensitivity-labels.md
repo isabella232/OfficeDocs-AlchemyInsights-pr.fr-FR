@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969286"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Appliquer automatiquement des étiquettes de niveau de sensibilité
 
@@ -32,7 +32,7 @@ Pour appliquer automatiquement des étiquettes, les règles suivantes sont requi
 
 Nous travaillons sur la prise en charge native qui ne nécessitera pas le client d’étiquetage unifié Azure Information Protection à l’avenir.
 
-Actuellement, seul Windows prend en charge le client d’étiquetage unifié.  La fonctionnalité n’est pas encore prise en charge sur Mac, iOS et Android.
+Actuellement, seules Windows prend en charge le client d’étiquetage unifié.  La fonctionnalité n’est pas encore prise en charge sur Mac, iOS et Android.
 
 Pour plus d’informations sur les étiquettes de niveau de sensibilité et leur application automatique au contenu, voir :
 
