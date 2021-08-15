@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994863"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Définir ClientAccessServerEnabled sur True
 
@@ -27,16 +27,16 @@ Si vous ne pouvez pas ouvrir un message électronique chiffré et voir une pièc
 1. Connectez-vous à Exchange Online PowerShell.
 
 > [!NOTE]
-> Pour vous connecter à Exchange Online PowerShell, vous devez vous connecter à l’aide d’un compte d’administrateur global ou d’administrateur Exchange.
+> Pour vous connecter à Exchange Online PowerShell, vous devez vous connecter à l’aide d’un compte d’administrateur global ou Exchange administrateur.
 
-   a. Ouvrez Windows PowerShell, puis exécutez la commande suivante : `$UserCredential = Get-Credential`
+   a. Ouvrez Windows PowerShell, puis exécutez la commande suivante :`$UserCredential = Get-Credential`
 b. Dans la **boîte Windows PowerShell demande d’informations** d’identification, entrez votre compte et mot de passe scolaire ou scolaire, c. Cliquez sur **OK**. 
 
 2. Exécutez la commande suivante pour créer une session :
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    a. Exécutez la commande suivante :
+    a. Exécutez la commande suivante :
     
     `Import-PSSession $Session -DisableNameChecking`
 
