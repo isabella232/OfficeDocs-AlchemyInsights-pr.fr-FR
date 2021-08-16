@@ -13,16 +13,16 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afb38121fdfbd244da39377a19f6756a5f0370f6707fade98eaf53def6981696
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015042"
 ---
 # <a name="hybrid-configuration-wizard"></a>Assistant de configuration hybride
 
-L’Assistant Configuration hybride est une application qui vous permet de configurer un nouveau déploiement hybride entre votre organisation Exchange locale et Microsoft 365. Si vous avez déjà configuré un déploiement hybride, l’Assistant vous permet de mettre à jour vos paramètres de déploiement hybride. Pour plus d’informations, consultez les éléments suivants :
+L’Assistant Configuration hybride est une application qui vous permet de configurer un nouveau déploiement hybride entre votre organisation Exchange local et Microsoft 365. Si vous avez déjà un déploiement hybride, l’Assistant vous aide à mettre à jour vos paramètres de déploiement hybride. Pour plus d’informations, consultez :
   
 - [Exécuter l’Assistant Configuration hybride](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 

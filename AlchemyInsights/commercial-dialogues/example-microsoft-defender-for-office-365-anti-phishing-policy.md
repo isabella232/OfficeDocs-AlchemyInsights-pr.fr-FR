@@ -1,5 +1,5 @@
 ---
-title: Exemple de stratégie anti-hameçonnage Microsoft Defender pour Office 365
+title: Exemple de stratégie anti-hameçonnage Office 365 Microsoft Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035004"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Exemple de stratégie anti-hameçonnage Microsoft Defender pour Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Exemple de stratégie anti-hameçonnage Office 365 Microsoft Defender
 
 Ces paramètres activent une stratégie appelée *Domaine et PDG.* Cette stratégie assure la protection des utilisateurs et des domaines contre l’emprunt d’identité, puis applique la stratégie à tous les messages électroniques reçus par les utilisateurs au sein du domaine. Tout d’abord, ajoutez les informations suivantes pour créer la stratégie :
 
@@ -33,4 +33,4 @@ Ces paramètres activent une stratégie appelée *Domaine et PDG.* Cette straté
   - **Ajoutez des expéditeurs et des domaines de confiance :** Pour cet exemple, ne définissez aucune substitution.
 - Une fois que vous avez examiné vos paramètres, **sélectionnez Créer cette** stratégie ou **Enregistrer,** le cas échéant.
 
-Pour en savoir plus, consultez [stratégies anti-hameçonnage dans Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2092235)
+Pour en savoir plus, consultez [stratégies anti-hameçonnage dans Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
