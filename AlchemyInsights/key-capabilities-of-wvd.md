@@ -1,5 +1,5 @@
 ---
-title: Fonctionnalités clés du bureau virtuel Windows
+title: Principales fonctionnalités de Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067118"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Fonctionnalités clés du bureau virtuel Windows
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Principales fonctionnalités de Windows Virtual Desktop
 
-Le bureau virtuel Windows est un service de virtualisation de bureau et d’application qui s’exécute dans le Cloud. Voici ce que vous pouvez faire lorsque vous exécutez le bureau virtuel Windows sur Azure :
+Windows Virtual Desktop est un service de virtualisation de bureau et d'applications qui fonctionne dans le cloud. Voici ce que vous pouvez faire lorsque vous exécutez Windows Virtual Desktop sur Azure :
 
-- Configurer un déploiement de Windows 10 à sessions multiples qui offre une expérience complète de Windows 10 avec l’extensibilité
-- Virtualiser les applications Microsoft 365 et les optimiser pour qu’elles s’exécutent dans des scénarios virtuels multi-utilisateurs
-- Fournir des bureaux virtuels Windows 7 avec des mises à jour de sécurité étendues (UDE)
-- Amener vos applications et ordinateurs de bureau Windows Server et vos applications Bureau à distance existantes sur n’importe quel ordinateur
-- Gérer les applications et les ordinateurs de bureau Windows 10, Windows Server et Windows 7 avec une expérience de gestion unifiée
-- Créer un environnement de virtualisation de bureau complet dans votre abonnement Azure, sans avoir à exécuter des serveurs de passerelle supplémentaires
-- Publier autant de pools hôtes que nécessaire pour prendre en charge vos différentes charges de travail
-- À partir de la Galerie Azure, apportez vos propres images pour les charges de travail et les tests de production
-- Réduire les coûts à l’aide de ressources regroupées et à sessions multiples
-- Fournir une appartenance individuelle via des bureaux personnels (permanents)
+- Configurer un déploiement d’Windows 10 sessions multiples qui offre une expérience Windows 10 complète avec évolutivité
+- Virtualiser Microsoft 365 Apps et l’optimiser pour qu’il s’exécute dans des scénarios virtuels multi-utilisateurs
+- Fournir Windows 7 bureaux virtuels avec des mises à jour de sécurité étendues (ESU) gratuites
+- Apportez vos applications et bureaux RdS (Remote Desktop Services) et Windows Server à n’importe quel ordinateur
+- Gérer Windows 10, Windows Server et Windows 7 bureaux et applications avec une expérience de gestion unifiée
+- Créer un environnement de virtualisation de bureau complet dans votre abonnement Azure, sans avoir à exécuter de serveurs de passerelle supplémentaires
+- Publier autant de pools d’hôtes que nécessaire pour prendre en charge vos diverses charges de travail
+- À partir de la galerie Azure, apportez vos propres images pour les charges de travail et les tests de production
+- Réduire les coûts à l’aide de ressources multisesses en pool
+- Fournir la propriété individuelle par le biais de bureaux personnels (persistants)
 
-Pour en savoir plus, consultez [la rubrique Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) and [Key capabilities](https://go.microsoft.com/fwlink/?linkid=2127033).
+Pour en savoir plus, voir [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) et [ses principales fonctionnalités](https://go.microsoft.com/fwlink/?linkid=2127033) .
 

@@ -1,5 +1,5 @@
 ---
-title: Erreur de l’Assistant Configuration hybride (HCW) ACSTS50011
+title: Erreur DE L’Assistant Configuration hybride (HCW) ACSTS50011
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 2b08a0f532d948c4417c6ddc67251ec9cb0bcc8b
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: f075c95dc831a46d313d6534e078cb298fa2212fd7cffed75a2953e7e80603a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055948"
 ---
-# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Erreur de l’Assistant Configuration hybride (HCW) ACSTS50011
+# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Erreur DE L’Assistant Configuration hybride (HCW) ACSTS50011
 
-Si vous exécutez un Assistant Configuration hybride (HCW) et que vous obtenez l’erreur **ADSTS50011 : l’URL de réponse spécifiée dans la demande ne correspond pas aux URL de réponse configurées pour l’application : 'a0c73c16-a7e3-4564-9a95-2bdf47383716**, effectuez une mise à niveau vers la dernière version de HCW à l’adresse https://aka.ms/hybridwizard .
+Si vous exécutez un Assistant Configuration hybride (HCW) et que vous avez reçu l’erreur ADSTS50011 : L’URL de réponse spécifiée dans la demande ne correspond pas aux URL de réponse configurées pour l’application : **'a0c73c16-a7e3-4564-9a95-2bdf47383716**, mettre à niveau vers la dernière version de HCW at https://aka.ms/hybridwizard .
 
 
 

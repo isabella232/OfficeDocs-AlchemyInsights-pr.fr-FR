@@ -1,5 +1,5 @@
 ---
-title: Comment faire ressembler le nouveau Outlook.com comme l’ancien
+title: Comment faire en sorte que la nouvelle Outlook.com ressemble à l’ancienne
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067082"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Comment faire ressembler le nouveau Outlook.com à l’ancienne version
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Comment faire en sorte que le nouveau Outlook.com ressemble à l’ancienne version
 
-Voici quelques paramètres que vous pouvez modifier pour faire en sorte que le nouvel Outlook.com ressemble à l’ancienne version :
+Voici quelques paramètres que vous pouvez modifier pour que la nouvelle Outlook.com ressemble à l’ancienne version :
 
-1. Accédez à [paramètres de la mise en page](https://outlook.live.com/mail/options/mail/layout).
-1. Sous **boîte de réception prioritaire**, sélectionnez **ne pas trier mes messages**.
-1. Sous **Organisation des messages**, sélectionnez **les messages les plus récents en premier**.
-1. Sous **image**de l’expéditeur, sélectionnez **ne pas afficher les images**de l’expéditeur.
-1. Dans le **volet de lecture**, sélectionnez Masquer le volet de **lecture**.
-1. Sous **texte d’aperçu du message**, sélectionnez **afficher le texte d’aperçu**.
-1. Sous **aperçus en ligne**, sélectionnez **ne pas afficher les pièces jointes dans la liste des messages**.
+1. Go to [Layout settings](https://outlook.live.com/mail/options/mail/layout).
+1. Sous **Boîte de réception Triée,** **sélectionnez Ne pas trier mes messages.**
+1. Sous **Organisation des messages,** sélectionnez **Les messages les plus récents en haut.**
+1. Sous **Image de l’expéditeur**, **sélectionnez Ne pas afficher les images de l’expéditeur.**
+1. Sous **Volet de lecture,** **sélectionnez Masquer le volet de lecture.**
+1. Sous Texte **d’aperçu de message,** **sélectionnez Afficher le texte d’aperçu.**
+1. Sous **Aperçus en ligne,** sélectionnez Ne pas afficher les **pièces jointes dans la liste des messages.**
 
-Pour modifier vos paramètres de messagerie afin que votre boîte de réception se comporte et se comporte comme vous le souhaitez, consultez la rubrique [modifier l’apparence de votre boîte aux lettres dans Outlook.com et le nouveau Outlook sur le Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour modifier vos paramètres de messagerie afin que votre boîte de réception se comporte comme vous le souhaitez, voir Modifier l’apparence de votre boîte aux lettres dans [Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)et la nouvelle Outlook sur le web .

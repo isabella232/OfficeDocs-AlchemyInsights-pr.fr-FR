@@ -1,5 +1,5 @@
 ---
-title: 8000001 désactiver la boîte de réception prioritaire
+title: 8000001 désactiver la boîte de réception Focused
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038695"
 ---
-# <a name="turn-off-focused-inbox"></a>Désactiver la boîte de réception prioritaire
+# <a name="turn-off-focused-inbox"></a>Désactiver la boîte de réception Focused
 
-1. Sélectionnez **paramètres** de la \> **boîte de réception prioritaire**.  
+1. Sélectionnez **Paramètres** \> **boîte de réception Focused.**  
 
-2. Sous **lors**de la réception d’un message, sélectionnez **ne pas trier les messages**.
+2. Under **When email is received,** select **Don’t sort messages**.
 
 3. Sélectionnez **OK**.
 
-Pour en savoir plus, consultez la rubrique [boîte de réception prioritaire pour Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour en savoir plus, [consultez la boîte de réception Focused Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
