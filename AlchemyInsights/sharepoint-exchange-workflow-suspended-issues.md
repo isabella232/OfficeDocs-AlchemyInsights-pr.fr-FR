@@ -1,5 +1,5 @@
 ---
-title: Prise en main de SharePoint Online
+title: Mise en place de SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a14705003f742641f10c8459b7c7024146e4134a8d5113451e5732cef7326484
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051412"
 ---
 # <a name="workflows-in-sharepoint"></a>Flux de travail dans SharePoint
 
-Si les flux de travail SharePoint n’envoient pas d’e-mails, il se peut que votre organisation ait rencontré des limites d’expéditeurs Exchange Online.
+Si SharePoint flux de travail n’envoient pas de courriers électroniques, votre organisation peut avoir rencontré les limites Exchange Online’expéditeurs.
 
-Le message d’erreur « le flux de travail est suspendu » peut se produire si vous avez l’un des éléments suivants :
+Le message d’erreur « Flux de travail est suspendu » peut se produire si vous avez l’un des éléments suivants :
 
-- Vous disposez d’un flux de travail dans SharePoint Online qui utilise le type de plateforme de flux de travail SharePoint 2010 ou SharePoint 2013.
+- Vous avez un flux de travail dans SharePoint Online qui utilise le type de plateforme de flux de travail SharePoint 2010 ou SharePoint 2013.
 
 - Le flux de travail est configuré pour envoyer un message électronique personnalisé à plus de 200 utilisateurs à la fois, plus de 10 000 destinataires par jour ou plus de 30 messages par minute.
 
-Lorsque vous exécutez le flux de travail, le message électronique n’est pas envoyé et vous remarquez le message d’erreur, le statut Internal est défini sur suspendu ou impossible d’envoyer à un destinataire est affiché.
+Lorsque vous exécutez le flux de travail, le message électronique n’est pas envoyé et vous remarquez que le message d’erreur« État interne est suspendu ou impossible d’envoyer à un destinataire » s’affiche.
 
-Pour plus d’informations, reportez-vous à l' [article](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)suivant.
+Pour plus d’informations, reportez-vous à [l’article suivant.](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)
 
