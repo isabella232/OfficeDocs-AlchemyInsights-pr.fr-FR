@@ -1,5 +1,5 @@
 ---
-title: Courrier électronique sortant vers le dossier courrier indésirable
+title: Courrier électronique sortant vers le dossier Courrier indésirable
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096656"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Courrier électronique sortant vers le dossier courrier indésirable
+# <a name="outbound-email-to-junk-email-folder"></a>Courrier électronique sortant vers le dossier Courrier indésirable
 
-Si vous constatez que les messages sortants sont marqués comme courrier indésirable, procédez comme suit :
+Si vous voyez des messages sortants marqués comme courrier indésirable, faites les étapes suivantes :
 
-- Si vous ne l’avez pas encore fait, envisagez de [configurer les notifications de stratégie de courrier indésirable sortant](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Si ce n’est pas déjà fait, envisagez de [configurer des notifications de](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)stratégie de courrier indésirable sortant.
 
-- Utilisez le [suivi des messages](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) pour voir si le message sortant a la valeur de l’événement **courrier indésirable** avec les détails supplémentaires : **utiliser un pool de remise à risque élevé**.
+- Utilisez [le suivi des messages](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) pour voir si le message sortant a la valeur d’événement **Courrier** indésirable avec les détails supplémentaires : Utiliser le pool de remise à **risque élevé**.
 
-  Pour ces messages, vérifiez le contenu du message pour voir ce qui peut être considéré comme du courrier indésirable. Par exemple, les signatures peuvent parfois causer des problèmes à de nombreux utilisateurs.
+  Pour ces messages, vérifiez le contenu du message pour voir ce qui peut être considéré comme du courrier indésirable. Par exemple, les signatures peuvent parfois provoquer des problèmes pour de nombreux utilisateurs.
 
-  Si vous avez plusieurs exemples de messages sortants légitimes marqués comme courriers indésirables, ouvrez un ticket de support et demandez à l’agent de support d’envoyer vos messages en tant que faux positifs à nos analystes de courrier indésirable. Préparez-vous à fournir des exemples de messages qui incluent tous les en-têtes de message.
+  Si vous avez plusieurs exemples de messages sortants légitimes marqués comme courrier indésirable, ouvrez un ticket de support et demandez à l’agent de support de soumettre vos messages comme faux positifs à nos analystes de courrier indésirable. Soyez prêt à fournir des exemples de messages qui incluent tous les en-têtes de message.

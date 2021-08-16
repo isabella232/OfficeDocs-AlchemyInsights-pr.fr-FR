@@ -1,5 +1,5 @@
 ---
-title: Arrêter de se connecter automatiquement à Outlook.com
+title: Arrêter la signature automatique sur Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 3a5703d3040c9bac6e611902e27400b9212f65be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8cc2099aa725277cc15f39398a70fc5d9200b829bdee224a9c3fae480763a33a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010866"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a>Comment cesser de se connecter automatiquement
+# <a name="how-to-stop-signing-in-automatically"></a>Comment arrêter la signature automatique
 
-Pour arrêter de se connecter automatiquement à Outlook.com, désactivez la case à cocher **maintenir la connexion** sur la page où vous entrez votre mot de passe.
+Pour arrêter de vous Outlook.com automatiquement, décochez  la case Conserver la signature sur la page où vous entrez votre mot de passe.
   
-Pour en savoir plus, consultez [la rubrique How to sign in or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d’informations, [voir Comment se connectez-vous à Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   
