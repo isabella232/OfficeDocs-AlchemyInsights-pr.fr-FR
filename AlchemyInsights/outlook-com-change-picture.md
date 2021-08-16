@@ -13,19 +13,19 @@ ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
 ms.custom:
 - "8000036"
 - "793"
-ms.openlocfilehash: 9b3f884bc30f2d61bab47cacbf0188f05e00c343
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9cec3fd3c2902c8dfd6742c63d02f0a5591838cd253054e18052cf67648ec1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063986"
 ---
-# <a name="change-your-microsoft-account-picture"></a>Modifier votre image de compte Microsoft
+# <a name="change-your-microsoft-account-picture"></a>Modifier l’image de votre compte Microsoft
 
-1. Accédez à [vos informations de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Sélectionnez **modifier l’image**.
-3. Sélectionnez **nouvelle image**.
-4. Sélectionnez l’image que vous souhaitez utiliser et sélectionnez **ouvrir**.
-5. Faites glisser ou redimensionnez la zone image, puis sélectionnez **Enregistrer**.
+1. Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Sélectionnez **Modifier l’image**.
+3. Sélectionnez **Nouvelle image**.
+4. Choisissez l’image que vous souhaitez utiliser et sélectionnez **Ouvrir.**
+5. Faites glisser ou reizez la zone d’image et sélectionnez **Enregistrer.**
 
-Veuillez patienter jusqu’à 24 heures pour que les modifications apportées à votre photo de profil entrent en vigueur.
+Veuillez autoriser jusqu’à 24 heures pour que les modifications apportées à votre photo de profil entrent en vigueur.

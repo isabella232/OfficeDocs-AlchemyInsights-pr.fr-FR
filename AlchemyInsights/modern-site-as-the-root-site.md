@@ -1,5 +1,5 @@
 ---
-title: Site moderne comme site racine
+title: Site moderne en tant que site racine
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b42cf276a76547584c8cfd87b5a28f31d51ea7f8ca56621b22aeef01e4613ce6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000390"
 ---
 # <a name="modern-site-as-root-site"></a>Site moderne en tant que site racine
 
-Nous avons commencé à déployer une nouvelle fonctionnalité qui vous permettra d' [échanger votre site racine de site classique à l’aide d’un site moderne](https://docs.microsoft.com/sharepoint/modern-root-site). Utilisez [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pour permuter l’emplacement d’un site sur un autre site lors de l’archivage du site d’origine. Disponible pour les deux sites d’équipe (non connecté à un groupe) et le site de communication.
+Nous avons commencé à déployer une nouvelle fonctionnalité qui vous permettra d’échanger votre site racine de site classique [avec un site moderne.](https://docs.microsoft.com/sharepoint/modern-root-site) Utilisez [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pour permuter l’emplacement d’un site avec un autre site lors de l’archivage du site d’origine. Disponible pour site d’équipe (non connecté à un groupe) et Site de communication.
 
 >[!Important]
-> Ne supprimez pas votre site racine classique pour créer un site de communication moderne. Ceci n’est pas pris en charge par Microsoft. La suppression du site racine rendra tous les sites SharePoint de votre organisation inaccessibles à tous les utilisateurs, jusqu’à ce que vous restauriez le site ou que vous créez un nouveau site à la même URL. Nous communiquerons cette fonctionnalité via le centre de messages. Attendez-vous à ce que la fonctionnalité soit activée dans votre client.
+> Ne supprimez pas votre site racine classique pour créer un site de communication moderne. Cette situation n’est pas prise en charge par Microsoft. La suppression du site racine rend tous les sites SharePoint de votre organisation inaccessibles à tous les utilisateurs, jusqu’à ce que vous restyiez le site ou que vous en créez un à la même URL. Nous communiquerons cette fonctionnalité via le centre de messages. Vous devez vous attendre à ce que la fonctionnalité soit bientôt allumée dans votre client.
 
-## <a name="known-issues-with-swapping-sites"></a>Problèmes connus liés à l’échange de sites
-- Le site cible peut renvoyer une erreur « introuvable » (HTTP 404) pendant une courte période de temps.
-- Le contenu doit être réanalysé pour mettre à jour l’index de recherche. Il n’y a pas d’étape manuelle requise ici, cette opération sera exécutée automatiquement.
-- Tout ce qui dépend de liens « statiques » (tels que la synchronisation de fichiers et les fichiers OneNote) doit être corrigé manuellement.
-- Les sites Project Server peuvent avoir besoin d’être validés pour s’assurer qu’ils sont toujours correctement associés. 
+## <a name="known-issues-with-swapping-sites"></a>Problèmes connus avec l’échange de sites
+- Le site cible peut renvoyer une erreur « in trouvée » (HTTP 404) pendant une courte période.
+- Le contenu doit être réaxé pour mettre à jour l’index de recherche. Aucune étape manuelle n’est requise ici, cette étape est effectuée automatiquement.
+- Tout ce qui dépend des liens « statiques » (tels que la synchronisation de fichiers et OneNote fichiers) doit être corrigé manuellement.
+- Project Les sites serveur devront peut-être être validés pour s’assurer qu’ils sont toujours associés correctement. 
