@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068198"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problèmes liés à la mise en forme des polices dans Excel
+# <a name="font-formatting-problems-in-excel"></a>Problèmes de mise en forme de police dans Excel
 
-Dans Excel 2016, la mise en forme des caractères peut ne pas s’afficher correctement dans une cellule. Cela peut se produire si une cellule contient plusieurs types de mise en forme de caractères. Par exemple, si certains caractères sont en gras et que d’autres ne sont pas en gras, il se peut que le format gras apparaisse. Si la même cellule comporte des caractères de couleur différents, il se peut que les couleurs s’affichent correctement. Notre équipe technique est consciente de ce problème et travaille actuellement sur un correctif. En attendant, essayez d’utiliser une autre police. Ou essayez d’éviter d’utiliser plusieurs types de mise en forme dans la même cellule jusqu’à ce que ce problème soit résolu.
+Dans Excel 2016, la mise en forme des polices peut ne pas apparaître correctement dans une cellule. Cela peut se produire si une cellule contient plusieurs types de mise en forme de police. Par exemple, si certains caractères sont en gras et d’autres non gras, il se peut que le format gras ne s’affiche pas. Ou si vous avez différents caractères de couleur dans la même cellule, il se peut que les couleurs ne s’affichent pas correctement. Notre équipe d’ingénierie est au courant de ce problème et travaille actuellement sur un correctif. En attendant, essayez d’utiliser une police différente. Essayez également d’éviter d’utiliser plusieurs types de mise en forme dans la même cellule jusqu’à ce que ce problème soit résolu.
   

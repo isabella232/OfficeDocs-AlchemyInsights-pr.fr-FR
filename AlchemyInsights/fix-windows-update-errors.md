@@ -1,5 +1,5 @@
 ---
-title: Corriger les erreurs de Windows Update
+title: Corriger les Windows de mise à jour
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068270"
 ---
-# <a name="fix-windows-update-errors"></a>Corriger les erreurs de Windows Update
+# <a name="fix-windows-update-errors"></a>Corriger les Windows de mise à jour
 
-Si vous obtenez un code d'erreur lors  du téléchargement et de l'installation de Windows Update, l'dépannage de la mise à jour peut vous aider à résoudre le problème.
+Si vous obtenez un code d’erreur lors du téléchargement  et de l’installation Windows mise à jour, l’dépannage de la mise à jour peut vous aider à résoudre le problème.
 
-- [Télécharger l'dépannage des mises à jour pour Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Exécutez l'dépannage. Lorsque vous avez terminé, il est préférable de redémarrer votre appareil. Ensuite, recherchez les nouvelles mises à jour en allant sur Démarrer > Paramètres > Mise à jour & [sécurité > Windows Update.](ms-settings:windowsupdate)
+- [Télécharger l’dépannage des mises à jour Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Exécutez l’dépannage. Lorsque c’est fait, il est préférable de redémarrer votre appareil. Ensuite, recherchez les nouvelles mises à jour en allant à l'> Paramètres > mise à jour & de sécurité [> Windows mise à jour.](ms-settings:windowsupdate)
 
-Si ceux-ci ne fonctionnent toujours pas, consultez [Windows Update : FAQ](https://support.microsoft.com/help/12373/windows-update-faq) pour plus d'informations.
+Si celles-ci ne fonctionnent toujours pas, consultez la [Windows update : FAQ](https://support.microsoft.com/help/12373/windows-update-faq) pour plus d’informations.

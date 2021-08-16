@@ -12,16 +12,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58394b854877aaf2f537c33195193d23cc3891524cb2f867246ba4bf5f9e73a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098996"
 ---
 # <a name="managed-metadata-service-error-message"></a>Message d’erreur du service de métadonnées gérées
 
-Lorsque vous ouvrez le magasin de termes, le message d’erreur suivant peut s’afficher : «le service de métadonnées gérées ou la connexion n’est pas disponible actuellement. Le service Web de pool d’applications ou de métadonnées gérées n’a peut-être pas été démarré. Veuillez contacter votre administrateur. "
+Lorsque vous ouvrez le magasin de termes, vous pouvez voir un message d’erreur : « La connexion ou le service de métadonnées gérées n’est actuellement pas disponible. Le pool d’applications ou le service web de métadonnées gérées n’a peut-être pas été démarré. Veuillez contacter votre administrateur. »
   
-Si plus de 24 heures se sont écoulées depuis le début de ce problème, veuillez consigner un cas de support. Nous comprenons que 24 heures peuvent ressembler à un certain temps. Dans de nombreux cas, nous travaillons déjà sur une solution, veuillez nous fournir au moins 24 heures.
+Si plus de 24 heures se sont écoulées depuis le premier problème, veuillez enregistrer un dossier de support. Nous comprenons que 24 heures peuvent ressembler à un certain temps. Dans de nombreux cas, nous travaillons déjà sur une solution. Donnez-nous donc au moins 24 heures.
   
