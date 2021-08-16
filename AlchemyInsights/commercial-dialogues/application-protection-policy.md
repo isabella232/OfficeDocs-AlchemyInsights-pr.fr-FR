@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995367"
 ---
-# <a name="application-protection-policy-requirements"></a>Exigences de stratégie de protection des applications
+# <a name="application-protection-policy-requirements"></a>Exigences en matière de stratégie de protection des applications
 
 Configuration requise pour la stratégie de protection des applications :
 
 - Un utilisateur a une licence Intune ou EMS.
 - L’utilisateur appartient à un groupe ciblé par les stratégies de protection des applications.
 - Un seul utilisateur d’entreprise est connecté aux applications protégées sur un appareil.
-- [L’application a implémenté le SDK Intune. Pour obtenir la liste des applications qui utilisent le SDK, consultez les applications protégées par Microsoft Intune.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- [L’application a implémenté le SDK Intune. Pour obtenir la liste des applications qui utilisent le SDK, voir Microsoft Intune applications protégées.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [En savoir plus](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)
