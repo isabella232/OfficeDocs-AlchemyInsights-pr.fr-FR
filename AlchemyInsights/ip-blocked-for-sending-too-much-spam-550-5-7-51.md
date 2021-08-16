@@ -1,5 +1,5 @@
 ---
-title: 1264 IP bloqué pour l’envoi d’un trop de courrier indésirable (550 5.7.51)
+title: 1264 IP bloqué pour l’envoi de trop de courrier indésirable (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099248"
 ---
 # <a name="access-denied-banned-sender"></a>Accès refusé, expéditeur interdit
 
- **Erreur**: erreur SMTP à partir du serveur distant pour la commande RCPT to, Host : *xxxx*-com.mail.protection.Outlook.com (*xxx.xxx.xxx.xxx*) Reason : 550 5.7.511 accès refusé, interdit aux expéditeurs [*XX.xxx.x.xxx*]. 
+ **Erreur**: erreur SMTP du serveur distant pour la commande RCPT TO, hôte : *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) raison : 550 5.7.511 Accès refusé, expéditeur interdit [*xx.xxx.x.xxx*]. 
 
-Si vous recevez cette erreur lors de l’envoi d’un message électronique à un destinataire Microsoft 365, supprimez le compte affecté de la liste des expéditeurs bloqués à l’adresse [https://sender.office.com](https://sender.office.com) .
+Si vous recevez cette erreur lors de l’envoi d’un courrier électronique à un destinataire Microsoft 365, supprimez le compte affecté de la liste des expéditeurs bloqués à l’adresse [https://sender.office.com](https://sender.office.com) .
