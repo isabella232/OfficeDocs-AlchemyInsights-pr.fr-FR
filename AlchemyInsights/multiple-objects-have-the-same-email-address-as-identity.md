@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011910"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Plusieurs objets ont la même adresse de courrier comme identité
 
 **Objets multiples**
 
-L’une des raisons les plus fréquentes de cette erreur est de ne pas pouvoir acheminer correctement une demande Outlook Web Access en présence de plusieurs objets ayant la même adresse de messagerie que l’identité. Pour rechercher ces objets, exécutez les commandes suivantes :
+L’une des raisons les plus fréquentes de cette erreur est de ne pas pouvoir acheminer correctement une demande Outlook Web Access en présence de plusieurs objets ayant la même adresse de messagerie que l’identité. Pour rechercher ces objets, exécutez les commandes suivantes :
 
 · Get-Recipient <email address>
 

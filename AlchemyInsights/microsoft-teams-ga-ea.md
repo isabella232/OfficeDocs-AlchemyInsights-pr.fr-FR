@@ -1,5 +1,5 @@
 ---
-title: Microsoft teams-accès invité
+title: Microsoft Teams - Accès invité
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012306"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft teams-accès invité
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Accès invité
 
-Si vous avez besoin d’aide pour communiquer avec des utilisateurs extérieurs à votre organisation dans Teams, vous devez décider s’il faut utiliser [l’accès à des invités ou l’accès externe (Fédération)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ou vous pouvez utiliser les deux.
+Si vous avez besoin d’aide pour communiquer avec des utilisateurs extérieurs à votre organisation dans Teams, vous devez décider d’utiliser l’accès invité ou l’accès externe [(fédération)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ou les deux.
 
-Veillez à [passer en revue les différences](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) afin de comprendre les fonctionnalités disponibles pour chacune d’elles.  Par exemple, l’accès externe (Fédération) autorise des communications 1:1, comme la conversation et la présence.  Toutefois, les utilisateurs fédérés ne peuvent pas participer à la collaboration avec Teams.  Si vous souhaitez qu’un utilisateur externe rejoigne et participe à des conversations de canal teams ou partage des fichiers, vous devez activer l’accès invité.
+N’oubliez [pas de passer en revue les différences](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) pour comprendre les fonctionnalités disponibles pour chacune d’elles.  Par exemple, l’accès externe (fédération) autorise les communications 1:1, telles que la conversation et la présence.  Toutefois, les utilisateurs fédérés ne peuvent pas Teams collaboration.  Si vous souhaitez qu’un utilisateur externe rejoigne et participe à Teams conversations de canal ou partage de fichiers, vous devez activer l’accès invité.
 
-**Option 1 : activer l’accès invité** Dans le centre d’administration Teams, accédez à paramètres d’organisation de l' [organisation > accès invité](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) et activez la fonction autoriser l’accès invité dans Teams.  Pour un client avec tous les autres paramètres par défaut, il vous suffit de le faire.  Pour personnaliser la configuration de l’accès invité, vérifiez que vous suivez toutes les étapes de la [liste de vérification d’accès invité](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Une fois que vous avez terminé, vous devrez [patienter jusqu’à 24 heures](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) pour que les paramètres prennent effet.
+**Option 1 : activer l’accès invité** Dans le Teams Admin Center, accédez à [l’Paramètres >](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) Invité à l’échelle de l’organisation et activer « Autoriser l’accès invité dans Teams ».  Pour un client avec tous les autres paramètres par défaut, il doit s’agit de tout ce que vous devez faire.  Pour personnaliser votre configuration d’accès invité, veillez à suivre toutes les étapes de la liste de contrôle [d’accès invité.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Une fois que vous avez terminé, vous devrez patienter [jusqu’à 24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) heures pour que les paramètres prennent effet.
 
-Si vous êtes certain d’avoir effectué toutes les étapes de la liste de vérification et qu’il y a plus de 24 heures, continuez et essayez d' [Ajouter un invité à votre équipe](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Si vous êtes sûr d’avoir effectué toutes les étapes de la liste de contrôle et que cela fait plus de 24 heures, essayez d’ajouter un invité à votre [équipe.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Pour plus d’informations, y compris des procédures, consultez la rubrique [accès invité dans Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Pour plus d’informations, y compris des vidéos de pratiques, voir [l’accès invité dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Option 2 : activer l’accès externe (Fédération)** Si vous souhaitez également activer l’accès externe (Fédération), dans le centre d’administration Teams, accédez à paramètres à l’échelle de l' [organisation > accès externe](https://admin.teams.microsoft.com/company-wide-settings/external-communications) et activez la « les utilisateurs peuvent communiquer avec les utilisateurs de Skype entreprise et de teams », puis suivez toutes les étapes de la rubrique [permettre à vos équipes de discuter et de communiquer avec les utilisateurs d’une autre organisation](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**Option 2 : activer l’accès externe (fédération)** Si vous souhaitez également activer l’accès externe (Fédération), dans le Centre d’administration Teams accédez à [l’Paramètres >](https://admin.teams.microsoft.com/company-wide-settings/external-communications) Accès externe à l’échelle de l’organisation et activer « Les utilisateurs peuvent communiquer avec les utilisateurs Skype Entreprise et Teams », puis suivez toutes les étapes de la procédure de la page Laisser les utilisateurs de votre [Teams](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)discuter et communiquer avec des utilisateurs d’une autre organisation.
