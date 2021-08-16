@@ -1,5 +1,5 @@
 ---
-title: Exporter des éléments vers un fichier d’archive dans Outlook pour Mac
+title: Exporter des éléments vers un fichier d’archivage dans Outlook pour Mac
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100400"
 ---
-# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exporter des éléments vers un fichier d’archive dans Outlook pour Mac
+# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exporter des éléments vers un fichier d’archivage dans Outlook pour Mac
 
-Pour réduire la taille de votre boîte de réception, archivez manuellement les messages électroniques, les contacts et les autres éléments dans un fichier de données Outlook pour Mac (. Olm). Vous pouvez enregistrer un fichier. Olm sur n’importe quel emplacement de votre Mac ou sur un autre ordinateur pour le conserver.
+Pour réduire la taille de votre boîte de réception, archivez manuellement les messages électroniques, contacts et autres éléments dans Outlook pour Mac fichier de données (.olm). Vous pouvez enregistrer un fichier .olm à n’importe quel emplacement sur votre Mac ou sur un autre ordinateur pour la sécurité.
 
-1. Sous l’onglet **Outils** , cliquez sur **Exporter**.
+1. Sous **l’onglet Outils,** cliquez sur **Exporter.**
 
 > [!NOTE]
-> Vous ne voyez pas le bouton **Exporter** ? Vérifiez que vous disposez de la dernière version d’Outlook. Dans le menu **aide** d’Outlook, cliquez sur **Rechercher les mises à jour**. Si toutes les mises à jour Outlook sont appliquées et que le bouton **Exporter** ne s’affiche toujours pas, recherchez **Exporter** dans le menu **fichier** d’Outlook.
+> Vous ne voyez pas le **bouton Exporter** ? Assurez-vous que vous avez la dernière version de Outlook. Dans le menu **Outlook’aide,** cliquez **sur Vérifier les mises à jour.** Si toutes Outlook mises à jour sont appliquées et  que vous ne voyez toujours pas le bouton Exporter, recherchez **Exporter** dans Outlook **menu** Fichier.
 
-2. Dans la zone **Exporter vers un fichier d’archive (. Olm)** , cochez les éléments à exporter, puis cliquez sur **Continuer**.
+2. Dans la zone Exporter vers le fichier **d’archivage (.olm),** cochez les éléments que vous souhaitez exporter, puis cliquez sur **Continuer**.
 
-3. Dans la zone **Enregistrer sous** , sous **favoris**, sélectionnez le dossier **téléchargements** , puis cliquez sur **Enregistrer**.
+3. Dans la **zone Enregistrer sous,** sous **Favoris,** choisissez le dossier **Téléchargements,** puis cliquez sur **Enregistrer.**
 
-4. Une fois que vos données ont été exportées et que vous recevez une notification, cliquez sur **Terminer**.
+4. Une fois que vos données ont été exportées et que vous recevez une notification, cliquez sur **Terminer.**
 
-Pour plus d’informations sur l’accès aux données que vous avez enregistrées dans un fichier de données Outlook pour Mac (. Olm), voir [importer des messages électroniques, des contacts et d’autres éléments dans outlook 2016 pour Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+Pour plus d’informations sur l’accès aux données que vous avez enregistrées dans un fichier de données Outlook pour Mac (.olm), voir Importer des [messages électroniques,](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)des contacts et d’autres éléments dans Outlook 2016 pour Mac .
 
-**Je veux exporter vers iCloud ou un autre type de fichier d’archive**
+**Je souhaite exporter vers iCloud ou vers un autre type de fichier d’archivage**
 
-La seule option d’exportation disponible actuellement est le fichier d’archive. OLM. Pour demander des options d’exportation supplémentaires, reportez-vous à la [zone suggestion Outlook](https://outlook.uservoice.com/) pour laisser vos commentaires. L’équipe Outlook surveille activement ce forum.
+La seule option d’exportation disponible pour le moment est le fichier d’archive .olm. Pour demander des options d’exportation supplémentaires, [visitez la Outlook suggestion pour](https://outlook.uservoice.com/) laisser vos commentaires. L Outlook de recherche surveille activement ce forum.
 
 **Voir aussi**
 
-- [Importer un fichier. pst dans Outlook 2016 pour Mac à partir d’Outlook pour Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [Importer un fichier .pst dans Outlook 2016 pour Mac à partir Outlook pour Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [Utiliser Time Machine pour archiver ou sauvegarder automatiquement des éléments dans Outlook 2016 pour Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Utiliser Time Machine pour archiver ou back up automatiquement des éléments dans Outlook 2016 pour Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

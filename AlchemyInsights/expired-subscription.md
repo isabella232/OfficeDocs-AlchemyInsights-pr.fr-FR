@@ -15,16 +15,16 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 23deea0e03b1d9a2208de38d16018a3679e8add3
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029730"
 ---
 # <a name="expired-subscription"></a>Abonnement expiré
 
-Il semble que vous avez un ou plusieurs abonnements expirés. Si vous souhaitez continuer le service, vous devez réactiver l’abonnement ou effectuer un nouvel achat.
+Il semble que vous avez un ou plusieurs abonnements expirés. Si vous souhaitez poursuivre le service, vous devez réactiver l’abonnement ou effectuer un nouvel achat.
   
 **Réactiver**
   
@@ -40,7 +40,7 @@ Pour en savoir plus, consultez l’article [Réactiver votre abonnement](/micros
 **Effectuer un nouvel achat**
   
 1. Dans le centre d’administration, accédez à la page **facturation** \> [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433).
-2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **Acheter.**
+2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **Acheter**.
 3. Entrez le nombre de licences utilisateur dont vous avez besoin, puis choisissez si vous souhaitez régler de façon mensuelle ou annuelle. Choisissez si vous souhaiter attribuer automatiquement des licences à tous vos utilisateurs qui n’en ont pas actuellement. Ensuite, **sélectionnez Partir maintenant.**
 4. Suivez les étapes restantes pour terminer l’enregistrement.
 
