@@ -1,5 +1,5 @@
 ---
-title: Impossible de supprimer des photos ou des fichiers de fichiers dans Outlook.com
+title: Can’t delete photos or files from Files in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064310"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Impossible de supprimer des fichiers ou des photos de fichiers
+# <a name="cant-delete-files-or-photos-from-files"></a>Can’t delete files or photos from Files
 
-Dans Outlook.com, **fichiers** affiche les fichiers et les photos joints aux messages dans votre boîte aux lettres. Pour supprimer des fichiers et des photos des fichiers, vous devez supprimer les messages électroniques auxquels ils sont attachés. Après avoir supprimé les messages, vous devez également les supprimer de votre dossier éléments supprimés.
+Dans Outlook.com, **Files** affiche les fichiers et les photos joints aux messages dans votre boîte aux lettres. Pour supprimer des fichiers et des photos de Fichiers, vous devez supprimer les messages électroniques à qui ils sont joints. Après avoir supprimé les messages, vous devez également les supprimer de votre dossier Éléments supprimés.
 
-Pour en savoir plus, consultez [la procédure de suppression des fichiers ou des photos dans Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour en savoir plus, [lisez Comment supprimer des fichiers ou des photos dans Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
