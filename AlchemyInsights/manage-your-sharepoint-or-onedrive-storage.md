@@ -1,5 +1,5 @@
 ---
-title: Gérer votre espace de stockage SharePoint ou OneDrive
+title: Gérer votre stockage SharePoint ou OneDrive stockage
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077792"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Gérer votre espace de stockage SharePoint ou OneDrive
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Gérer votre stockage SharePoint ou OneDrive stockage
 
- **SharePoint Online**
+ **SharePoint Online**
   
-Pour la plupart des organisations, le stockage SharePoint est géré automatiquement de sorte que vous n’avez pas besoin de définir des limites par collection de sites. Pour vérifier la capacité de stockage SharePoint, procédez comme suit :
+Pour la plupart des organisations, SharePoint stockage est géré automatiquement afin que vous n’avez pas besoin de définir de limites par collection de sites. Pour vérifier la quantité SharePoint stockage que vous avez :
   
-- Dans le nouveau centre d’administration SharePoint, dans la partie supérieure droite de la page sites, recherchez votre espace de stockage disponible et total.
+- Dans la nouvelle SharePoint d’administration, dans le coin supérieur droit de la page des sites, recherchez votre espace de stockage disponible et total.
     
-Pour plus d’informations sur le mode de calcul de votre limite, voir [limites de SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Pour acheter de l’espace de stockage supplémentaire, consultez [la rubrique modifier l’espace de stockage pour votre abonnement](https://go.microsoft.com/fwlink/?linkid=866428).
+Pour plus d’informations sur le calcul de votre limite, voir [SharePoint online limits](https://go.microsoft.com/fwlink/p/?LinkID=856113). Pour acheter du stockage supplémentaire, voir [Modifier l’espace de stockage de votre abonnement.](https://go.microsoft.com/fwlink/?linkid=866428)
   
  **OneDrive**
   
-Pour modifier le stockage par défaut pour les utilisateurs de OneDrive nouveaux et existants :
+Pour modifier le stockage par défaut pour les utilisateurs nouveaux OneDrive existants :
   
-- Accédez à la [page de stockage du centre d’administration OneDrive](https://admin.onedrive.com/?v=StorageSettings), puis entrez un nouveau montant en Go.
+- Go to the [Stockage page of the OneDrive admin center,](https://admin.onedrive.com/?v=StorageSettings)and enter a new amount in Gb.
     
-Pour vérifier l’espace de stockage que vous utilisez dans votre propre espace OneDrive, consultez la rubrique [gérer votre espace de stockage Onedrive entreprise](https://go.microsoft.com/fwlink/?linkid=866429). Pour plus d’informations sur le stockage fourni avec chaque plan, voir [Description du service OneDrive entreprise](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Pour vérifier la quantité de stockage que vous utilisez dans votre propre OneDrive, voir [Gérer votre espace OneDrive Entreprise stockage.](https://go.microsoft.com/fwlink/?linkid=866429) Pour plus d’informations sur le stockage qui est livré avec chaque plan, voir [OneDrive Entreprise description du service.](https://go.microsoft.com/fwlink/p/?LinkID=826071)
   
 

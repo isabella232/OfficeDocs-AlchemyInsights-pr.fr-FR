@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012126"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Spécialistes des menaces Microsoft - Notification d’attaque ciblée
 
@@ -26,12 +26,12 @@ La notification d’attaque ciblée est l’une Spécialistes des menaces Micros
 
 Si vous êtes un client Microsoft Defender pour point de terminaison, vous devez demander Spécialistes des menaces Microsoft - Notifications d’attaque ciblées pour obtenir des informations et une analyse spéciales qui vous aident à identifier les menaces les plus critiques afin de pouvoir y répondre rapidement.
 
-Pour vous inscrire à Spécialistes des menaces Microsoft - Avantages des notifications d’attaques ciblées, Paramètres fonctionnalités générales avancées   >    >    >  **Spécialistes des menaces Microsoft - Notifications** d’attaque ciblée à appliquer. Une fois accepté, vous bénéficiez des avantages des notifications d’attaque ciblée.
+Pour vous inscrire à Spécialistes des menaces Microsoft - Avantages des notifications d’attaques ciblées, Paramètres   >    >    >  **fonctionnalités générales** avancées Spécialistes des menaces Microsoft - Notifications d’attaque ciblée à appliquer. Une fois accepté, vous bénéficiez des avantages des notifications d’attaque ciblée.
 
 Vous pouvez recevoir des notifications d’attaques ciblées Spécialistes des menaces Microsoft via le support suivant :
 
 - Page Incidents du portail Defender pour les points de terminaison
-- Tableau de bord Alertes du portail Defender pour les points de terminaison
+- Tableau de bord Alertes du portail Defender pour point de terminaison
 - API d’alerte OData et API REST
 - Table DeviceAlertEvents en recherche avancée
 - Votre courrier électronique, si vous choisissez de le configurer
