@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7757"
-ms.openlocfilehash: 9a5887799f5297ec73ebda644ae668e2dee49675
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: abe68137e917ef568d9c8902a16df304040bbfc3b3ea5d04e45a5247bd639130
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49951898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028734"
 ---
 # <a name="identifiers-entity-id"></a>Identificateurs (ID d’entité)
 
-Pour afficher ou modifier les revendications émises dans le jeton SAML dans l’application, ouvrez l’application dans le portail Azure. Ensuite, **ouvrez la section Attributs & revendications.** Pour plus d’informations, voir personnaliser les revendications émises dans le [jeton SAML pour les applications d’entreprise.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization#editing-nameid)
+Pour afficher ou modifier les revendications émises dans le jeton SAML dans l’application, ouvrez l’application dans le portail Azure. Ouvrez ensuite **les attributs utilisateur & section Revendications.** Pour plus d’informations, voir personnaliser les revendications émises dans le [jeton SAML pour les applications d’entreprise.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization#editing-nameid)

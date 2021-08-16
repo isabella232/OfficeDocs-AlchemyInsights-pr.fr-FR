@@ -1,5 +1,5 @@
 ---
-title: Découvrez comment Microsoft Edge prend en charge la protection des informations Windows (WIP)
+title: Découvrez comment Microsoft Edge prend en charge Windows Protection des informations personnelles (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49607999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054316"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Découvrez comment Microsoft Edge prend en charge la protection des informations Windows (WIP)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Découvrez comment Microsoft Edge prend en charge Windows Protection des informations personnelles (WIP)
 
-À mesure que le nombre d’utilisateurs à distance augmente, le nombre d’activités personnelles et professionnelles se produisent sur les appareils d’entreprise. Cela accroît le risque que les données d’entreprise soient partagées à l’extérieur du lieu de travail. Pour atténuer ce risque, Microsoft Edge (version 81 ou ultérieure) prend en charge la protection des informations Windows (WIP) : une fonctionnalité Windows-10 qui permet de protéger les données d’entreprise contre les divulgations accidentelles et non autorisées.
+À mesure que le nombre de travailleurs à distance augmente, le nombre d’activités personnelles et professionnelles se produit sur les appareils d’entreprise. Cela augmente à son tour le risque que les données d’entreprise se partagent en dehors de l’espace de travail. Pour atténuer ce risque, Microsoft Edge (version 81 ou ultérieure) prend en charge la Protection des informations Windows (WIP) : fonctionnalité Windows-10 qui permet de protéger les données d’entreprise contre les divulgations non autorisées et accidentelles.
