@@ -1,5 +1,5 @@
 ---
-title: Télécharger et installer Office
+title: Télécharger et installer les Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 5950c130b82e435eacaf9fb096faae8482b50c15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6306811fad43af92e195467703b6cc1416ca7d6d6e6fcde56901e895f8c8239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004810"
 ---
-# <a name="download-and-install-office"></a>Télécharger et installer Office
+# <a name="download-and-install-office"></a>Télécharger et installer les Office
 
-Votre **abonnement Business Essentials** n'inclut pas les applications Microsoft 365. Pour obtenir Office, vous devez mettre à niveau vers l'abonnement **Business** ou **Business Premium.** Consultez les abonnements disponibles avec Office ici : [Microsoft 365 pour les entreprises](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Votre **abonnement Business Essentials** n’inclut pas les Microsoft 365 applications. Pour obtenir des Office, vous devez mettre à niveau vers l’abonnement **Business** **Premium** Business. Consultez les abonnements disponibles avec Office : [Microsoft 365 entreprise](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

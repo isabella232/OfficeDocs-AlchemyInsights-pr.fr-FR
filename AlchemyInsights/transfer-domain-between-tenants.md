@@ -1,5 +1,5 @@
 ---
-title: Transférer le domaine entre les clients
+title: Transférer un domaine entre des locataires
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048622"
 ---
-# <a name="transfer-domain-between-tenants"></a>Transférer le domaine entre les clients
+# <a name="transfer-domain-between-tenants"></a>Transférer un domaine entre des locataires
 
-Un domaine personnalisé tel que forthcoffee.com peut être supprimé manuellement d’un client, puis vérifié dans un nouveau client.
+Un domaine personnalisé tel que forthcoffee.com peut être manuellement supprimé d’un client, puis vérifié dans un nouveau client.
 
-Pour [supprimer un domaine](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain), procédez comme suit. Ensuite, dans le nouveau client, accédez à **paramètres**  >  **domaines**  >  **Ajouter un domaine**.
+Suivez ces étapes pour [supprimer un domaine.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) Ensuite, dans le nouveau client, **Paramètres**  >  **domaine Ajouter** un  >  **domaine.**
 
-Pour les scénarios plus complexes, consultez la rubrique [migrations client-client de Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
+Pour des scénarios plus complexes, [voir Microsoft 365 migrations](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)client à client.
 
 **Notez également**:
-- Le domaine onmicrosoft.com initial ne peut pas être supprimé ou déplacé entre les locataires.
-- Un domaine personnalisé acheté auprès de Microsoft ne peut pas être déplacé entre les locataires.
+- Le domaine onmicrosoft.com ne peut pas être supprimé ou déplacé entre les locataires.
+- Un domaine personnalisé acheté auprès de Microsoft ne peut pas être déplacé entre les clients.

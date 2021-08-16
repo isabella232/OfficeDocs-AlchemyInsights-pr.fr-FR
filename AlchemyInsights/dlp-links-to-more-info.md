@@ -1,5 +1,5 @@
 ---
-title: Plus d’informations sur les problèmes liés à DLP
+title: Plus d’informations sur les problèmes DLP
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679727"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030828"
 ---
-# <a name="information-about-dlp-issues"></a>Informations sur les problèmes liés à DLP
+# <a name="information-about-dlp-issues"></a>Informations sur les problèmes DLP
 
 **Important** : dans cette situation sans précédent, nous prenons des mesures pour nous assurer que les services SharePoint Online et OneDrive demeurent très disponibles – Veuillez consulter [Ajustements temporaire des fonctionnalités SharePoint Online](https://aka.ms/ODSPAdjustments) pour obtenir de plus amples renseignements.
 
@@ -26,7 +26,7 @@ ms.locfileid: "47679727"
 
 Avec une stratégie DLP, vous pouvez identifier, surveiller et protéger automatiquement les informations sensibles dans Microsoft 365.
 
-Pour plus d’informations, consultez les liens suivants :
+Pour plus d’informations, consultez ces liens :
 
 - [Vue d’ensemble de la protection contre la perte de données](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
 - [Éléments recherchés par les types d’informations sensibles](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
@@ -35,4 +35,4 @@ Pour plus d’informations, consultez les liens suivants :
 - [Protéger les fichiers SharePoint Online avec des étiquettes de rétention et la protection contre la perte de données (DLP)](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [DLP et Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Pour tester vos données à l’aide d’un type d’informations sensibles intégré ou personnalisé, utilisez l’option **type de test** sous types d’informations sensibles sur les **classifications**  >  **Sensitive info types**. Pour plus d’informations, consultez la rubrique [test des types d’informations sensibles personnalisés](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Pour tester vos données avec un type d’informations sensibles intégré ou personnalisé, utilisez l’option **Type** de test sous Classifications Types d’informations   >  **sensibles.** Pour plus d’informations, voir [Tester les types d’informations sensibles personnalisés.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)

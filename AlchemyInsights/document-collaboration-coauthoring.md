@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9006405"
 - "12387"
-ms.openlocfilehash: 88f27bc1eebd83b80c0e0970184f6c72e8812160
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 4404190a8667afb0bf248a82c8c195e1a56902647db487770f93888445182b2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030739"
 ---
 # <a name="document-collaboration-and-co-authoring"></a>Collaboration sur des documents et co-édition
 
@@ -27,8 +27,8 @@ La co-auteur est disponible pour les documents Office stockés dans OneDrive ou 
 
 Pour co-éditer avec d'autres personnes, vous avez besoin des éléments suivants :    
 
-- **Une zone de stockage** partagée OneDrive, OneDrive pour le travail ou l’école, SharePoint et SharePoint Server sont des zones de stockage partagées qui permettent la co-auteur.
-- **Applications qui permettent la co-auteur** Word et PowerPoint sur tous les appareils et versions plus récentes que Office 2010 la co-édition. Les Excel mobiles et la dernière version de Excel pour Microsoft 365 également la co-création.
+- **Une zone de** stockage partagée OneDrive, OneDrive pour le travail ou l’école, SharePoint et SharePoint Server sont des zones de stockage partagées qui permettent la co-auteur.
+- **Applications qui permettent la co-auteur** Word et PowerPoint sur tous les appareils et versions plus récents que Office 2010 la co-édition. Les Excel mobiles et la dernière version de Excel pour Microsoft 365 également la co-création.
 - **Un document convivial de co-auteur** La co-auteur est prise en charge uniquement sur les formats de fichiers modernes, notamment : .docx (Word), .pptx (PowerPoint) et .xlsx (Excel).
 - **Autorisations de modification des co-éditeurs** Tous les co-éditeurs doivent être autorisés à accéder aux documents et à les modifier.
 
