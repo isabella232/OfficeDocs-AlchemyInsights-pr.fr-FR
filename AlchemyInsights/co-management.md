@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b8a2806a6d828b8ef7ee4e6dff05dcc496857b8ca8f76c777c39ff3155809668
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006384"
 ---
 # <a name="co-management"></a>Cogestion
 
@@ -31,11 +31,11 @@ Une expérience de configuration pas à pas et guidée de la cogestion est possi
 
 **Comment installer le client Gestionnaire de config sur les appareils gérés par Intune**
 
-Consultez les appareils Windows gérés par [MDM Intune.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
+Voir Les appareils gérés par la gestion des périphériques [mobiles Intune Windows.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**Que se passe-t-il si je souhaite simplement modifier l'autorité mdm ?**
+**Que se passe-t-il si je souhaite simplement modifier l’autorité mdm ?**
 
-L'autorité de gestion des stratégies de gestion des stratégies de groupe peut être modifiée sans ouvrir de dossier de support. Consultez la documentation suivante pour vous aider à modifier votre autorité mdm :
+L’autorité de gestion des stratégies de gestion des stratégies de groupe peut être modifiée sans ouvrir de dossier de support. Consultez la documentation suivante pour vous aider à modifier votre autorité mdm :
 
-- [Modifier l'autorité de gestion des stratégies de groupe (MDM) de Configuration Manager en instance autonome Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [Modifier l'autorité mdm d'Intune autonome en Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Modifier l’autorité de gestion des stratégies de gestion des stratégies de groupe (MDM) de Configuration Manager en instance autonome Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Modifier l’autorité mdm d’Intune autonome en Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

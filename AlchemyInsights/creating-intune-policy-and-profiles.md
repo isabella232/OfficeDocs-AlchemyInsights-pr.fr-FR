@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994179"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Création de stratégies et de profils Intune
 
@@ -26,12 +26,12 @@ Dans Intune, vous pouvez créer des stratégies et des profils qui font différe
 
 - **Profils d’inscription**: préconfigurer vos appareils par plateforme, activer l’affinité utilisateur, utiliser l’authentification multifacteur, etc.
 
-  [Qu’est-ce que l’inscription](https://docs.microsoft.com/intune/device-enrollment)des appareils et créer des profils d’inscription pour [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)et [Windows sont](https://docs.microsoft.com/intune/windows-enrollment-methods) de bonnes ressources.
+  [Qu’est-ce que l’inscription](https://docs.microsoft.com/intune/device-enrollment)des appareils et créer des profils d’inscription pour [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll) [et Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sont de bonnes ressources.
 
 - **Stratégies de** conformité : définissez les règles et les paramètres que les appareils doivent suivre pour être conformes. Vous pouvez également utiliser des stratégies de conformité pour surveiller les appareils et informer les utilisateurs de la non-conformité.
 
   Commencer à utiliser les [stratégies de conformité des appareils.](https://docs.microsoft.com/intune/device-compliance-get-started)
-- **Stratégies d’accès conditionnel**: sécurisation des ressources organisationnelles, en fonction des conditions que vous entrez. Par exemple, pour les appareils qui ne sont pas conformes, utilisez l’accès conditionnel pour restreindre l’accès à la messagerie et à SharePoint.
+- **Stratégies d’accès conditionnel**: sécurisation des ressources organisationnelles, en fonction des conditions que vous entrez. Par exemple, pour les appareils qui ne sont pas conformes, utilisez l’accès conditionnel pour restreindre l’accès aux e-mails et aux SharePoint.
 
   [L’accès conditionnel et](https://docs.microsoft.com/intune/conditional-access) les [méthodes courantes d’utilisation](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) de l’accès conditionnel sont de bonnes ressources pour commencer.
 

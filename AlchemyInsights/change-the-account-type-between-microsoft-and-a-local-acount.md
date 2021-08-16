@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a26f93f89d6aba5ed889cdfb862bfdc7ae520faffbdc7efc6778a38c8ba12af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968591"
 ---
 # <a name="change-the-account-type-that-you-sign-in-with"></a>Modifier le type de compte avec qui vous vous connectez
 
-Voici comment modifier le type de compte que vous utilisez pour vous inscrire à Windows 10 :
+Voici comment modifier le type de compte que vous utilisez pour vous Windows 10 :
 
-1. Sélectionnez   >  **Comptes de paramètres de**  >  **démarrage**  >  **Vos informations.**
-2. Si vous utilisez un compte local qui n'est pas lié à une adresse de messagerie mais qui souhaite utiliser un compte Microsoft, sélectionnez Plutôt Se connectez avec un **compte Microsoft.**
+1. Select **Start**  >  **Paramètres**  >  **Accounts**  >  **Your info**.
+2. Si vous utilisez un compte local qui n’est pas lié à une adresse de messagerie mais qui souhaite utiliser un compte Microsoft, sélectionnez Plutôt Se connectez avec un **compte Microsoft.**
 3. Si vous utilisez un compte Microsoft lié à une adresse de messagerie, mais que vous souhaitez utiliser un compte local, sélectionnez Plutôt Se connectez avec un **compte local.**
 4. Si nécessaire, entrez votre mot de passe, puis sélectionnez **Suivant**.
-5. Redémarrez votre appareil. La prochaine fois que vous vous connectez, le compte vers qui vous avez basculé s'affiche.
+5. Redémarrez votre appareil. La prochaine fois que vous vous connectez, le compte vers qui vous avez basculé s’affiche.

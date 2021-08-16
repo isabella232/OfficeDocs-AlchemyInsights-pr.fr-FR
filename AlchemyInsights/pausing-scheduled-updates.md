@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: 13abc7c9201b1897a9c766add4d105ef12f0d66f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea6c56de00a52080c4a8b47eb5eeee37838420a9e979878c10aeb12885a8b99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010471"
 ---
 # <a name="pausing-scheduled-updates"></a>Interruption des mises à jour planifiées
 
-Lorsqu’une commande d’interruption est émise, les appareils ne traitent la commande que la prochaine fois qu’ils archivent dans Intune. Pour cette raison, vos appareils peuvent avoir :
+Lorsqu’une commande d’interruption est émise, les appareils ne traitent pas la commande avant la prochaine connexion à Intune. Pour cette raison, vos appareils peuvent avoir :
 
-- Installé les mises à jour planifiées avant l’archivage.
-- Été hors tension lorsque vous avez émis la commande d’interruption. Dans ce cas, lorsque les appareils sont sous tension, ils ont peut-être téléchargé et installé les mises à jour planifiées avant l’archivage.
+- installé les mises à jour planifiées avant l’archivage ;
+- été mis hors tension lorsque vous avez émis la commande d’interruption. Dans ce cas, lorsque les appareils étaient sous tension, ils ont peut-être téléchargé et installé les mises à jour planifiées avant l’archivage.
