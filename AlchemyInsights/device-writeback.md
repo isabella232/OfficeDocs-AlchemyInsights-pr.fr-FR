@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50255155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101948"
 ---
 # <a name="device-writeback"></a>Écriture écriture/écriture de périphérique
 
 L’écriture écriture sur appareil est utilisée dans les scénarios suivants :
 
-- Activer [Windows Hello Entreprise à l’aide d’un déploiement d’autorisation de certificat hybride](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Activer Windows Hello [entreprise à l’aide d’un déploiement d’autorisation de certificat hybride](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
 - Activer l’accès conditionnel basé sur les appareils aux applications protégées ADFS (2012 R2 ou supérieure) (approbations de partie de confiance)
 
     > [!NOTE]
