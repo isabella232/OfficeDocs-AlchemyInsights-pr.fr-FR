@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 45a38259c399eda0ccd79a34af6499cdede8d142f72e7050ee2f774292a62971
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826773"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052888"
 ---
 # <a name="replace-the-sharepoint-root-site"></a>Remplacer le site racine dans SharePoint
 Si vous souhaitez moderniser votre site racine avec un site existant ou si vous voulez simplement disposer d’un site différent au niveau du site racine, vous pouvez décider de remplacer (échanger) des sites.
