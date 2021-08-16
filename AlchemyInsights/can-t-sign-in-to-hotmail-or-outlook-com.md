@@ -1,5 +1,5 @@
 ---
-title: 8000077 impossible de se connecter à Hotmail ou à Outlook.com ?
+title: 8000077 ne peut pas se connectez-vous à Hotmail ou Outlook.com ?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 851694cd42cf8ab0bcdf1d343c5fc268128779b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de094f65a216d6d3548d3a222511e0b750e578071c506319f838550a69e02d29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071762"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Vous ne pouvez pas vous connecter à Hotmail ou à Outlook.com ?
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Vous ne pouvez pas vous inscrire à Hotmail ou Outlook.com ?
 
-Pour activer le compte Outlook.com, vous devez vous connecter au compte au moins une fois tous les 365 jours. Après 365 jours d’inactivité, votre courrier électronique est supprimé et ne peut pas être récupéré.
+Pour maintenir votre compte Outlook.com actif, vous devez vous y inscrire au moins une fois tous les 365 jours. Après 365 jours d’inactivité, votre courrier électronique est supprimé et ne peut pas être récupéré.
   
-Si vous vous êtes connecté dans les 365 jours, mais que vous ne pouvez toujours pas accéder à votre compte Hotmail ou Outlook.com, lisez [la procédure de connexion ou d’extraction de Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+If you’ve signed in within 365 days but still can’t access your Hotmail or Outlook.com account, read [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   
