@@ -1,5 +1,5 @@
 ---
-title: Comment désactiver OneDrive Entreprise
+title: How to Disable OneDrive Entreprise
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 4ebb1d6ae1a83176f3f5df0f14e96d41090cc27f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df59b38eae53b028bddddb94def15c267e5e5d578f1ddd9e8459c930e67eabd8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016086"
 ---
-# <a name="disable-onedrive-for-business"></a>Désactiver OneDrive Entreprise
+# <a name="disable-onedrive-for-business"></a>Désactiver la OneDrive Entreprise
 
-Il existe plusieurs façons de désactiver l'accès à OneDrive et à ses services en fonction des besoins de votre entreprise :
+Il existe plusieurs façons de désactiver l’accès à OneDrive et à ses services en fonction des besoins de votre entreprise :
 
 - [Désactiver ou désinstaller OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 - [Autoriser la synchronisation des comptes OneDrive uniquement pour des organisations spécifiques](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-- [Désactiver la création de sites OneDrive pour certains utilisateurs](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-- [Contrôler l'accès aux données SharePoint Online et OneDrive en fonction de l'emplacement réseau](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Désactiver la création OneDrive site pour certains utilisateurs](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+- [Contrôler l’accès à SharePoint Online et OneDrive données en fonction de l’emplacement réseau](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 - [Empêcher les utilisateurs de synchroniser leurs comptes OneDrive personnels](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-- [Gérer les connexions des appareils Windows à OneDrive et à d'autres services](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+- [Gérer les connexions entre Windows appareils mobiles vers OneDrive et d’autres services](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
