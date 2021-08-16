@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097340"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Ne pas recevoir de courrier électronique dans Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Ne pas recevoir de messages Outlook.com
 
-Si vous ne recevez pas de courrier électronique d’un expéditeur spécifique, comme vos relevés bancaires ou les messages de réinitialisation du mot de passe, vous devrez contacter l’expéditeur et l’informer que vous ne recevez pas de courrier électronique sur votre compte Outlook.com. Reportez-vous à l’expéditeur à [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , où ils peuvent trouver des informations sur les meilleures pratiques, recommander des solutions de dépannage et un lien pour contacter notre équipe de support des expéditeurs.
+Si vous ne recevez pas de courrier électronique d’un expéditeur spécifique, tel que vos relevés bancaires ou vos messages de réinitialisation de mot de passe, vous devez contacter l’expéditeur et lui faire savoir que vous ne recevez pas de courrier électronique sur votre compte Outlook.com. Veuillez faire référence à l’expéditeur, où il peut trouver des informations sur les meilleures pratiques, recommander le dépannage et un lien pour contacter notre équipe de [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) support des expéditeurs.
   
-Si votre compte Outlook.com ne reçoit pas du courrier, consultez la rubrique [corriger les problèmes liés à la synchronisation des messages Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Si votre compte Outlook.com ne reçoit pas du tout de courrier électronique, consultez la [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363)problèmes de synchronisation de courrier.
   
 

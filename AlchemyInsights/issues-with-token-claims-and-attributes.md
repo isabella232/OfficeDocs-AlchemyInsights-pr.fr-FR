@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50029980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012882"
 ---
 # <a name="issues-with-token-claims-and-attributes"></a>Problèmes avec les revendications et attributs de jeton
 
 **Mettre à jour, configurer ou supprimer des revendications de jeton**
 
-1. À l’aide d’Azure Active Directory (Azure AD), vous pouvez personnaliser le [type](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) de revendication pour la revendication de rôle dans le jeton de réponse que vous recevez après avoir autorisé une application.
+1. En utilisant Azure Active Directory (Azure AD), vous pouvez personnaliser le [type](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) de revendication de la revendication de rôle dans le jeton de réponse que vous recevez après avoir autorisé une application.
 2. Les développeurs d’applications peuvent utiliser des revendications facultatives dans leurs applications Azure AD pour spécifier les revendications qu’ils souhaitent dans les jetons envoyés à leur application. Pour plus d’informations, [voir Fournir des revendications facultatives à votre application.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
 3. [Configurez les revendications de groupe pour les applications avec Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
 4. Si vous utilisez l' sign-on unique transparente dans votre application, voir personnaliser les revendications émises dans le jeton [SAML pour les applications d’entreprise.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
