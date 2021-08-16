@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023988"
 ---
 # <a name="remote-work-setup-guide"></a>Guide de configuration du travail à distance
 
-De plus en plus de travail est réalisé à distance. Votre organisation doit être équipée pour gérer la demande croissante de travail à distance.
+De plus en plus de travail sont effectués à distance. Votre organisation doit être équipé pour gérer la demande accrue de travail à distance.
 
-Utilisez le [Guide de configuration à distance](https://go.microsoft.com/fwlink/?linkid=2142062) pour activer les fonctionnalités de sécurité essentielles et examiner les autres recommandations en matière de sécurité. Vous obtiendrez des conseils pour réduire la sollicitation de votre infrastructure VPN et éventuellement configurer l’accès à distance pour les applications et les ordinateurs de bureau. Ensuite, vous allez examiner vos options de déploiement de Microsoft teams et des applications Office.
+Utilisez le [guide de configuration du travail à distance pour](https://go.microsoft.com/fwlink/?linkid=2142062) activer les fonctionnalités de sécurité essentielles et passer en revue des recommandations de sécurité supplémentaires. Vous recevrez des conseils pour réduire la contrainte sur votre infrastructure VPN et éventuellement configurer l’accès à distance pour les bureaux et les applications. Ensuite, vous passerez en revue vos options de déploiement Microsoft Teams et Office applications.
