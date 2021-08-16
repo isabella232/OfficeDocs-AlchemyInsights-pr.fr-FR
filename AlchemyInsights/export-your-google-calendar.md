@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 409f34d01c7d81a81cf7594237e2c0163bdd8c85
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: 7f0786fd83eb0e31e0b0803a1c924cad37c4b2b47baf6f3495175c8a7bd7b91d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49585550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068990"
 ---
 # <a name="export-your-google-calendar"></a>Exporter votre calendrier Google
 
-1. Ouvrez une session sur votre compte Google Gmail, puis cliquez sur **calendrier**.
-1. Cliquez sur paramètres de **Mes calendriers**  >  **Settings**.
-1. Cliquez sur **Exporter les calendriers** et sélectionnez l’emplacement d’enregistrement du fichier extrait.
-1. Dans l’emplacement, sélectionnez le fichier zip enregistré, puis cliquez sur **extraire tout**.
+1. Connectez-vous à votre compte Google Gmail, puis cliquez sur **Calendrier.**
+1. Cliquez **sur Mes**  >  **calendriers Paramètres**.
+1. Cliquez **sur Exporter les calendriers** et sélectionnez l’emplacement où enregistrer le fichier extrait.
+1. À l’emplacement, sélectionnez le fichier zip enregistré, puis cliquez **sur Extraire tout.**
    Si vous avez plusieurs agendas Google, un fichier ICS apparaît pour chacun d'eux.
 
 Vous êtes maintenant prêt à importer votre agenda Google dans Outlook.

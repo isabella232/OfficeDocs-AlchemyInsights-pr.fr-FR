@@ -1,5 +1,5 @@
 ---
-title: Empêcher Microsoft Search (recherche Microsoft) dans Bing de s’installer avec Microsoft 365 Apps
+title: Empêcher Recherche Microsoft’installation Bing’installation avec Microsoft 365 Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040108"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Empêcher Microsoft Search (recherche Microsoft) dans Bing de s’installer avec Microsoft 365 Apps
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Empêcher Recherche Microsoft’installation Bing’installation avec Microsoft 365 Apps
 
-Pour empêcher le service d’arrière-plan de Recherche Microsoft dans Bing de s’installer avec Microsoft 365 Apps for enterprise, utilisez l’une des options suivantes :
+Pour empêcher le service d’arrière-plan Recherche Microsoft dans Bing l’installation avec Applications Microsoft 365 pour les grandes entreprises, utilisez l’une des options suivantes :
 
-- Outil Déploiement d’Office ou stratégie de groupe
+- Outil Office déploiement ou stratégie de groupe
 - Microsoft Endpoint Configuration Manager (branche actuelle) ou Microsoft Intune
 
-Pour plus d’informations, voir Comment empêcher l’installation du service d’arrière-plan de Recherche Microsoft dans Bing avec [Microsoft 365 Apps for enterprise](https://go.microsoft.com/fwlink/?linkid=2151946).
+Pour plus d’informations, voir Comment empêcher l’installation du service en [arrière-plan Recherche Microsoft dans Bing’installation avec Applications Microsoft 365 pour les grandes entreprises](https://go.microsoft.com/fwlink/?linkid=2151946).

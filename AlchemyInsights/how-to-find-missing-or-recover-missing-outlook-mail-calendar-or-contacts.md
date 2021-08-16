@@ -1,5 +1,5 @@
 ---
-title: 204 comment trouver les messages, le calendrier ou les contacts Outlook manquants ou récupérables
+title: 204 Comment rechercher ou récupérer des messages Outlook courrier, calendrier ou contacts manquants
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029154"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Procédure Rechercher et récupérer des messages manquants, des contacts ou des éléments de calendrier dans Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Comment rechercher et récupérer des messages, des contacts ou des éléments de calendrier manquants dans Outlook
 
-1. Dans Outlook, accédez à la liste des dossiers de courrier, puis sélectionnez **éléments supprimés**. **Important**: Si vous ne voyez pas le dossier **éléments supprimés** , mais que vous voyez le dossier **messages** supprimés, votre compte ne prend pas en charge la recuperation d’un élément qui n’est plus dans votre dossier **éléments supprimés** .
+1. In Outlook, go to your email folder list, and then select **Deleted Items**. **Important**: si vous ne voyez pas le dossier Éléments  supprimés, mais plutôt le dossier Corbeille, votre  compte ne prend pas en charge la récupération d’un élément qui ne se retrouve plus dans votre dossier Éléments supprimés. 
 
-2. Dans le menu **Accueil** , cliquez sur **récupérer les éléments supprimés du serveur**. **Important**: s’il n’y a pas de **récupération des éléments supprimés à partir du serveur** dans le menu, votre compte ne prend pas en charge la récupération d’un élément qui ne figure plus dans votre dossier **éléments supprimés** .
+2. Dans le menu **Accueil,** cliquez **sur Récupérer les éléments supprimés du serveur.** **Important**: s’il n’existe aucune commande Récupérer des éléments supprimés du serveur dans le menu, votre compte ne prend pas en charge la récupération d’un élément qui ne se trouve plus dans votre dossier Éléments **supprimés.** 
 
-3. Sélectionnez les éléments que vous souhaitez récupérer, cliquez sur **restaurer les éléments sélectionnés**, puis cliquez sur **OK**.
+3. Sélectionnez les éléments à récupérer, cliquez sur **Restaurer** les éléments sélectionnés, puis cliquez sur **OK.**
 
-**Où passent les éléments récupérés ?** Lorsque vous récupérez des éléments du dossier éléments récupérables, ceux-ci sont déplacés vers le dossier **éléments supprimés** . Après avoir récupéré un élément, vous pouvez le trouver dans votre dossier **éléments supprimés** , puis le déplacer vers un autre dossier.
+**Où les éléments récupérés sont-ils remis ?** Lorsque vous récupérez des éléments à partir du dossier Éléments récupérables, ils sont déplacés vers **le dossier Éléments supprimés.** Après avoir récupéré un élément, vous  pouvez le trouver dans votre dossier Éléments supprimés, puis le déplacer vers un autre dossier.
 
-Vous pouvez également utiliser l' [outil je rencontre des problèmes lors de l’envoi, de la réception ou de la recherche de messages électroniques](https://aka.ms/SaRA-OutlookSendReceive) **sur l’ordinateur concerné**. Cet outil vérifie un certain nombre de problèmes et propose des solutions possibles.
+Vous pouvez également utiliser [l’outil d’envoi,](https://aka.ms/SaRA-OutlookSendReceive) de réception ou de recherche de messages électroniques sur l’ordinateur **concerné.** Cet outil recherche un certain nombre de problèmes et suggère des solutions possibles.
