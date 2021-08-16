@@ -16,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 0b638f12ca90edba3150c6e75d9653cf507e37af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 161e7e1b4a682b2e60c40b2a53b5b10da2904b351de40803f8b9d8a580fc49af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002946"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>Activer et utiliser Microsoft Teams
+# <a name="enable-and-use-microsoft-teams"></a>Activer et utiliser les Microsoft Teams
 
-Si vous n'avez pas du tout accès à Microsoft Teams, consultez Comment puis-je accéder [à Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+Si vous n’avez pas du tout accès Microsoft Teams, consultez Comment puis-je accéder à [Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-Si vous avez déjà Microsoft Teams et que vous avez besoin de savoir comment les configurer et les gérer, consultez Gérer les [paramètres de Microsoft Teams pour votre organisation.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)
+Si vous avez déjà Microsoft Teams et que vous avez besoin de savoir comment le configurer et le gérer, voir Gérer Microsoft Teams [paramètres de](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)votre organisation.

@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967979"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Licences pour Microsoft 365 Defender
 
-Les licences suivantes permettent d’accéder gratuitement aux fonctionnalités de Microsoft 365 Defender dans le Centre de sécurité Microsoft 365 :
+Les licences suivantes permettent d’accéder gratuitement Microsoft 365 Defender fonctionnalités du centre de Microsoft 365 de sécurité :
 
-- Microsoft 365 E5 ou A5
-- Microsoft 365 E5 Sécurité ou A5 Sécurité
-- Windows 10 Entreprise E5 ou A5
+- Microsoft 365 E5 ou A5
+- Microsoft 365 E5 Sécurité ou A5 Sécurité
+- Windows 10 Entreprise E5 ou A5
 - Enterprise Mobility + Security (EMS) E5 ou A5
-- Office 365 E5 ou A5
-- Microsoft Defender pour point de terminaison
-- Microsoft Defender pour l’identité
-- Microsoft Cloud App Security
+- Office 365 E5 ou A5
+- Microsoft Defender pour point de terminaison
+- Microsoft Defender pour l’identité
+- Microsoft Cloud App Security
 - Microsoft Defender pour Office 365 (Plan 2)
 
     > [!NOTE]
-    > Pour l’instant, les licences d’essai pour Office 365 ne permettent pas d’accéder à Microsoft 365 Defender.
+    > Pour l’instant, les licences d’Office 365 ne permettent pas d’accéder aux Microsoft 365 Defender.
 
-Pour plus d’informations, voir la comparaison des [plans Microsoft 365 Entreprise.](https://go.microsoft.com/fwlink/?linkid=2143458)
+Pour plus d’informations, voir la [comparaison Microsoft 365 Entreprise plans.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Vous n’avez pas encore de licence ? [Essayez ou achetez un abonnement Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2143625)
+Vous n’avez pas encore de licence ? [Essayez ou achetez un abonnement Microsoft 365 de licence.](https://go.microsoft.com/fwlink/?linkid=2143625)
