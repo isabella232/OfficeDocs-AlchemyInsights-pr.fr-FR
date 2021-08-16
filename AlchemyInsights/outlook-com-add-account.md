@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b34f74d662fab02f7ac8dad27b2d02c7ebb9db44efb614d6005741d4cebdb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064670"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Ajouter vos autres comptes de courrier à Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Ajouter vos autres comptes de messagerie à Outlook.com
 
-Lorsque vous ajoutez d’autres comptes de courrier à Outlook.com, vous pouvez utiliser Outlook.com pour envoyer et lire des messages électroniques à partir de ces comptes sans quitter Outlook.com. Chaque compte que vous ajoutez à Outlook.com est appelé un compte connecté.
+Lorsque vous ajoutez d’autres comptes de messagerie à Outlook.com, vous pouvez utiliser Outlook.com pour envoyer et lire des messages électroniques à partir de ces comptes sans quitter Outlook.com. Chaque compte que vous ajoutez à Outlook.com est appelé compte connecté.
 
-Remarque : la synchronisation à partir de votre compte connecté à votre compte Outlook.com est unidirectionnelle. Les messages électroniques envoyés à partir de votre compte connecté à l’aide de Outlook.com n’apparaîtront pas dans le compte connecté éléments envoyés.
+Remarque : la synchronisation de votre compte connecté à votre compte Outlook.com est à sens unique. Le courrier électronique envoyé à partir de votre compte connecté Outlook.com n’apparaît pas dans votre compte connecté Éléments envoyés.
 
-Pour ajouter un compte connecté :
+Pour ajouter un compte connecté :
 
-1. Ouvrez vos [paramètres de messagerie de synchronisation](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Sous **comptes connectés**, sélectionnez **gmail** ou **autres comptes de courrier**.
-3. Sur la page connecter votre compte, entrez un nom d’affichage (le nom que les destinataires verront lorsqu’ils recevront un message électronique de votre part) et l’adresse de messagerie et le mot de passe complets du compte de messagerie que vous souhaitez connecter à votre compte Outlook.com.
+1. Ouvrez vos [paramètres de synchronisation de messagerie.](https://go.microsoft.com/fwlink/?linkid=875264)
+2. Sous **Comptes connectés,** sélectionnez **Gmail** ou **d’autres comptes de messagerie.**
+3. Sur la page Connecter votre compte, entrez un nom complet (le nom que les destinataires voient lorsqu’ils reçoivent un message électronique de votre part) et l’adresse e-mail et le mot de passe complets du compte de messagerie que vous souhaitez connecter à votre compte Outlook.com.
 
-Vous pouvez envoyer des courriers électroniques à partir de n’importe quel compte que vous avez connecté à votre compte Outlook.com. Lorsque vous rédigez un e-mail, sélectionnez- **le et choisissez l’adresse de messagerie** à utiliser ou [Mettez à jour votre adresse de provenance par défaut](https://go.microsoft.com/fwlink/?linkid=875264).
+Vous pouvez envoyer des courriers électroniques à partir de n’importe quel compte que vous avez connecté à Outlook.com. Lorsque vous composez un e-mail, sélectionnez **De** et choisissez l’adresse de messagerie que vous souhaitez utiliser, ou mettez à jour [votre adresse de provenance par défaut.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-Pour plus d’informations, consultez [ajouter vos autres comptes de courrier à Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d’informations, lisez Ajouter vos autres comptes de messagerie [à Outlook.com.](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Si vous souhaitez créer une adresse de messagerie qui utilise le même compte Outlook.com, lisez [Ajouter ou supprimer un alias de messagerie](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Si vous souhaitez créer une adresse de messagerie qui utilise le même compte Outlook.com, lisez Ajouter ou supprimer [un alias de messagerie.](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)
