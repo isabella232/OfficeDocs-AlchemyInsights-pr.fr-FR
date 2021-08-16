@@ -16,16 +16,16 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 5c141320f08b4610e9ebedf21107bfda54193f56
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 41188a73dc258706c955bd04a653547de264da2dc6a3c54521cddf82c254972a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045058"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Comparer, mettre à niveau ou acheter des abonnements
   
-Les abonnements sont disponibles pour [les entreprises](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1)et [les](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)entreprises. En outre, Microsoft 365 est disponible pour les [établissements](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1)scolaires, les [organisations](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1) [gouvernementales](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1)et les associations.
+Les abonnements sont disponibles pour [les entreprises](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1)et les [entreprises.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1) En outre, Microsoft 365 est disponible pour les [établissements](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1)scolaires, les [organisations](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1) [gouvernementales](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1)et les associations.
   
 Si votre organisation souhaite comparer l’ensemble des plans et des [tarifs, examinez Comparer tous les abonnements.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)
   

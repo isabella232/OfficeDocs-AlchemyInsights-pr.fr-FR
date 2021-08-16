@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7844"
-ms.openlocfilehash: 377312674f586cec4a710e429f069627fb5aacf7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: 725738e5a00493aaea07b7a018a08f47c3ae996cfe768a1719f38e8557370348
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054760"
 ---
 # <a name="issues-with-microsoft-applications"></a>Problèmes avec les applications Microsoft
 
 Problèmes liés à la signature des applications Microsoft :
 
-- [Je vois des problèmes de signature à des applications à l’aide du navigateur Chrome uniquement](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
+- [J’ai des problèmes de connexion à une ou plusieurs applications à l’aide du navigateur Chrome uniquement](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications). 
 - [Je ne peux pas me connecter à une application Microsoft](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-first-party-microsoft/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_MicrosoftApp)

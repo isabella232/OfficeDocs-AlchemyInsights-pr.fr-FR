@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 37355c1b6658f21d35d03aacf292bbdc174a2359
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7dd2fbbd23beedda47bd724d84d717a3751f51f9607274d9b124f14463cf4b50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045166"
 ---
 # <a name="update-dns-settings"></a>Mettre à jour les paramètres DNS
 
-La mise à jour des paramètres DNS implique la copie et le coller des valeurs qu’Office 365 vous donne dans votre bureau d’enregistrement de domaines ou votre fournisseur d’hébergement DNS. Pour ce faire, procédez comme suit :
+La mise à jour des paramètres DNS implique la copie et le coller des valeurs que Office 365 vous donne dans votre bureau d’enregistrement de domaines ou votre fournisseur d’hébergement DNS. Pour ce faire, procédez comme suit :
 
 1. Copiez et collez les valeurs affichées dans la page Mettre à jour les **paramètres DNS** dans votre fournisseur d’hébergement DNS.
 2. Cliquez sur **Vérifier.**
