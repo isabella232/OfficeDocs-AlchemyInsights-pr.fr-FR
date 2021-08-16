@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 37e246d9f311d3b14b1a2867d5b52b53488b9512
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 6bbada43d53801d137e53afffca30d89cbb60e051c5c426711caaadb36cf39bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082652"
 ---
 # <a name="cancel-visio-subscription"></a>Annuler Visio abonnement
 
-Les administrateurs peuvent annuler l Visio abonnement de leur organisation dans le Centre d’administration Microsoft 365.
+Les administrateurs peuvent annuler l’abonnement Visio de leur organisation dans le Centre d’administration Microsoft 365.
 
 1. Accédez à la page **Facturation** \> [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 2. Sous **l’onglet** Produits, recherchez l’abonnement Visio que vous souhaitez annuler. Sélectionnez les trois points (autres actions), puis sélectionnez **Annuler l'abonnement**.
