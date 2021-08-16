@@ -14,18 +14,18 @@ ms.custom:
 - commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9113c21a6b840abbbe86c54a9b6e41f4e61aa4916ff6a96ecd8f5170640bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031836"
 ---
 # <a name="renewing-your-subscription"></a>Renouvellement de votre abonnement
 
 Si vous payez par carte bancaire ou compte bancaire, la facturation périodique est désactivée par défaut. Lorsque la facturation périodique est en cours, votre abonnement continue d’être facturé chaque année le jour où vous vous êtes abonné. Vous pouvez le désactiver ou le réactiver dans le Centre d'administration si votre abonnement a l'état Actif.
 
-Si vous avez prépayé votre abonnement avec une clé de produit, votre abonnement expirera à la fin de la période d’abonnement. Vous pouvez activer la facturation périodique et fournir des informations de carte bancaire ou de compte bancaire afin que votre abonnement continue d’être facturé chaque année le jour où vous vous êtes abonné.
+Si vous avez prépayé votre abonnement avec une clé de produit, celui-ci expirera à la fin de la période d’abonnement. Vous pouvez activer la facturation périodique et fournir des informations de carte bancaire ou de compte bancaire afin que votre abonnement continue d’être facturé chaque année le jour où vous vous êtes abonné.
 
 Pour activer la facturation périodique :
 
