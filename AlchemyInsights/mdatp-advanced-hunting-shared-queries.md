@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp requêtes partagées de recherche avancée
+title: 9001220 requêtes partagées de recherche avancée mdatp
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48278444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042124"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Partage de requêtes de chasse avancée
+# <a name="sharing-advanced-hunting-queries"></a>Partage de requêtes de recherche avancée
 
-Les requêtes de chasse avancées peuvent être partagées entre les utilisateurs au sein de la même organisation. Vous pouvez également trouver des requêtes partagées publiquement sur GitHub. Ces requêtes vous permettent d’effectuer rapidement des scénarios de repérage de menace spécifiques sans avoir à créer des requêtes.
+Les requêtes de recherche avancées peuvent être partagées entre les utilisateurs de la même organisation. Vous pouvez également trouver des requêtes partagées publiquement sur GitHub. Ces requêtes vous permettent d’effectuer rapidement des scénarios de repérage de menace spécifiques sans avoir à créer des requêtes.
   
-Pour plus d’informations, consultez la rubrique [utiliser des requêtes partagées dans la recherche avancée](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Pour plus d’informations, voir [Utiliser des requêtes partagées dans le hunting avancé.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries)

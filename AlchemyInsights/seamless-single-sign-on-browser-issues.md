@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074282"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Résoudre les problèmes de navigateur d' sign-on unique (SSO) transparent
 
@@ -30,12 +30,12 @@ La plupart des utilisateurs peuvent résoudre leur problème de navigateur DSO t
 **Problèmes connus du navigateur**
 
 - L’ingso transparente ne fonctionne pas en mode de navigation privée sur Firefox.
-- L' ssO transparente ne fonctionne pas dans Internet Explorer lorsque le mode protégé amélioré est allumé.
+- L' sso transparente ne fonctionne pas dans Internet Explorer lorsque le mode protégé amélioré est allumé.
 - L’ingso transparente ne fonctionne pas en mode de navigation privée sur Microsoft Edge (hérité).
 - L' ssO transparente ne fonctionne pas sur les navigateurs mobiles sur iOS et Android.
 
-L’ion unique transparente prend en charge la prochaine version de Microsoft Edge basée sur Chromium et fonctionne en mode InPrivate et Invité par conception.
+L' sso transparente prend en charge la prochaine version de Microsoft Edge basée sur Chromium et fonctionne en mode InPrivate et Invité par conception.
 
-**Avis**
+**Avertissement**
 
 Pour effectuer des demandes de fonctionnalités ou poser des questions techniques sur l' sso transparente, voir [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
