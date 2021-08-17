@@ -1,5 +1,5 @@
 ---
-title: Procédure de création ou de migration d’anneaux de mise à jour
+title: Comment créer ou migrer des anneaux de mise à jour
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078800"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Procédure de création ou de migration d’anneaux de mise à jour
+# <a name="how-to-create-or-migrate-update-rings"></a>Comment créer ou migrer des anneaux de mise à jour
 
-Suivez les étapes ci-dessous si vous avez configuré les paramètres de mise à jour de Windows 10 dans le portail classique Intune et souhaitez les migrer vers Intune dans le portail Azure :
+Suivez les étapes ci-dessous si vous avez configuré Windows 10 paramètres de mise à jour dans le portail Intune classique et souhaitez les migrer vers Intune dans le portail Azure :
 
-1. Accédez au portail Azure et cliquez sur **tous les services**.
-2. Dans le champ **filtre** , tapez **Intune**. Dans les résultats, cliquez sur **Microsoft Intune**.
-3. Cliquez sur mises à jour **logicielles**  >  **sonneries de mise à jour Windows 10**  >  **Create**.
-4. Entrez un nom, une description et cliquez sur **configurer**.
-5. Configurez les paramètres de mise à jour logicielle de vos organisations.
+1. Go to the Azure portal and click **All Services**.
+2. Dans le **champ** Filtre, tapez **Intune**. Dans les résultats, cliquez sur **Microsoft Intune**.
+3. Cliquez **sur Mises à jour logicielles** Windows 10 créer des anneaux de mise  >    >  **à jour.**
+4. Entrez un nom, une description et cliquez **sur Configurer.**
+5. Configurez les paramètres de mise à jour logicielle de votre organisation.
 6. Sélectionnez **OK**.
-7. Dans **créer un anneau de mise à jour**, sélectionnez **créer**.
+7. Dans **Créer un anneau de mise à jour,** **sélectionnez Créer.**
