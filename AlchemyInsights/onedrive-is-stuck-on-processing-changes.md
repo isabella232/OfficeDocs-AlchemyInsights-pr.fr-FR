@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603afed979f9b15315fd41e1ab139936ec0bb7a21ad4bcb3a56279a104bc0267
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076055"
 ---
 # <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive est bloqué lors du traitement des modifications
 
-Si OneDrive affiche le traitement des modifications pendant une longue période, cela peut être dû au fait que vous avez un fichier en ligne ouvert, un grand nombre de fichiers bloqués dans une file d’attente ou une synchronisation très volumineuse de fichiers. Read  [OneDrive est bloqué sur « traitement des modifications »](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) pour les étapes suggérées et pour plus d’informations.
+Si OneDrive affiche « Traitement des modifications » pendant longtemps, cela peut être dû au fait que vous avez un fichier en ligne ouvert, beaucoup de fichiers bloqués dans une file d’attente ou une synchronisation de fichiers très importante. Lire [OneDrive est bloqué sur « Traitement des modifications](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) » pour les étapes suggérées et plus d’informations.
 
-Si vous avez besoin d’aide supplémentaire, vous pouvez  [Envoyer un courrier électronique à la prise en charge de OneDrive](https://go.microsoft.com/fwlink/p/?LinkId=528676).
+Si vous avez besoin d’aide, vous pouvez envoyer un e-mail [OneDrive support technique.](https://go.microsoft.com/fwlink/p/?LinkId=528676)

@@ -1,5 +1,5 @@
 ---
-title: Code d’erreur 550 5.7.705 refusée, le client a dépassé le seuil
+title: Code d’erreur 550 5.7.705 Accès refusé, le client a dépassé le seuil
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044194"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 accès refusé, le client a dépassé le seuil
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Accès refusé, le client a dépassé le seuil
 
-Ce message s’affiche lorsque le courrier indésirable ou le courrier indésirable a été envoyé par votre organisation et que nous mettons un blocage sur le courrier sortant.
+Ce message se produit lorsque votre organisation a envoyé trop de courrier indésirable ou de courrier en masse et que nous bloquant le courrier sortant.
 Les causes courantes sont les serveurs locaux compromis ou les comptes d’administrateurs compromis qui ont été utilisés pour créer des connecteurs. Chacune de ces conditions peut permettre au courrier indésirable de passer par votre organisation.
 
 Pour lever ce blocage, vous devez en comprendre et en expliquer la cause à un agent du support, ainsi que corriger le problème sous-jacent.
-Cliquez sur **nous contacter** ci-dessous une fois que vous êtes prêt.
+Cliquez **sur Contactez-nous** ci-dessous une fois que vous êtes prêt.
