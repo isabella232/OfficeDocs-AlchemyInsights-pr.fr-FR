@@ -1,5 +1,5 @@
 ---
-title: Conversion de groupes Microsoft 365 et de boîtes aux lettres partagées
+title: Conversion de boîtes aux Microsoft 365 groupe et de boîtes aux lettres partagées
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: 4a8fecc830ac559a3c2ff62c9a120ac165153d0c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dc50957b472817dc0d18782a812c8763e8ec630cba72724464a920596abaf950
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081104"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Conversion de groupes Microsoft 365 et de boîtes aux lettres partagées
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Conversion de boîtes aux Microsoft 365 groupe et de boîtes aux lettres partagées
 
-Il n'existe actuellement aucun moyen de convertir entre la boîte aux lettres de groupe Microsoft 365 et une boîte aux lettres partagée.
+Il n’existe actuellement aucun moyen de convertir entre la boîte aux lettres Microsoft 365 groupe et une boîte aux lettres partagée.
 
 Veuillez voter pour cette [fonctionnalité ici.](https://aka.ms/M365GroupToShared)

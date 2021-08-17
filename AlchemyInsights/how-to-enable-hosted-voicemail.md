@@ -1,5 +1,5 @@
 ---
-title: Procédure d’activation de la messagerie vocale hébergée
+title: Comment activer la messagerie vocale hébergée
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055552"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Procédure d’activation de la messagerie vocale hébergée
+# <a name="how-to-enable-hosted-voicemail"></a>Comment activer la messagerie vocale hébergée
 
-Pour activer la messagerie vocale, **HostedVoicemail** doit être défini sur $true.
+Pour activer la messagerie vocale, **HostedVoicemail** doit être $true.
 
-Propriété **HostedVoicemail** sur l’utilisateur à l’aide de PowerShell à distance (RPS).
+Propriété **HostedVoicemail sur** l’utilisateur à l’aide de Remote PowerShell (RPS).
 
-Pour plus d’informations sur la connexion à RPS, reportez-vous à la rubrique [Microsoft teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) pour plus d’informations sur la connexion à RPS.
+Pour plus d’informations sur la connexion au rps, voir Microsoft Teams vue d’ensemble de [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) pour plus d’informations sur la connexion à RPS.
 
-1. L’administrateur teams doit être connecté à Remote PowerShell pour Teams.
-1. À partir de l’invite PowerShell, l’administrateur de teams peut exécuter **Set-csuser user@contoso.com-HostedVoiceMail $true** où l’URI SIP est celui de l’utilisateur en question.
+1. L’Teams administrateur doit être connecté à PowerShell à distance pour Teams.
+1. À partir de PowerShell, invitez l’administrateur Teams peut exécuter **set-csuser user@contoso.com -HostedVoiceMail $true** où l’URI sip est de l’utilisateur en question.
 
 > [!NOTE]
 > La réplication des modifications apportées aux stratégies peut prendre jusqu’à 24 heures.
