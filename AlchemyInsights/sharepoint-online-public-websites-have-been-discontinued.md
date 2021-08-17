@@ -1,5 +1,5 @@
 ---
-title: Les sites Web publics SharePoint Online sont abandonnés
+title: SharePoint Les sites web publics en ligne sont en cours d’interruption
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051232"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Les sites Web publics SharePoint Online ont été abandonnés
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Les sites web publics en ligne ont été abandonnés
 
-Les sites Web publics SharePoint Online ont été abandonnés.
+SharePoint Les sites web publics en ligne ont été abandonnés.
 
-Si vous avez créé un site Web public SharePoint Online, vous pouvez continuer à l’utiliser jusqu’au 31 mars 2018. Si vous souhaitez continuer à utiliser un site Web public, vous devez en créer un avec un nouveau fournisseur. Le contenu de votre site Web public SharePoint Online a été supprimé.
+Si vous avez créé un site web SharePoint Online, vous avez pu continuer à l’utiliser jusqu’au 31 mars 2018. Si vous souhaitez continuer à avoir un site web public, vous devez en créer un nouveau avec un nouveau fournisseur. Le contenu de votre site SharePoint Online public a été supprimé.
 
-Pour plus d’informations sur le déroulement du site Web public, consultez [la rubrique Détails sur le processus](https://go.microsoft.com/fwlink/?linkid=866980)d’arrêt de fonctionnalité.
+Pour plus d’informations sur la discontinuation du site web public, voir [Détails sur le processus d’interruption des fonctionnalités.](https://go.microsoft.com/fwlink/?linkid=866980)
