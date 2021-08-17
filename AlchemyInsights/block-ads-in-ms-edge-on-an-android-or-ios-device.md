@@ -1,5 +1,5 @@
 ---
-title: Bloquer les publicités dans Microsoft Edge sur un appareil Adroid ou iOS
+title: Bloquer les publicités Microsoft Edge sur un appareil Adroid ou iOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003856"
 - "6906"
-ms.openlocfilehash: 8ad1e8dd59712de0be46c90bee24b0e8d290906f
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 513ef21d7629ac0598e5446f61edf0b26d69ca389735638df54f32dffbe3059b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059918"
 ---
-# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Bloquer les publicités dans Microsoft Edge sur un appareil Adroid ou iOS
+# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Bloquer les publicités Microsoft Edge sur un appareil Adroid ou iOS
 
-Pour bloquer toutes les publicités sauf celles jugées acceptables par AdBlock plus :
-1. Sélectionnez **...** > **Paramètres**  >  **Bloqueurs de contenu**.
-2. Activer bloquer les publicités.
+Pour bloquer toutes les publicités à l’exception de celles jugées acceptables par AdBlock Plus :
+1. Sélectionner **…** > **Paramètres**  >  **Bloqueurs de contenu**.
+2. Activer Bloquer les publicités.
 
 Pour bloquer toutes les publicités :
-1. Sélectionnez **...** > **Paramètres**  >  **Bloqueurs de contenu**.
-2. Activer bloquer les publicités.
+1. Sélectionner **…** > **Paramètres**  >  **Bloqueurs de contenu**.
+2. Activer Bloquer les publicités.
 3. Sélectionnez **Paramètres avancés**.
-4. Désactivez autoriser les publicités acceptables.
+4. Désactiver Autoriser les publicités acceptables.

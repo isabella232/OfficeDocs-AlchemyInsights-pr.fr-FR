@@ -1,5 +1,5 @@
 ---
-title: Résoudre les Adresse de l’expéditeur de liste de domaines/domaines
+title: Résoudre les Adresse de l’expéditeur/de liste de domaines
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930023"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896109"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Résoudre les Adresse de l’expéditeur de liste de domaines/domaines
+# <a name="fix-sender-addressdomain-list-rules"></a>Résoudre les Adresse de l’expéditeur/de liste de domaines
 
-Une stratégie anti-courrier indésirable dans votre client a affecté ce message. L’expéditeur du message a été trouvé dans une liste d’adresses Autoriser ou Bloquer. Pour passer en revue la stratégie, faites les choses suivantes :
+L’une de vos stratégies anti-courrier indésirable a affecté ce message. L’expéditeur du message a été trouvé dans une liste d’adresses Autoriser ou Bloquer. Pour passer en revue les stratégies, vous pouvez suivre les étapes suivantes :
 
-1. Go to the [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)and then go to Threat **management**  >  **Policy**  >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Sous **l’onglet Standard,** si les paramètres Standard sont **activés,** vérifiez les listes **d’autoriser et** les **listes d’bloquer.**
-3. Sous **l’onglet** Personnalisé, si les **paramètres personnalisés** sont  activés,  vérifiez les stratégies en sélectionnant Modifier la stratégie et en vérifiant les listes d’options et les **listes d’bloquer.**
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> , go to Email & **Collaboration** Policies \> **& Rules** Threat \> **policies** \> **Anti-spam** in the **Policies** section.
 
-Pour plus d’informations sur la configuration des stratégies de filtrage du courrier indésirable, voir [Configurer vos stratégies de filtrage du courrier indésirable.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Pour accéder directement à la page **Stratégies anti-courrier indésirable**, utilisez <https://security.microsoft.com/antispam>.
+
+2. Dans la page Stratégies anti-courrier indésirable, sélectionnez la stratégie en cliquant sur  le nom de la stratégie ( Le **type** est Stratégie **anti-courrier** indésirable personnalisée ou Nom stratégie de courrier indésirable entrant  **(par défaut)**).
+3. Dans le volet d’informations qui s’affiche, sélectionnez Modifier les expéditeurs et domaines autorisés et **bloqués** dans la section Expéditeurs et domaines autorisés et **bloqués.**
+4. Dans la section **Autorisé,** examinez les expéditeurs et les domaines en cliquant sur Gérer les expéditeurs ou **Autoriser les domaines.** **\<nn\>**
+
+Si vous souhaitez en savoir plus, consultez l’article [Configurer les stratégies anti-courrier indésirable dans EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

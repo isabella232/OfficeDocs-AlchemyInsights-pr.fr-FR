@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296049"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895977"
 ---
 # <a name="release-quarantined-messages"></a>Libération des messages mis en quarantaine
 
@@ -29,7 +29,7 @@ Vous pouvez libérer un message mis en quarantaine (ou un ensemble de messages) 
 
 2. Dans la page **Quarantaine,** vérifiez que l’onglet courrier est sélectionné, puis faites l’une des étapes suivantes : 
    - **Message unique**: sélectionnez le message. Dans le volant de détails qui s’affiche, sélectionnez Libérer le courrier **électronique,** configurez les options de votre choix, puis cliquez sur **Libérer le message.**
-   - **Plusieurs messages**: sélectionnez jusqu’à 100 messages pour que le message soit envoyé à tous les destinataires (vous ne pouvez pas spécifier de destinataires d’origine individuels). Dans la **liste des actions en** bloc qui s’affiche, sélectionnez Libérer les **messages,** configurez les options de votre choix, puis cliquez sur **Libérer le message.**
+   - **Plusieurs messages**: sélectionnez jusqu’à 100 messages pour libérer le message pour tous les destinataires (vous ne pouvez pas spécifier de destinataires d’origine individuels). Dans la **liste des actions en** bloc qui s’affiche, sélectionnez Libérer les **messages,** configurez les options de votre choix, puis cliquez sur **Libérer le message.**
 
 Pour plus d’informations, voir les articles suivants:
 
