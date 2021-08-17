@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 9b819fdb9ec80f6bbe9e329280de239a0517038c52ab157867f3065505acca90
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503794"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891565"
 ---
 # <a name="change-how-often-you-pay"></a>Modifier la fréquence de paiement
 
@@ -36,4 +36,4 @@ Pour modifier la fréquence de facture et de paiement d’un abonnement, complé
 > [!NOTE]
 > La facturation mensuelle ou annuelle est la seule option.
 
-Pour plus d’informations, consultez [Modifier la périodicité de votre facturation](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+Pour plus d’informations, consultez [Modifier la périodicité de votre facturation](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
