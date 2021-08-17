@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: e67fc09d66fcd75e08ebf815f4cb3eddfb68cb3e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff67f100052c5dfc844a27757a0ad4983c8d732ec199c601260206b1b621a085
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075362"
 ---
 # <a name="publishing-infrastructure-with-a-communication-site"></a>Infrastructure de publication avec un site de communication
 
 
-L’activation de la fonctionnalité infrastructure de publication de SharePoint Server n’est **pas prise en charge** avec les sites de communication. 
+L’activation de SharePoint’infrastructure de publication de serveur **n’est pas prise en** charge avec les sites de communication. 
   
 Pour plus d’informations, consultez l’article [Conversion des sites de publication en sites de communication](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
