@@ -1,5 +1,5 @@
 ---
-title: 743 création d’utilisateurs sans licence
+title: 743 Création d’utilisateurs sans licence
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "743"
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: 03fb05ffcb939e0fd05cf93f7ab5de080da0eaa4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b6737bb8e472a1534667c6ee66490e5f25df088abfd42d1ef5c13a28984be67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102902"
 ---
 # <a name="create-mailboxes-that-dont-require-licenses"></a>Créer des boîtes aux lettres qui ne nécessitent pas de licences
 
-- Si vous avez besoin d’une adresse de messagerie de groupe pour plusieurs personnes, consultez [la rubrique créer une boîte aux lettres partagée](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+- Si vous avez besoin d’une adresse de messagerie de groupe pour plusieurs personnes, voir [Créer une boîte aux lettres partagée.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)
 
-- Pour permettre à une équipe de personnes de collaborer et de partager des courriers électroniques et des fichiers, consultez la rubrique [en savoir plus sur les groupes Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+- Pour permettre à une équipe de travailler ensemble et de partager des e-mails et des fichiers, voir En savoir [plus sur Microsoft 365 groupes.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

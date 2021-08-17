@@ -1,5 +1,5 @@
 ---
-title: Afficher l’état de gestion des applications Microsoft à l’Microsoft Edge pour les appareils iOS ou Android
+title: Afficher l’état de gestion des applications Microsoft à l’aide Microsoft Edge pour les appareils iOS ou Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 2cd50e5b737796ed778571e5fddfb48b3b20a4e745938fc09836525a47ba2b72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037174"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Afficher l’état de gestion des applications Microsoft à l’Microsoft Edge pour les appareils iOS ou Android
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Afficher l’état de gestion des applications Microsoft à l’aide Microsoft Edge pour les appareils iOS ou Android
 
-Pour accéder aux journaux d’application à utiliser dans le cadre de la résolution des problèmes de vos applications iOS ou Android gérées, ouvrez Microsoft Edge et tapez **about:intunehelp** dans la zone d’adresse. Microsoft Edge lancement en mode de dépannage.
+Pour accéder aux journaux d’application à utiliser dans le cadre du dépannage de vos applications iOS ou Android gérées, ouvrez Microsoft Edge et tapez **about:intunehelp** dans la zone d’adresse. Microsoft Edge lancement en mode de dépannage.
 
-Pour obtenir la liste des paramètres stockés dans les journaux d’application, consultez les journaux de protection des applications [clientes.](/mem/intune/apps/app-protection-policy-settings-log)
+Pour obtenir la liste des paramètres stockés dans les journaux d’application, voir Consulter les journaux de protection des applications [clientes.](/mem/intune/apps/app-protection-policy-settings-log)
 
-Pour découvrir comment afficher les journaux d’application sur les appareils Android, [consultez Télécharger journaux de messagerie.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Pour découvrir comment afficher les journaux d’application sur les appareils Android, [voir Télécharger journaux de messagerie.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

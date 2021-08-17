@@ -1,5 +1,5 @@
 ---
-title: Les services Office 365 seront-ils conservés en ligne ?
+title: Les services Office 365 resteront-ils en ligne ?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036850"
 ---
-# <a name="will-office-365-services-stay-online"></a>Les services Office 365 seront-ils conservés en ligne ?
+# <a name="will-office-365-services-stay-online"></a>Les services Office 365 resteront-ils en ligne ?
 
-Oui. Nous avons développé ces services avec la résilience à l’esprit. Chacun des services exécute plusieurs instances en même temps, de sorte que même si une instance rencontre des problèmes, nos clients ne sont pas affectés. Chaque service est également inclus, de sorte que si un problème se produit avec un service, il ne se propage pas aux autres. Enfin, des mesures de sécurité ont été intégrées au code de chaque service afin d’empêcher les problèmes de se passer en cascade via le service.
+Oui. Nous avons développé ces services en ayant à l’esprit la résilience. Chacun des services exécute plusieurs instances en même temps, donc même si une instance présente des problèmes, nos clients ne sont pas affectés. Chaque service est également contenu, donc si un problème survient avec un service, il ne sera pas propagé au reste d’entre eux. Enfin, des protections ont été intégrées dans le code de chaque service pour éviter que les problèmes ne se viennent en cascade via le service.
 
-Pour en savoir plus sur nos efforts visant à maintenir la stabilité de nos services, consultez la rubrique [Enterprise Business Continuity Management (EBCM) with cloud services](https://go.microsoft.com/fwlink/?linkid=2124377).
+Pour en savoir plus sur nos efforts pour maintenir la stabilité de nos services, voir Enterprise gestion de la continuité d’activité [(EBCM) avec les services cloud.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Nous vous remercions vos commentaires, veuillez sélectionner **Oui** / **non** pour la question qui apparaît, puis évaluer votre expérience.
+Nous vous remercions de vos commentaires. Veuillez donc sélectionner Oui Non à la question qui s’affiche, puis /  évaluer votre expérience.
