@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory
+title: Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059188"
 ---
-# <a name="azure-active-directory"></a>Azure Active Directory
+# <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft Azure Active Directory (Azure AD) est un service de gestion des identités et des accès basé sur le cloud qui permet aux employés de se connecter et d’accéder aux ressources en externe et en interne. Pour en savoir plus, consultez les ressources suivantes :
+Microsoft Azure Active Directory (Azure AD) est un service de gestion des identités et des accès basé sur le cloud qui permet aux employés de se connecter et d’accéder aux ressources à la fois en externe et en interne. Pour en savoir plus, consultez les ressources suivantes :
 
-- [Qu’est-ce qu’Azure Active Directory ?](https://go.microsoft.com/fwlink/?linkid=2081145)
+- [Qu’est-ce que Azure Active Directory ?](https://go.microsoft.com/fwlink/?linkid=2081145)
 - [Intégration d’Azure avec Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [Version d’essai gratuite d’Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [Azure Active Directory d’essai gratuit](https://go.microsoft.com/fwlink/?linkid=2081144)

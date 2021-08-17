@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: a53a0109c3b974806d04135dd2c102de81ec560f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52627232"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890052"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>État des points de terminaison Defender
 
@@ -35,11 +35,11 @@ En cliquant sur l'un des groupes, vous accédez à la liste Appareils, filtrée 
 - **Mal configurés** Appareils qui peuvent signaler partiellement des données de détection au service Defender pour points de terminaison, mais présentent des erreurs de configuration devant être corrigées. Les appareils mal configurés peuvent avoir l’un ou l’autre des problèmes suivants :
 
     - Aucune donnée de détection : les appareils ont arrêté d’envoyer des données de détection. Des alertes limitées peuvent être déclenchées à partir de l’appareil.
-    - Communications altérées : la capacité à communiquer avec l’appareil est altérée. Il est possible que l'envoi de fichiers pour une analyse approfondie, le blocage de fichiers, l'isolement de l'appareil du réseau et d'autres actions qui nécessitent une communication avec l'appareil ne fonctionnent pas.
+    - Communications altérées : la capacité de communiquer avec l’appareil est altérée. L’envoi de fichiers pour une analyse approfondie, le blocage de fichiers, l’isolation de l’appareil du réseau et d’autres actions qui nécessitent une communication avec l’appareil peuvent ne pas fonctionner.
 - **Inactifs** Appareils qui ont cessé de rendre compte au service Defender pour le point de terminaison.
 
 Vous pouvez télécharger la liste entière au format CSV à l'aide de la fonctionnalité Exporter.
 
-Pour plus d’informations, consultez [Vérifier l'état d'intégrité de détection dans Microsoft Defender pour point de terminaison](/microsoft-365/security/defender-endpoint/check-sensor-status).
+Pour plus d’informations, consultez [Vérifier l'état d'intégrité de détection dans Microsoft Defender pour point de terminaison](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status).
 
-Pour plus d’informations sur la cause de l’inactivité ou de la configuration d’un appareil, consultez [Corriger les détecteurs malsains dans Microsoft Defender pour point de terminaison](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).
+Pour plus d’informations sur la cause de l’inactivité ou de la configuration d’un appareil, consultez [Corriger les détecteurs malsains dans Microsoft Defender pour point de terminaison](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors).

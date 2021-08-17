@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "11491"
 - "9001464"
-ms.openlocfilehash: 268f44640d3b2d8764133560d0cbf500eb4afd22
-ms.sourcegitcommit: 8242a824491f64be48dfe81da09766920fbd7feb
+ms.openlocfilehash: 26ad9631111c250fd8b9ec32d4a6122f37f82513b7542231e402317aea4949dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783421"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899398"
 ---
 # <a name="performance-issues-for-microsoft-defender-for-endpoint-on-linux"></a>Problèmes de performances pour Microsoft Defender pour point de terminaison sur Linux
 
 Cet article vous guide tout au long des étapes d’identification des problèmes de performances pour Microsoft Defender pour point de terminaison sur Linux.
 
-Il est important de vérifier d’abord que le problème que vous rencontrez est résolu avec la [dernière version](/microsoft-365/security/defender-endpoint/linux-whatsnew). 
+Il est important de vérifier d’abord que le problème que vous rencontrez est résolu avec la [dernière version](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-whatsnew). 
 
-Pour démarrer votre investigation, consultez [Résoudre les problèmes de performances de Microsoft Defender pour point de terminaison sur Linux](/microsoft-365/security/defender-endpoint/linux-support-perf).
+Pour démarrer votre investigation, consultez [Résoudre les problèmes de performances de Microsoft Defender pour point de terminaison sur Linux](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-support-perf).
 
 ## <a name="exclusions"></a>Exclusions
 
 Les exclusions peuvent aider à atténuer les problèmes de performances. Passez en revue vos exclusions avant de commencer afin que tout risque supplémentaire soit connu et documenté.
 
-Pour plus d’informations, consultez [Configurer et valider les exclusions pour Microsoft Defender pour point de terminaison sur Linux](/microsoft-365/security/defender-endpoint/linux-exclusions).
+Pour plus d’informations, consultez [Configurer et valider les exclusions pour Microsoft Defender pour point de terminaison sur Linux](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-exclusions).
 
 Lorsque vous avez plusieurs fichiers et dossiers à exclure et qu’ils sont tous sur le même point de montage, il peut être plus facile d’exclure le point de montage. À compter de la version 101.22.80 de février, vous pouvez exclure un point de montage entier.
 

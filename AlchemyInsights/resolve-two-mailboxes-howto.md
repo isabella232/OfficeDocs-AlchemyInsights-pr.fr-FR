@@ -1,5 +1,5 @@
 ---
-title: 1374 résoudre deux boîtes aux lettres
+title: 1374 Résoudre deux boîtes aux lettres
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110066"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Un utilisateur dispose de deux boîtes aux lettres
+# <a name="a-user-has-two-mailboxes"></a>Un utilisateur a deux boîtes aux lettres
 
-Les environnements hybrides qui utilisent Azure Active Directory Connect (AAD Connect) ou DirSync peuvent accidentellement faire en sorte qu’un utilisateur dispose de deux boîtes aux lettres : une sur site et une autre dans le Cloud. Une boîte aux lettres en double peut être créée aux deux emplacements.
+Les environnements hybrides qui utilisent Azure Active Directory Connecter (AAD Connecter) ou DirSync peuvent entraîner accidentellement l’utilisation de deux boîtes aux lettres par un utilisateur : une sur site et une dans le cloud. Une boîte aux lettres en double peut être créée à l’un ou l’autre endroit.
 
-Pour résoudre ce problème, reportez-vous [à la rubrique How to Recover When a Mailbox exists in Exchange Online and on-](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)premises. Si vous souhaitez en savoir plus sur la façon d’éviter ce problème à l’avenir, voir [mon utilisateur dispose d’une boîte aux lettres à la fois en local et dans Exchange Online. Aide !](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Pour résoudre ce problème, voir comment récupérer lorsqu’une boîte aux lettres existe dans Exchange Online et [en local.](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises) Si vous souhaitez en savoir plus sur la façon d’éviter que cela ne se produise à l’avenir, consultez Mon utilisateur dispose d’une boîte aux lettres à la fois en local et [en Exchange Online. Aide !](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

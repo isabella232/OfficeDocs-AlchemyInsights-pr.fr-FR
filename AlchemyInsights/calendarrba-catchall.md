@@ -1,5 +1,5 @@
 ---
-title: 1081 Calendar-avec CatchAll
+title: Calendrier 1081 - RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059368"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Créer et gérer des boîtes aux lettres de salle
 
-Pour créer et modifier des boîtes aux lettres de salle dans le centre d’administration Exchange, consultez la rubrique [créer et gérer des boîtes aux lettres de salle](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Pour créer et modifier des boîtes aux lettres de salle dans le centre d Exchange’administration, voir Créer et gérer des boîtes aux [lettres de salle.](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)
 
-Pour en savoir plus sur les boîtes aux lettres de salle et d’équipement (également appelées boîtes aux lettres de ressources), consultez la rubrique [boîtes aux lettres de salle et d’équipement](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
+Pour en savoir plus sur les boîtes aux lettres de salle et de ressource (également appelées boîtes aux lettres de ressources), consultez les boîtes aux lettres de salle [et d’équipement.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)
