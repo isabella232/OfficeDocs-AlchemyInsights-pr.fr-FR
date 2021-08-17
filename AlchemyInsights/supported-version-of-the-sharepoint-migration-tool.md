@@ -1,5 +1,5 @@
 ---
-title: Version prise en charge de l’outil de migration SharePoint
+title: Version prise en charge de l’outil SharePoint migration
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: c89d9326bae649c3cf9384b1c47842a36399816a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3276d166d44798c2ffffad6f9504b73dfd81751e02cf3ba106ff6f89a9fc30b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107087"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Version prise en charge de l’outil de migration SharePoint
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Version prise en charge de l’outil SharePoint migration
 
 
 
-Actuellement, l’outil de migration SharePoint prend en charge uniquement les migrations à partir de SharePoint 2013. Les versions 2010 et 2016 ne sont pas prises en charge pour le moment.
+Actuellement, SharePoint’outil de migration de migration prend uniquement en charge les migrations SharePoint 2013. Les versions 2010 et 2016 ne sont pas pris en charge pour le moment.
   
-Pour plus d’informations, consultez [la rubrique Présentation de l’outil de migration SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
+Pour plus d’informations, [voir Présentation de l’outil SharePoint migration.](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409)
   
 

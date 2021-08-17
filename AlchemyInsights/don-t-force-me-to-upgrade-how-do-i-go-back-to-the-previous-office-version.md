@@ -1,5 +1,5 @@
 ---
-title: Ne pas forcer la mise à niveau. Comment revenir à la version précédente d’Office ?
+title: Ne me forcez pas à mettre à niveau. Comment revenir à la version Office précédente ?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079592"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ne pas forcer la mise à niveau. Comment revenir à la version précédente d’Office ?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ne me forcez pas à mettre à niveau. Comment revenir à la version Office précédente ?
 
-Lors de l’ouverture d’un fichier Office, la version d’évaluation d’une application Office peut s’ouvrir au lieu d’une autre version. Cela se produit si vous disposez de la version d’évaluation de Microsoft 365.
+Lorsque vous ouvrez un Office, la version d’application Office peut s’ouvrir, au lieu d’une autre version. Cela se produit si vous avez la version d Microsoft 365 d’essai.
   
-Lorsque vous installez la version d’évaluation de Microsoft 365, la version d’évaluation 2016 des applications est installée. Ces versions d’évaluation deviennent les valeurs par défaut pour l’ouverture des fichiers Word, Excel et PowerPoint. Par exemple, si Excel 2013 est installé et que vous avez également installé la version d’évaluation de Microsoft 365, vos classeurs s’ouvriront dans la version d’évaluation d’Excel 2016.
+Lorsque vous installez la Microsoft 365 d’essai, la version d’essai 2016 des applications est installée. Ces versions d’essai deviennent la valeur par défaut pour ouvrir word, Excel et PowerPoint fichiers. Par exemple, si Excel 2013 est installé et que vous avez également installé la version d’essai Microsoft 365, vos workbooks s’ouvrent dans la version d’essai de Excel 2016.
   
-Si vous rencontrez ce problème, vous pouvez [désinstaller](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) les applications 2016 et utiliser les versions antérieures des applications que vous avez déjà installées. Sinon, vous pouvez [désinstaller](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) les versions antérieures des applications et effectuer une mise à niveau vers les versions plus récentes incluses dans Microsoft 365.
+Si vous avez ce problème, vous pouvez [désinstaller](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) les applications 2016 et utiliser les versions antérieures des applications que vous avez déjà installées. Vous pouvez également [désinstaller les](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) anciennes versions des applications et les mettre à niveau vers les versions plus récentes incluses dans Microsoft 365.
