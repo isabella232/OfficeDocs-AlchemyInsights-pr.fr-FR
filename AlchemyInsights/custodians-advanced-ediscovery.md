@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: e7b971619744503cfe09f2ee1ae96ce89929f00943164ff1e0b26e15e74ab8b9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7999b2e7c4ab6523f9084d406484f2c58a3560a533a3137698f07a18c58d46f4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504060"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894961"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Consignataires dans Advanced eDiscovery
 
@@ -32,6 +32,6 @@ Pour gérer des consignataires dans un cas Advanced eDiscovery :
 
 Pour plus d’informations sur la gestion et l’affichage des activités des consignataires dans Advanced eDiscovery, consultez :
 
-- [Travailler avec des sources de données de consignataires et de non consignataires dans Advanced eDiscovery](/microsoft-365/compliance/managing-custodians)
+- [Travailler avec des sources de données de consignataires et de non consignataires dans Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-custodians)
 
-- [Afficher l’activité d’audit des consignataires](/microsoft-365/compliance/view-custodian-activity)
+- [Afficher l’activité d’audit des consignataires](https://docs.microsoft.com/microsoft-365/compliance/view-custodian-activity)

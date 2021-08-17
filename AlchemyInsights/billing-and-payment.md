@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502390"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314914"
 ---
 # <a name="billing-and-payment"></a>Facturation et paiement
 
@@ -46,8 +46,7 @@ Si vous avez ajouté une nouvelle carte et que vous êtes toujours en train d’
 
 4. Pour utiliser un mode de paiement existant, choisissez-le dans la liste déroulante, puis sélectionnez **Remplacer**.
 
-    > [!NOTE]
-    > Si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte de débit ou de crédit pour les régler. Si vous avez des comptes bancaires répertoriés sur la page **Modes de paiement**, vous ne pouvez pas les sélectionner dans la liste déroulante.
+    **Remarque**: si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte de crédit ou de débit pour les payer. Si vous avez des comptes bancaires répertoriés sur la page **Modes de paiement**, vous ne pouvez pas les sélectionner dans la liste déroulante.
 
 5. Pour ajouter un nouveau mode de paiement, sélectionnez **Ajouter un mode de paiement**.
 
@@ -55,10 +54,10 @@ Si vous avez ajouté une nouvelle carte et que vous êtes toujours en train d’
 
 7. Le nouveau mode de paiement est déjà sélectionné dans la liste déroulante. Sélectionnez **Remplacer**.
 
-Pour plus d’informations, consultez [Gérer les modes de paiement](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Pour plus d’informations, consultez [Gérer les modes de paiement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Fréquence de facturation**
 
 Les factures sont générées mensuellement ou annuellement en fonction de la fréquence de facturation choisie lors de l’enregistrement.  
 
-**Remarque**: les commandes à facturation annuelle peuvent recevoir une facture à mi-terme si des modifications ont été apportées, telles que l’ajout ou la suppression de licences. [Modifiez votre fréquence de facturation.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Remarque**: les commandes à facturation annuelle peuvent recevoir une facture à mi-terme si des modifications ont été apportées, telles que l’ajout ou la suppression de licences. [Modifiez votre fréquence de facturation.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

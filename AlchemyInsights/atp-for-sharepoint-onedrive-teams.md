@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d0fff3e699d46af2a19a8ad60696b824bafa109
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997132"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314960"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender pour Office 365 pour SharePoint, OneDrive et Microsoft Teams
 
@@ -28,8 +28,8 @@ Suivez ces étapes pour activer Microsoft Defender pour Office 365 :
 
 3. Sélectionnez **Activer Defender pour Office 365 pour SharePoint, OneDrive et Microsoft Teams**.
 
-4. [Créez une stratégie d’alerte d’activité](/microsoft-365/compliance/create-activity-alerts) pour recevoir des notifications lorsque nous détectons des fichiers malveillants.
+4. [Créez une stratégie d’alerte d’activité](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) pour recevoir des notifications lorsque nous détectons des fichiers malveillants.
 
-Pour obtenir des instructions complètes, consultez cette Coffre pièces jointes pour [SharePoint, OneDrive et Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Pour obtenir des instructions complètes, consultez cette Coffre pièces jointes pour [SharePoint, OneDrive et Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Remarque**: Par conception, Microsoft Defender pour Office 365 n’analyse pas chaque fichier dans SharePoint Online, OneDrive Entreprise ou Microsoft Teams. Les fichiers sont analysés de manière asynchrone par un processus qui utilise l’activité de partage, l’activité des invités et les signaux de menace pour identifier les fichiers malveillants. Pour plus d’informations, [voir Coffre attachments for SharePoint, OneDrive, and Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Remarque**: Par conception, Microsoft Defender pour Office 365 n’analyse pas chaque fichier dans SharePoint Online, OneDrive Entreprise ou Microsoft Teams. Les fichiers sont analysés de manière asynchrone par un processus qui utilise l’activité de partage, l’activité des invités et les signaux de menace pour identifier les fichiers malveillants. Pour plus d’informations, [voir Coffre attachments for SharePoint, OneDrive, and Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

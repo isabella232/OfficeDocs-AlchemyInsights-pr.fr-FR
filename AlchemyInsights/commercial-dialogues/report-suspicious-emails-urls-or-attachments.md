@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 15efe9acf4fab9ced09674784ea130b5ddfd645d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735888"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895117"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Signaler des messages électroniques suspects, des URL ou des pièces jointes
 
-Je comprends que vous avez besoin d’aide pour examiner un e-mail suspect ou un e-mail qui a été filtré de manière incorrecte. Je peux vous aider à soumettre le problème pour analyse à l’aide de l’Explorateur de soumissions, ce qui vous donnera des commentaires immédiats. Voici un résumé des étapes :
+Je comprends que vous avez besoin d’aide pour examiner un e-mail suspect ou un e-mail qui a été filtré de manière incorrecte. Je peux vous aider à soumettre le problème pour analyse à l’aide du portail **Soumissions,** ce qui vous donnera des commentaires immédiats. Voici un résumé des étapes :
 
-1. Go to the [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)and then go to **Threat management**  >  [Submissions](https://go.microsoft.com/fwlink/?linkid=2101521).
-2. Sélectionnez **+ Nouvelle soumission.** Un flyout s’affiche avec la possibilité d’envoyer un e-mail, une URL ou un fichier.
-    > [!NOTE]
-    > Informez vos utilisateurs qu’ils doivent signaler les messages suspects dans leur boîte de réception à Microsoft à l’aide du [add-in](https://go.microsoft.com/fwlink/?linkid=2092385)Signaler un message.
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to Email & **collaboration** \> **Submissions**.
+
+   Pour aller directement à la page **Soumissions,** utilisez <https://security.microsoft.com/reportsubmission> .
+
+2. Dans la page **Soumissions,** vérifiez que l’onglet Soumis pour analyse est sélectionné, puis cliquez sur + Envoyer **à Microsoft pour analyse.** 
+
+3. Un flyout s’affiche avec la possibilité d’envoyer un e-mail, une URL ou un fichier.
+
+Pour plus d’informations, voir Utiliser la soumission d’administrateur pour soumettre des messages suspects de courrier indésirable, d’hameçonnage, d’URL et [de fichiers à Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+> [!NOTE]
+> Informez vos utilisateurs qu’ils doivent signaler les messages suspects dans leur boîte de réception à l’aide du module de signalement des messages ou du [module de signalement du hameçonnage.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

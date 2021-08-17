@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017094"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896153"
 ---
 # <a name="fix-languageip-filter-policy"></a>Corriger la stratégie de filtrage de langue/IP
 
-Une stratégie anti-courrier indésirable personnalisée dans votre client a affecté ce message. Pour passer en revue la stratégie, faites les choses suivantes :
+L’une de vos stratégies anti-courrier indésirable a affecté ce message. Pour passer en revue les stratégies, vous pouvez suivre les étapes suivantes :
 
-1. Go to the [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)and then go to Threat **management**  >  **Policy**  >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Sous **l’onglet** Personnalisé, sélectionnez la stratégie de filtrage du courrier indésirable par défaut ou toute autre stratégie personnalisée que vous avez peut-être créée, puis sélectionnez **Modifier la stratégie.** 
-3. Développez **l’option Courrier indésirable international** et examinez les paramètres.
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> , go to Email & **Collaboration** Policies \> **& Rules** Threat \> **policies** \> **Anti-spam** in the **Policies** section.
 
-Pour plus d’informations sur la configuration des stratégies de filtrage du courrier indésirable, voir Configurer les paramètres de stratégie de filtrage du courrier [indésirable personnalisés.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Pour accéder directement à la page **Stratégies anti-courrier indésirable**, utilisez <https://security.microsoft.com/antispam>.
+
+2. Dans la page Stratégies anti-courrier indésirable, sélectionnez la stratégie en cliquant sur  le nom de la stratégie ( Le **type** est Stratégie **anti-courrier** indésirable personnalisée ou Nom stratégie de courrier indésirable entrant  **(par défaut)**).
+3. Dans le volet d’informations  qui s’affiche, sélectionnez Modifier le seuil de courrier indésirable et les propriétés dans la section Modifier le seuil de courrier indésirable **& propriétés du** courrier indésirable.
+4. Dans la section **Marquer comme courrier indésirable,** examinez les paramètres Contient des **langues spécifiques** et **De ces pays.**
+
+Si vous souhaitez en savoir plus, consultez l’article [Configurer les stratégies anti-courrier indésirable dans EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

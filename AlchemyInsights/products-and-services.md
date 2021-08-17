@@ -13,20 +13,19 @@ ms.custom:
 - commerce_subscriptions
 - "9001669"
 - "3736"
-ms.openlocfilehash: 09ab3c915a2874363ca58d8f6b4c8c5612e0c45f7d133460d6fc61bfacc8ab4f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 67201f14f6ec304507be0b1c3509aa54047244da
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009858"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314490"
 ---
 # <a name="your-products"></a>Vos produits
 
 Vous trouverez les abonnements de votre organisation sur la page **Facturation**  >  [de vos produits.](https://go.microsoft.com/fwlink/p/?linkid=842054) Voici quelques-uns des points forts de cette page, ainsi que des liens pour plus d’informations sur chaque fonctionnalité :
 
 1. Affichez le nombre de licences attribuées et le nombre de licences achetées pour chaque abonnement.
-    > [!NOTE]
-    > Vous êtes toujours facturé pour les licences qui ne sont pas en cours d’utilisation (non attribuées à un utilisateur). Pour ne pas être facturé pour les licences inutilisées, réduisez le nombre de licences achetées. Pour plus d’informations sur l’ajout ou la suppression de licences d’un abonnement, voir Comment ajouter ou réduire [des licences.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
+    **Remarque**: vous êtes toujours facturé pour les licences qui ne sont pas en cours d’utilisation (non attribuées à un utilisateur). Pour ne pas être facturé pour les licences inutilisées, réduisez le nombre de licences achetées. Pour plus d’informations sur l’ajout ou la suppression de licences d’un abonnement, voir Comment ajouter ou réduire [des licences.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
 2. Afficher l’état de chaque abonnement. Pour savoir comment réactiver un abonnement, consultez [Réactiver votre abonnement.](reactivate-your-subscription.md)
 3. Afficher la date de renouvellement ou d’expiration de chaque abonnement. Vous pouvez gérer le renouvellement en sélectionnant l’abonnement, puis en sélectionnant **Modifier la facturation périodique.** Pour savoir comment gérer la facturation périodique, voir [Gérer la facturation périodique.](manage-auto-renewal.md)
 4. Afficher le mode de paiement utilisé pour chaque abonnement. Pour savoir comment modifier le mode de paiement, voir [Modifier le mode de paiement.](change-payment-method.md)

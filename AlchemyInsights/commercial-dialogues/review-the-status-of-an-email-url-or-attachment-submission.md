@@ -1,5 +1,5 @@
 ---
-title: Passer en revue l’état d’une soumission de courrier électronique, d’URL ou de pièce jointe
+title: Passer en revue l’état d’un e-mail, d’une URL ou d’une soumission de pièce jointe
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c93f281d8d9a19eb31df7c265a963e93089a0ef5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081824"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314806"
 ---
-# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Passer en revue l’état d’une soumission de courrier électronique, d’URL ou de pièce jointe
+# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Passer en revue l’état d’un e-mail, d’une URL ou d’une soumission de pièce jointe
 
 Après avoir envoyé un message électronique, une URL ou une pièce jointe, vous pouvez vérifier l’état et les résultats sur la même page de soumissions.
 
 Vous verrez l’avancement de la soumission sur la page, et vous pouvez également consulter les soumissions précédentes pour voir les détails de la soumission et les résultats.
 
-> [!NOTE]
-> Une fois que vous avez soumis un élément à l’aide de l’Explorateur de soumissions, l’apparition des résultats peut prendre quelques minutes.
+**Remarque**: une fois que vous avez soumis un élément à l’aide de l’Explorateur de soumissions, l’apparition des résultats peut prendre quelques minutes.
