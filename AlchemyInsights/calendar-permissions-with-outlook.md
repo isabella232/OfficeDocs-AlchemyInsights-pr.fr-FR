@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046102"
 ---
 # <a name="calendar-permissions"></a>Autorisations de calendrier
 
-Les utilisateurs peuvent modifier leurs propres autorisations de calendrier avec Outlook sur le web ou d'autres clients, mais en tant qu'administrateur, vous devrez peut-être également examiner.  
-Avec la cmdlet Exchange PowerShell, vous affichez l'autorisation sur le calendrier d'un utilisateur :
+Les utilisateurs peuvent modifier leurs propres autorisations de calendrier avec Outlook sur le Web ou d’autres clients, mais en tant qu’administrateur, vous devrez peut-être également examiner.  
+Avec Exchange cmdlet PowerShell vous montre l’autorisation sur le calendrier d’un utilisateur :
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
-Pour plus d'informations, voir les informations suivantes :
+Pour plus d’informations, voir les informations suivantes :
 
 - [Get-MailboxFolderPermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
 
@@ -34,9 +34,9 @@ Pour plus d'informations, voir les informations suivantes :
 
 - [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Les autorisations de calendrier sont utilisées dans le partage de calendriers. Pour plus d'informations sur le partage d'un calendrier Outlook, consultez les articles suivants :
+Les autorisations de calendrier sont utilisées dans le partage de calendriers. Pour plus d’informations sur le partage Outlook calendrier, consultez les articles suivants :
 
 - [Partager un calendrier Outlook avec d’autres personnes](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Partager votre calendrier dans Outlook sur le web pour les entreprises](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Partager votre calendrier dans Outlook sur le web entreprise](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Pour résoudre les problèmes d'autorisation de calendrier, vous pouvez utiliser l'outil [Assistant Support et](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) récupération.
+Pour résoudre les problèmes d’autorisation de calendrier, vous pouvez utiliser [l’outil Assistant Support et récupération](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) de calendrier.

@@ -1,5 +1,5 @@
 ---
-title: Commencer à utiliser les rapports d’utilisation de Microsoft Search (recherche Microsoft)
+title: Commencer à utiliser les rapports d Recherche Microsoft d’utilisation
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52642025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077288"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Commencer à utiliser les rapports d’utilisation de Microsoft Search (recherche Microsoft)
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Commencer à utiliser les rapports d Recherche Microsoft d’utilisation
 
-Les rapports d’utilisation de Microsoft Search (recherche Microsoft) fournissent des informations sur le fonctionnement de la recherche dans votre organisation. Ces informations vous aideront à trouver du contenu et à rendre la recherche plus utile et agréable pour les utilisateurs de votre organisation.
+Recherche Microsoft d’utilisation fournissent des informations sur le fonctionnement de la recherche dans votre organisation. Ces informations vous aideront à trouver du contenu et à rendre la recherche plus utile et agréable pour les utilisateurs de votre organisation.
 
-Pour plus d’informations, voir [Rapports d’utilisation de Microsoft Search (recherche Microsoft).](https://go.microsoft.com/fwlink/?linkid=2152048)
+Pour plus d’informations, [voir Recherche Microsoft d’utilisation.](https://go.microsoft.com/fwlink/?linkid=2152048)
