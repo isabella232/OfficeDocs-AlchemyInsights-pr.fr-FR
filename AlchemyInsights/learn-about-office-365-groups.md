@@ -1,5 +1,5 @@
 ---
-title: 610 en savoir plus sur les groupes Microsoft 365
+title: 610 En savoir plus sur Microsoft 365 groupes
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 7ada16406b79317882831c54bdee117153723dd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d58d72ff81be8b1ea2873996043f2b08b550233ab4a817f4e2476944624a17b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087458"
 ---
-# <a name="learn-about-microsoft-365-groups"></a>En savoir plus sur les groupes Microsoft 365
+# <a name="learn-about-microsoft-365-groups"></a>En savoir plus sur Microsoft 365 groupes
 
-Les groupes Microsoft 365 sont des services qui fonctionnent avec les outils Office 365 que vous utilisez déjà, afin que vous puissiez collaborer avec vos collègues lors de l’écriture de documents, la création de feuilles de calcul, l’utilisation de plans de projet, la planification de réunions ou l’envoi de courriers électroniques. Pour plus d’informations, consultez la rubrique [en savoir plus sur les groupes Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Microsoft 365 Les groupes sont un service qui fonctionne avec les outils Office 365 que vous utilisez déjà, afin que vous pouvez collaborer avec vos collègues lors de l’écriture de documents, de la création de feuilles de calcul, de l’utilisation de plans de projet, de la planification de réunions ou de l’envoi d’e-mails. Pour plus d’informations, [voir En savoir plus sur Microsoft 365 groupes.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

@@ -15,16 +15,16 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029730"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895885"
 ---
 # <a name="expired-subscription"></a>Abonnement expiré
 
-Il semble que vous avez un ou plusieurs abonnements expirés. Si vous souhaitez poursuivre le service, vous devez réactiver l’abonnement ou effectuer un nouvel achat.
+Il semble que vous avez un ou plusieurs abonnements expirés. Si vous souhaitez continuer le service, vous devez réactiver l’abonnement ou effectuer un nouvel achat.
   
 **Réactiver**
   
@@ -35,13 +35,13 @@ Il semble que vous avez un ou plusieurs abonnements expirés. Si vous souhaitez 
 3. Dans le volet **Réactiver cet abonnement** , sélectionnez un mode de paiement dans la liste déroulante, ou sélectionnez **Ajouter un mode de paiement**.
 4. Sélectionnez **Enregistrer**.
 
-Pour en savoir plus, consultez l’article [Réactiver votre abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Pour en savoir plus, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Effectuer un nouvel achat**
   
 1. Dans le centre d’administration, accédez à la page **facturation** \> [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433).
-2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **Acheter**.
+2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **Acheter.**
 3. Entrez le nombre de licences utilisateur dont vous avez besoin, puis choisissez si vous souhaitez régler de façon mensuelle ou annuelle. Choisissez si vous souhaiter attribuer automatiquement des licences à tous vos utilisateurs qui n’en ont pas actuellement. Ensuite, **sélectionnez Partir maintenant.**
 4. Suivez les étapes restantes pour terminer l’enregistrement.
 
-Pour plus d’informations, voir [Acheter un autre abonnement.](/microsoft-365/commerce/buy-another-subscription)
+Pour plus d’informations, voir [Acheter un autre abonnement.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

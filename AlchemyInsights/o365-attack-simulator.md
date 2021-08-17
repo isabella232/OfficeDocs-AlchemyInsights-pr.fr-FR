@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065282"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895789"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulateur d’attaques dans Microsoft 365
 
-- Le Simulateur d’attaques vous manque ? Le Simulateur d’attaques **nécessite Microsoft Defender Office 365 plan 2** ou Office 365 Entreprise **E5**. Le Simulateur **d’attaques** n’est pas inclus dans Microsoft Defender pour Office 365 Plan 1, Office 365 Entreprise E3 ou les abonnements Applications Microsoft 365 pour les PME de service.
+- Le Simulateur d’attaques vous manque ? Le Simulateur d’attaques **nécessite Microsoft Defender Office 365 plan 2** ou Office 365 Entreprise **E5.** Le Simulateur **d’attaques** n’est pas inclus dans Microsoft Defender pour Office 365 Plan 1, Office 365 Entreprise E3 ou les abonnements Applications Microsoft 365 pour les PME de service.
 
-- Le compte que vous utilisez pour lancer des attaques simulées nécessite des autorisations d’administrateur général ou d’administrateur de sécurité et une authentification multifacteur (MFA). Pour plus d’informations sur les exigences du simulateur d’attaques, [consultez cette rubrique.](/microsoft-365/security/office-365-security/attack-simulator)
+- Le compte que vous utilisez pour lancer des attaques simulées nécessite des autorisations d’administrateur général ou d’administrateur de sécurité et une authentification multifacteur (MFA). Pour plus d’informations sur les exigences du simulateur d’attaques, [consultez cette rubrique.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Points importants à connaître sur les simulations d’attaques **par mot** de passe en force brute :
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065282"
 
   - Par conception, vous ne pouvez pas fournir de valeur personnalisée pour l’URL du serveur de connexion au **hameçonnage.**
 
-  - Si un destinataire utilise le [add-in Activer](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) le message de rapport pour signaler le message comme hameçonnage, il se peut que vous ne receviez pas d’alertes pour le message (car il s’agit d’une attaque simulée).
+  - Si un destinataire utilise le [add-in Activer](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) le message de rapport pour signaler le message comme hameçonnage, il se peut que vous ne receviez pas d’alertes pour le message (car il s’agit d’une attaque simulée).
 
 - Rapports : une fois l’attaque simulée terminée, vous pouvez cliquer sur **Détails** de l’attaque pour voir le rapport.
 
-- Pour obtenir des instructions détaillées et de nouvelles fonctionnalités dans le Simulateur d’attaques, voir Simulateur [d’attaques dans Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
+- Pour obtenir des instructions détaillées et de nouvelles fonctionnalités dans le Simulateur d’attaques, voir Simulateur [d’attaques dans Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

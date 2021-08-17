@@ -1,5 +1,5 @@
 ---
-title: En savoir plus sur le mappage entre les stratégies héritées Microsoft Edge et les stratégies Microsoft Edge
+title: En savoir plus sur le mappage entre Version antérieure de Microsoft Edge stratégies de Microsoft Edge stratégies
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087386"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>En savoir plus sur le mappage entre les stratégies héritées Microsoft Edge et les stratégies Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>En savoir plus sur le mappage entre Version antérieure de Microsoft Edge stratégies de Microsoft Edge stratégies
 
-Les stratégies de groupe de l’héritage Microsoft Edge (versions 45 et antérieures) et les paramètres de gestion des appareils mobiles (MDM) correspondent aux stratégies appropriées de Microsoft Edge version 80. Pour en savoir plus, consultez la rubrique [Microsoft Edge Legacy to Microsoft Edge Policy Mapping](https://go.microsoft.com/fwlink/?linkid=2141665).
+Les stratégies de groupe de Version antérieure de Microsoft Edge (versions 45 et antérieures) et les paramètres de gestion des périphériques mobiles (MDM) sont map to the relevant policies of Microsoft Edge version 80. Pour plus d’informations, [voir Version antérieure de Microsoft Edge pour Microsoft Edge de stratégie.](https://go.microsoft.com/fwlink/?linkid=2141665)

@@ -1,5 +1,5 @@
 ---
-title: Personnaliser une image d’hôte de session pour le bureau virtuel Windows
+title: Personnaliser une image d’hôte de session pour Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49681465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118634"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Personnaliser une image d’hôte de session pour le bureau virtuel Windows
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Personnaliser une image d’hôte de session pour Windows Virtual Desktop
 
-Il existe deux façons de préparer une machine virtuelle à l’aide d’une image de disque dur virtuel maître pour le bureau virtuel Windows :
+Il existe deux façons de préparer une machine virtuelle (VM) à l’aide d’une image principale de disque dur virtuel pour Windows Virtual Desktop :
 
-1. [Créez une machine virtuelle à partir d’une image gérée dans Azure](https://go.microsoft.com/fwlink/?linkid=2127906), puis passez directement à la [préparation et à l’installation du logiciel](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [Créez l’image localement](https://go.microsoft.com/fwlink/?linkid=2128065) en téléchargeant l’image, en configurant [un ordinateur virtuel Hyper-V](https://go.microsoft.com/fwlink/?linkid=2127907), puis en le personnalisant en fonction de vos besoins.
+1. [Créez une ordinateur vidéo à partir d’une image](https://go.microsoft.com/fwlink/?linkid=2127906)gérée dans Azure, puis passez directement à la préparation et à l’installation [du logiciel.](https://go.microsoft.com/fwlink/?linkid=2128064)
+1. [Créez l’image](https://go.microsoft.com/fwlink/?linkid=2128065) localement en téléchargeant l’image, en approvisionnement d’une [VM Hyper-V,](https://go.microsoft.com/fwlink/?linkid=2127907)puis en la personnalisant en fonction de vos besoins.
 
-Pour plus d’informations, consultez [la rubrique prepare and Customize a Master VHD image](https://go.microsoft.com/fwlink/?linkid=2127838).
+Pour plus d’informations, voir [Préparer et personnaliser une image de disque dur (VHD) principale.](https://go.microsoft.com/fwlink/?linkid=2127838)

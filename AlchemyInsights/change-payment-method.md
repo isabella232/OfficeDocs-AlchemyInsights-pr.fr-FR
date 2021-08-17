@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500014"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895489"
 ---
 # <a name="change-payment-method"></a>Changer votre mode de paiement
 
@@ -36,6 +36,6 @@ Vous pouvez modifier le mode de paiement à partir du **Centre d’administratio
 6. Dans le volet **Ajouter un mode de paiement**, entrez les informations de compte, puis sélectionnez **Enregistrer**. Vous devez utiliser un mode de paiement provenant du même pays que celui de votre client.
 7. Le nouveau mode de paiement est déjà sélectionné dans la liste déroulante. Sélectionnez **Remplacer**.
 
-Pour découvrir comment ajouter, mettre à jour, remplacer ou supprimer des modes de paiement, voir Gérer les [modes de paiement.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Pour découvrir comment ajouter, mettre à jour, remplacer ou supprimer des modes de paiement, voir Gérer les [modes de paiement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Pour savoir comment changer d’un mode de paiement à l’autre, voir [comment payer votre abonnement.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Pour savoir comment changer d’un mode de paiement à l’autre, voir [comment payer votre abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

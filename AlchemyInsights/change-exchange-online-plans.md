@@ -14,18 +14,18 @@ ms.custom:
 - commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: 3039c887a46a4e7b0250c48013a69940292f8e1bfcc4771fd70982f0d6dd4d92
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: af2fcebc3da76f0b81b441e55901cf73a0f03c1db86b23014332673d77cde88e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499006"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895557"
 ---
 # <a name="change-exchange-online-plans"></a>Modifier les offres Exchange Online
 
-Les administrateurs doivent changer d’offre manuellement dans le Centre d’administration Microsoft 365. Pour connaître la procédure à suivre, consultez [Modifier les plans manuellement](/microsoft-365/commerce/subscriptions/change-plans-manually).
+Les administrateurs doivent changer d’offre manuellement dans le Centre d’administration Microsoft 365. Pour connaître la procédure à suivre, consultez [Modifier les plans manuellement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
 1. **Achetez le nouveau plan d'abonnement.** Accédez à la page **Facturation** > [ du Service d'Achats](https://go.microsoft.com/fwlink/p/?linkid=868433) et souscrivez au nouvel abonnement.
 2. **Vérifiez votre nouvel abonnement et vos nouvelles licences.** Accédez à la page **Facturation** > [ de Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054) et vérifiez que le nouvel abonnement est répertorié et qu'il possède le bon nombre de licences.
 3. **Attribuer de nouveau des licences aux utilisateurs.** Accédez à la page **Utilisateurs** > [utilisateurs actifs](https://go.microsoft.com/fwlink/p/?linkid=834822) et attribuez des licences.
-4. [Annulez votre abonnement](/microsoft-365/commerce/subscriptions/cancel-your-subscription) ou [supprimez les licences](/microsoft-365/commerce/licenses/buy-licenses) dont vous n’avez plus besoin.
+4. [Annulez votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) ou [supprimez les licences](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) dont vous n’avez plus besoin.
