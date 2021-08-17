@@ -12,19 +12,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f693d12ff0f9c193cba0c6a6802b22d7acd37532c65986e5f6613e18c021f06b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083012"
 ---
 # <a name="working-with-ios-vpp-applications"></a>Utilisation des applications VPP iOS
 
-Découvrez [Comment gérer les applications iOS achetées via un programme d’achat en volume avec Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) pour en savoir plus sur les fonctionnalités, les contraintes et les étapes à suivre pour utiliser le programme d’achat en volume Apple et la prise en charge de celui-ci dans Microsoft Intune.
+Lisez comment gérer les applications [iOS](https://docs.microsoft.com/intune/vpp-apps-ios) achetées dans le cadre d’un programme d’achat en volume avec Microsoft Intune pour en savoir plus sur les fonctionnalités, les contraintes et les étapes à suivre pour utiliser le programme d’achat en volume Apple et sa prise en charge dans Microsoft Intune.
   
- **Problèmes courants :** « J’ai affecté une application iOS VPP à mes utilisateurs, mais l’installation a échoué ».
+ **Problèmes courants :** « J’ai affecté une application VPP iOS à mes utilisateurs, mais l’installation a échoué. »
   
-- Cela peut se produire si un seul jeton VPP est utilisé sur plusieurs fournisseurs de gestion des appareils mobiles. Les jetons VPP d’Apple ne peuvent être utilisés qu’avec un seul fournisseur. Si vous avez utilisé un jeton VPP avec plusieurs fournisseurs, vous devez télécharger de nouveau le jeton vers Intune.
+- Cela peut se produire si un jeton VPP unique est utilisé dans plusieurs fournisseurs de gestion d’appareils mobiles. Les jetons VPP d’Apple ne peuvent être utilisés qu’avec un seul fournisseur. Si vous avez utilisé un jeton VPP avec plusieurs fournisseurs, vous devez télécharger à nouveau le jeton dans Intune.
 
-- L’installation peut également échouer si le nombre total d’installations est supérieur au nombre de licences. Pour afficher un rapport d’utilisation pour vos licences, accédez à la page des licences d’application pour les **applications mobiles Intune** \> **App licenses** . Pour savoir comment récupérer des licences en cours d’utilisation, reportez-vous à [cet article.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- L’installation peut également échouer si le nombre total d’installations dépasse le nombre de licences. Pour afficher un rapport d’utilisation pour vos licences, consultez la page Licences d’application des applications **Intune** \>  Mobile. Pour savoir comment récupérer les licences en cours d’utilisation, consultez [cet article.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

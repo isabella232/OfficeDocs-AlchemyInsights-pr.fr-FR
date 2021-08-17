@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de1edf14389c6747272d4e1f8d8e0955a86269c433106bc8ce25129e78581ea7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034968"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898242"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Résoudre les problèmes courants liés à Microsoft Defender pour Office 365
 
 Voici quelques solutions aux problèmes courants liés à Microsoft Defender pour Office 365 :
 
-- **Délai du message :** Si vous rencontrez des problèmes de retard de remise des messages, vous pouvez utiliser les **options** de remise dynamique dans votre stratégie pièces jointes Coffre de remise dynamique. Pour en savoir plus, [consultez La remise dynamique dans Coffre stratégies de pièces jointes.](https://go.microsoft.com/fwlink/?linkid=2094106)
-- **Signalez les résultats faux positifs ou négatifs :** Signalez le message à Microsoft à l’aide de ce lien [: Microsoft Defender Response Portal](https://go.microsoft.com/fwlink/?linkid=2092835).
-- **Activez Coffre protection des liens :**
-    1. Connectez-vous au [Centre Office 365 sécurité & conformité.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-    2. Go to **Threat Management**  >  **Policy**  >  **Coffre Links.**
-    3. Sous **Stratégies qui s’appliquent à des destinataires spécifiques,** ouvrez la stratégie configurée.
-    4. Sous **Paramètres,** **sélectionnez Appliquer des liens sécurisés aux messages envoyés au sein de l’organisation.**
+- **Délai du message**:
+
+  Les retards de remise du courrier électronique peuvent être dus Coffre’analyse des pièces jointes des messages. Pour plus d’informations, [Coffre paramètres de stratégie pièces jointes.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+
+- **Signalez des résultats faux positifs ou négatifs**:
+
+  Pour plus d’informations, voir [Signaler des messages et des fichiers à Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft).
+
+- **Activez Coffre protection des liens**:
+
+  1. Dans le portail Microsoft 365 Defender à l’adresse , go <https://security.microsoft.com/> to Email & **Collaboration** Policies \> **& Rules** \> **Threat policies** \> **Coffre Links** in the **Policies** section.
+
+     Pour aller directement à la page **Coffre liens,** utilisez <https://security.microsoft.com/safelinksv2> .
+
+  2. Dans la page **Coffre liens,** sélectionnez la stratégie en cliquant sur le nom de la stratégie.
+  3. Dans le volant d’informations qui s’affiche, faites l’une des étapes suivantes :
+     - Pour ajouter une nouvelle stratégie, **sélectionnez + Créer.** Un Assistant se lance pour vous aider à définir vos paramètres de stratégie.
+     - Pour modifier une stratégie existante, sélectionnez-la en cliquant sur le nom de la stratégie. Dans le volet d’informations qui s’affiche, sélectionnez **Modifier** dans la section **Paramètres de** protection.
+  4. Dans la page **Paramètres de protection,** configurez les paramètres suivants :
+     - Activer sélectionner **l’action pour les URL potentiellement malveillantes inconnues dans les messages.**
+     - Sélectionnez **Appliquer des liens sécurisés aux messages envoyés au sein de l’organisation.**
+
+  Pour plus d’informations, voir [Configurer Coffre de liens dans Microsoft Defender pour Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies).

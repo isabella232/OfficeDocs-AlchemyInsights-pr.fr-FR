@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082940"
 ---
 # <a name="authentication-app"></a>Application d’authentification
 
@@ -30,11 +30,11 @@ Si vous êtes un administrateur général, vous pouvez rapidement découvrir ce 
 
 **Vérifiez le scénario applicable :**
 
-1. Si un utilisateur ne fait pas l’objet d’une notification Push dans l’application Microsoft Authenticator, vérifiez qu’il n’est pas affiché sous l’authentification MFA bloquée, comme décrit dans Bloquer et débloquer les [utilisateurs.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
-1. Si l’utilisateur n’est pas bloqué pour l’authentification MFA mais ne reçoit pas de notification Push, il peut ouvrir l’application Microsoft Authenticator, qui tirera les demandes d’approbation en attente.
+1. Si un utilisateur ne fait pas l’objet d’une notification Push dans l’application Microsoft Authenticator, vérifiez qu’il n’est pas affiché sous les utilisateurs bloqués par l’mf, comme décrit dans Bloquer et débloquer les [utilisateurs.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Si l’utilisateur n’est pas bloqué pour l' approbation MFA mais ne reçoit pas de notification Push, il peut ouvrir l’application Microsoft Authenticator, ce qui permet d’obtenir les demandes d’approbation en attente.
 1. En tant qu’autre méthode de sign-in, l’utilisateur peut également cliquer sur Sign in another way et choisir d’utiliser un code de vérification à partir de mon application mobile.
-1. L’application Microsoft Authenticator est la seule méthode disponible pour de nombreux utilisateurs. [En savoir plus sur les paramètres de sécurité par défaut,](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)consultez le FAQ de l’application [Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) pour connaître les questions fréquemment posées et la façon de les résoudre.
+1. L Microsoft Authenticator app est la seule méthode disponible pour de nombreux utilisateurs. [En savoir plus sur les paramètres de](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)sécurité par défaut, Authenticator faq sur l’application pour les questions fréquemment posées et comment les résoudre. [](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq)
  
 **Vidéos recommandées**
 
-[Comment configurer l’application Authenticator sur un nouveau téléphone (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)
+[Comment configurer Authenticator App sur un nouveau téléphone (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)

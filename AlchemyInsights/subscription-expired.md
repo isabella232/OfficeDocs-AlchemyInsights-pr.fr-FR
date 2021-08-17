@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009174"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891897"
 ---
 # <a name="subscription-expired"></a>Abonnement expiré
 
@@ -35,7 +35,7 @@ Si votre abonnement vient à expirer ou a été désactivé par Microsoft ou si 
 3. Dans le volet **Réactiver cet abonnement** , sélectionnez un mode de paiement dans la liste déroulante, ou sélectionnez **Ajouter un mode de paiement**.
 4. Sélectionnez **Enregistrer**.
 
-Pour plus d’informations, consultez l’article [Réactiver votre abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Pour plus d’informations, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Gérer un renouvellement d’abonnement**
 
@@ -47,4 +47,4 @@ Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désact
 4. Dans le volet **Modifier les paramètres de facturation récurrente** , sélectionnez **Activer**, **Activer, mais procédez au renouvellement une fois**, ou **Désactiver**.
 5. Sélectionnez **Enregistrer**.
 
-Pour plus d’informations, voir [Désactiver ou activer la facturation récurrente](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Pour plus d’informations, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

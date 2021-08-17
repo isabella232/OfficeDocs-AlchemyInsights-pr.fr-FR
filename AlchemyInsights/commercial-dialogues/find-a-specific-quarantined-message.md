@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967943"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898318"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Rechercher un message spécifique mis en quarantaine
 
-1. Go to the [Security & Compliance center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Go to **Threat management**  >  **Review**  >  **Quarantine**.
-3. Choose **Search**.
-4. Choisissez n’importe quelle combinaison de conditions en cocher les cases à cocher en regard (vous ne pouvez pas utiliser de caractères génériques pour le moment).
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to Email & **Collaboration** \> **Review** \> **Quarantine**.
+
+   Pour aller directement à la page de mise **en** quarantaine, utilisez <https://security.microsoft.com/quarantine> .
+
+2. Dans la page **Quarantaine,** vérifiez que **l’onglet** courrier est sélectionné, puis cliquez sur **Filtrer.**
+3. Choisissez n’importe quelle combinaison de propriétés pour filtrer et rechercher le message.
+
+Pour plus d’informations, voir les rubriques suivantes :
+
+- [Rechercher et débloquer les messages mis en quarantaine en tant qu’utilisateur](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Gérer les fichiers et les messages mis en quarantaine en tant qu’administrateur](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

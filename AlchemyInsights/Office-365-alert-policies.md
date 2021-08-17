@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918357"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891677"
 ---
 # <a name="alert-policies"></a>Stratégies d’alerte
 
-Le Centre de sécurité & conformité [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) Microsoft 365 offre des stratégies d’alerte par défaut qui déclenchent des alertes pour les organisations ayant un abonnement Office 365 Entreprise ou Office 365 pour le gouvernement américain E1/G1, E3/G3 ou E5/G5. Par conséquent, les administrateurs peuvent recevoir une notification d’alerte par courrier électronique envoyée par Office365Alerts@microsoft.com avec une ligne d’objet telle que « Une alerte de faible gravité : nom de la stratégie d’alerte ». Les notifications d’alerte sont envoyées lorsque des alertes sont déclenchées pour des activités courantes, par exemple lorsque les utilisateurs :
+Microsoft 365 contient des [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) stratégies d’alerte par défaut qui déclenchent des alertes pour les organisations ayant un abonnement Microsoft 365 Entreprise ou Microsoft 365 pour le gouvernement américain E1/G1, E3/G3 ou E5/G5. Par conséquent, les administrateurs peuvent recevoir une notification d’alerte par courrier électronique envoyée par Office365Alerts@microsoft.com avec une ligne d’objet telle que « Une alerte de faible gravité : nom de la stratégie d’alerte ». Les notifications d’alerte sont envoyées lorsque des alertes sont déclenchées pour des activités courantes, par exemple lorsque les utilisateurs :
 
 - Créez des règles de boîte de réception qui envoient le courrier électronique.
 - Attribuez des autorisations à leur boîte aux lettres.
@@ -31,9 +31,10 @@ Le Centre de sécurité & conformité [](https://docs.microsoft.com/microsoft-36
 
 Pour examiner et agir sur une alerte :
 
-1. Go to the [Security & Compliance center](https://protection.office.com) and sign in.
-2. Cliquez **sur Alertes**  >  **Afficher les alertes.**
-3. Cliquez sur une alerte pour afficher une page volante avec des informations sur l’alerte.
+1. Effectuez l’une des étapes suivantes :
+   - In the Centre de conformité Microsoft 365 at <https://compliance.microsoft.com> , go to **Alerts**. Ou, pour aller directement à la page **Alertes,** utilisez <https://compliance.microsoft.com/compliancealerts> .
+   - In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to **Incidents &** \> **alerts**. Ou, pour aller directement à la page **Alertes,** utilisez <https://security.microsoft.com/alerts> .
+2. Cliquez sur une alerte pour afficher une page volante avec des informations sur l’alerte.
 
 Vous pouvez prendre des mesures sur une alerte, telle que la [suppression d’une règle de boîte de réception suspecte.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Sinon, vous pouvez simplement fermer l’alerte en cliquant sur **Résoudre** dans la page volante d’alerte.
 
@@ -45,4 +46,4 @@ Pour plus d’informations sur la configuration et la gestion des stratégies d�
 - Vérifier les détails de sécurité de votre compte
 - Se ré-authentifier
 
-Si vous recevez un message électronique comme celui-ci, il n’a pas été envoyé par Microsoft et doit être considéré comme une tentative de hameçonnage. Si cela se produit, [signalez-le à Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)
+Si vous recevez un message électronique avec ces types de demandes, il n’a pas été envoyé par Microsoft et doit être considéré comme une tentative de hameçonnage. Si vous recevez un message avec ces types de demandes, [signalez-le à Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)

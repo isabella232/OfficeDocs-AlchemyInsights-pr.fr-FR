@@ -16,16 +16,16 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 865056484b449f1dd33b595eec9f3cb740536ba0
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: cb8af5d2a5b0e42bed280cdc283c1c486f5b1cd660df3f4340159950395034e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083336"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Qu'arrive-t-il à mes données et à mon accès à la fin de mon abonnement Microsoft 365 Business ?
 
-Si votre abonnement se termine, soit parce qu’il expire, soit parce que vous décidez d’annuler votre accès aux services, applications et données client passe par plusieurs états avant que l’abonnement soit complètement désactivé ou mis hors *service.* Si vous êtes conscient de cette progression, vous serez mieux équipé pour revenir à l’état actif de votre abonnement avant qu’il ne soit trop tard, ou, si vous quittez Microsoft, de back up vos données avant qu’elles ne soient finalement supprimées.
+Si votre abonnement prend fin , soit parce qu’il expire, soit parce que vous décidez d’annuler votre accès aux services, applications et données client passe par plusieurs états avant que l’abonnement soit complètement désactivé ou mis hors *service.* Si vous êtes conscient de cette progression, vous serez mieux équipé pour revenir à l’état actif de votre abonnement avant qu’il ne soit trop tard, ou, si vous quittez Microsoft, de back up vos données avant qu’elles ne soient finalement supprimées.
   
 Avant que l’abonnement atteigne réellement sa date d’expiration, vous avez plusieurs options pour gérer la **facturation périodique de l’abonnement.**
   

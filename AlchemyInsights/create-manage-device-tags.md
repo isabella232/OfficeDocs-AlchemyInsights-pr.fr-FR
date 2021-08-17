@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: 752d08ce7583580ac9896bd4390152df493d7148c8e8d4a1f39d86fc87785a7f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c06fbd377159e55cf34c79ef0aa1e34f0412a908e8d4e3dec5ad088c9b8b818a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069530"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898198"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>Créer et gérer des balises ou des groupes d’appareils
 
-Ajoutez des balises sur les appareils pour créer une affiliation de groupe logique. Les balises d’appareil prennent en charge le mappage approprié du réseau, ce qui vous permet d’attacher différentes balises pour capturer le contexte et d’activer la création de liste dynamique dans le cadre d’un incident. Les balises peuvent être utilisées comme filtre dans l’affichage Liste des appareils ou pour regrouper des appareils. Pour plus d’informations sur le regroupement d’appareils, consultez [Créer et gérer des balises d’appareil](/microsoft-365/security/defender-endpoint/machine-tags).
+Ajoutez des balises sur les appareils pour créer une affiliation de groupe logique. Les balises d’appareil prennent en charge le mappage approprié du réseau, ce qui vous permet d’attacher différentes balises pour capturer le contexte et d’activer la création de liste dynamique dans le cadre d’un incident. Les balises peuvent être utilisées comme filtre dans l’affichage Liste des appareils ou pour regrouper des appareils. Pour plus d’informations sur le regroupement d’appareils, consultez [Créer et gérer des balises d’appareil](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
 
 Vous pouvez ajouter des balises sur les appareils en :
 
@@ -32,7 +32,7 @@ Vous pouvez ajouter des balises sur les appareils en :
  
 **Remarque :** Il peut y avoir une latence entre le moment où une balise est ajoutée à un appareil et sa disponibilité dans la liste des appareils et la page de l’appareil.
 
-Pour ajouter des balises d’appareil à l’aide de l’API, consultez [Ajouter ou supprimer des balises d’appareil API](/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags).
+Pour ajouter des balises d’appareil à l’aide de l’API, consultez [Ajouter ou supprimer des balises d’appareil API](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/add-or-remove-machine-tags).
 
 ## <a name="add-and-manage-device-tags-using-the-portal"></a>Ajouter et gérer des balises d’appareil à l’aide du portail
 
@@ -51,4 +51,4 @@ Pour ajouter des balises d’appareil à l’aide de l’API, consultez [Ajouter
 
 Les balises sont ajoutées à la vue appareil et sont répercutées dans l’affichage Liste des appareils. Vous pouvez ensuite utiliser le filtre Balises pour afficher la liste des appareils appropriés.
 
-Pour plus d'informations, consultez la rubrique [Créer et gérer des balises d’appareil](/microsoft-365/security/defender-endpoint/machine-tags).
+Pour plus d'informations, consultez la rubrique [Créer et gérer des balises d’appareil](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/machine-tags).
