@@ -1,5 +1,5 @@
 ---
-title: 9000215 abonnements Outlook.com
+title: 9000215 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 584138b667f56053254b9aa5cdea764c041ecc4584aaaee683107f21b14d61e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111290"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abonnements et résiliation
+# <a name="subscriptions-and-unsubscribing"></a>Abonnements et désabonnement
 
-Si vous ne souhaitez plus recevoir de bulletins d’informations ou de promotions, vous pouvez annuler l’abonnement dans Outlook.com de deux manières :
+Si vous voulez arrêter de recevoir des bulletins d’informations ou des promotions, vous pouvez vous désabonner de deux façons dans Outlook.com :
 
-1. Dans votre boîte de réception, sélectionnez un bulletin d’informations ou un courrier promotionnel. En haut du volet de lecture, sélectionnez **Annuler l’abonnement**.
-2. Ouvrez vos [paramètres d’abonnements Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**paramètres**  >  **Afficher tous les**  >  **Email**  >  **abonnements**aux paramètres Outlook) et sélectionnez **Annuler l’abonnement**.
+1. Dans votre boîte de réception, sélectionnez un bulletin d’informations ou un e-mail promotionnel. En haut du volet de lecture, sélectionnez **Se désabonner.**
+2. Ouvrez [vos paramètres d’abonnement Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Paramètres** afficher tous les paramètres Outlook abonnements de messagerie ) et sélectionnez  >    >    >   **Se désabonner.**
 
-Remarques :
+Remarques :
 
-- Tous les clients ne peuvent pas tirer parti de cette fonctionnalité pour le moment.
-- Cette fonctionnalité ne s’affiche que si vous avez reçu un e-mail de la part de l’entreprise qui envoie des messages.
+- Pour le moment, tous les clients ne peuvent pas bénéficier de cette fonctionnalité.
+- Vous ne verrez cette fonctionnalité que si vous avez reçu un e-mail de la société qui envoie des messages électroniques abonnés.

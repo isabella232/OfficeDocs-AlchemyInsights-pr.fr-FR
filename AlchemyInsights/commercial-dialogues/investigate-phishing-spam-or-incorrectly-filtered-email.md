@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948953"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894393"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Examiner le hameçonnage, le courrier indésirable ou le courrier électronique mal filtré
 
 Utilisez l’Explorateur de soumission pour envoyer le message à Microsoft. Vous recevrez des commentaires immédiats sur le filtrage des messages et la raison du problème. Voici un résumé des étapes :
 
-1. Go to the [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)select Threat **management**  >  **Submissions,** and then select **+New submission**.
-2. Spécifiez les détails dans **le** volant Nouvelle soumission.
-3. Informez vos utilisateurs qu’ils doivent signaler [](https://go.microsoft.com/fwlink/?linkid=2092385) des courriers électroniques suspects à Microsoft et que le module de signalement des messages est l’outil qu’ils doivent utiliser à cet effet.
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to Email & **collaboration** \> **Submissions**.
+
+   Pour aller directement à la page **Soumissions,** utilisez <https://security.microsoft.com/reportsubmission> .
+
+2. Dans la page **Soumissions,** vérifiez que l’onglet Soumis pour analyse est sélectionné, puis cliquez sur + Envoyer **à Microsoft pour analyse.** 
+
+3. Un flyout s’affiche avec la possibilité d’envoyer un e-mail, une URL ou un fichier. Pour plus d’informations, voir Utiliser la soumission d’administrateur pour soumettre des messages suspects de courrier indésirable, d’hameçonnage, d’URL et [de fichiers à Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. Informez vos utilisateurs qu’ils doivent signaler les messages suspects dans leur boîte de réception à l’aide du module de signalement des messages ou du [module de signalement du hameçonnage.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

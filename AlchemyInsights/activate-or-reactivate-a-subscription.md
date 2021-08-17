@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889380"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314310"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Activer ou réactiver un abonnement
 
@@ -36,9 +36,10 @@ Si votre abonnement expire, a été désactivé par Microsoft ou si vous l’ave
 1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Dans l'onglet **Produits**, recherchez l'abonnement que vous souhaitez réactiver.
 3. Sélectionnez les trois points (autres actions), puis sélectionnez **Réactiver cet abonnement**.
-    > [!IMPORTANT]
-    > Si vous ne voyez pas **Réactiver** cet abonnement comme action [disponible,](https://go.microsoft.com/fwlink/p/?linkid=518322) appelez le support technique pour réactiver votre abonnement.
-4. Dans le **volet Réactiver ce volet** d’abonnement, sélectionnez un mode de paiement existant ou **sélectionnez Ajouter un mode de paiement.**
+
+    **Important**: si vous  ne voyez pas Réactiver cet abonnement comme action [disponible,](https://go.microsoft.com/fwlink/p/?linkid=518322) appelez le support technique pour réactiver votre abonnement.
+
+4. Dans le **volet Réactiver cet** abonnement, sélectionnez un mode de paiement existant ou **ajoutez un mode de paiement.**
 5. Sélectionnez **Réactiver.**
 
 Pour plus d’informations, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

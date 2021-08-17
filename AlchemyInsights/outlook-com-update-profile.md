@@ -1,5 +1,5 @@
 ---
-title: 8000036 modifier le profil pic/nom dans Outlook.com
+title: 8000036 modifier la photo/le nom du profil dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc8630b53c69b731f50951358c9ec2fec71f13f9d80cc45e30c5741c2a10de56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111254"
 ---
 # <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Modifier l’image ou le nom de mon profil dans Outlook.com
 
-1. Accédez à [vos informations de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Sélectionnez **modifier le nom** ou **modifier l’image**.
+1. Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Sélectionnez **Modifier le nom** ou Modifier **l’image.**
 
-Veuillez patienter jusqu’à 24 heures pour que les modifications apportées à votre photo de profil ou au nom entrent en vigueur.
+Veuillez autoriser jusqu’à 24 heures pour que les modifications apportées à votre photo ou nom de profil entrent en vigueur.

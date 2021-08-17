@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7810"
-ms.openlocfilehash: 33074d70377866332feeccfb8b6400eff2de5a73
-ms.sourcegitcommit: e188ec7a583837a3e07880d05b3607b8bdac729c
+ms.openlocfilehash: 8fb93bc40c6cd5a7c0e3d259fe3be8d1bab3187dd5aa023eb49977555fd930de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49918139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084344"
 ---
 # <a name="sso-connection-issues"></a>Problèmes de connexion ssO
 
