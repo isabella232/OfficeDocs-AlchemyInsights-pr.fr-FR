@@ -1,5 +1,5 @@
 ---
-title: Désactivation d’un complément pour Outlook pour Windows
+title: Désactiver un module de Outlook pour Windows ?
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,21 +12,21 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "9003117"
 - "5896"
-ms.openlocfilehash: aa768a0c4b5672088ef68feedc803b4775e9dc2e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5f76ce38552c9b305acec4a8ddfea1ee7ae5a0016bf8c67aed1d7e7c2c3449b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038731"
 ---
-# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>Désactiver un complément pour Outlook pour Windows
+# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>Désactiver un module de Outlook pour Windows
 
-Si vous ne souhaitez pas utiliser un complément dans Outlook 2013 ou Outlook 2016 pour Windows, vous pouvez le désactiver afin qu’il ne s’affiche pas dans vos messages.  
+Si vous ne souhaitez pas utiliser de add-in dans Outlook 2013 ou Outlook 2016 pour Windows, vous pouvez le désactiver afin qu’il ne s’affiche pas dans vos messages.  
 
-1. Dans Outlook, cliquez sur **fichier > gérer les compléments**.
-2. Cliquez sur **gérer les compléments** .
-3. Conseil : ouvre Outlook sur le Web.
-4. Sous gérer les compléments, dans la colonne activé, désactivez **la case à cocher du complément**  que vous souhaitez désactiver.
-5. Activer ou désactiver les compléments
+1. In Outlook, click **File > Manage Add-ins**.
+2. Cliquez  **sur Gérer les add-ins**
+3. Conseil : cela ouvre Outlook sur le web.
+4. Sous Gérer les add-ins, dans la colonne **Activer,**  désélectionnez la zone du module que vous souhaitez désactiver.
+5. Activer ou désactiver des modules
 
-Conseil : pour réactiver le complément, activez la case à cocher.
+Conseil : pour activer de nouveau le module, cochez la même case.

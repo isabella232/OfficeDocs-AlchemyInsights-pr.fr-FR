@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103550"
 ---
 # <a name="block-user-made-email-signatures"></a>Bloquer les signatures électroniques de l’utilisateur
 
-La solution suivante s’applique uniquement aux signatures électroniques créées dans Outlook sur le web. Vous ne pouvez bloquer les signatures dans l’application Outlook que si vous avez une Exchange Server.
+La solution suivante s’applique uniquement aux signatures électroniques créées dans Outlook sur le web. Vous ne pouvez bloquer les signatures dans l’application Outlook que si vous avez une application Exchange Server.
 
-1. Dans le Centre d’administration, sélectionnez **Centres d’administration**  >  **Exchange**.
-2. Cliquez sur **autorisations**  >  **Stratégies Outlook Web App.**
+1. Dans le Centre d’administration, **sélectionnez Centres**  >  **d’administration Exchange**.
+2. Cliquez **sur autorisations**  >  **Outlook stratégies Web App.**
 3. Sélectionnez la stratégie, puis cliquez sur l’icône de crayon pour la modifier.
 4. Cliquez sur  >  **fonctionnalités Plus d’options**.
 5. Sous **Expérience utilisateur,** cochez la case **Signature** électronique, puis cliquez sur **Enregistrer.**
