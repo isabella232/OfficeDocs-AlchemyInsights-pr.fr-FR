@@ -13,12 +13,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57a1756787f8297a2a1ab3012b95aaa2f33e6045
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887498"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313017"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifier l’adresse IP et le client dans les journaux d’audit
 
@@ -36,4 +36,4 @@ L’adresse IP qui correspond à une activité par un Microsoft 365 ou un admini
 
 Dans les résultats, vous pouvez voir l’adresse IP de cette activité dans le volet de résultats. Sélectionnez l’enregistrement d’audit pour voir des informations détaillées dans le volant **Détails** (par exemple, Client, Utilisateur qui a effectué une action, etc.).
 
-Pour plus d’informations, [voir La recherche de l’adresse IP de l’ordinateur utilisé](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)pour accéder à un compte compromis.
+Pour plus d’informations, [voir Trouver l’adresse IP de l’ordinateur utilisé](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)pour accéder à un compte compromis.

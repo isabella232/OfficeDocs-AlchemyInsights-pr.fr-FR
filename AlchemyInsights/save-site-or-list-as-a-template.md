@@ -8,40 +8,40 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 37ae727aa6dd6af94d0d833ce972aec413d90194
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31cb294be6b72be313cf63ed5ed2af0ef041dcf6efb7a7a2af4e1b6a9a149c43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109202"
 ---
 # <a name="save-site-or-list-as-a-template"></a>Enregistrer un site ou une liste en tant que modèle
 
-Les modèles de site SharePoint sont des définitions prédéfinies conçues autour d'un besoin d'entreprise particulier. Pour plus d’informations, consultez la rubrique [utilisation de modèles pour créer différents types de sites SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Les modèles de site SharePoint sont des définitions prédéfinies conçues autour d'un besoin d'entreprise particulier. Pour plus d’informations, voir [Utilisation de modèles pour créer différents types](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)SharePoint sites.
 
-Voici quelques problèmes/solutions courants relatifs à l’enregistrement d’un site ou d’une liste en tant que modèle dans SharePoint Online.
+Voici quelques problèmes/solutions courants concernant l’enregistrement d’un site ou d’une liste en tant que modèle dans SharePoint Online.
 
-Le **bouton enregistrer le modèle de site/liste n’est pas disponible ou est manquant**. 
+**Le bouton Enregistrer le modèle de site/liste n’est pas disponible ou manquant.** 
 
-- Les administrateurs devront autoriser le script personnalisé à activer les fonctionnalités du modèle. Pour obtenir la procédure détaillée, des exemples et des considérations, voir [autoriser ou empêcher les scripts personnalisés](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+- Les administrateurs devront autoriser les scripts personnalisés pour activer les fonctionnalités de modèle. Pour obtenir la procédure détaillée, des exemples et des considérations, voir [Autoriser ou empêcher les scripts personnalisés.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
 
-- La commande Enregistrer le site en tant que modèle n’est pas prise en charge et peut entraîner des problèmes sur les sites qui utilisent l’infrastructure de publication de SharePoint Server.
+- La commande Enregistrer le site en tant que modèle n’est pas prise en charge et peut entraîner des problèmes sur les sites qui utilisent l’infrastructure de publication SharePoint Server.
 
 
 **Le modèle de site ne peut pas être créé ou ne fonctionne pas correctement**
 
-- Il se peut que le modèle manque une [fonctionnalité](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) et ne s’active pas. Si la fonctionnalité n’est pas disponible pour l’activation dans la collection de sites actuelle, vous ne pouvez pas utiliser le modèle de site pour créer un site.
+- Il est possible que le modèle ne dispose [pas d’une](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) fonctionnalité et qu’il ne s’active pas. Si la fonctionnalité n’est pas disponible pour activation dans la collection de sites actuelle, vous ne pouvez pas utiliser le modèle de site pour créer un site.
 
 
-- Vérifiez si des listes ou des bibliothèques dépassent le [seuil de limite d’affichage de liste](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) de 5000 éléments car cela peut bloquer la création d’un modèle de site.
+- Vérifiez si les listes ou les bibliothèques dépassent le [seuil de l’affichage de liste](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) de 5000 éléments, car cela peut empêcher la création d’un modèle de site.
 
 
-- Le site utilise peut-être trop de ressources et par conséquent le modèle de site dépasse la limite de 50 mégaoctets (Mo).
+- Le site utilise peut-être trop de ressources et, par conséquent, le modèle de site dépasse la limite de 50 mégaoctets (Mo).
 
 
-- Il existe des problèmes lors de l’affichage des données d’une liste qui utilise une colonne de recherche. Pour plus d’informations, reportez-vous à [la rubrique liste générée par un modèle n’affiche pas les données de la liste de recherche correcte dans SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- Il existe des problèmes lors de l’affichage de données à partir d’une liste qui utilise une colonne de recherche. Pour plus d’informations, voir La liste générée par un [modèle n’affiche](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data)pas les données de la liste de recherche correcte dans SharePoint Online.
 
 
-Pour plus d’informations sur les problèmes et solutions courants, reportez-vous à la référence, la [création et l’utilisation de modèles de sites](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+Pour plus d’informations sur les problèmes courants et les solutions, veuillez référencer, [créer et utiliser des modèles de site.](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)
 

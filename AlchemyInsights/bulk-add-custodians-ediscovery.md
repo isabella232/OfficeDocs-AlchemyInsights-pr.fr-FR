@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12623"
-ms.openlocfilehash: 3af333712cd7b269bd2ec61e1912d14fd38d2ac501831f210cd0ef68f987f560
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: da394ca319a6adaaf0e4c450008cee66ff59da3721dcde2df515a6140095b61a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504042"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892977"
 ---
 # <a name="bulk-add-custodians-in-advanced-ediscovery"></a>Ajouter des consignataires en bloc dans Advanced eDiscovery
 
- Pour ajouter des consignataires en bloc dans Advanced eDiscovery, importez plusieurs consignataires en une fois en utilisant une fichier CSV qui contient les informations nécessaires pour ajouter les consignataires à un cas. Procédez comme suit :
+ Pour ajouter des consignataires en bloc dans Advanced eDiscovery, importez plusieurs consignataires en une fois en utilisant une fichier CSV qui contient les informations nécessaires pour ajouter les consignataires à un cas. Suivez ces étapes.
 
 1. Accédez au [Centre de conformité Microsoft 365](https://compliance.microsoft.com/) > **eDiscovery** > **Advanced eDiscovery**, puis sélectionnez votre cas eDiscovery.
 
@@ -30,5 +30,5 @@ ms.locfileid: "54504042"
 
 1. Suivez la procédure dans l’Assistant pour ajouter des consignataires en bloc.
 
-Pour plus d’informations sur l’importation de consignataires, voir [Importer des consignataires dans un cas Advanced eDiscovery](/microsoft-365/compliance/bulk-add-custodians).
+Pour plus d’informations sur l’importation de consignataires, voir [Importer des consignataires dans un cas Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/bulk-add-custodians).
 

@@ -1,5 +1,5 @@
 ---
-title: Modifier l'arrière-plan de l'écran de verrouillage
+title: Modifier l’arrière-plan de l’écran de verrouillage
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e6c2bec070bb2fc2d583479604c95e0f0e7d729601dc1b0e8b7edd04995dfe6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082276"
 ---
-# <a name="change-your-lock-screen-background"></a>Modifier l'arrière-plan de l'écran de verrouillage
+# <a name="change-your-lock-screen-background"></a>Modifier l’arrière-plan de l’écran de verrouillage
 
-- Go to **Settings**  >  **Personalization**  >  **Lock screen**. Vous pouvez également cliquer ou appuyer [ici.](ms-settings:lockscreen?activationSource=GetHelp)
+- Go to **Paramètres**  >  **Personalization**  >  **Lock screen**. Vous pouvez également cliquer ou appuyer [ici.](ms-settings:lockscreen?activationSource=GetHelp)
 
-- Pour définir une image d'arrière-plan personnalisée, sélectionnez **Image** dans la liste de listes et choisissez ou accédez **à** l'image. 
+- Pour définir une image d’arrière-plan personnalisée, sélectionnez **Image** dans la liste de listes listes bas de l’arrière-plan, puis choisissez ou **accédez** à l’image. 
 
-  ![Définir une image d'arrière-plan personnalisée.](media/set-custom-background-pic.png)
+  ![Définir une image d’arrière-plan personnalisée.](media/set-custom-background-pic.png)
 
-- Pour configurer un diaporama d'images **personnalisées,** sélectionnez Diaporama dans la liste de listes de présentation en arrière-plan, puis choisissez un album ou ajoutez un dossier qui contient les images du diaporama. 
+- Pour configurer un diaporama d’images personnalisées,  sélectionnez **Diaporama** dans la liste de listes de listes de présentations en arrière-plan, puis choisissez un album ou ajoutez un dossier qui contient les images du diaporama.
 
-  ![Configurer un diaporama d'images personnalisées.](media/set-up-slideshow-background.png)
+  ![Configurer un diaporama d’images personnalisées.](media/set-up-slideshow-background.png)

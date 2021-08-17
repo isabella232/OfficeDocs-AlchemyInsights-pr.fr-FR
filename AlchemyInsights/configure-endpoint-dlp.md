@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: b9369b2c2ca31f7d2fceac37ef1e2252b82e933b
-ms.sourcegitcommit: 0c104e2bd34ccc09bcea389e470692e92bcf1f8f
+ms.openlocfilehash: 4a4dbd60f98e86cf2a4d861a763f75ada04f9e500164c01cb858a1537148a62f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52657927"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892797"
 ---
 # <a name="configure-endpoint-dlp"></a>Configurer le point de terminaison DLP
 
-Microsoft Endpoint DLP vous permet d’étendre la protection et la fonctionnalité de surveillance de DLP aux informations sensibles sur les appareils Windows 10. Une fois que les appareils sont intégrés à la gestion des appareils, vous pouvez créer des stratégies DLP afin d’appliquer des actions de protection sur les éléments. L’Explorateur d’activités peut être utilisé pour surveiller l’activité des éléments sensibles. Pour plus d’informations, consultez [Appareils d’intégration dans la gestion des appareils](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
+Microsoft Endpoint DLP vous permet d’étendre la protection et la fonctionnalité de surveillance de DLP aux informations sensibles sur les appareils Windows 10. Une fois que les appareils sont intégrés à la gestion des appareils, vous pouvez créer des stratégies DLP afin d’appliquer des actions de protection sur les éléments. L’Explorateur d’activités peut être utilisé pour surveiller l’activité des éléments sensibles. Pour plus d’informations, consultez [Appareils d’intégration dans la gestion des appareils](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
 
 Pour commencer à utiliser point de terminaison DLP :
 
-- Vérifiez que vous disposez des licences SKU/abonnements appropriées. Pour plus d’informations, consultez [Licences SKU/abonnements](/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
-- Vérifiez les autorisations requises pour activer la gestion des appareils, accéder à la page d’intégration ou activer/désactiver la surveillance de l’appareil. Pour plus d’informations, consultez [Autorisations](/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- Intégrez des appareils dans la gestion des appareils en suivant la procédure sur les appareils d’intégration. Pour plus d’informations, consultez [Appareils d’intégration](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- Créez des stratégies DLP pour protéger vos éléments sensibles. Pour plus d’informations [Scénarios de stratégie DLP pour les points de terminaison](/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
+- Vérifiez que vous disposez des licences SKU/abonnements appropriées. Pour plus d’informations, consultez [Licences SKU/abonnements](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
+- Vérifiez les autorisations requises pour activer la gestion des appareils, accéder à la page d’intégration ou activer/désactiver la surveillance du périphérique. Pour en savoir plus, voir [Autorisations d’accès](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- Intégrez des appareils dans la gestion des appareils en suivant la procédure sur les appareils d’intégration. Pour plus d’informations, consultez [Appareils d’intégration](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Créez des stratégies DLP pour protéger vos éléments sensibles. Pour plus d’informations [Scénarios de stratégie DLP pour les points de terminaison](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
-Pour plus d’informations sur le point de terminaison Microsoft DLP, consultez [En savoir plus sur les points de terminaison de protection contre la perte de données Microsoft 365 (préversion)](/microsoft-365/compliance/endpoint-dlp-learn-about).
+Pour plus d’informations sur le point de terminaison Microsoft DLP, consultez [En savoir plus sur les points de terminaison de protection contre la perte de données Microsoft 365 (préversion)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
 
 **Étapes importantes de la collecte de données si une prise en charge est nécessaire :**
 
