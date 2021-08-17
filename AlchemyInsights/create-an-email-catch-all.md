@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0d20f7bcffa3be43fc6186a938bf4a7338722f5cd225b860da6357398db26a69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080744"
 ---
 # <a name="create-an-email-catch-all"></a>Créer un e-mail catch all
 
-L’utilisation d’un « catch all » est fortement déconseillée. Il est préférable de renvoyer une nouvelle fois à l’expéditeur pour que les expéditeurs sachent que leur message n’a pas pu être remis comme traité afin qu’ils prennent des mesures. Vous pouvez également limiter la boîte aux lettres surveillée pour qu’elle capture uniquement les adresses de messagerie auparavant valides. 
+L’utilisation d’un « catch all » est fortement déconseillée. Il est préférable de renvoyer un message à l’expéditeur pour lui faire savoir que son message n’a pas pu être remis comme traité afin qu’il puisse prendre des mesures. Vous pouvez également limiter la boîte aux lettres surveillée pour qu’elle capture uniquement les adresses de messagerie auparavant valides. 
 
 Toute boîte aux lettres « catch » reçoit une grande partie du courrier indésirable et peut finir par remplir si elle n’est pas surveillée de près. (Il existe des limites de réception.) 
 
 Si vous décidez de continuer, procédez comme suit :
 
-1. Créez un groupe de distribution dynamique & inclure « Tous les types de destinataires ».
+1. Créez un groupe de distribution dynamique & « Tous les types de destinataires ».
 
 2. Créez une boîte aux lettres dédiée pour capturer les messages électroniques, par exemple, catchall@domain.com.
 
-3. Pour le domaine spécifique, définissez DomainType sur « InternalRelay ». Si vous supprimez ultérieurement le catch all, n’oubliez pas de définir le domaine sur Faisant autorité.
+3. Pour le domaine spécifique, définissez DomainType sur « InternalRelay ». Si vous supprimez ultérieurement le catch all, assurez-vous de définir le domaine sur Faisant autorité.
 
 4. Créez une règle de transport de flux de messagerie comme suit :
 

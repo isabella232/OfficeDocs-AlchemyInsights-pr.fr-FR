@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 284d7cbc8b140c49dae158663c560a65e17810eb
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080564"
 ---
 # <a name="create-an-email-message-template"></a>Créer un modèle de message électronique
 
-Pour créer un modèle de message électronique :
+Pour créer un modèle de message électronique :
 
-1. Sous l’onglet **Accueil** du Bureau Outlook, dans le **groupe nouveau**, cliquez sur **nouveau message électronique**.
+1. Sous **l’onglet** Accueil Outlook Bureau, dans le **nouveau groupe,** cliquez sur **Nouveau courrier électronique.**
 
-    Le raccourci clavier permettant de créer un message électronique est CTRL + MAJ + M.
+    Le raccourci clavier pour créer un message électronique est Ctrl+Shift+M.
 
-2. Dans le corps du message, entrez le contenu de votre choix.
-3. Dans la fenêtre de message, cliquez sur l’onglet **fichier** .
+2. Dans le corps du message, entrez le contenu que vous souhaitez.
+3. Dans la fenêtre du message, cliquez sur **l’onglet** Fichier.
 4. Cliquez sur **Enregistrer sous**.
-5. Dans la boîte de dialogue **Enregistrer sous** , dans la liste **type de fichier** , cliquez sur **modèle Outlook**.
-6. Dans la zone **nom de fichier** , tapez un nom pour votre modèle, puis cliquez sur **Enregistrer**.
+5. Dans la **boîte de dialogue Enregistrer sous,** dans la liste Enregistrer en tant que **type,** cliquez **sur Outlook modèle .**
+6. Dans la **zone Nom de fichier,** tapez un nom pour votre modèle, puis cliquez sur **Enregistrer.**
 
-Par défaut, les modèles sont enregistrés à l’emplacement suivant :
+Par défaut, les modèles sont enregistrés à l’emplacement suivant :
 
 **c:\users\username\appdata\roaming\microsoft\templates**

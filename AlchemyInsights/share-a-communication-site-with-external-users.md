@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d91b7a6ec18764ca194e42b90741c01699fddf8d068826fbdba8a1daee5da4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108302"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Partager un site de communication avec des utilisateurs externes
 
-Pour activer le partage d’utilisateur externe pour les sites de communication, procédez comme suit : 
+Pour activer le partage d’utilisateurs externes pour les sites de communication, suivez les étapes suivantes : 
   
-1. Ouvrez le **Centre d’administration moderne** : Si vous êtes dans le centre d’administration classique, vous verrez un **essai essayer maintenant** ou * * essayez le bouton Aperçu * * à partir du coin supérieur droit. Cela vous permettra d’accéder au centre d’administration moderne. 
+1. Ouvrez le **Centre** d’administration moderne : si vous êtes  dans le Centre d’administration classique, vous verrez un bouton Essayer maintenant ou ** Essayez l’aperçu ** dans la partie supérieure droite. Cela vous permettra d’aller dans le Centre d’administration moderne. 
   
-2. Sélectionnez **sites actifs.**
+2. Sélectionnez **Sites actifs.**
   
-3. Sélectionnez un site qui possède un **modèle de site de communication**. 
+3. Sélectionnez un site qui possède un **modèle de Site de communication.** 
   
-4. Sélectionnez le bouton **partage** dans le menu supérieur. 
+4. Sélectionnez **le bouton** Partage dans le menu supérieur. 
   
- **Remarque :** Si plusieurs sites sont sélectionnés, le bouton de **partage** apparaît désactivé. Sélectionnez un seul site. 
+ **Remarque :** Si plusieurs sites sont sélectionnés, le bouton **Partage** s’affiche désactivé. Sélectionnez un seul site. 
   
 

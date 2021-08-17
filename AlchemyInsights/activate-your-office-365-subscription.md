@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937747"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889312"
 ---
 # <a name="activate-your-subscription"></a>Activer un abonnement
 
 **Activer un abonnement**
 
-- Pour permettre aux utilisateurs d’accéder à un service, attribuez-leur une licence. Pour plus d’informations, consultez [Attribuer des licences aux utilisateurs](/microsoft-365/admin/manage/assign-licenses-to-users).
+- Pour permettre aux utilisateurs d’accéder à un service, attribuez-leur une licence. Pour plus d’informations, consultez [Attribuer des licences aux utilisateurs](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Si une licence vous a déjà été attribuée, vous pouvez trouver les applications que vous pouvez télécharger sur la page [Mon compte](https://portal.office.com/account/#installs). Cette page fournit une liste d’applications que vous pouvez télécharger sur la base des licences attribuées.
-- Si vous avez déjà téléchargé les applications Office, vous devrez peut-être vous connecter aux applications à l’aide de votre compte professionnel ou scolaire. Pour ce faire, dans une application Office (Word, Excel, etc.), sélectionnez **Fichier > Compte** (près du bas). Sous les **Informations utilisateur**, sélectionnez sur Changer de compte. Pour plus d’informations, voir [Installer les applications Office](/microsoft-365/admin/setup/install-applications).
+- Si vous avez déjà téléchargé les applications Office, vous devrez peut-être vous connecter aux applications à l’aide de votre compte professionnel ou scolaire. Pour ce faire, dans une application Office (Word, Excel, etc.), sélectionnez **Fichier > Compte** (près du bas). Sous les **Informations utilisateur**, sélectionnez sur Changer de compte. Pour plus d’informations, voir [Installer les applications Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Réactiver un abonnement**
 
@@ -36,9 +36,9 @@ Si votre abonnement vient à expirer ou a été désactivé par Microsoft ou si 
 3. Dans le volet **Réactiver cet abonnement** , sélectionnez un mode de paiement dans la liste déroulante, ou sélectionnez **Ajouter un mode de paiement**.
 4. Sélectionnez **Enregistrer**.
 
-Pour plus d’informations, consultez l’article [Réactiver votre abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Pour plus d’informations, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Activer un nouvel abonnement avec une clé de produit**
 
 - Pour activer un nouvel abonnement Microsoft 365 avec votre clé de produit, consultez [Où entrer votre clé de produit Office](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)..
-- Entrez votre clé de produit Microsoft 365 et suivez les invites pour activer votre abonnement. Si vous rencontrez des problèmes lors de l'activation, consultez cette liste d'erreurs [courantes liées à la clé de produit et de solutions](/microsoft-365/commerce/product-key-errors-and-solutions).
+- Entrez votre clé de produit Microsoft 365 et suivez les invites pour activer votre abonnement. Si vous rencontrez des problèmes lors de l'activation, consultez cette liste d'erreurs [courantes liées à la clé de produit et de solutions](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
