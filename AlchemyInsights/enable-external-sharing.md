@@ -9,35 +9,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057244"
 ---
 # <a name="enable-external-sharing"></a>Activer le partage externe
 
- Pour vous assurer que le partage est activé pour SharePoint Online :
+ Pour vous assurer que le partage est activé pour SharePoint Online :
   
 - **Partage global**
     
-  - Portail- \> partage externe- \> vue d’ensemble du partage de sites, autoriser les utilisateurs externes à accéder à vos sites : activé
+  - Portail - \> Partage externe - Vue \> d’ensemble du partage - Sites, laisser les personnes externes accéder à vos sites : ON
     
-  - Portail- \> partage externe- \> sites-case à cocher Autoriser les utilisateurs externes à accéder à vos sites.
+  - Portail - Partage externe - Sites - Case à cocher « Laisser les personnes externes \> accéder à vos sites \> »
     
-- **Partage administratif-Centre d’administration SharePoint**
+- **Partage administratif - Centre SharePoint’administration**
     
-    Partage externe : Assurez-vous que l’une des deux options est sélectionnée :
+    Partage externe : assurez-vous que l’une des deux options est sélectionnée :
     
-  - « Autoriser les utilisateurs externes qui acceptent les invitations de partage et se connecte en tant qu’utilisateurs authentifiés »
+  - « Autoriser les utilisateurs externes qui acceptent les invitations de partage et se connectent en tant qu’utilisateurs authentifiés »
     
-  - « Autoriser les utilisateurs externes qui acceptent les invitations de partage et les liens invités anonymes »
+  - « Autoriser les utilisateurs externes qui acceptent les invitations de partage et les liens invités anonymes »
     
 - **Collections de sites individuelles**
     
-  - Collections de sites : sélectionnez collection de sites en question, puis cliquez sur partage-à partir du ruban- \> Assurez-vous que les options de partage sont sélectionnées.
+  - Collections de sites : sélectionnez la collection de sites en question, puis cliquez sur Partage dans le ruban pour vous assurer que les options de partage \> sont sélectionnées.
     
-Pour plus d’informations sur l’activation du partage externe, voir [activer ou désactiver le partage externe pour SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Pour plus d’informations sur l’activer, voir Activer ou désactiver le partage externe [pour SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 
