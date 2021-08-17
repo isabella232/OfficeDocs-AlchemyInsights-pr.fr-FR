@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: a3c787005c24e6e107c8cbd2f0f80348e813e4c3dfcedeb1a132b798b1ef12bc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 73f4b037ba2c68a7d4606942ff6af712091126d169079eef77007712959f58b5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57885789"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Affecter un numéro gratuit à votre pont d’audioconférence
 
@@ -28,4 +28,4 @@ Affecter le nouveau numéro de téléphone à votre pont d’audioconférence :
 1. Sélectionnez le numéro payant du service que vous voulez configurer par défaut.
 1. Sélectionnez **Définir par défaut**.
 
-Pour plus d’informations, consultez [Modifier les numéros de téléphone de votre pont d’audioconférence](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Pour plus d’informations, consultez [Modifier les numéros de téléphone de votre pont d’audioconférence](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).

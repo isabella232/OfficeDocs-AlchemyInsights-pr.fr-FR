@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689044"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887534"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Comment réactiver un abonnement et gérer la facturation périodique
 
@@ -32,7 +32,7 @@ Il semble que vous disposez d’un abonnement qui a expiré. Si vous souhaitez l
 3. Dans le volet **Réactiver cet abonnement** , sélectionnez un mode de paiement dans la liste déroulante, ou sélectionnez **Ajouter un mode de paiement**.
 4. Sélectionnez **Enregistrer**.
 
-Pour en savoir plus, consultez l’article [Réactiver votre abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Pour en savoir plus, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désactiver la **facturation périodique**.
   
@@ -42,4 +42,4 @@ Pour gérer la facturation mensuelle ou annuelle, vous pouvez activer ou désact
 4. Dans le volet **Modifier les paramètres de facturation récurrente** , sélectionnez **Activer**, **Activer, mais procédez au renouvellement une fois**, ou **Désactiver**.
 5. Sélectionnez **Enregistrer**.
 
-Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Pour en savoir plus, voir [Désactiver ou activer la facturation récurrente](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

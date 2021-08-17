@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: e524935c4600d4f043e39dc3c261eb21be97bfbaeb30dc1279676e2d5578ba4b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721691"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888300"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Expédition de disque dans le service d’importation Microsoft 365
 
@@ -34,12 +34,11 @@ Pour démarrer la tâche :
 
 Voici quelques éléments à retenir :
 
-- Le rôle Importation/Exportation de boîtes aux lettres doit vous avoir été attribué dans Exchange Online pour pouvoir importer des fichiers PST dans des boîtes aux lettres Microsoft 365.
-Les performances peuvent être affectées pour les fichiers PST supérieurs à 20 Go.
+- Vous devez être affecté au rôle d’exportation d’importation de boîtes aux lettres dans Exchange Online pour importer des fichiers PST dans des boîtes aux lettres Microsoft 365. Les performances peuvent être affectées pour les fichiers PST supérieurs à 20 Go.
 
 - Seuls les lecteurs SSD 2,5 ou 2,5 pouces ou les disques durs internes 3,5 pouces SATA II/III sont pris en charge.
 Le disque dur contenant des fichiers PST doit être chiffré avec BitLocker.
 
 - Le tarif pour importer des fichiers PST dans les boîtes aux lettres Microsoft 365 via l’expédition de disque s’élève à 2 $ USD par Go de données.
 
-Pour plus d’informations sur l’utilisation de la méthode d’expédition de lecteur pour importer des fichiers PST, consultez [Utiliser l’expédition de lecteur pour importer les fichiers PST de votre organisation](/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365).
+Pour plus d’informations sur l’utilisation de la méthode d’expédition de lecteur pour importer des fichiers PST, consultez [Utiliser l’expédition de lecteur pour importer les fichiers PST de votre organisation](https://docs.microsoft.com/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365).

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041584"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883129"
 ---
 # <a name="outbound-relay-pool"></a>Pool de relais sortants
 
-Microsoft modifie la configuration pour relayer ou transmettre des messages électroniques via Microsoft 365. Dans certains scénarios, les messages sont transmis ou relayés via Microsoft 365'aide d’un pool de relais spécial. Les messages envoyés à l’aide du pool de relais peuvent se retrouver dans le dossier courrier indésirable du destinataire. Pour plus d’informations, voir Pools de remise [sortants](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft modifie la configuration pour relayer ou transmettre des messages électroniques via Microsoft 365. Dans certains scénarios, les messages sont transmis ou relayés via Microsoft 365'aide d’un pool de relais spécial. Les messages envoyés à l’aide du pool de relais peuvent se retrouver dans le dossier courrier indésirable du destinataire. Pour plus d’informations, voir Pools de remise [sortants](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Pour éviter un scénario d’utilisation du pool de relais, assurez-vous que les messages transmis/relayés répondent à l’un des critères suivants :
 
@@ -32,7 +32,7 @@ Pour éviter un scénario d’utilisation du pool de relais, assurez-vous que le
  
 Les messages qui répondent aux critères ci-dessus ne sont pas relayés via le pool de relais.
 
-Si l’enregistrement MX de votre domaine pointe vers un serveur tiers ou local, utilisez un filtrage amélioré pour vous assurer que la validation SPF est correcte pour le courrier entrant et éviter d’envoyer des messages électroniques via le pool de relais.
+Si l’enregistrement MX de votre domaine pointe vers un serveur tiers ou local, utilisez un filtrage amélioré pour vous assurer que la validation SPF est correcte pour le courrier entrant et pour éviter d’envoyer des messages électroniques via le pool de relais.
 
 **Comment savoir si nous sommes touchés par le pool de relais ?**
 
