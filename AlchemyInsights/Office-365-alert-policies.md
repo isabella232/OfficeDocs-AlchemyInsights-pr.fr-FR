@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681f7609f32b004ddfa7bfbeff179757e7063657
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891677"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312685"
 ---
 # <a name="alert-policies"></a>Stratégies d’alerte
 
-Microsoft 365 contient des [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) stratégies d’alerte par défaut qui déclenchent des alertes pour les organisations ayant un abonnement Microsoft 365 Entreprise ou Microsoft 365 pour le gouvernement américain E1/G1, E3/G3 ou E5/G5. Par conséquent, les administrateurs peuvent recevoir une notification d’alerte par courrier électronique envoyée par Office365Alerts@microsoft.com avec une ligne d’objet telle que « Une alerte de faible gravité : nom de la stratégie d’alerte ». Les notifications d’alerte sont envoyées lorsque des alertes sont déclenchées pour des activités courantes, par exemple lorsque les utilisateurs :
+Microsoft 365 contient des [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) stratégies d’alerte par défaut qui déclenchent des alertes pour les organisations ayant un abonnement Microsoft 365 Entreprise ou Microsoft 365 pour le gouvernement américain E1/G1, E3/G3 ou E5/G5. Par conséquent, les administrateurs peuvent recevoir une notification par courrier électronique d’alerte envoyée par Office365Alerts@microsoft.com avec une ligne d’objet telle que « Une alerte de faible gravité : nom de stratégie d’alerte ». Les notifications d’alerte sont envoyées lorsque des alertes sont déclenchées pour des activités courantes, par exemple lorsque les utilisateurs :
 
 - Créez des règles de boîte de réception qui envoient le courrier électronique.
 - Attribuez des autorisations à leur boîte aux lettres.

@@ -1,5 +1,5 @@
 ---
-title: Stratégie de partage de calendrier 618
+title: 618 Stratégie de partage de calendrier
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,19 +15,19 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091601"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Erreur de stratégie lors du partage d’un calendrier
 
-1. Effectuez l’une des opérations suivantes, selon votre situation :
-    - Connectez-vous à Exchange Online à l’aide de PowerShell à distance. Pour plus d’informations, consultez la rubrique [connexion à Exchange Online à l’aide de Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
-    - Sur le serveur local, ouvrez l’environnement de commande Exchange Management Shell.
-2. Déterminer la stratégie de partage qui est attribuée à l’utilisateur. Pour ce faire, exécutez la commande suivante et notez la stratégie renvoyée :
+1. Faites l’une des choses suivantes, selon votre situation :
+    - Connecter à Exchange Online à l’aide de Remote PowerShell. Pour plus d’informations, [voir Connecter à Exchange Online à l’aide de Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+    - Sur le serveur local, ouvrez l’Exchange Management Shell.
+2. Déterminez la stratégie de partage attribuée à l’utilisateur. Pour ce faire, exécutez la commande suivante et notez la stratégie renvoyée :
 
     `
     Get-Mailbox User1 | fl *sharing*
@@ -35,7 +35,7 @@ ms.locfileid: "47684228"
 
 3. Mettez à jour la stratégie de partage pour l’utilisateur. Pour cela, procédez comme suit :
     - Ouvrez le Centre d’administration Exchange.
-    - Cliquez sur **organisation**, puis double-cliquez sur la stratégie qui est attribuée à l’utilisateur sous **partage individuel**. Il s’agit de la stratégie qui a été renvoyée à l’étape 2.
-    - Dans la page règle de partage, sélectionnez le niveau de partage de calendrier que vous souhaitez autoriser sous **Spécifiez les informations que vous souhaitez partager**; Cliquez sur **Enregistrer**.
+    - Cliquez **sur** Organisation, puis double-cliquez sur la stratégie attribuée à l’utilisateur sous **Partage individuel.** Il s’agit de la stratégie renvoyée à l’étape 2.
+    - Dans la page Règle de partage, sélectionnez le niveau de partage de calendrier que vous souhaitez autoriser sous Spécifier les **informations que vous souhaitez partager**. cliquez **sur Enregistrer.**
 
-Pour plus d’informations, voir : ["la stratégie n’autorise pas l’octroi d’autorisations à ce niveau à un ou plusieurs destinataires" lorsque l’utilisateur tente de partager le calendrier](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+Pour plus d’informations, voir : « La stratégie n’autorise pas l’octroi d’autorisations à ce niveau à un ou plusieurs des destinataires » lorsque l’utilisateur tente de [partager le calendrier.](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)
