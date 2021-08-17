@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988257"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898854"
 ---
 # <a name="fix-anti-spam-policy"></a>Corriger la stratégie anti-courrier indésirable
 
-Une stratégie anti-courrier indésirable personnalisée dans votre client a affecté ce message. Pour passer en revue la stratégie, faites les choses suivantes :
+L’une de vos stratégies anti-courrier indésirable a affecté ce message. Pour passer en revue la stratégie, vous pouvez suivre les étapes suivantes :
 
-1. Go to the [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)and then go to Threat **management**  >  **Policy**  >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Sous **l’onglet** Personnalisé, sélectionnez la stratégie de filtrage du courrier indésirable par défaut ou toute autre stratégie personnalisée que vous avez peut-être créée, puis sélectionnez **Modifier la stratégie.** 
-3. Développez **l’option Propriétés du** courrier indésirable et **examinez les paramètres Marquer** comme courrier indésirable.
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> , go to Email & **Collaboration** Policies \> **& Rules** Threat \> **policies** \> **Anti-spam** in the **Policies** section.
 
-Pour plus d’informations sur la configuration des stratégies de filtrage du courrier indésirable, voir Configurer les paramètres de stratégie de filtrage du courrier [indésirable personnalisés.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Pour accéder directement à la page **Stratégies anti-courrier indésirable**, utilisez <https://security.microsoft.com/antispam>.
+
+2. Dans la page Stratégies anti-courrier indésirable, sélectionnez la stratégie en cliquant sur  le nom de la stratégie ( Le **type** est Stratégie **anti-courrier** indésirable personnalisée ou Nom stratégie de courrier indésirable entrant  **(par défaut)**).
+
+3. Dans le volet d’informations  qui s’affiche, cliquez sur Modifier le seuil et les propriétés du  courrier indésirable dans la section Seuil de courrier indésirable en bloc **&** propriétés du courrier indésirable, sélectionnez Modifier **les actions** et examinez les paramètres marquer comme courrier indésirable.
+
+Si vous souhaitez en savoir plus, consultez l’article [Configurer les stratégies anti-courrier indésirable dans EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
