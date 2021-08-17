@@ -14,12 +14,12 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: aa7eb7f5d3136e158c13ee2948979a4545cae5a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892537"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313109"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Comment acheter des licences pour votre abonnement Applications Microsoft 365 pour les PME abonnement
 
@@ -28,7 +28,7 @@ Lorsque vous attribuez des licences à vos utilisateurs, vous devrez peut-être 
 **REGARDEZ une vidéo** qui indique comment le faire. [Acheter des nouvelles licences](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
 1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Sous **l’onglet** Produits, recherchez l’abonnement que vous souhaitez mettre à jour. Sélectionnez les trois points (plus d’actions), puis **sélectionnez Acheter des licences.**
+2. Sous **l’onglet** Produits, recherchez l’abonnement à mettre à jour. Sélectionnez les trois points (plus d’actions), puis **sélectionnez Acheter des licences.**
 3. Dans le volet Acheter des  **licences,** sous Nouvelle quantité dans la zone Nombre total de **licences,** entrez le nombre total de licences que vous souhaitez pour cet abonnement. Par exemple, si vous avez 100 licences et que vous souhaitez en ajouter 25, entrez 125.
 4. Sélectionnez **Enregistrer**.
 
