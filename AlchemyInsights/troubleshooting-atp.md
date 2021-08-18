@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038803"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900650"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Résolution des problèmes de Microsoft Defender pour Office 365
 
-- **Remarquez-vous des retards dans la remise des messages ?** Utilisez [l’option Remise](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) dynamique dans votre stratégie de pièces jointes Microsoft Defender Office 365 Coffre pièces jointes. Cela permet d’éviter les retards de messages tout en protégeant les destinataires contre les fichiers malveillants.
+- **Remarquez-vous des retards dans la remise des messages ?** Utilisez [l’option Remise](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) dynamique dans votre stratégie de pièces jointes Microsoft Defender Office 365 Coffre pièces jointes. Cela permet d’éviter les retards de messages tout en protégeant les destinataires contre les fichiers malveillants.
 
 - **Voulez-vous signaler des faux positifs ou des faux négatifs à Microsoft ?** Utilisez [l’Explorateur de soumissions.](https://protection.office.com/reportsubmission)
 

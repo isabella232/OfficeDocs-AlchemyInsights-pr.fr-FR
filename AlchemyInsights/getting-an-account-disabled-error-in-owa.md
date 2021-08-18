@@ -1,5 +1,5 @@
 ---
-title: 123 l’obtention d’une erreur de désactivation de compte dans OWA ?
+title: 123 Obtention d’une erreur de compte désactivée dans OWA ?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089330"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Vous obtenez une erreur de désactivation d’un compte dans Outlook sur le Web ?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Comment obtenir une erreur de désactivation d’un compte Outlook sur le web ?
 
-Si vous obtenez l’erreur « **votre compte a été désactivé** »  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` lorsque vous essayez d’ouvrir Outlook sur le Web (anciennement appelé Outlook Web App), il se peut que l’administrateur de votre organisation ait désactivé votre accès à Outlook sur le Web. Votre administrateur peut corriger cette erreur en suivant les étapes décrites dans la rubrique [activer ou désactiver Outlook Web App pour une boîte aux lettres](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Si vous obtenez  l’erreur Avec qui votre compte a été désactivé lorsque vous essayez d’ouvrir Outlook sur le web (anciennement Outlook Web App), il se peut que l’administrateur de votre organisation ait désactivé votre accès `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` à Outlook sur le web. Votre administrateur peut corriger cette erreur en suivant les étapes de la rubrique Activer ou désactiver Outlook [Web App pour une boîte aux lettres.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

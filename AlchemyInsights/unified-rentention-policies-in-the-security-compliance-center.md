@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 1f6c1ae0fe2261bcbc3d7eaad874cd250dcc7eb82a8df89656fec9d5e60843ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8d8cc53589c6643ececca29d86c53c1cb002b20f58b5b45789101c517cc1f703
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972309"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900506"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Stratégies de rétention unifiées dans le Centre de sécurité et de conformité
 
@@ -31,6 +31,6 @@ Les stratégies de rétention vous permettent de gérer le contenu de votre orga
       
 Pour plus d’informations sur les stratégies de rétention pour le contenu tel que la messagerie Exchange, OneDrive, SharePoint et le contenu Teams, consultez [Vue d’ensemble des stratégies de rétention](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Si vous utilisez des stratégies de rétention côte à côte dans le Centre d’administration Exchange et le Centre de sécurité et conformité, consultez cette recommandation pour [Utiliser une stratégie de rétention au lieu d’anciennes fonctionnalités](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
+Si vous utilisez des stratégies de rétention côte à côte dans le Centre d’administration Exchange et le Centre de sécurité et conformité, consultez cette recommandation pour [Utiliser une stratégie de rétention au lieu d’anciennes fonctionnalités](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Pour plus d’informations sur la rétention Teams, consultez [Stratégies de rétention dans Teams](/microsoftteams/retention-policies).
+Pour plus d’informations sur la rétention Teams, consultez [Stratégies de rétention dans Teams](https://docs.microsoft.com/microsoftteams/retention-policies).

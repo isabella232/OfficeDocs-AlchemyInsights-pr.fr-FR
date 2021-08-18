@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 762995215f5b4f5957f1f452a71efe5f20c9a9fe84ab1255a59fb7e67dda15fa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502966"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900954"
 ---
 # <a name="purchase-power-bi"></a>Acheter des Power BI
 
@@ -33,6 +33,6 @@ Power BI pouvez être acheté dans le **Centre d’administration Microsoft 365*
 5. Vérifiez les informations concernant le tarif et sélectionnez **Suivant**.
 6. Fournissez vos informations de paiement, puis sélectionnez **Passer une commande** Go to Admin  >  **Home**.
 
-Pour attribuer des licences aux utilisateurs, voir [Attribuer des licences aux utilisateurs.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Pour attribuer des licences aux utilisateurs, voir [Attribuer des licences aux utilisateurs.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Pour acheter ou supprimer des licences, voir Acheter ou supprimer [des licences pour votre abonnement commercial.](/microsoft-365/commerce/licenses/buy-licenses)
+Pour acheter ou supprimer des licences, voir Acheter ou supprimer [des licences pour votre abonnement commercial.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

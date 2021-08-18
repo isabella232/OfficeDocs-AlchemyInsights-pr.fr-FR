@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967151"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317740"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Résolution du problème d’affichage des messages protégés dans Outlook
 
@@ -28,8 +28,7 @@ Pour ouvrir des messages chiffrés, les utilisateurs doivent suivre les étapes 
 
 1. Selon le client de messagerie utilisé, cliquez **sur Lire le message** ou une invite similaire. Les utilisateurs sont redirigés vers une page où ils peuvent se connecter et recevoir un code à usage unique.
 
-> [!NOTE]
-> Pour les utilisateurs gmail, ils sont invités à se connecter avec Gmail. Le message s’ouvre dans un nouvel onglet après avoir cliqué sur **Autoriser.**
+    **Remarque**: pour les utilisateurs Gmail, ils sont invités à se connecter avec Gmail. Le message s’ouvre dans un nouvel onglet après avoir cliqué sur **Autoriser.**
 
 2. Recherchez le code à usage unique dans votre courrier électronique, puis entrez ce code dans la fenêtre du navigateur.
 

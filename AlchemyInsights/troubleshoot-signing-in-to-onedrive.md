@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972606"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900686"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Résoudre les problèmes de connexion à OneDrive
 
@@ -29,7 +29,7 @@ Cet article rassemble les scénarios suivants :
 
 **Résoudre les problèmes de connexion au Client de synchronisation OneDrive**
 
-- Pour les étapes de la résolution du code d’erreur 0x004de40, consultez [Code d’erreur 0x8004de40 lors de la connexion à OneDrive](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
+- Pour les étapes de la résolution du code d’erreur 0x004de40, consultez [Code d’erreur 0x8004de40 lors de la connexion à OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
 - Connectez-vous au site OneDrive ou SharePoint en visitant le site, puis cliquez sur le bouton **Synchroniser** en haut de la barre de menus du site.
 - Assurez-vous que vous vous êtes en train de vous inscrire à OneDrive Entreprise, et non OneDrive.com. Si l’URL que vous visitez commence par onedrive.live.com, cela n’est pas l’emplacement de votre OneDrive Entreprise. Ce lien vous permet de vous connecter facilement à OneDrive Entreprise : https://portal.office.com/onedrive utilisez ensuite votre compte professionnel ou scolaire pour vous connecter.
 - Si vous avez toujours des problèmes, envisagez de réinitialiser [OneDrive](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c).
@@ -48,5 +48,5 @@ Si vous obtenez un message d’erreur indiquant **Téléchargement bloqué**, **
 
 **Autre conseils sur la résolution des problèmes**
 
-Si vous êtes un administrateur global, de licence ou d'utilisateur, [attribuer la licence correcte au nom de l'](/microsoft-365/admin/manage/assign-licenses-to-users).
+Si vous êtes un administrateur global, de licence ou d'utilisateur, [attribuer la licence correcte au nom de l'](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 

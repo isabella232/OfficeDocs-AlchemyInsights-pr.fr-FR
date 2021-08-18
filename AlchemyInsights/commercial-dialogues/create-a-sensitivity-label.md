@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 7d12a08e95ac80db15c1b244ac8dc2b4cae96c8351593ba28f4f4a9790dada4f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8d91a9ec91c8e435993c7f9b6b310d153d022601eff5466ab30782f8e8f560ed
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017670"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900366"
 ---
 # <a name="create-a-sensitivity-label"></a>Créer une étiquette de confidentialité
 
 Pour créer une étiquette de confidentialité, effectuez la procédure suivante :
 
 1. Accédez au **[Centre de sécurité et conformité Office 365](https://sip.protection.office.com/) > Classification > Étiquettes de sensibilité**.
-2. Cliquez sur **+ Créer une étiquette** pour **lancer l'assistant Nouvelle étiquette de sensibilité**. Pour plus d'informations sur les paramètres de cryptage et l'étiquetage automatique, voir [Restreindre l'accès au contenu en utilisant le cryptage dans les étiquettes de sensibilité](/microsoft-365/compliance/encryption-sensitivity-labels) et [Appliquer automatiquement](/microsoft-365/compliance/apply-sensitivity-label-automatically) une étiquette de sensibilité au contenu, respectivement.
+2. Cliquez sur **+ Créer une étiquette** pour **lancer l'assistant Nouvelle étiquette de sensibilité**. Pour plus d'informations sur les paramètres de cryptage et l'étiquetage automatique, voir [Restreindre l'accès au contenu en utilisant le cryptage dans les étiquettes de sensibilité](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) et [Appliquer automatiquement](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically) une étiquette de sensibilité au contenu, respectivement.
 3. Répétez ces étapes pour créer d'autres étiquettes. Cependant, si vous voulez créer une sous-étiquette, sélectionnez d'abord l'étiquette parent, puis les trois points (plus d'actions), et enfin sélectionnez **Ajouter une sous-étiquette**.
 4. Lorsque vous avez créé toutes les étiquettes dont vous avez besoin, vérifiez leur ordre et, si nécessaire, déplacez-les vers le haut ou vers le bas. Pour modifier l'ordre d'une étiquette, sélectionnez les trois points (autres actions), puis sélectionnez **Déplacer vers le haut** ou **Déplacer vers le bas**. 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12073"
 - "3000003"
-ms.openlocfilehash: 373042e9593faf4eaa486313763beb8e8f48b6e9ea159d1cfb37b9df826384f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e4d16a8d04b4d2fb4bfa8cf84308e29f2b499e0680f656cc239411d06e5b077c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107151"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900874"
 ---
 # <a name="smtp-settings-for-the-microsoft-365-mail-service"></a>Paramètres SMTP pour le service de messagerie Microsoft 365
 
@@ -34,4 +34,4 @@ Voici les paramètres SMTP pour le service de messagerie Microsoft 365
 
 Pour les paramètres POP et IMAP, consultez [Paramètres POP, IMAP et SMTP](https://support.microsoft.com/office/pop-imap-and-smtp-settings-8361e398-8af4-4e97-b147-6c6c4ac95353).
  
-Pour en savoir plus sur vos options de relais de courrier électronique à l’aide de Microsoft 365 et des étapes, consultez [Comment configurer une application ou un périphérique multi-fonction pour envoyer des courriers électroniques à l’aide de Microsoft 365 ou Office 365](/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)
+Pour en savoir plus sur vos options de relais de courrier électronique à l’aide de Microsoft 365 et des étapes, consultez [Comment configurer une application ou un périphérique multi-fonction pour envoyer des courriers électroniques à l’aide de Microsoft 365 ou Office 365](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)
