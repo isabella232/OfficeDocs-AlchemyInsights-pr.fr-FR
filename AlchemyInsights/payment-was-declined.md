@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087206"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319890"
 ---
 # <a name="your-payment-was-declined"></a>Votre paiement a été refusé
 
-Microsoft essaiera de débiter votre carte plusieurs fois au cours des 3 à 4 semaines suivant la date de facturation.  Si vous n’avez reçu qu’une ou deux notifications de refus pour cette période de facturation, Microsoft réessaiera automatiquement de débiter votre mode de paiement.  
+Microsoft essaiera de débiter votre carte plusieurs fois au cours des 3 à 4 semaines suivant la date de facturation.  Si vous n’avez reçu qu’une ou deux notifications de refus pour cette période de facturation, Microsoft réessaiera automatiquement de débiter votre mode de paiement.  
 
-**Important** : Si vous avez ajouté une nouvelle carte et que vous recevez toujours une notification de refus sur l’ancienne carte de crédit, vous devrez peut-être associer cette nouvelle carte à l’abonnement.
+**Important** : Si vous avez ajouté une nouvelle carte et que vous recevez toujours une notification de refus sur l’ancienne carte de crédit, vous devrez peut-être associer cette nouvelle carte à l’abonnement.
 
 **Changer le mode de paiement pour tous les éléments**
 
@@ -35,8 +35,7 @@ Microsoft essaiera de débiter votre carte plusieurs fois au cours des 3 à 4 s
 
 4. Pour utiliser un mode de paiement existant, choisissez-le dans la liste déroulante, puis sélectionnez **Remplacer**.
 
-    > [!NOTE]
-    > Si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte de débit ou de crédit pour les régler. Si vous avez des comptes bancaires répertoriés sur la page **Modes de paiement**, vous ne pouvez pas les sélectionner dans la liste déroulante.
+    **Note**: Si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte de débit ou de crédit pour les régler. Si vous avez des comptes bancaires répertoriés sur la page **Modes de paiement**, vous ne pouvez pas les sélectionner dans la liste déroulante.
 
 5. Pour ajouter un nouveau mode de paiement, sélectionnez **Ajouter un mode de paiement**.
 

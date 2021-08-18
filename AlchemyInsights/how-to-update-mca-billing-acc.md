@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001506"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320028"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Mettre à jour l’adresse de vente et de facture associée à votre compte MCA : étapes recommandées
 
 Vous pouvez mettre à jour l’adresse de vente et de facture associée à votre contrat client Microsoft (MCA). 
 
-> [!NOTE]
-> Seul un administrateur utilisateur peut apporter des modifications au Azure Active Directory de profil utilisateur. Si le rôle d’administrateur utilisateur ne vous est pas attribué, contactez votre administrateur utilisateur. Pour plus d’informations sur la modification du profil d’un utilisateur, voir Ajouter ou mettre à jour les informations de profil d’un utilisateur à [l’aide Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**Remarque**: seul un administrateur utilisateur peut apporter des modifications au Azure Active Directory de profil utilisateur. Si le rôle d’administrateur utilisateur ne vous est pas attribué, contactez votre administrateur utilisateur. Pour plus d’informations sur la modification du profil d’un utilisateur, voir Ajouter ou mettre à jour les informations de profil d’un utilisateur à [l’aide Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **Adresse de vente -** L’adresse de vente est l’adresse et les coordonnées de l’organisation ou de la personne responsable d’un compte de facturation. Elle s’affiche dans toutes les factures générées pour le compte de facturation.
 
@@ -33,9 +32,9 @@ Vous pouvez mettre à jour l’adresse de vente et de facture associée à votre
 
 **Pour mettre à jour un compte de facturation MCA vendu à l’adresse**:
 
-1. Connectez-vous au portail Azure à l’aide de l’adresse de messagerie, qui dispose d’un propriétaire ou d’un rôle de collaborateur sur le compte de facturation d’un compte MCA.
+1. Connectez-vous au portail Azure à l’aide de l’adresse de messagerie, qui dispose d’un propriétaire ou d’un rôle de collaborateur sur le compte de facturation d’une mca.
 1. Recherchez la **facturation de la gestion des**  +  **coûts.**
-1. Cliquez sur **Mise à** jour  >  **des propriétés vendue à**.
+1. Cliquez **sur Mise à** jour des  >  **propriétés vendue à**.
 1. Entrez la nouvelle adresse, puis cliquez sur **Enregistrer.**
 
 Certains comptes nécessitent une vérification supplémentaire pour que leur adresse vendue puisse être mise à jour. Si votre compte nécessite une approbation manuelle, vous serez invité à contacter le support Azure.
@@ -45,7 +44,7 @@ Certains comptes nécessitent une vérification supplémentaire pour que leur ad
 1. Connectez-vous au portail Azure à l’aide de l’adresse de messagerie, qui dispose d’un propriétaire ou d’un rôle de collaborateur sur un compte de facturation ou d’un profil de facturation pour un compte mca.
 1. Recherchez la **facturation de la gestion des**  +  **coûts.**
 1. Cliquez **sur Profils de** facturation et sélectionnez un profil de facturation pour mettre à jour l’adresse de facturation.
-1. Cliquez sur **Adresse de mise** à jour des  >  **propriétés.**
+1. Cliquez sur **Adresse de mise à** jour des  >  **propriétés.**
 1. Entrez la nouvelle adresse, puis cliquez sur **Enregistrer.**
 
 **Documents recommandés**

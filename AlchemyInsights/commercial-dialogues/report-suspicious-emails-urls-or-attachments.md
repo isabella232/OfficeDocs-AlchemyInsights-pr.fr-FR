@@ -12,25 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091130"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Signaler des messages électroniques suspects, des URL ou des pièces jointes
 
-Je comprends que vous avez besoin d’aide pour examiner un e-mail suspect ou un e-mail qui a été filtré de manière incorrecte. Je peux vous aider à soumettre le problème pour analyse à l’aide du portail **Soumissions,** ce qui vous donnera des commentaires immédiats. Voici un résumé des étapes :
+Je comprends que vous avez besoin d’aide pour examiner un e-mail suspect ou un e-mail qui a été filtré de manière incorrecte. Je peux vous aider à soumettre le problème pour analyse à l’aide de l’Explorateur de soumissions, ce qui vous donnera des commentaires immédiats. Voici un résumé des étapes :
 
-1. In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to Email & **collaboration** \> **Submissions**.
-
-   Pour aller directement à la page **Soumissions,** utilisez <https://security.microsoft.com/reportsubmission> .
-
-2. Dans la page **Soumissions,** vérifiez que l’onglet Soumis pour analyse est sélectionné, puis cliquez sur + Envoyer **à Microsoft pour analyse.** 
-
-3. Un flyout s’affiche avec la possibilité d’envoyer un e-mail, une URL ou un fichier.
-
-Pour plus d’informations, voir Utiliser la soumission d’administrateur pour soumettre des messages suspects de courrier indésirable, d’hameçonnage, d’URL et [de fichiers à Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
-
-**Remarque**: informez vos utilisateurs qu’ils doivent signaler les messages suspects dans leur boîte de réception à l’aide du module de signalement du message ou du module [de signalement du hameçonnage.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+1. Go to the [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)and then go to Threat **management**  >  [Submissions](https://go.microsoft.com/fwlink/?linkid=2101521).
+2. Sélectionnez **+ Nouvelle soumission.** Un flyout s’affiche avec la possibilité d’envoyer un e-mail, une URL ou un fichier.
+    > [!NOTE]
+    > Informez vos utilisateurs qu’ils doivent signaler les messages suspects dans leur boîte de réception à Microsoft à l’aide du [add-in](https://go.microsoft.com/fwlink/?linkid=2092385)Signaler un message.

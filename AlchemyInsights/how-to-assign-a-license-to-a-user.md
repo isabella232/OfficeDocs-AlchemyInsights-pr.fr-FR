@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 987eb106a7d8858cba04151b9f8953d847aafec92b4f05281c2bbde4edaf91e6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1a70fe2b468251f48eb3399e75dd414d3aa0fe02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503686"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319452"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Attribuer ou désattribuer des licences à des utilisateurs
 
@@ -33,4 +33,4 @@ Un utilisateur a besoin d’une licence pour avoir accès aux services. Voici le
 3. Dans le volet de droite, sélectionnez **Licences et applications**.
 4. Développez la section **Licences,** sélectionnez ou désélectionnez les zones des licences que vous souhaitez attribuer ou désattribuer, puis sélectionnez **Enregistrer les modifications.**
 
-Pour plus d’informations, voir [Attribuer des licences aux utilisateurs](/microsoft-365/admin/manage/assign-licenses-to-users)et [Désattribuer des licences à des utilisateurs.](/microsoft-365/admin/manage/remove-licenses-from-users)
+Pour plus d’informations, voir [Attribuer des licences aux utilisateurs](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)et [Désattribuer des licences à des utilisateurs.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
