@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500986"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327249"
 ---
 # <a name="trying-to-find-a-trial"></a>Vous essayez de trouver une version d’essai ?
 
@@ -29,10 +29,9 @@ Si vous souhaitez essayer un nouveau service, vous trouverez une liste d’abonn
   
 1. Dans le centre d’administration, accédez à la page **facturation** \> [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433).
 
-2. Sélectionnez l’abonnement qui répond à vos besoins, puis **sélectionnez Obtenir une version d’essai gratuite.**
+2. Sélectionnez l’abonnement qui répond à vos besoins, puis sélectionnez **Obtenir une version d’essai gratuite.**
 
-    > [!NOTE]
-    > Tous les abonnements ne sont pas disponibles en version d’essai. Si vous ne voyez  pas le bouton Obtenir la version d’essai gratuite lorsque vous pointez sur un abonnement, cela signifie qu’une version d’essai n’est pas disponible.
+    **Remarque**: tous les abonnements ne sont pas disponibles en version d’essai. Si vous ne voyez  pas le bouton Obtenir la version d’essai gratuite lorsque vous pointez sur un abonnement, cela signifie qu’une version d’essai n’est pas disponible.
   
 3. Vous pouvez être invité à entrer une carte bancaire ou un autre mode de paiement pour fournir une vérification supplémentaire en tant que mesure de sécurité. Vous n’êtes pas facturé pour cette version d’essai gratuite. Nous conserverons vos informations de paiement sur le fichier et ne les utiliserons pas pour tout achat sans votre approbation.
 

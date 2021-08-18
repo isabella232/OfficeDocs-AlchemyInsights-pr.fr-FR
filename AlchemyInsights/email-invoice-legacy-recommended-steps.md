@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003615"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326503"
 ---
 # <a name="e-mail-invoice---legacy"></a>Facture de courrier électronique - Hérité
 
@@ -52,5 +52,4 @@ Pour autoriser les utilisateurs/groupes ayant un accès au niveau de l’abonnem
 4. Sélectionnez votre abonnement Azure, puis cliquez sur **Autoriser d’autres personnes à télécharger la facture**.
 5. Sélectionnez **Activé**, puis **Enregistrer** en haut de la page.
 
-> [!NOTE]
-Si vous n’êtes pas l’administrateur de compte, contactez votre administrateur de compte pour suivre les instructions ci-dessus pour l’opter, ajouter des destinataires ou autoriser d’autres utilisateurs à télécharger la facture.
+**Remarque**: si vous n’êtes pas l’administrateur de compte, contactez votre administrateur de compte pour suivre les instructions ci-dessus pour l’opter, ajouter des destinataires ou autoriser d’autres utilisateurs à télécharger la facture.

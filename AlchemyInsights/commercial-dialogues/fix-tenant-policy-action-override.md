@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896073"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326795"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Corriger la stratégie de client (remplacement d’action)
 
@@ -27,7 +27,7 @@ L’une de vos stratégies anti-courrier indésirable a affecté ce message. Pou
 
    Pour accéder directement à la page **Stratégies anti-courrier indésirable**, utilisez <https://security.microsoft.com/antispam>.
 
-2. Dans la page Stratégies anti-courrier indésirable, sélectionnez la stratégie en cliquant sur  le nom de la stratégie ( Le **type** est Stratégie **anti-courrier** indésirable personnalisée ou Nom stratégie de courrier indésirable entrant  **(par défaut)**).
+2. Dans la page Stratégies anti-courrier indésirable, sélectionnez la stratégie en cliquant sur  le nom de la stratégie ( Le **type** est Stratégie **anti-courrier** indésirable personnalisée ou Nom stratégie de courrier indésirable entrant **anti-courrier indésirable (par défaut).** 
 3. Dans le volet d’informations qui s’affiche, sélectionnez **Modifier les actions** dans la section **Actions.**
 4. Dans la section **Actions** de message, consultez les verdicts  pour le courrier **indésirable,** le courrier indésirable à niveau de confiance **élevé,** le hameçonnage et le hameçonnage à haut niveau de confiance pour voir si l’une des valeurs suivantes est sélectionnée :
    - **Ajouter un en-tête X**

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883129"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326075"
 ---
 # <a name="outbound-relay-pool"></a>Pool de relais sortants
 
@@ -32,7 +32,7 @@ Pour éviter un scénario d’utilisation du pool de relais, assurez-vous que le
  
 Les messages qui répondent aux critères ci-dessus ne sont pas relayés via le pool de relais.
 
-Si l’enregistrement MX de votre domaine pointe vers un serveur tiers ou local, utilisez un filtrage amélioré pour vous assurer que la validation SPF est correcte pour le courrier entrant et pour éviter d’envoyer des messages électroniques via le pool de relais.
+Si l’enregistrement MX de votre domaine pointe vers un serveur tiers ou local, utilisez un filtrage amélioré pour vous assurer que la validation SPF est correcte pour le courrier entrant et éviter d’envoyer des messages électroniques via le pool de relais.
 
 **Comment savoir si nous sommes touchés par le pool de relais ?**
 

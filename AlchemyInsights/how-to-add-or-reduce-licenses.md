@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1d96cefc7918359e5d9006628d3eec723a39a77d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501814"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326387"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Ajouter ou supprimer des licences pour votre abonnement
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501814"
 4. Pour acheter ou supprimer  des licences, sous Nouvelle quantité dans la zone Nombre total de **licences,** entrez le nombre total de licences que vous souhaitez pour cet abonnement. Par exemple, si vous avez 100 licences et que vous souhaitez en ajouter 25, entrez 125. Si vous souhaitez supprimer 25 licences, entrez 75.
 5. Sélectionnez **Enregistrer**.
 
-Pour plus d’informations sur l’attribution de licences, voir [Attribuer des licences aux utilisateurs.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Pour plus d’informations sur l’attribution de licences, voir [Attribuer des licences aux utilisateurs.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Resources**
   
-- [Acheter ou supprimer des licences d’abonnement](/microsoft-365/commerce/licenses/buy-licenses)
-- [Annuler Microsoft 365 pour les entreprises](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Essayer ou acheter un abonnement Microsoft 365 entreprise](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Acheter ou supprimer des licences d’abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Annuler Microsoft 365 pour les entreprises](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Essayer ou acheter un abonnement Microsoft 365 entreprise](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
