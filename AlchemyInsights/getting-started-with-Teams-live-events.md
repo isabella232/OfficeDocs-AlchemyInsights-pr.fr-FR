@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088862"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333157"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Prise en main des événements en direct Teams
 
@@ -27,7 +27,9 @@ Pour créer un événement en direct, vous devez disposer des éléments suivant
 
 - Tout d’abord, assurez-vous que les événements en direct Teams sont [dans votre pays/région](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Les événements en direct ne sont pas encore pris en charge dans certains pays.  Si vous avez attribué des licences et défini les stratégies, mais que vous ne parvenez pas à créer un événement en direct Teams, il est probable que vous vous trouviez dans un pays ou une région dans lequel les événements en direct ne sont pas encore disponibles.
 
-- Une [licence Office 365 Entreprise E1, E3 ou E5, ou une licence Office 365 A3 ou A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) **Remarque** : en raison d’une hausse récente de l’utilisation de Teams, lorsque vous attribuez une licence Teams à un utilisateur, sa configuration complète peut prendre environ 24 heures. En attendant, vous ne serez pas en mesure d’affecter des stratégies Teams à celui-ci, et il ne pourra peut-être pas accéder à certaines fonctionnalités de Teams telles que l’appel et l’audioconférence.
+- Une [licence Office 365 Entreprise E1, E3 ou E5, ou une licence Office 365 A3 ou A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) 
+
+    **Remarque** : en raison d’une hausse récente de l’utilisation de Teams, lorsque vous attribuez une licence Teams à un utilisateur, sa configuration complète peut prendre environ 24 heures. En attendant, vous ne serez pas en mesure d’affecter des stratégies Teams à celui-ci, et il ne pourra peut-être pas accéder à certaines fonctionnalités de Teams telles que l’appel et l’audioconférence.
 
 - L’autorisation de [créer des événements en direct dans le centre d’administration Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy)
 

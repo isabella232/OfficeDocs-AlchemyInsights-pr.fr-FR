@@ -1,5 +1,5 @@
 ---
-title: Résoudre le problème d’prt
+title: Résoudre les problèmes d’prt
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972714"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330957"
 ---
-# <a name="troubleshoot-prt-issue"></a>Résoudre le problème d’prt
+# <a name="troubleshoot-prt-issue"></a>Résoudre les problèmes d’prt
 
 Pour que tout appareil termine l’authentification, il doit être entièrement inscrit et en bon état et en mesure d’acquérir un jeton d’actualisation principal (PRT).
 
@@ -34,8 +34,7 @@ Ce flux d’inscription est également appelé « synchronisation de joints ».
     1. L’appareil tente d’abord de récupérer les informations client du point de service côté client dans le Registre [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Si vous souhaitez en savoir plus, veuillez consulter ce [document](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     2. En cas d’échec, l’appareil communique avec Active Directory (AD) local pour obtenir des informations client à partir du point de connexion de service (SCP). Pour vérifier le protocole SCP, reportez-vous à ce [document.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
-> [!NOTE]
-> Nous vous recommandons d’activer SCP dans AD et d’utiliser uniquement le point de contrôle de service côté client pour la validation initiale.
+**Remarque**: nous vous recommandons d’activer SCP dans AD et d’utiliser uniquement le point de contrôle de service côté client pour la validation initiale.
 
 2. Windows 10 tente de communiquer avec Azure AD dans le contexte système pour s’authentifier auprès d’Azure AD. Vous pouvez vérifier si l’appareil peut accéder aux ressources Microsoft sous le compte système à l’aide du script Test Device Registration Connectivity.
 
@@ -47,8 +46,7 @@ Ce flux d’inscription est également appelé « synchronisation de joints ».
 
 6. Lors de la prochaine connexion de l’Windows 10, l’inscription est terminée. 
 
-> [!NOTE]
-> Si vous utilisez un VPN et qu’un processus de connexion par ouverture de session met fin à la connectivité de domaine, vous pouvez déclencher l’inscription manuellement :
+**Remarque**: si vous utilisez un VPN et qu’un processus de connexion par ouverture de session met fin à la connectivité de domaine, vous pouvez déclencher l’inscription manuellement :
  1. Émettre un dsregcmd /join localement à l’invite de l’administrateur ou à distance via PSExec sur votre PC. Par exemple, PsExec -s \\ win10client01 cmd, dsregcmd /join
 
  2. Pour plus d’informations sur les problèmes de jointisation hybride, voir [Résoudre les problèmes d’appareils.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)

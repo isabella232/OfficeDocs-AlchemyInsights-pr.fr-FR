@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4d5aecdd770aba0017dd4d99e680b51c31044b18
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53993423"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333029"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Comment ajouter ou supprimer un délégué dans Outlook sur le Web (OWA)
 
@@ -30,16 +30,14 @@ Pour attribuer un accès d’éditeur ou de délégué à votre calendrier :
 
     - Sélectionnez **Peut modifier** pour leur donner l’autorisation d’apporter des modifications à votre calendrier.
     - Sélectionnez **Délégué** pour lui accorder la même autorisation qu’un éditeur, et il recevra des demandes de réunion et des réponses en votre nom.
-    > [!NOTE]
-    > Lorsqu’un délégué répond à une invitation à une réunion en votre nom, vous ne verrez pas la réponse sur l’invitation dans votre boîte de réception lorsque vous utilisez Outlook sur le web. Les réunions acceptées ou provisoirement acceptées apparaissent dans votre calendrier et indiquent que votre délégué les a acceptées.
+    **Remarque**: lorsqu’un délégué répond à une invitation à une réunion en votre nom, vous ne verrez pas la réponse sur l’invitation dans votre boîte de réception lorsque vous utilisez Outlook sur le web. Les réunions acceptées ou provisoirement acceptées apparaissent dans votre calendrier et indiquent que votre délégué les a acceptées.
     - Les options peuvent afficher lorsque je suis **occupé,** peuvent afficher les titres et les **emplacements,** et peuvent afficher tous les détails permettant à **d’autres personnes d’afficher** votre calendrier, mais pas d’y apporter des modifications. L’accès des personnes extérieures à votre organisation est limité à ces options.
 
 5. Une fois que vous avez terminé d’ajouter la personne avec laquelle vous souhaitez partager votre calendrier et que vous avez choisi l’autorisation que vous souhaitez lui accorder, sélectionnez **Partager.** Si vous décidez de ne pas partager votre calendrier pour le moment, sélectionnez **Supprimer.**
 
 La personne avec qui vous avez partagé votre calendrier reçoit un message électronique qui lui en parle. Lorsqu’il sélectionne le **bouton Accepter** dans l’invitation, il ajoute votre calendrier à sa liste de calendriers.
 
-> [!NOTE]
-> Les éléments de calendrier **marqués privés** sont protégés. La plupart des personnes avec qui vous partagez votre calendrier voient uniquement l’heure des éléments marqués privés, pas l’objet, l’emplacement ou d’autres détails. L’exception est que vous cochez la case Laisser **un délégué afficher les événements privés.**
+**Remarque**: les éléments de calendrier **marqués comme** privés sont protégés. La plupart des personnes avec qui vous partagez votre calendrier voient uniquement l’heure des éléments marqués privés, pas l’objet, l’emplacement ou d’autres détails. L’exception est que vous cochez la case Laisser un **délégué afficher les événements privés.**
 
 Pour supprimer un délégué dans Outlook sur le Web (OWA) :
 

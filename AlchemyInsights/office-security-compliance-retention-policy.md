@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985627"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331891"
 ---
 # <a name="more-info-about-retention-policies"></a>Plus d’informations sur les stratégies de rétention
 
@@ -52,5 +52,4 @@ Pour la plupart des organisations, le volume et la complexité de leurs données
   - [IRM sur une liste/bibliothèque](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [Vue d’ensemble de l’IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
-> [!Note]
-> Nous vous recommandons vivement de passer aux stratégies de sécurité et de conformité si vous utilisez toujours des stratégies de suppression et de découverte électronique héritées, d’IRM ou de fermeture de site.
+**Remarque**: nous vous recommandons vivement de passer aux stratégies de sécurité et de conformité si vous utilisez toujours des stratégies de suppression et de découverte électronique héritées, d’IRM ou de fermeture de site.

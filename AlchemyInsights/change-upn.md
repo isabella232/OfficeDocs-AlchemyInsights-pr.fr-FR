@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082400"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332433"
 ---
 # <a name="change-a-users-email-address"></a>Modifier l’adresse de courrier d’un utilisateur
 
@@ -31,7 +31,7 @@ Il est facile de modifier l’adresse e-mail d’une personne ! Procédez simple
     
 4. Dans la **zone Alias,** tapez un nouveau message électronique, puis choisissez **Ajouter**.
     
-    **IMPORTANT :** si vous obtenez le message d’erreur « Impossible de trouver un paramètre qui correspond au nom du paramètre « **EmailAddresses**», cela signifie qu’il faut un peu plus de temps pour que Microsoft termine la configuration de votre client, ou votre domaine personnalisé si vous en avez récemment ajouté un. Le processus de configuration peut prendre jusqu'à 4 heures. Patientez le temps que le processus de configuration ait le temps de terminer, puis réessayez. Si le problème persiste, appelez le support technique qui se chargera d'effectuer une synchronisation complète pour vous.
+    **Important**: si vous obtenez le message d’erreur « Impossible de trouver un paramètre qui correspond au nom du paramètre « **EmailAddresses**», cela signifie que Microsoft a besoin d’un peu plus de temps pour terminer la configuration de votre client ou de votre domaine personnalisé si vous en avez récemment ajouté un. Le processus de configuration peut prendre jusqu'à 4 heures. Patientez le temps que le processus de configuration ait le temps de terminer, puis réessayez. Si le problème persiste, appelez le support technique qui se chargera d'effectuer une synchronisation complète pour vous.
     
     Si vous recevez le message **d’erreur « Nous sommes désolés, l’utilisateur n’a pas pu être modifié. Examinez les informations utilisateur et** réessayez « cela signifie que vous n’êtes pas un administrateur global et que vous n’êtes pas autorisé à modifier le nom de l’utilisateur.
     

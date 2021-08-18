@@ -13,12 +13,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899882"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331157"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identifier le moment où le forwarding de courrier externe est configuré sur les boîtes aux lettres
 
@@ -36,10 +36,10 @@ Lorsqu’un Microsoft 365 configure le forwarding de courrier externe sur une bo
 
 4. Dans les résultats, cliquez sur **Filtrer les résultats** et tapez **Set-Mailbox** dans la zone de filtrage des activités.
 
-5. Sélectionnez un enregistrement d’audit dans les résultats. Dans le **volant Détails,** cliquez sur **Plus d’informations.** Vous devez examiner les détails de chaque enregistrement d’audit pour déterminer si l’activité est liée au forwarding de courrier électronique.
+5. Sélectionnez un enregistrement d’audit dans les résultats. Dans le **volant Détails,** cliquez sur **Plus d’informations.** Vous devez examiner les détails de chaque enregistrement d’audit pour déterminer si l’activité est liée au forwarding du courrier électronique.
 
    - **ObjectId**: valeur d’alias de la boîte aux lettres modifiée.
    - **Paramètres**: _ForwardingSmtpAddress_ indique l’adresse de messagerie cible.
    - **UserId :** utilisateur qui a configuré le forwarding de courrier sur la boîte aux lettres dans le **champ ObjectId.**
 
-Pour plus d’informations, voir Déterminer qui [a installé le forwarding de courrier pour une boîte aux lettres.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Pour plus d’informations, voir Déterminer qui a installé le forwarding de courrier [pour une boîte aux lettres.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
