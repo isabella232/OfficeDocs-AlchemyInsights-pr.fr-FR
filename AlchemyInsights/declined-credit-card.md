@@ -16,16 +16,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 31b3cfed4b5cadd2b5b2290fc8ed6e203225a0235be141140b5ecbd01efc2f98
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 30d8820d5074aa00de95263301464f7e5259acb4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892685"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321109"
 ---
 # <a name="declined-credit-card"></a>Carte bancaire refusée
 
-Si vous payez par carte bancaire et que cette dernière est refusée, vous recevez un courrier électronique vous informant que nous n'avons pas pu procéder au paiement. Vérifiez que les [détails](https://go.microsoft.com/fwlink/p/?linkid=842054) de la carte de crédit (numéro de carte, date d’expiration, nom de la carte de crédit et adresse, y compris la ville, l’état et le code postal) apparaissent exactement comme sur la carte de crédit et votre relevé de carte de crédit. Vous pouvez mettre à jour vos informations de carte de crédit et envoyer immédiatement le paiement à l’aide de l’option Régler le **solde** sur la page   >  [Facturation de vos produits.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+Si vous payez par carte bancaire et que cette dernière est refusée, vous recevez un courrier électronique vous informant que nous n'avons pas pu procéder au paiement. Vérifiez que les [détails](https://go.microsoft.com/fwlink/p/?linkid=842054) de la carte de crédit (numéro de carte, date d’expiration, nom de la carte de crédit et adresse, y compris la ville, l’état et le code POSTAL) apparaissent exactement comme sur la carte de crédit et votre relevé de carte de crédit. Vous pouvez mettre à jour vos informations de carte de crédit et envoyer immédiatement le paiement à l’aide de l’option Régler le **solde** sur la page   >  [Facturation de vos produits.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 Pour plus d’informations, voir « Que se passe-t-il si ma carte bancaire a expiré et que mon paiement arrive à échéance ? » in [Pay for your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

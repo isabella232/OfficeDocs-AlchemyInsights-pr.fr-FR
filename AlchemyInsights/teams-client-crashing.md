@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890336"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321623"
 ---
 # <a name="teams-client-crashing"></a>Blocage du client Teams
 
@@ -38,10 +38,11 @@ Si votre client Teams se bloque toujours, essayez de reproduire le problème. Si
 1. Utilisez l’Enregistreur d’actions pour capturer vos étapes.
     - Fermez TOUTES les applications superflues ou confidentielles.
     - Lancez l’Enregistreur d’actions et reproduisez le problème lors de la connexion avec le compte d’utilisateur concerné.
-    - [Collecter les journaux des équipes qui capturent les étapes de reproduction enregistrées](https://docs.microsoft.com/microsoftteams/log-files). **Remarque** : Veillez à capturer l’adresse de connexion de l’utilisateur concerné.
+    - [Collecter les journaux des équipes qui capturent les étapes de reproduction enregistrées](https://docs.microsoft.com/microsoftteams/log-files). 
+    
+    **Remarque** : Veillez à capturer l’adresse de connexion de l’utilisateur concerné.
     - Collectez les informations de vidage et/ou de compartiment d’erreur (Windows). Lancez Windows Powershell sur l’ordinateur sur lequel le blocage se produit et exécutez les commandes suivantes (après chaque commande, appuyez sur Entrée) :
 
-    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
-    `notepad .\FaultBuckets.txt`
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt` `notepad .\FaultBuckets.txt`
     
 2. Une fois le fichier texte généré et affiché à l’écran, enregistrez le fichier et attachez-le à la demande de service. 

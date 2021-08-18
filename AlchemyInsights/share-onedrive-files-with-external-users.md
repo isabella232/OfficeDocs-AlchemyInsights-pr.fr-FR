@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051592"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320595"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Partager des fichiers dans OneDrive avec des personnes extérieures à votre organisation
 
@@ -31,8 +31,7 @@ ms.locfileid: "54051592"
     
   - **Des personnes spécifiques** n’ont accès qu’aux personnes que vous spécifiez, bien que d’autres personnes y ont peut-être déjà accès. Si les personnes relaient l’invitation de partage, seules les personnes qui ont déjà accès à l’élément pourront utiliser le lien. 
     
-    > [!NOTE]
-    > Si l’une de ces options n’est pas disponible ou si vous souhaitez qu’un autre type de lien apparaisse par  défaut, vous pouvez modifier les paramètres à l’échelle de votre organisation en allant dans le Centre d’administration OneDrive et en cliquant sur Partage dans le volet gauche. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871961)
+    **Remarque**: si l’une de ces options n’est pas disponible ou si vous souhaitez qu’un autre type de lien apparaisse  par défaut, vous pouvez modifier les paramètres à l’échelle de votre organisation en allant dans le Centre d’administration OneDrive et en cliquant sur Partage dans le volet gauche. [En savoir plus](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Par défaut, **l’option Autoriser la modification** est désactivée. Si vous souhaitez que les personnes ne visualisent que vos fichiers, décochez la case. 
     

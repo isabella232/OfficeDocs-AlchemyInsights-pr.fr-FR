@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b2487e283f37498539bfac0583ef7e21d1817db0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916413"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321283"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Configurer et valider des exclusions pour MDATP sur un ordinateur Linux
 
@@ -25,5 +25,4 @@ Vous pouvez exclure certains fichiers, dossiers, processus et fichiers ouverts p
 
 Pour plus d’informations, voir Configurer et valider des [exclusions pour MDATP pour Linux.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
-> [!IMPORTANT]
-> Les exclusions décrites dans cet article ne s’appliquent pas aux autres fonctionnalités de MDATP pour Linux, notamment protection évolutive des points de terminaison (PEPT). Les fichiers que vous excluez à l’aide des méthodes décrites dans cet article peuvent toujours déclencher PEPT alertes et autres fonctionnalités de détection.
+**Important**: les exclusions décrites dans cet article ne s’appliquent pas aux autres fonctionnalités de MDATP pour Linux, notamment protection évolutive des points de terminaison (PEPT). Les fichiers que vous excluez à l’aide des méthodes décrites dans cet article peuvent toujours déclencher PEPT alertes et autres fonctionnalités de détection.

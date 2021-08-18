@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 47b83d482a1deb6add5c6283d7e2e0f6035e2c13cf7e1cd78ffc4ff7c9ffc85b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033996"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320441"
 ---
 # <a name="retrieve-the-audit-logs"></a>Récupérer les journaux d’audit
 
 Lorsque vous ouvrez le journal d’audit pour la première fois, il est vide. Vous devez effectuer une recherche pour afficher le contenu. Voici comment effectuer une recherche générale de toutes les activités :
 
-1. Accédez à la page de recherche du journal [d’audit](https://protection.office.com/#/unifiedauditlog) (ou accédez à centre d’administration Centre de sécurité & recherche du centre de conformité & recherche dans le journal d’audit).  >    >    >  
-1. Dans la **zone Activités,** acceptez la valeur par défaut, **Afficher les résultats pour toutes les activités.**
-1. Spécifiez la plage de dates. Dans la zone **Utilisateurs** acceptez l’option par défaut pour renvoyer les résultats des utilisateurs, ou sélectionnez le nom d’utilisateur de l’utilisateur que vous voulez examiner.
-1. Cliquez sur **Rechercher**. Les activités s’affichent sous **Résultats**.
-1. Pour afficher les détails, cliquez sur une activité, puis choisissez **Plus d’informations.** Vous verrez plus d’informations telles que client, utilisateur qui a effectué une action, etc.
+1. Faites l’une des actions suivantes :
+   - In the Centre de conformité Microsoft 365 at <https://compliance.microsoft.com> , go to **Solutions** \> **Audit**. Ou, pour aller directement à la page **Audit,** utilisez <https://compliance.microsoft.com/auditlogsearch> .
+   - In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to **Audit**. Ou, pour aller directement à la page **Audit,** utilisez <https://security.microsoft.com/auditlogsearch> .
+
+2. Sous **l’onglet** Recherche de la page **Audit,** configurez les paramètres suivants :
+   - **Date et plage de dates :** sélectionnez la plage date/heure dans les zones Début **et** Fin. 
+   - **Activités :** vérifiez **que les résultats de toutes les activités** sont sélectionnés.
+   - **Utilisateurs**: acceptez la valeur par défaut vide pour renvoyer des résultats pour tous les utilisateurs, ou entrez un ou plusieurs utilisateurs.
+
+3. Lorsque vous avez terminé, cliquez sur **Rechercher.** Les activités apparaissent sur la nouvelle page **de recherche d’audit.**
+
+4. Sélectionnez une activité dans les résultats pour ouvrir le volant de détails. Vous verrez plus d’informations telles que client, utilisateur qui a effectué une action, etc.
+
+Pour en savoir plus, [consultez la recherche dans le journal d’audit pour examiner les problèmes de support courants.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

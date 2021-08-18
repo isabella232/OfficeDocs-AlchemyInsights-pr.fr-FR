@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896109"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320487"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Résoudre les Adresse de l’expéditeur/de liste de domaines
 
@@ -27,7 +27,7 @@ L’une de vos stratégies anti-courrier indésirable a affecté ce message. L�
 
    Pour accéder directement à la page **Stratégies anti-courrier indésirable**, utilisez <https://security.microsoft.com/antispam>.
 
-2. Dans la page Stratégies anti-courrier indésirable, sélectionnez la stratégie en cliquant sur  le nom de la stratégie ( Le **type** est Stratégie **anti-courrier** indésirable personnalisée ou Nom stratégie de courrier indésirable entrant  **(par défaut)**).
+2. Dans la page Stratégies anti-courrier indésirable, sélectionnez la stratégie en cliquant sur  le nom de la stratégie ( Le **type** est Stratégie **anti-courrier** indésirable personnalisée ou Nom stratégie de courrier indésirable entrant **anti-courrier indésirable (par défaut).** 
 3. Dans le volet d’informations qui s’affiche, sélectionnez Modifier les expéditeurs et domaines autorisés et **bloqués** dans la section Expéditeurs et domaines autorisés et **bloqués.**
 4. Dans la section **Autorisé,** examinez les expéditeurs et les domaines en cliquant sur Gérer les expéditeurs ou **Autoriser les domaines.** **\<nn\>**
 
