@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005404"
 - "9935"
-ms.openlocfilehash: d640ae3ba9956fc161a017b0ed1c4ca3205cec9e
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 6d7fc6ec34fb7daacc6a07de31851630a10d75f06f0ed4a91565330e9eb9ff4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088685"
 ---
 # <a name="help-with-windows-themes"></a>Aide sur les thèmes Windows
 
@@ -53,7 +53,7 @@ Vous pouvez également personnaliser les paramètres du mode clair et sombre en 
 
 **Remarque :** vous pouvez également ajouter un large éventail de nouveaux thèmes de qualité à partir de Microsoft Store en cliquant sur **Obtenir plus de thèmes dans Microsoft Store** ou en téléchargeant les thèmes proposés à partir de notre site web.
 
-**Pour supprimer un thème :**
+**Pour supprimer une connexion :**
 
 1. Accédez à **Démarrer** > **Paramètres** > **Personnalisation** > **Thèmes**. 
 1. Cliquez avec le bouton droit, ou appuyez longuement, sur la vignette du thème, puis sélectionnez **Supprimer**. 

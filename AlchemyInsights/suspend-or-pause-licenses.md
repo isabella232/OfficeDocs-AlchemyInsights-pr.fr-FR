@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501310"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900106"
 ---
 # <a name="suspend-or-pause-licenses"></a>Suspendre ou interrompre des licences
 
@@ -28,10 +28,10 @@ ms.locfileid: "54501310"
 
 Pour suspendre ou interrompre temporairement l’utilisation de vos licences, vous pouvez les supprimer dans le Centre d’administration Microsoft 365 et les rajouter ultérieurement.
 
-1. Avant de supprimer les licences de votre abonnement, vous devez d’abord [retirer les licences](/microsoft-365/admin/manage/remove-licenses-from-users) aux utilisateurs.
+1. Avant de supprimer les licences de votre abonnement, vous devez d’abord [retirer les licences](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) aux utilisateurs.
 2. Accédez ensuite à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
 3. Sur l’onglet **Produits**, sélectionnez l’abonnement que vous souhaitez mettre à jour.
 4. Sur la page des informations de l’abonnement, sélectionnez **Supprimer les licences**.
 5. Dans le volet **Supprimer les licences**, entrez le nombre total de licences que vous souhaitez pour l’abonnement dans la case **Nombre total de licences** puis sélectionnez **Enregistrer**. Par exemple, si vous avez 100 licences et que vous voulez en interrompre ou suspendre 25, entrez 75 comme nombre total de licences pour votre abonnement.
 
-Pour plus d’informations, consultez [Acheter ou supprimer des licences](/microsoft-365/commerce/licenses/buy-licenses).
+Pour plus d’informations, consultez [Acheter ou supprimer des licences](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
