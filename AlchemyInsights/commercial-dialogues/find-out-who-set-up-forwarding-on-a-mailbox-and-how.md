@@ -13,23 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988197"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317806"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Savoir qui a installé le forwarding sur une boîte aux lettres et comment
 
-Si le forwarding externe a été définie sur une boîte aux lettres, l’activité est auditée dans le cadre Set-Mailbox cmdlet. Voici comment rechercher l’activité dans le journal d’audit :
+Si le forwarding externe a été définie sur une boîte aux lettres, l’activité est auditée dans le cadre de la cmdlet **Set-Mailbox.** Voici comment rechercher l’activité dans le journal d’audit :
 
-1. Go to the [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Sélectionnez **recherche** >  **dans le journal d’audit de recherche.**
-    > [!NOTE]
-    > Si vous voyez une notification vous avisant que vous devez activer l’audit, allez de l’avant et l’activer maintenant. Si cette fonctionnalité n’est pas désactivée, les résultats de la recherche ne pourront pas tirer les données des dates précédentes.
-1. Assurez-vous **que le champ Activités** est définie sur Afficher les résultats pour toutes les **activités** (valeur par défaut). Spécifiez la plage de dates. Vous n’avez pas besoin de spécifier un nom d’utilisateur.
-1. Sélectionner **Rechercher**. Les activités s’affichent sous **Résultats**.
-1. Sélectionnez **Résultats du** filtre, puis entrez **Set-mailbox** dans le champ **De** filtre Activité. Cette action renvoie toutes **les activités Set-Mailbox.**
-1. Pour afficher les détails, sélectionnez une activité, puis sélectionnez **Plus d’informations.** Sous **Paramètres,** vous pouvez voir l’adresse de messagerie de forwarding qui a été définie sur la boîte aux lettres. UserID **représente** l’utilisateur qui a installé le forwarding externe sur la boîte aux lettres.
-Pour plus d’informations, consultez la Office 365 [d’audit pour résoudre les problèmes courants.](https://go.microsoft.com/fwlink/?linkid=2103944)
+1. Faites l’une des actions suivantes :
+   - In the Centre de conformité Microsoft 365 at <https://compliance.microsoft.com> , go to **Solutions** \> **Audit**. Ou, pour aller directement à la page **Audit,** utilisez <https://compliance.microsoft.com/auditlogsearch> .
+   - In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to **Audit**. Ou, pour aller directement à la page **Audit,** utilisez <https://security.microsoft.com/auditlogsearch> .
+
+   **Remarque**: si vous voyez une notification vous avisant que vous devez activer l’audit, allez de l’avant et l’activer maintenant. Si cette fonctionnalité n’est pas désactivée, les résultats de la recherche ne pourront pas tirer les données des dates précédentes.
+
+2. Dans la page **Audit,** vérifiez que **l’onglet** Recherche est sélectionné, puis configurez les paramètres suivants :
+   - Sélectionnez la plage date/heure dans les zones **Début** **et** Fin.
+   - Vérifiez que **la zone Activités** contient Afficher les résultats pour toutes les **activités.**
+
+3. Lorsque vous avez terminé, cliquez sur **Rechercher.** Les activités apparaissent sur la nouvelle page **de recherche d’audit.**
+
+4. Dans les résultats, cliquez sur la colonne **Activité** pour trier les résultats et recherchez les entrées **Set-Mailbox.**
+
+5. Sélectionnez une activité dans les résultats pour ouvrir le volant de détails. Vous devez examiner les détails de chaque enregistrement d’audit pour déterminer si l’activité est liée au forwarding de courrier électronique :
+   - **ObjectId**: valeur d’alias de la boîte aux lettres modifiée.
+   - **Paramètres**: _ForwardingSmtpAddress_ indique l’adresse de messagerie cible.
+   - **UserId :** utilisateur qui a configuré le forwarding de courrier sur la boîte aux lettres dans le **champ ObjectId.**
+
+Pour plus d’informations, voir Déterminer qui a installé le forwarding de courrier [pour une boîte aux lettres.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

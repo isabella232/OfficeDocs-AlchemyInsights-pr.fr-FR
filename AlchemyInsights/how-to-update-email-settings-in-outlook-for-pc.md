@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 538c79344fc9a10b3400a79c2d2aa1b0e6d99fe2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976971"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318378"
 ---
 # <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Comment mettre à jour les paramètres de messagerie dans Outlook pour PC
 
@@ -31,8 +31,7 @@ ms.locfileid: "53976971"
 
 5. Si vous devez mettre à jour vos paramètres SSL ou  ports de serveur entrants ou sortants, rendez-vous dans l’onglet Avancé et a apporté les modifications que vous souhaitez.
 
-> [!NOTE]
-> Pour les clients **AOL** et Verizon : le fait de sélectionner **SSL/TLS** dans la zone de liste verte sous **Connexions** chiffrées du serveur entrant et sortant garantit que vous pouvez toujours envoyer et recevoir des messages électroniques après le 7 novembre 2017.
+    **Remarque**: pour les clients **AOL** et Verizon : la sélection de **SSL/TLS** dans la zone de liste verte sous **Connexions** chiffrées du serveur entrant et sortant garantit que vous pouvez toujours envoyer et recevoir des messages électroniques après le 7 novembre 2017.
 
 6. Lorsque vous avez terminé la mise à jour de vos paramètres, cliquez sur **OK,** sur **Suivant,** puis sur **Terminer.**
 
