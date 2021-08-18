@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895117"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318790"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Signaler des messages électroniques suspects, des URL ou des pièces jointes
 
@@ -33,5 +33,4 @@ Je comprends que vous avez besoin d’aide pour examiner un e-mail suspect ou un
 
 Pour plus d’informations, voir Utiliser la soumission d’administrateur pour soumettre des messages suspects de courrier indésirable, d’hameçonnage, d’URL et [de fichiers à Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
 
-> [!NOTE]
-> Informez vos utilisateurs qu’ils doivent signaler les messages suspects dans leur boîte de réception à l’aide du module de signalement des messages ou du [module de signalement du hameçonnage.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+**Remarque**: informez vos utilisateurs qu’ils doivent signaler les messages suspects dans leur boîte de réception à l’aide du module de signalement du message ou du module [de signalement du hameçonnage.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

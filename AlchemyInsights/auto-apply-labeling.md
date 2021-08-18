@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: 961c9bb3b99785cd9234ad43586e421ee48dd40cc3eb127c23bb2a3f74dcd890
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f58915cac2e85d8f29f2cb03f85c278e781effaa80d5981b7b5b68170094fc9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091773"
 ---
 # <a name="auto-apply-labeling"></a>Application automatique de l’étiquetage
 
@@ -30,8 +30,8 @@ Pour appliquer automatiquement des étiquettes au contenu des applications Offic
 1. Dans l’Assistant, sous **Définir l’étendue de cette étiquette**, sélectionnez **Fichiers et e-mails**. 
 1. Suivez les étapes de l’Assistant, puis configurez vos paramètres d’étiquetage automatique pour les fichiers et les e-mails. 
 
-Pour plus d’informations sur l’étiquetage automatique pour les applications Office, consultez [Comment configurer l’étiquetage automatique pour les applications Office](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps).
+Pour plus d’informations sur l’étiquetage automatique pour les applications Office, consultez [Comment configurer l’étiquetage automatique pour les applications Office](/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps).
 
 Pour configurer des stratégies d’étiquetage automatique pour SharePoint, OneDrive et Exchange, consultez [Comment configurer des stratégies d’étiquetage automatique pour SharePoint, OneDrive et Exchange](https://go.microsoft.com/fwlink/?linkid=2148841).
 
-Pour plus d’informations sur l’application automatique d’étiquettes de confidentialité au contenu, consultez [Appliquer une étiquette de confidentialité au contenu automatiquement](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
+Pour plus d’informations sur l’application automatique d’étiquettes de confidentialité au contenu, consultez [Appliquer une étiquette de confidentialité au contenu automatiquement](/microsoft-365/compliance/apply-sensitivity-label-automatically).

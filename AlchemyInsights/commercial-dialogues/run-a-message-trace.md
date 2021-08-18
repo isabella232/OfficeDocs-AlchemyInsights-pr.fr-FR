@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c21a12855895c8e7f29c2a5917763940c30489e2aa3461cc0dc99799b86c9a34
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2828594b2a1ceff3eea7aeb0eb9e160b222bdd96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081788"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318754"
 ---
 # <a name="run-a-message-trace"></a>Effectuer un suivi des messages
 
-Les suivis des messages sont exécutés dans la section Flux de messagerie du Centre Office 365 sécurité & conformité.
+Vous pouvez exécuter un suivi des messages à partir **Exchange suivi des messages** dans le portail Microsoft 365 Defender à <https://security.microsoft.com> l’Microsoft 365 Defender.
 
-Pour savoir comment exécuter un suivi des messages, voir suivi des messages dans le Centre Office 365 [sécurité & conformité.](https://go.microsoft.com/fwlink/?linkid=2103855)
+Pour plus d’informations, voir [Suivi des messages dans le portail Microsoft 365 Defender web](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)

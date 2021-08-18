@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115430"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>À propos des litiges et des maintiens en place
 
-- Pour appliquer une mise en attente pour litige ou une mise en attente sur place à une boîte aux lettres, une licence [Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) est requise. Si vous avez un autre plan, attribuez une licence [Archivage Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) au compte. 
+- Pour appliquer une mise en attente pour litige ou une mise en attente sur place à une boîte aux lettres, une [licence Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) est requise. Si vous avez un autre plan, attribuez une licence [Archivage Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) au compte. 
     
 - **Pour activer une attente pour litige** pour un utilisateur unique, suivez les étapes décrites [ici.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Lorsque la mise en attente pour litige est activée, tout le contenu de la boîte aux lettres est mis en attente.
     

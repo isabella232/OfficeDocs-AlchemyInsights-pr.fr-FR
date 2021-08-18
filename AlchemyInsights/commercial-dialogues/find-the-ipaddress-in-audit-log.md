@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303575"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902258"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Rechercher l’adresse IP dans le journal d’audit
 
-L’adresse IP qui correspond à une activité effectuée par un utilisateur ou un administrateur est indiquée dans les journaux d’audit. Les informations client sont également enregistrées. Voici comment identifier l’adresse IP :
+L’adresse IP qui correspond à une activité effectuée par un utilisateur ou un administrateur est affichée dans les journaux d’audit. Les informations client sont également enregistrées. Voici comment identifier l’adresse IP :
 
 1. Faites l’une des actions suivantes :
    - In the Centre de conformité Microsoft 365 at <https://compliance.microsoft.com> , go to **Solutions** \> **Audit**. Ou, pour aller directement à la page **Audit,** utilisez <https://compliance.microsoft.com/auditlogsearch> .
    - In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to **Audit**. Ou, pour aller directement à la page **Audit,** utilisez <https://security.microsoft.com/auditlogsearch> .
 
-    **Remarque**: si vous voyez une notification vous avisant que vous devez activer l’audit, allez de l’avant et l’activer maintenant. Si cette fonctionnalité n’est pas activée, les résultats de la recherche ne pourront pas tirer les données des dates précédentes.
+    > [!NOTE]
+    > Si vous voyez une notification vous avisant que vous devez activer l’audit, allez de l’avant et l’activer maintenant. Si cette fonctionnalité n’est pas activée, les résultats de la recherche ne pourront pas tirer les données des dates précédentes.
 
 2. Dans la page **Audit,** vérifiez que **l’onglet** Recherche est sélectionné, puis configurez les paramètres suivants :
    - **Date et plage de dates :** sélectionnez la plage date/heure dans les zones Début **et** Fin. 
