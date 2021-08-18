@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce100fcc2c62d62477f78e10b3cc9233fc2f5c5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044914"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329084"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>Configurer et étendre la durée de vie des jetons
 
@@ -34,8 +34,7 @@ L’article [Configurer le comportement des sessions dans Azure Active Directory
 
 La durée de vie des jetons est 1 heure et la durée de vie des sessions est 24 heures. Cela signifie que si aucune demande n’est faite au cours des 24 heures, vous devrez vous connecter à nouveau avant de demander un nouveau jeton.
 
-> [!NOTE]
-> Après le 30 mai 2020, aucun nouveau client ne pourra utiliser une stratégie de durée de vie des jetons configurable pour configurer des sessions et actualiser des jetons. Le dépréciation se produira plusieurs mois après, ce qui signifie que nous dépasserons les sessions existantes pour actualiser les stratégies des jetons. Vous pouvez toujours configurer les durées de vie des jetons d’accès après la dépréciation.
+**Note**: Après le 30 mai 2020, aucun nouveau client ne pourra utiliser une stratégie de durée de vie des jetons configurable pour configurer des sessions et actualiser des jetons. Le dépréciation se produira plusieurs mois après, ce qui signifie que nous dépasserons les sessions existantes pour actualiser les stratégies des jetons. Vous pouvez toujours configurer les durées de vie des jetons d’accès après la dépréciation.
 
 
 

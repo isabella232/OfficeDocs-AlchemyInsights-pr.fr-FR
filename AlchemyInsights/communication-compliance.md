@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090734"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329916"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Conformité des communications dans Microsoft 365
 
@@ -43,5 +43,4 @@ Conditions requises pour les licences : les utilisateurs surveillés par les str
 
 Si vous n’avez aucune des conditions ci-dessus et que vous souhaitez essayer la conformité des communications, inscrivez-vous pour obtenir une version d’Office 365 Entreprise **[E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
-> [!NOTE]
-> Le traitement complet des messages électroniques dans une stratégie peut prendre jusqu’à 24 heures. Les communications Microsoft Teams, Yammer et les plateformes tierces peuvent prendre jusqu’à 48 heures pour être entièrement traitées dans une stratégie.
+**Remarque**: le traitement complet des messages électroniques dans une stratégie peut prendre jusqu’à 24 heures. Les communications Microsoft Teams, Yammer et les plateformes tierces peuvent prendre jusqu’à 48 heures pour être entièrement traitées dans une stratégie.

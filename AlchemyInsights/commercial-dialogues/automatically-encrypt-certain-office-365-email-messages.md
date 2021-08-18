@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949565"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327972"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Chiffrer automatiquement certains messages Office 365 courrier électronique
 
@@ -32,11 +32,10 @@ Vous pouvez chiffrer automatiquement les messages que les utilisateurs envoient 
 6. Lorsque vous avez terminé d’ajouter des utilisateurs, cliquez **sur OK.**
 7. En plus du **champ Faire le champ** Suivant, cliquez sur Sélectionner **un**. 
 8. Dans le menu **déroulant du modèle RMS,** sélectionnez **Chiffrer,** puis cliquez sur **OK.** (Si cette option n’est pas disponible, cela signifie que votre plan n’inclut pas le chiffrement automatique. Mais vous pouvez l’ajouter !)
-9. Choisissez n’importe quelle sélection facultative (dans une liste de sélections facultatives que vous pouvez effectuer à ce stade, dont la plupart peuvent être laissées avec le paramètre par défaut pour plus de simplicité).
-10. Cliquez sur **Save (Enregistrer)**.
+9. Choisissez n’importe quelle sélection facultative (dans une liste de sélections facultatives que vous pouvez effectuer à ce stade, dont la plupart peuvent être laissées avec le paramètre par défaut par souci de simplicité).
+10. Cliquez sur **Enregistrer**.
 
-> [!IMPORTANT]
-> Vous pouvez toujours revenir et modifier cette règle ultérieurement.
+**Important**: vous pouvez toujours revenir et modifier cette règle ultérieurement.
 
-Pour plus d’informations sur la création de règles de chiffrement, voir Définir des règles de flux de messagerie pour chiffrer les [messages électroniques Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
+Pour plus d’informations sur la création de règles de chiffrement, voir Définir des règles de flux de messagerie pour [chiffrer](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)les messages électroniques Office 365 .
 

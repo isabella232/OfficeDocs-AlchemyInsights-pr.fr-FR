@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998941"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328288"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Gestion des abonnements : demandes de sécurité et de conformité - accréditation de conformité du secteur Azure
 
@@ -32,16 +32,15 @@ En fonction de la description de votre problème, nous avons trouvé une solutio
 
 - Conformité **PCI DSS Azure**: les documents Azure requis pour obtenir les conformités de l’industrie des cartes de paiement sont l'« attestation de conformité » et la « matrice de responsabilité », qui sont tous deux disponibles dans le Centre de gestion de la gestion de la relation de confiance Azure. Vérifiez si vous avez ces documents. Si vous avez ces documents, mais que vous avez besoin d’une preuve Microsoft Azure conformité aux normes de sécurité des données PCI, consultez [Microsoft et PCI DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- Opérations **Azure/Sécurité/Conformité**: si vous avez des questions générales relatives à la sécurité sur Azure, consultez la réponse standard à la demande d’informations Microsoft Azure Sécurité, confidentialité et conformité Si vous avez des questions de conformité, reportez-vous à : Microsoft STP - FAQ sur le portail de conformité et d’confiance des services.
+- Opérations **Azure/Sécurité/Conformité**: si vous avez des questions générales relatives à la sécurité sur Azure, consultez la réponse standard à la demande d’informations Microsoft Azure Sécurité, confidentialité et conformité Si vous avez des questions liées à la conformité, reportez-vous à : Microsoft STP - Faq sur le portail de conformité et d’confiance des services.
 
 Si vous avez des questions relatives à la conformité, voir [Microsoft STP - Faq](https://www.microsoft.com/trust-center/compliance/compliance-overview) sur le portail de conformité et d’confiance des services.
 
-- **Conformité R GDPR**: si vous avez des questions sur le Contrat de traitement des données, consultez « Conditions relatives à la protection des données » à partir de la page 7 dans les « Conditions d’application des services en ligne ». Le contrat OST inclut les principales conditions de traitement des données, mais il est incorporé dans le contrat commercial standard. Entre autres choses, il fournit un engagement contractuel concernant nos obligations en vertu du R GDPR. En outre, consultez les termes propres au R GDPR à la fin du contrat dans « Pièce jointe 4 », à partir de la page 42. Ces sections couvrent les obligations de Microsoft en tant que processeur de données et sous-processeur pour un autre processeur de données.
+- **Conformité R GDPR**: si vous avez des questions sur le Contrat de traitement des données, consultez « Conditions relatives à la protection des données » à partir de la page 7 dans les « Conditions d’application des services en ligne ». Le contrat OST inclut les principales conditions de traitement des données, mais il est incorporé dans le contrat commercial standard. Entre autres choses, il fournit un engagement contractuel concernant nos obligations R GDPR. En outre, consultez les termes propres au R GDPR à la fin du contrat dans « Pièce jointe 4 », en commençant à la page 42. Ces sections couvrent les obligations de Microsoft en tant que processeur de données et sous-traitant pour un autre processeur de données.
 
-> [!NOTE]
-> Il est vivement recommandé d’utiliser Adobe Reader pour ouvrir des documents PDF, car des problèmes avec d’autres visionneuses PDF ont été signalés. Il est également recommandé de télécharger le fichier localement au lieu de l’ouvrir dans une fenêtre de navigateur, car cela peut provoquer des erreurs.
+**Remarque**: il est vivement recommandé d’utiliser Adobe Reader pour ouvrir des documents PDF, car des problèmes avec d’autres visionneuses PDF ont été signalés. Il est également recommandé de télécharger le fichier localement au lieu de l’ouvrir dans une fenêtre de navigateur, car cela peut provoquer des erreurs.
 
-- **Conformité HDS**: Azure est désormais « Hébergement des données d’état », certifié conformément aux exigences françaises. Pour plus d’informations, voir « Microsoft Azure est maintenant certifié pour héberger des données de santé sensibles en France ».
+- **Conformité HDS**: Azure est désormais « Hébergement de données d’état », certifié conformément aux exigences françaises. Pour plus d’informations, voir « Microsoft Azure est maintenant certifié pour héberger des données d’état sensibles en France ».
 
 - **Test de pénétration**: l’ensemble du processus de « soumission de demande de test de pénétration » est un processus autonome du client à la « pentest ».
 
@@ -49,8 +48,7 @@ Pour plus d’informations sur les tests de pénétration, voir [Tests de péné
 
 - **Notifications client pour les** modifications apportées aux sous-traitants : vous pouvez choisir de recevoir des notifications de modifications apportées à la liste des sous-traitants de données personnelles Microsoft.
 
-> [!NOTE]
-> Les notifications relatives aux données client et aux listes de données personnelles des services en ligne sont entièrement automatisées. Pour plus d’informations, voir Ressources de protection des données Microsoft.
+**Remarque :** la notification des données client et des listes de données personnelles des services en ligne est entièrement automatisée. Pour plus d’informations, voir Ressources de protection des données Microsoft.
 
 **Documents Recommandés**
 
@@ -61,7 +59,7 @@ Pour plus d’informations sur les tests de pénétration, voir [Tests de péné
 - [Sign-ins à risque](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 - [Qu’est-ce Azure Active Directory rapports ?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
 - [Microsoft et HIPAA et la loi HITECH](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [Documentation d’autorisation provisoire du département américain de la Défense (DoD) sur IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Documentation d’autorisation provisoire du département de la Défense (DoD) des États-Unis sur IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

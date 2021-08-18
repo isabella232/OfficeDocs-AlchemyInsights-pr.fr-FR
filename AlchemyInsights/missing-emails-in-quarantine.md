@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c77da6716c0755d6ed4911f490e000bd74d08f92
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026220"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329660"
 ---
-# <a name="missing-emails-in-quarantine"></a>Messages électroniques manquants en quarantaine »
+# <a name="missing-emails-in-quarantine"></a>Messages électroniques manquants en quarantaine
 
-Les administrateurs [peuvent afficher, libérer ou supprimer ces messages.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+Les administrateurs [peuvent afficher, libérer ou supprimer ces messages](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-Pour ouvrir le Centre de sécurité & conformité, allez dans [https://protection.office.com](https://protection.office.com/) . Pour ouvrir la page de mise en quarantaine directement, allez sur [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+In the Microsoft 365 Defender portal at <https://security.microsoft.com> , go to **Review** \> **Quarantine**. Ou, pour aller directement à la page de mise **en** quarantaine, utilisez <https://security.microsoft.com/quarantine> .  
 
-Vous pouvez effectuer une recherche sur les valeurs suivantes :  
-
-- **ID du message** : l’identificateur global unique du message. Si vous sélectionnez un message dans la liste, la valeur  **de l’ID**  de message apparaît dans le volet volant  **Détails**  qui s’affiche. Les administrateurs peuvent utiliser le [suivi des messages](/microsoft-365/security/office-365-security/message-trace-scc) pour rechercher les messages et les valeurs d’ID de message correspondantes.
-- **Adresse e-mail de l'expéditeur** : adresse e-mail d'un seul expéditeur.
-- **Adresse e-mail du destinataire** : adresse e-mail d'un seul destinataire.
-- **Sujet** : utiliser l'intégralité du sujet du message. La recherche n’est pas sensible à la casse.
-
-Après avoir entrer les critères de recherche, cliquez sur le ![Bouton actualiser](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Actualiser** pour filtrer les résultats.
+Pour plus d’informations sur les valeurs de recherche/filtre que vous pouvez utiliser, voir Gérer les messages et fichiers mis en quarantaine en tant qu’administrateur [dans EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
 Les cmdlets que vous utilisez pour afficher et gérer les messages et les fichiers en quarantaine sont :
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage](/powershell/module/exchange/preview-quarantinemessage): notez que cette cmdlet est uniquement pour les messages, et non pour les fichiers de programmes malveillants de Microsoft Defender pour Office 365 pour SharePoint Online, OneDrive Entreprise ou Teams.
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): notez que cette cmdlet est uniquement pour les messages, et non pour les fichiers de Coffre Attachments for SharePoint, OneDrive ou Microsoft Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

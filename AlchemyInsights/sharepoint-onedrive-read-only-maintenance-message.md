@@ -13,16 +13,16 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910544"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329446"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only message de maintenance lors de la tentative d’utilisation SharePoint ou OneDrive
 
-Les utilisateurs peuvent recevoir un message en **lecture seule** pour maintenance lorsque vous tentez d’utiliser SharePoint ou OneDrive pour l’un des scénarios suivants. 
+Les utilisateurs peuvent recevoir un message en **lecture seule** pour maintenance lorsque vous essayez d’utiliser SharePoint ou OneDrive pour l’un des scénarios suivants. 
 
 -   Une activité de maintenance planifiée ou active.  Recherchez-les en naviguant vers le [centre de messages.](https://portal.office.com/adminportal/home#/messagecenter)
 -   Incident de service actif et de haute priorité qui peut se produire. Recherchez les avis/incidents en naviguant vers [l’état d’état du service.](https://portal.office.com/adminportal/home#/servicehealth)
@@ -38,8 +38,6 @@ Essayez d’effacer le cache du navigateur avant d’naviguer vers le site.
 2. Sous **Effacer la navigation,** **sélectionnez ce qu’il faut effacer.**
 3. Sélectionnez **cookies et données de site web enregistrées,** puis **sélectionnez Effacer**.
 
->[!Note] 
-> Ces étapes peuvent différer lors de l’utilisation d’autres navigateurs tels que Mozilla Firefox ou Google Chrome.
+**Remarque**: ces étapes peuvent différer lors de l’utilisation d’autres navigateurs tels que Mozilla Firefox ou Google Chrome.
 
->[!Note] 
-> Une autre option consisterait à ouvrir votre site SharePoint ou OneDrive dans une nouvelle fenêtre InPrivate.
+**Remarque**: une autre option consisterait à ouvrir SharePoint site ou OneDrive dans une nouvelle fenêtre InPrivate.

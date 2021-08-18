@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12673"
 - "9007646"
-ms.openlocfilehash: a37f980e700090da8199c703216af6f04f4aca464c21870beb3e907dd7b2d491
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ebfabf667092850e5045c56e34e355739944ba44
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100216"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329324"
 ---
 # <a name="teams-doesnt-launch"></a>Teams ne se lance pas
 
@@ -28,7 +28,7 @@ Si vous tentez d’ouvrir Microsoft Teams et qu’il ne se lance pas, essayez ce
 1. Supprimer le contenu du dossier.
 1. Redémarrez l’ordinateur, puis essayez de lancer Teams.
 
-Vous devez peut-être réinstaller Teams. Pour réinstaller :
+Vous devrez peut-être réinstaller Teams. Pour réinstaller:
 
 1. Désinstallez Teams à l’aide du Panneau de configuration.
 1. Accédez à **%AppData%\Microsoft\Teams\Applications Cache**.

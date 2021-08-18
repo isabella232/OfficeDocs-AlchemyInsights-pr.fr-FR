@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892425"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330666"
 ---
 # <a name="update-credit-card-information"></a>Mettre à jour les informations sur la carte de crédit
 
 1. Dans le Centre d’administration Microsoft 365, choisissez la page **Facturation** \> [Modes de paiement](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Si vous êtes renvoyé en boucle vers la page d’accueil Administrateur avant la finalisation de vos mises à jour, essayez la navigation Inprivate ou le mode Incognito.
+    **Note**: Si vous rencontrez une boucle qui vous renvoie à la page d'accueil de l’administrateur avant la fin de vos mises à jour, essayez le mode InPrivate ou Incognito.
   
 2. Sélectionnez la carte de crédit que vous souhaitez mettre à jour.
 
-    > [!NOTE]
-    > Si un autre administrateur a ajouté le mode de paiement, vous ne pourrez pas mettre à jour les informations de carte de crédit ou de compte bancaire correspondant. Si la carte de crédit est sur le point d'expirer et que l'autre administrateur n'est pas en mesure de la mettre à jour, vous pouvez éviter l'interruption du service en ajoutant une autre carte de crédit ou un nouveau compte bancaire pour l'abonnement en choisissant **Ajouter un mode de paiement**.
+    **Note:** Si un autre administrateur a ajouté le mode de paiement, vous ne pourrez pas mettre à jour les informations de carte de crédit ou de compte bancaire correspondant. Si la carte de crédit est sur le point d'expirer et que l'autre administrateur n'est pas en mesure de la mettre à jour, vous pouvez éviter l'interruption du service en ajoutant une autre carte de crédit ou un nouveau compte bancaire pour l'abonnement en choisissant **Ajouter un mode de paiement**.
   
 3. Dans le volet **Détails du mode de paiement**, sélectionnez **Modifier**.
 

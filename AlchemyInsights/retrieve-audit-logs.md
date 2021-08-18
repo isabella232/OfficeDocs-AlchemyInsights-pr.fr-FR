@@ -13,23 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: 0a7be6ca17ff9c1934cf09d7e660da295179553b30494c409c345c5e3b5c5fd8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ac2e5eafbb92b234697c22f73cd565af9d7c3508
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074498"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329492"
 ---
 # <a name="retrieve-the-audit-logs"></a>Récupérer les journaux d’audit
 
 Lorsque vous ouvrez le journal d’audit pour la première fois, il est vide. Vous devez effectuer une recherche pour afficher le contenu. Voici comment effectuer une recherche générale de toutes les activités :
 
-1. Accédez à la page Recherche dans le journal d’audit (ou Centres d’administration > **Centre de conformité Microsoft 365** > **Recherche et investigation** > **Recherche dans le journal d’audit**).
+1. Effectuez l’une des étapes suivantes :
+   - Dans le Centre de conformité Microsoft 365 à <https://compliance.microsoft.com>, accédez à **Solutions**\>**Audit**. Ou, pour accéder directement à la page **Audit**, utilisez <https://compliance.microsoft.com/auditlogsearch>.
+   - Dans le Portail Microsoft 365 Defender à <https://security.microsoft.com>, accédez à **Audit**. Ou, pour accéder directement à la page **Audit**, utilisez <https://sip.security.microsoft.com/auditlogsearch>.
 
-1. Dans la zone **Activités** , acceptez l’option par défaut **Afficher les résultats de toutes les activités**.
+2. Dans la page **Audit**, vérifiez que l’onglet **recherche** est sélectionné, puis configurez les paramètres suivants :
+   - **Plage de dates et d’heures** : sélectionnez la plage de date/heure dans les zones **Début** et **Fin**.
+   - **Activités** : vérifiez que **Afficher les résultats de toutes les activités** est sélectionné.
+   - **Utilisateurs** : acceptez la valeur par défaut vide pour renvoyer des résultats pour tous les utilisateurs, ou entrez un ou plusieurs utilisateurs.
 
-1. Spécifiez la plage de dates. Dans la zone **Utilisateurs** acceptez l’option par défaut pour renvoyer les résultats des utilisateurs, ou sélectionnez le nom d’utilisateur de l’utilisateur que vous voulez examiner.
+3. Lorsque vous avez terminé, cliquez sur **Rechercher**. Les activités apparaissent sur la nouvelle page **Recherche d’audit**.
 
-1. Sélectionner **Rechercher**. Les activités s’affichent sous **Résultats**.
+4. Dans les résultats, cliquez sur **Filtrer les résultats** et tapez **Set-Mailbox** dans la zone de filtre d’activité.
 
-1. Pour afficher des détails, sélectionnez une activité, puis sélectionnez **Plus d’informations** pour afficher plus d’informations telles que le client, l’utilisateur qui a effectué une action, etc.
+5. Sélectionnez un enregistrement d’audit dans les résultats. Dans le menu volant **Détails**, cliquez sur **Plus d’informations** pour afficher d’autres d’informations telles que client, utilisateur ayant effectué une action, etc.

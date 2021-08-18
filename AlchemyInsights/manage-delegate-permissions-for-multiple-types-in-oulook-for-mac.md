@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962885"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329732"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Gérer les autorisations de délégué pour plusieurs types d’éléments dans Outlook pour Mac
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962885"
 3. Sous **Délégués**, qui affiche une liste de délégués qui peuvent agir pour le compte, sélectionnez le délégué.
 4. Cliquez sur **le bouton Action,** cliquez sur **Définir les autorisations,** puis a apporté les modifications que vous souhaitez.
 
-> [!NOTE]
-> Si vous définissez le niveau d’autorisation sur **Aucun,** le délégué reste dans la liste, ce qui vous permet de rétablir les autorisations ultérieurement.
+**Remarque**: si vous définissez le niveau d’autorisation sur **Aucun,** le délégué reste dans la liste, ce qui vous permet de rétablir les autorisations ultérieurement.
