@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1f89ef2bc4b477ea9071b7f6eb9e5982a77a2fbe5099a633908b5026ccaf26b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119246"
 ---
 # <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Entreprise de plan
 
@@ -43,4 +43,4 @@ Pour en savoir plus sur Microsoft 365 Entreprise E5 ou pour vous inscrire à un 
 
 Pour comparer les fonctionnalités entre Enterprise plans, voir [Comparer Enterprise plans.](https://go.microsoft.com/fwlink/?linkid=2097200)
 
-Nous vous remercions de vos commentaires. Sélectionnez Oui/Non à la question qui s’affiche, puis notez votre expérience.
+Nous vous remercions de vos commentaires. Veuillez donc sélectionner Oui/Non à la question qui s’affiche, puis évaluer votre expérience.

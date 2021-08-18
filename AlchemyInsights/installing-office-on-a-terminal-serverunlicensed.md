@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055156"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321997"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installation de Office sur un serveur Terminal Server
 
@@ -26,10 +26,9 @@ Pour le déploiement Applications Microsoft 365 pour les grandes entreprises sur
 
 - Vous devez activer [l’activation d’ordinateurs partagés.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
-Si vous souhaitez installer Applications Microsoft 365 pour les grandes entreprises rds à partir du Centre d’administration Microsoft 365, qui utilise les ***paramètres d’installation*** par défaut, utilisez les étapes suivantes.
+Si vous souhaitez installer Applications Microsoft 365 pour les grandes entreprises sur RDS à partir du Centre d’administration Microsoft 365, qui utilise les ***paramètres d’installation*** par défaut, utilisez les étapes suivantes.
 
-> [!TIP]
-> Vous pouvez également télécharger et exécuter [microsoft Assistant Support et récupération](https://aka.ms/SaRA_OfficeSCA_M365Portal) pour installer Applications Microsoft 365 pour les grandes entreprises en mode d’activation d’ordinateurs partagés.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. Vérifiez le Microsoft 365 abonnement que vous avez. [En savoir plus](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -43,7 +42,7 @@ Si vous souhaitez installer Applications Microsoft 365 pour les grandes entrepri
 
 6. Sur le serveur RDS, activez l’activation d’ordinateurs partagés en éditant le Registre en suivant les étapes suivantes :
 
-1. Cliquez avec le bouton droit Windows bouton droit dans le coin inférieur gauche de votre écran, puis sélectionnez Exécuter. Dans la zone Ouvrir, tapez **regedit,** puis sélectionnez OK.
+1. Cliquez avec le bouton droit Windows dans le coin inférieur gauche de votre écran, puis sélectionnez Exécuter. Dans la zone Ouvrir, tapez **regedit,** puis sélectionnez OK.
 
 2. Sélectionnez Oui lorsque vous y invitez l’Éditeur du Registre pour apporter des modifications à votre appareil.
 
@@ -53,5 +52,5 @@ Si vous souhaitez installer Applications Microsoft 365 pour les grandes entrepri
 
 Pour plus d’informations sur les conditions préalables, les instructions de configuration et les instructions sur les installations personnalisées à l’aide de l’outil déploiement Office, voir [Déployer Applications Microsoft 365 pour les grandes entreprises](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)à l’aide des services Bureau à distance.
   
-Pour résoudre les erreurs liées à l’activation d’ordinateurs [partagés,](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)consultez Résoudre les problèmes liés à l’activation d’ordinateurs partagés pour Applications Microsoft 365 pour les grandes entreprises .
+Pour corriger les erreurs liées à l’activation d’ordinateurs [partagés,](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)consultez Résoudre les problèmes liés à l’activation d’ordinateurs partagés pour Applications Microsoft 365 pour les grandes entreprises .
   

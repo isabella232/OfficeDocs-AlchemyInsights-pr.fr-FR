@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e050074f26025906561237c9ef487ed4743f93b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988833"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322247"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Chiffrer automatiquement certains messages électroniques à partir d’Office 365
 
@@ -31,10 +31,9 @@ ms.locfileid: "53988833"
 7. Cochez **la case Auditer** cette règle avec le niveau de gravité, puis sélectionnez le niveau souhaité. Si votre entreprise a des obligations contractuelles d’envoyer tous les messages électroniques chiffrés, je vous recommande de définir le niveau sur **Élevé**.
 8. Sous **Choisir un modèle pour cette règle,** cliquez sur **Appliquer.** 
 9. Choisissez n’importe quelle sélection facultative (dans une liste de sélections facultatives que vous pouvez effectuer à ce stade, dont la plupart peuvent être laissées avec le paramètre par défaut pour plus de simplicité).
-10. Cliquez sur **Save (Enregistrer)**.
+10. Cliquez sur **Enregistrer**.
 
-> [!IMPORTANT]
-> Vous pouvez toujours revenir et modifier cette règle ultérieurement.
+**Important**: vous pouvez toujours revenir et modifier cette règle ultérieurement.
 
 Pour plus d’informations sur la création de règles de chiffrement, voir Définir des règles de flux de messagerie pour [chiffrer](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) les messages électroniques dans Office 365
 

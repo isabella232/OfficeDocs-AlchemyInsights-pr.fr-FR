@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: bd75e15ec07981fea5a8e510d7fa025402affc71
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: ed5f48ba746da47e2e5db1cb9f279e1cf9b862e47813d617ab7df18ed64725ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403093"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119174"
 ---
 # <a name="reset-the-users-password"></a>Réinitialiser le mot de passe de l'utilisateur
 
-Vous devez réinitialiser le mot de passe de l’utilisateur avant d’autres choses. Voici comment procéder :
+Vous devez réinitialiser le mot de passe de l’utilisateur avant d’autres choses. Voici comment procéder :
 
 1. Sélectionnez   >  **[Utilisateurs actifs.](https://go.microsoft.com/fwlink/p/?linkid=834822)**
 1. Sélectionnez l’utilisateur dont le compte a été compromis.

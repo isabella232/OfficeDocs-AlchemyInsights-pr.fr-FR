@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054796"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321905"
 ---
 # <a name="issues-with-links-and-urls"></a>Problèmes avec les liens et les URL
 
@@ -40,17 +40,15 @@ Pour ajouter une URL de réponse, accédez à l’onglet **Authentification** de
     Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Application de bureau : Inscription d’application - URI de direction](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
 - Pour les applications mobiles, l’URI de redirection dépend des éléments suivants :
     - plateforme (iOS/Android/UWP)
-    - informations permettant de créer votre application, telles que l’ID d’offre groupée dans iOS, et le hachage du nom et de la signature du package sur Android. L’inscription d’une application auprès du Portail Microsoft Azure vous sera utile. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Configuration de la plateforme et URI de redirection](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
+    - informations permettant de créer votre application, telles que l’ID d’offre groupée dans iOS, et le hachage du nom et de la signature du package sur Android. L’inscription d’une application auprès du Portail Microsoft Azure vous sera utile. Pour obtenir des détails, voir [Configuration de plateforme et URI de redirection](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Les API web et certains modes silencieux d’acquisition des jetons (IWA et nom d’utilisateur/mot de passe) ne nécessitent pas d’URI de redirection.
+**Remarque** : les API web et certains modes silencieux d’acquisition des jetons (IWA et nom d’utilisateur/mot de passe) ne nécessitent pas d’URI de redirection.
 
 **J’ai déployé mon application web et, lorsque je teste l’application déployée, je reçois en réponse un message indiquant que l’URL est incompatible**
 
 Ajoutez des URI de redirection à tous les emplacements où vous déployez votre application web. Si vous souhaitez en savoir plus, veuillez consulter la rubrique [Inscrire une application web à l’aide du Portail Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Ajoutez l’URI de redirection d’un emplacement immédiatement après avoir déployé l’application à cet emplacement.
+**Remarque** : ajoutez l’URI de redirection d’un emplacement immédiatement après avoir déployé l’application à cet emplacement.
 
 **Je ne peux pas inscrire suffisamment d’URL de réponse**
 
