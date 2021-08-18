@@ -1,5 +1,5 @@
 ---
-title: 606 informations sur la délégation
+title: 606 Informations sur la délégation
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2c6b17807fe8ecab0b9685f981beda20c122143d1036a9c03075552c5ca897
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088214"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Dépannage de la délégation dans Outlook et Outlook sur le Web
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Résolution des problèmes de délégation dans Outlook et Outlook sur le web
 
-**Résolution des problèmes à l’aide de l’outil SaRA :**
+**Résolution des problèmes avec l’outil SaRA de gestion :**
 
-1. Téléchargez et installez l’outil SaRA [ici](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. Sélectionnez **Outlook**, puis **je rencontre des problèmes avec mon calendrier**.
+1. Téléchargez et installez [SaRA’outil ici.](https://aka.ms/SaRA-SkypeForBusinessSignIn)
+1. Sélectionnez **Outlook,** puis **j’ai des problèmes avec mon calendrier.**
 1. Dire **Oui** pour l’ordinateur concerné.
 1. Ajoutez l’adresse de messagerie de l’utilisateur concerné.
-1. Sélectionnez **je rencontre des problèmes avec les autorisations de délégué**.
-1. À l’invite suivante, si vous êtes la personne qui accorde des autorisations, entrez l’adresse de messagerie de votre délégué. Si vous avez reçu des autorisations et que vous êtes le délégué, entrez l’adresse de messagerie de la personne qui vous a donné les autorisations requises.
-1. Dans le menu suivant, sélectionnez l’option qui correspond à votre scénario.
+1. Sélectionnez **J’ai des problèmes avec les autorisations déléguées.**
+1. À l’invite suivante, si vous êtes la personne qui donne des autorisations, entrez l’adresse e-mail de votre délégué. Si vous avez reçu des autorisations et que vous êtes le délégué, entrez l’adresse e-mail de la personne qui vous a accordé les autorisations.
+1. Dans le menu suivant, sélectionnez l’option adaptée à votre scénario.
 1. Dans le menu suivant, sélectionnez le niveau d’autorisation.
-1. À ce stade, l’outil SaRA effectue des vérifications automatiques et vous fournit une résolution possible ou fournit un journal de diagnostic qui peut être utilisé pour un dépannage supplémentaire.
-1. Vous trouverez les journaux dans le dossier de résultats SaRA situé dans C:\Users\Username\AppData\Local\SaraResults.
+1. À ce stade, l’outil SaRA effectuera des vérifications automatisées et vous fournira une résolution possible ou fournira également un journal de diagnostic qui pourra être utilisé pour résoudre d’autres problèmes.
+1. Les journaux se trouvent dans le dossier SaRA résultats situé à l’emplacement C:\Users\Username\AppData\Local\SaraResults.

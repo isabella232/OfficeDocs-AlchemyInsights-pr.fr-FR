@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100400"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316638"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exporter des éléments vers un fichier d’archivage dans Outlook pour Mac
 
@@ -24,10 +24,9 @@ Pour réduire la taille de votre boîte de réception, archivez manuellement les
 
 1. Sous **l’onglet Outils,** cliquez sur **Exporter.**
 
-> [!NOTE]
-> Vous ne voyez pas le **bouton Exporter** ? Assurez-vous que vous avez la dernière version de Outlook. Dans le menu **Outlook’aide,** cliquez **sur Vérifier les mises à jour.** Si toutes Outlook mises à jour sont appliquées et  que vous ne voyez toujours pas le bouton Exporter, recherchez **Exporter** dans Outlook **menu** Fichier.
+    **Remarque**: vous ne voyez pas le **bouton Exporter** ? Assurez-vous que vous avez la dernière version de Outlook. Dans le menu **Outlook’aide,** cliquez **sur Vérifier les mises à jour.** Si toutes Outlook mises à jour sont appliquées et  que vous ne voyez toujours pas le bouton Exporter, recherchez **Exporter** dans le **menu** Outlook fichier.
 
-2. Dans la zone Exporter vers le fichier **d’archivage (.olm),** cochez les éléments que vous souhaitez exporter, puis cliquez sur **Continuer**.
+2. Dans la zone Exporter vers le fichier **d’archivage (.olm),** cochez les éléments que vous souhaitez exporter, puis cliquez sur **Continuer.**
 
 3. Dans la **zone Enregistrer sous,** sous **Favoris,** choisissez le dossier **Téléchargements,** puis cliquez sur **Enregistrer.**
 

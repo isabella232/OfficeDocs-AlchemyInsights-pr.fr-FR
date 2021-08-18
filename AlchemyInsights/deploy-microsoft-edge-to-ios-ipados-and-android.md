@@ -13,21 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 56ccfc2bff811d0a70582ace6278af76d2339cd7ddb14fe3488c15c1d4e9340b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914145"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316872"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Déployer Microsoft Edge sur iOS, iPadOS et Android
 
 Le scénario guidé résumé ci-dessous vous aide à affecter Microsoft Edge aux utilisateurs d’appareils iOS, iPadOS et Android.
 
-> [!NOTE]
-> Si vous avez bloqué l’inscription des utilisateurs sur les appareils mobiles, ce scénario guidé ne fonctionne pas et les utilisateurs devront installer Microsoft Edge eux-mêmes.
+**Note**: Si vous avez bloqué l’inscription des utilisateurs sur les appareils mobiles, ce scénario guidé ne fonctionnera pas et les utilisateurs devront installer Microsoft Edge eux-mêmes.
 
-Le scénario guidé comprend les étapes suivantes :
+Le scénario guidé comprend les étapes suivantes :
 
 1. [Conditions préalables](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
 2. [Introduction](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
@@ -36,7 +35,7 @@ Le scénario guidé comprend les étapes suivantes :
 5. [Devoirs](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
 6. [Révision et création](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-Après avoir suivi les étapes du scénario guidé, les stratégies Microsoft Intune activeront les fonctionnalités suivantes de Microsoft Edge pour la productivité :
+Après avoir suivi les étapes du scénario guidé, les stratégies Microsoft Intune activeront les fonctionnalités suivantes de Microsoft Edge pour la productivité :
 
 - Identité double
 - Intégration à la stratégie de protection des applications Microsoft Intune
