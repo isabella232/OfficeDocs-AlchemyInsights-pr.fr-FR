@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 8f2f55564e88f5163cefdbfc0291fffb13a0ab8fbe12d4eda9a885158445d44c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a1be177e9a86f96812c019f7247edcb9b05af974
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53989013"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315790"
 ---
-# <a name="assign-the-security-administration-permissions"></a>Attribuer les autorisations d’administration de la sécurité
+# <a name="assign-the-security-administrator-permission"></a>Attribution une autorisation d’administrateur de sécurité
 
-1. Dans le Centre de sécurité et conformité Office 365, sélectionnez **Autorisations > Administrateur de sécurité**.
-2. Dans le volet **Administrateur de sécurité**, à côté de **Membres**, cliquez sur **Modifier**.
-3. Dans le volet **Édition Choisir des membres**, cliquez sur **Choisir des membres**.
-4. Dans le volet **Choisir des membres** , cliquez sur **+ Ajouter**, puis sélectionnez les noms des utilisateurs.
-5. Sélectionnez **Ajouter > Terminé > Enregistrer**.
-
+1. Dans le portail Microsoft 365 Defender à <https://security.microsoft.com>, sélectionnez **Autorisations et rôles** \> **Rôles** dans la section **Rôles de messagerie et de collaboration**.
+2. Sélectionnez **Administrateur de sécurité** dans la liste des groupes de rôles.
+3. Dans le menu volant d’informations qui s’affiche, faites défiler jusqu’à la section **membres**, puis cliquez sur **Modifier**.
+4. Dans le menu volant **Modification des membres choisis** qui apparaît, cliquez sur **Modifier**.
+5. Dans le menu volant **Choisir des membres** qui s’affiche, cliquez sur **+ Ajouter**, puis sélectionnez les noms d’utilisateur.
+6. Lorsque vous avez terminé, cliquez sur **Ajouter** \> **Terminer** \> **Enregistrer** \> **Fermer**.

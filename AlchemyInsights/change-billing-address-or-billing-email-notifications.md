@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 2f1f907a23e0f65cf8c230c8cf27b671e681d92565fd83bb5d39ebf3c53ab9fd
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504010"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897414"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Modifier l’adresse de facturation ou les notifications par courrier électronique de facturation
 
@@ -45,4 +45,4 @@ ms.locfileid: "54504010"
 
 4. Dans la **zone de courrier de** remplacement, tapez l’adresse de messagerie de remplacement que vous souhaitez utiliser, puis cliquez sur **Enregistrer.**
 
-Pour plus d’informations sur les modifications apportées aux adresses et aux [notifications,](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)voir Modifier vos adresses de facturation Microsoft 365 pour les entreprises.
+Pour plus d’informations sur les modifications apportées aux adresses et aux [notifications,](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)voir Modifier vos adresses de facturation Microsoft 365 pour les entreprises.

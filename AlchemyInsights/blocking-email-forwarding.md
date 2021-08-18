@@ -1,5 +1,5 @@
 ---
-title: 726 Blocage du forwarding de courrier électronique
+title: Bloquer ou débloquer le forwarding automatique du courrier externe
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059630"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897466"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blocage ou déblocage du forwarding de courrier électronique
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Bloquer ou débloquer le forwarding automatique du courrier électronique
 
 Pour activer ou désactiver le forwarding de courrier pour une boîte aux lettres spécifique, voir [Configurer le forwarding de courrier.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Au niveau du client, le contrôle du forwarding externe est effectué à l’aide de la stratégie de courrier indésirable sortant. Vous pouvez consulter la stratégie de filtrage [](https://protection.office.com/antispam) du courrier indésirable sortant à partir du Centre de sécurité et conformité ici ou à l’aide de la commande [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Les administrateurs peuvent contrôler le forwarding externe pour l’organisation à l’aide des [stratégies de courrier indésirable sortant.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Vous gérez les stratégies de courrier indésirable sortant dans le portail Microsoft 365 Defender à l’aide de la <https://security.microsoft.com/antispam> cmdlet [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) dans Exchange Online PowerShell.
 
-Si vous avez l’erreur suivante : « **550 5.7.520** Accès refusé, votre organisation n’autorise pas le forwarding externe », assurez-vous que la stratégie est configurée pour activer le forward automatique externe.
+Si vous recevez l’erreur suivante : « **550 5.7.520** Accès refusé, votre organisation n’autorise pas le forwarding externe », assurez-vous que la stratégie est configurée pour activer les messages externes automatiquement transmis.
 
-**Remarque :** Il est recommandé de conserver la fonction Deforward externe désactivée sur votre stratégie de filtrage du courrier indésirable sortant par défaut et de l’activer uniquement pour les utilisateurs qui ont besoin d’un forwarding externe en créant une stratégie personnalisée pour ces utilisateurs. Vous pouvez en savoir plus dans [la configuration du forwarding de courrier externe dans Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Remarque**: nous vous recommandons la valeur par défaut **Automatic - System controlled** for the **Automatic forwarding rules** setting in your default outbound spam filter policy (automatic external forwarding is blocked; internal automatic forwarding still works). Vous devez créer des stratégies personnalisées de filtrage du courrier indésirable sortant et utiliser la valeur **On - Le forwarding** est activé uniquement pour les utilisateurs qui ont besoin d’un filtrage automatique des messages externes. Pour plus d’informations, voir [Configuring external email forwarding in Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

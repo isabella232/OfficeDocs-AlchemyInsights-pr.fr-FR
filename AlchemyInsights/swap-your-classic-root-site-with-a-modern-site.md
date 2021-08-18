@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940817"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316138"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Permutation de votre site racine classique avec un site moderne
 
@@ -28,8 +28,8 @@ Si votre environnement a été installé avant avril 2019, vous pouvez modifier 
     - Utilisez [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) pour permuter l’emplacement d’un site avec un autre site lors de l’archivage du site d’origine. Disponible pour site d’équipe (non connecté à un groupe) et Site de communication. 
 
 - Des fonctionnalités supplémentaires seront bientôt introduites pour vous permettre de continuer à utiliser le contenu du site, mais de convertir le site existant en site de communication. 
->[!Important]
->Ces fonctionnalités seront déployées progressivement. Continuez à vérifier les mises à jour dans le Centre de messages. 
+
+**Important**: ces fonctionnalités seront déployées progressivement. Continuez à vérifier les mises à jour dans le Centre de messages. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Problèmes connus avec l’échange de sites
 

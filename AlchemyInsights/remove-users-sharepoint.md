@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "12470"
 - "9000192"
-ms.openlocfilehash: ccd345a75bac141ce541d3494ac8bbb7241b790f88045575ce1fb676320150f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e5ce8600a32fa0f3993a652b219a4426808cfe1cdd0d2f6ed53ef27cb88006e4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959340"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897862"
 ---
 # <a name="remove-users-from-sharepoint"></a>Supprimer des utilisateurs de SharePoint
 
-Pour en savoir plus sur comment retirer des utilisateurs actifs ou supprimés afin qu’ils n’apparaissent plus dans SharePoint, consultez [Comment retirer des utilisateurs supprimés de SharePoint](/sharepoint/remove-users).
+Pour en savoir plus sur comment retirer des utilisateurs actifs ou supprimés afin qu’ils n’apparaissent plus dans SharePoint, consultez [Comment retirer des utilisateurs supprimés de SharePoint](https://docs.microsoft.com/sharepoint/remove-users).
 
 
 
