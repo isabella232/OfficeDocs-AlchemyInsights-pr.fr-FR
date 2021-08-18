@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003567"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325461"
 ---
 # <a name="enable-cost-management"></a>Activer la gestion des coûts
 
 **Que signifie « les coûts sont désactivés pour votre organisation » ?**
 
-Les organisations utilisant Accord Entreprise (EA) ou des comptes contrat client Microsoft (MCA) peuvent désactiver l’accès aux informations de coût et aux informations de tarification.
+Les organisations utilisant des Accord Entreprise (EA) ou du contrat client Microsoft (MCA) peuvent désactiver l’accès aux informations de coût et aux informations de tarification.
 
 Une fois qu’ils se connectent au portail Azure, ils peuvent utiliser les API de facturation pour obtenir par programme des factures (une fois que vous avez choisi) et des détails d’utilisation.
 
@@ -34,14 +34,13 @@ Une fois qu’ils se connectent au portail Azure, ils peuvent utiliser les API d
 2. Sélectionnez **Factures,** puis **Accès aux factures.**
 3. Activer l’accès, suivi de l’enregistrement des modifications, pour permettre aux utilisateurs dans des rôles d’étendue d’abonnement de télécharger des factures.
 
-> [!NOTE]
-> L’administrateur de compte peut également configurer l’envoi de factures par courrier électronique. Pour en savoir plus, [consultez Obtenir votre facture par courrier électronique.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Remarque**: l’administrateur de compte peut également configurer l’envoi de factures par courrier électronique. Pour en savoir plus, [consultez Obtenir votre facture par courrier électronique.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Comment ajouter des utilisateurs au rôle Lecteur de facturation**
 
 1. Go to **Subscriptions blade** in Azure portal.
 2. Sélectionnez **Contrôle d’accès (IAM),** puis cliquez sur **Ajouter.**
-3. Sélectionnez **Lecteur de facturation** dans la page Sélectionner **un** rôle.
+3. Sélectionnez **Lecteur de** facturation dans la page **Sélectionner un** rôle.
 4. Tapez l’e-mail de l’utilisateur que vous voulez inviter, puis cliquez sur **OK** pour envoyer l’invitation.
 5. Suivez les instructions fournies dans l’e-mail d’invitation pour vous connecter en tant que lecteur de facturation. Pour plus d’informations, voir [Accorder l’accès à la facturation.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in)
 

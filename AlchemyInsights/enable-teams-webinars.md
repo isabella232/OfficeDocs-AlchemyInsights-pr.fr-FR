@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: 76be648fc7b6e8ea29b7665cf81c29b40b4ed0aafbe602f931e755742b3b4a74
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5efb8ffad0ad2c7d32a2ac334b960484b6fa5545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117806"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325339"
 ---
 # <a name="enable-teams-webinars"></a>Activer les webinaires Teams
 
@@ -38,6 +38,6 @@ Lorsque l'inscription à la réunion est définie sur **Activé**, vous pouvez �
 
 3. Sous **Général**, accédez au paramètre **Qui peut s’inscrire** et sélectionnez **Tout le monde** ou **Tout le monde dans l’entreprise**. 
 
-**Remarque**: si la participation anonyme est désactivée dans les paramètres de réunion, les utilisateurs anonymes ne peuvent pas participer aux webinaires. Pour en savoir plus et activer ce paramètre, consultez  [Gérer les paramètres de réunion dans Microsoft Teams](/microsoftteams/meeting-settings-in-teams). 
+**Remarque**: si la participation anonyme est désactivée dans les paramètres de réunion, les utilisateurs anonymes ne peuvent pas participer aux webinaires. Pour en savoir plus et activer ce paramètre, consultez  [Gérer les paramètres de réunion dans Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams). 
 
-Pour en savoir plus sur la configuration des personnes autorisées à s’inscrire aux webinaires et sur la gestion de ces stratégies à l’aide de Teams PowerShell, consultez [Configurer qui peut s’inscrire aux webinaires](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Pour plus d’informations sur les paramètres des listes Microsoft, consultez  [Paramètres de contrôle pour les Listes Microsoft](/sharepoint/control-lists). 
+Pour en savoir plus sur la configuration des personnes autorisées à s’inscrire aux webinaires et sur la gestion de ces stratégies à l’aide de Teams PowerShell, consultez [Configurer qui peut s’inscrire aux webinaires](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Pour plus d’informations sur les paramètres des listes Microsoft, consultez  [Paramètres de contrôle pour les Listes Microsoft](https://docs.microsoft.com/sharepoint/control-lists). 

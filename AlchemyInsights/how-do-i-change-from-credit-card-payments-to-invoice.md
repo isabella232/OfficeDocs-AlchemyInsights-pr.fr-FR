@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868676"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323784"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Comment puis-je changer de paiement par carte de crédit en paiement par facture ?
 
-> [!NOTE]
-> Vous ne pouvez passer au règlement par facture que pour un abonnement dont le coût dépasse un certain montant. Vous devez d’abord régler tout solde impayé lié à la carte de débit ou de crédit ou le compte bancaire avant de pouvoir changer le mode de paiement pour régler par facture.
+**Remarque**: vous ne pouvez modifier le paiement par facture que si les coûts de votre abonnement dépassent un certain montant. Vous devez d’abord régler tout solde impayé lié à la carte de débit ou de crédit ou le compte bancaire avant de pouvoir changer le mode de paiement pour régler par facture.
 
 1. Dans le centre d’administration, accédez à la page **Facturation** > [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Dans l’onglet **Produits**, trouvez l’abonnement pour lequel vous souhaitez utiliser un mode de paiement secondaire.

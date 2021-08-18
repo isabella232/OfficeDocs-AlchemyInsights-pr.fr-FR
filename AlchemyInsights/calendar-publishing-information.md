@@ -1,5 +1,5 @@
 ---
-title: 613 informations de publication de calendrier
+title: 613 Informations de publication de calendrier
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: f5676cdab8c1efc2f585e1f75323200358b369db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aaf3eb249c2de449ca4e31486eb19c760512f1d9f8be2d1f501e7cdf54de62ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119966"
 ---
-# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Activer le partage de calendrier à l’aide du centre d’administration Microsoft 365
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Activer le partage de calendrier à l’aide Centre d’administration Microsoft 365
 
-1. Dans le centre d’administration, accédez à **paramètres**   >   **org paramètres**.
-2. Dans l’onglet  **services**  , sélectionnez  **calendrier**.
-3. Sur la page  **calendrier**  qui s’ouvre, indiquez si vous souhaitez autoriser vos utilisateurs à partager leurs calendriers avec des personnes extérieures à votre organisation qui disposent de Microsoft 365 ou Exchange.
-4. Indiquez si vous souhaitez autoriser les utilisateurs anonymes (utilisateurs sans informations d’identification de connexion) à accéder aux calendriers par le biais d’une invitation par courrier électronique.
-5. Choisissez le type d’informations de calendrier à mettre à la disposition des utilisateurs. Vous pouvez autoriser toutes les informations ou les limiter à des heures ou à des heures seulement ou à des heures, des objets et des emplacements uniquement.
+1. Dans le Centre d’administration, Paramètres    >   **Org Paramètres**.
+2. Sous **l’onglet Services,** sélectionnez **Calendrier.**
+3. Dans **la** page Calendrier qui s’ouvre, choisissez si vous souhaitez laisser vos utilisateurs partager leurs calendriers avec des personnes extérieures à votre organisation qui ont des Microsoft 365 ou Exchange.
+4. Choisissez si vous souhaitez autoriser les utilisateurs anonymes (utilisateurs sans informations d’identification de connexion) à accéder aux calendriers via une invitation par courrier électronique.
+5. Choisissez le type d’informations de calendrier à mettre à la disposition des utilisateurs. Vous pouvez autoriser toutes les informations ou les limiter uniquement à l’heure, à l’objet et à l’emplacement.
 
-Plus d’informations : [partager des calendriers avec des utilisateurs externes](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
+Plus d’informations : [Partager des calendriers avec des utilisateurs externes](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)

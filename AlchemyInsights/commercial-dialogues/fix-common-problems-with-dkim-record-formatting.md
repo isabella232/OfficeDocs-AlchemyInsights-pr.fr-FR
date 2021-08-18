@@ -1,5 +1,5 @@
 ---
-title: Résoudre les problèmes courants liés à la mise en forme d’enregistrement DKIM
+title: Résoudre les problèmes courants liés à la mise en forme des enregistrement DKIM
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e55175e7613d220eaf956d3c7fd02213dcd5803d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930059"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323988"
 ---
-# <a name="fix-common-problems-with-dkim-record-formatting"></a>Résoudre les problèmes courants liés à la mise en forme d’enregistrement DKIM
+# <a name="fix-common-problems-with-dkim-record-formatting"></a>Résoudre les problèmes courants liés à la mise en forme des enregistrement DKIM
 
 La plupart des problèmes de mise en place DKIM sont liés à des enregistrements DNS incorrects.
 
@@ -28,5 +28,4 @@ Pour résoudre les problèmes de mise en place de DKIM, vérifiez que l’enregi
 
 Si vous avez besoin d’aide sur les enregistrements DNS en général, voir Créer des enregistrements DNS auprès d’un fournisseur d’hébergement [DNS pour Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-> [!NOTE]
-> Après avoir créé ou mis à jour vos enregistrements DNS DKIM sur le service d’hébergement DNS de votre domaine, vous devez attendre que les enregistrements DNS se propagent.
+**Remarque**: après avoir créé ou mis à jour vos enregistrements DNS DKIM sur le service d’hébergement DNS de votre domaine, vous devez attendre que les enregistrements DNS se propagent.

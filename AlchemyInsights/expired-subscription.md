@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895885"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325293"
 ---
 # <a name="expired-subscription"></a>Abonnement expiré
 
@@ -28,10 +28,9 @@ Il semble que vous avez un ou plusieurs abonnements expirés. Si vous souhaitez 
   
 **Réactiver**
   
-1. Dans le centre d’administration, accédez à la page **Facturation** \> [Vos produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Dans l'onglet **Produits**, trouvez l'abonnement que vous souhaitez réactiver. Sélectionnez les trois points (autres actions), puis sélectionnez **Réactiver cet abonnement**.
-    > [!NOTE]
-    > Si vous ne voyez pas réactiver cet **abonnement,** appelez le support technique.
+1. Dans le centre d’administration, accédez à la page **Facturation** \> [Produits](https://go.microsoft.com/fwlink/p/?linkid=842054).
+2. Dans l'onglet **Produits**, recherchez l'abonnement que vous souhaitez réactiver. Sélectionnez les trois points (autres actions), puis sélectionnez **Réactiver cet abonnement**.
+    **Remarque**: si vous ne voyez pas réactiver cet **abonnement,** appelez le support technique.
 3. Dans le volet **Réactiver cet abonnement** , sélectionnez un mode de paiement dans la liste déroulante, ou sélectionnez **Ajouter un mode de paiement**.
 4. Sélectionnez **Enregistrer**.
 
@@ -40,7 +39,7 @@ Pour en savoir plus, consultez l’article [Réactiver votre abonnement](https:/
 **Effectuer un nouvel achat**
   
 1. Dans le centre d’administration, accédez à la page **facturation** \> [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433).
-2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **Acheter.**
+2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **Acheter**.
 3. Entrez le nombre de licences utilisateur dont vous avez besoin, puis choisissez si vous souhaitez régler de façon mensuelle ou annuelle. Choisissez si vous souhaiter attribuer automatiquement des licences à tous vos utilisateurs qui n’en ont pas actuellement. Ensuite, **sélectionnez Partir maintenant.**
 4. Suivez les étapes restantes pour terminer l’enregistrement.
 

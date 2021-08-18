@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900954"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323636"
 ---
 # <a name="purchase-power-bi"></a>Acheter des Power BI
 
@@ -28,10 +28,10 @@ Power BI pouvez être acheté dans le **Centre d’administration Microsoft 365*
 
 1. Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.
 2. Utilisez la zone de recherche pour rechercher « Power BI ».
-3. Sélectionnez la Power BI votre offre que vous souhaitez acheter, sélectionnez **Détails,** puis **achetez**.
+3. Sélectionnez l Power BI de votre choix, sélectionnez **Détails,** puis **Acheter.**
 4. Entrez le nombre de licences dont vous avez besoin et choisissez de payer chaque mois ou pour l’année entière. Choisissez si vous souhaiter attribuer automatiquement des licences à tous vos utilisateurs qui n’en ont pas actuellement. Puis sélectionnez **Payer maintenant**.
 5. Vérifiez les informations concernant le tarif et sélectionnez **Suivant**.
-6. Fournissez vos informations de paiement, puis sélectionnez **Passer une commande** Go to Admin  >  **Home**.
+6. Fournissez vos informations de paiement, puis sélectionnez **Passer une commande** à La page  >  **d’accueil de l’administrateur.**
 
 Pour attribuer des licences aux utilisateurs, voir [Attribuer des licences aux utilisateurs.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 

@@ -1,5 +1,5 @@
 ---
-title: Domaine expirant bientôt
+title: Expiration de l’inscription du domaine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "10933"
+- "9006437"
 - "5300030"
-ms.openlocfilehash: 277285bfd0d52f3bcdbb7b0d0702f8032f6b9dce
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9462deefe62f2fb6fffd1703d4cca84a83c84eef
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814903"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325545"
 ---
-# <a name="domain-expiring-soon"></a>Domaine expirant bientôt
+# <a name="domain-registration-expiration"></a>Expiration de l’inscription du domaine
 
-Le message d'avertissement d'expiration du domaine Office 365 est peut-être incorrect. Nous travaillons à corriger ce problème.
+Expiration du domaine: 
 
-- Pour vérifier l'expiration de votre domaine, vérifiez auprès de votre registraire de domaine.
+- Pour vérifier la date d’expiration de votre domaine, vérifiez auprès de votre registraire de domaine.
 
 - Si vous avez acheté votre domaine auprès de Microsoft, accédez à [Facturation> Vos produits](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) pour vérifier l'abonnement au domaine.
 
