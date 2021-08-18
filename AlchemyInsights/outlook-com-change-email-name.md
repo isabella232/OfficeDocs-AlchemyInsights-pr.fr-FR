@@ -1,5 +1,5 @@
 ---
-title: Modifier le nom de messagerie dans Outlook.com
+title: Modifier votre nom de courrier dans Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,27 +13,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 17c75293103a924dd76fdaf171ad04f5b3252b23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64b9cd0d61d07aeeb69c83f7f35086ec23fa917b2c90665c567245fe4915abe1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112514"
 ---
-# <a name="change-your-email-name"></a>Modifier le nom de votre courrier électronique
+# <a name="change-your-email-name"></a>Modifier le nom de votre e-mail
 
-Si vous disposez d’une adresse de messagerie Outlook.com et que vous souhaitez modifier le nom que les destinataires verront dans vos messages :
+Si vous avez une adresse Outlook.com et que vous souhaitez modifier le nom que les destinataires voient dans vos messages :
   
 1. Sélectionnez l’image de votre compte dans le coin supérieur droit de la page.
-2. Sélectionnez **mon profil**.
-3. Sélectionnez **modifier le nom** pour apporter des modifications et sélectionnez **Enregistrer**.
+2. Sélectionnez **Mon profil.**
+3. Sélectionnez **Modifier le nom** pour apporter des modifications et **sélectionnez Enregistrer.**
 
-Veuillez patienter jusqu’à 24 heures pour que les modifications apportées au nom de votre profil entrent en vigueur.
+Veuillez autoriser jusqu’à 24 heures pour que les modifications apportées au nom de votre profil entrent en vigueur.
   
-Si vous avez plusieurs alias ou adresses de messagerie connectés à votre compte Outlook.com, vous pouvez choisir d’envoyer des courriers électroniques à partir de l’une de vos adresses.
+Si plusieurs alias ou adresses de messagerie sont connectés à votre compte Outlook.com, vous pouvez choisir d’envoyer des messages électroniques à partir de l’une de vos adresses.
   
-1. Lors de la composition d’un message, sélectionnez « ... » en bas de la fenêtre de composition.
-1. Sélectionnez **afficher de** pour afficher la ligne de.
-1. Au-dessus de la ligne à, sélectionnez **de** et choisissez l’adresse de messagerie que vous souhaitez utiliser.
+1. Lorsque vous composez un message, sélectionnez « ... » en bas de la fenêtre de composition.
+1. Sélectionnez **Afficher de** pour afficher la ligne De.
+1. Au-dessus de la ligne À, sélectionnez **De** et choisissez l’adresse de messagerie que vous souhaitez utiliser.
 
-Pour plus d’informations, consultez [la rubrique envoyer un courrier électronique à partir d’une autre adresse dans Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Pour plus d’informations, voir Envoyer un courrier électronique à partir [d’une adresse différente dans Outlook.com.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)

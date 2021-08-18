@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11648"
 - "9003951"
-ms.openlocfilehash: 7146ec7d14f07134c68521700a81f8c37e418f1f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a3df826621bf4eacb931f69c21a9236a65d7f0177e51ff9b50cc91129359ee83
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314454"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894841"
 ---
 # <a name="surface-repairs"></a>Réparations de surface
 
-Pour placer un ordre de réparation Surface à partir Microsoft 365 portail d’administration :
+Pour placer un ordre de réparation Surface à partir du portail d Microsoft 365'administration :
 
 - Go to **Support**  >  **Surface Device Repair,** and select **Create a Repair**. 
 

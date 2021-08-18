@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: 678f61d88879e5ecf7ccb23414d79cba66dc3c218ab0caed3d2957d863e0596b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086810"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Comment effectuer des recherches de contenu et des recherches de découverte électronique
 
@@ -39,5 +39,5 @@ Pour obtenir des instructions détaillées sur les recherches de contenu, l’ex
 **Plus d’informations**:
 
 - Pour plus d’informations sur les outils eDiscovery Microsoft 365, voir [eDiscovery](/microsoft-365/compliance/ediscovery).
-- Découvrez les autorisations, les exigences et les limites nécessaires pour effectuer des recherches eDiscovery à partir des autorisations requises pour les recherches [eDiscovery,](/microsoft-365/compliance/assign-ediscovery-permissions) ainsi que les exigences et [limites.](/microsoft-365/compliance/limits-for-content-search)
+- Découvrez les autorisations, les exigences et les limites requises pour effectuer des recherches eDiscovery à partir des autorisations requises pour les recherches [eDiscovery,](/microsoft-365/compliance/assign-ediscovery-permissions) ainsi que les exigences et [limites.](/microsoft-365/compliance/limits-for-content-search)
 - Si vous dépannage des problèmes eDiscovery, voir [eDiscovery Troubleshooting common issues](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) and [investigating partially indexed items](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).

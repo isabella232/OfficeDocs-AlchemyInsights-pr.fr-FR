@@ -1,5 +1,5 @@
 ---
-title: Problèmes courants et solutions SharePoint Online
+title: SharePoint Problèmes courants et résolutions en ligne
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e43dc115578746c91faf66423b2145b3dbb093ee9d6148a3fe28cc42f2d396
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085802"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>Problèmes courants et solutions SharePoint Online
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Problèmes courants et résolutions en ligne
 
-Voici quelques rubriques fréquemment demandées pour les problèmes liés à SharePoint Online :
+Voici quelques rubriques fréquemment demandées pour les problèmes SharePoint Online :
 
-- **Prise en main**: utilisez le [carnet d’adresses SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) pour créer un intranet puissant et puissant qui connecte le lieu de travail. Voir des [exemples](https://lookbook.microsoft.com/) et obtenir des [conseils de conception](https://spdesign.azurewebsites.net/). Voir Introduction [to SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) pour une présentation générale de SharePoint Online.
+- **Mise en place**: utilisez le [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) pour créer un intranet puissant et performant qui connecte l’espace de travail. Consultez [des exemples](https://lookbook.microsoft.com/) et obtenez [des conseils de conception.](https://spdesign.azurewebsites.net/) Voir [présentation de SharePoint Online pour](https://docs.microsoft.com/sharepoint/introduction) une présentation globale de SharePoint Online.
 
-- **Autorisations**: [créer une stratégie d’autorisations](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) et [comprendre les niveaux d’autorisation](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **Autorisations :** [créer une stratégie d’autorisations et comprendre](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) les [niveaux d’autorisation.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-- **Partage**: [partage avec d’autres personnes](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) de votre organisation ou [avec d’autres personnes à l’extérieur de votre organisation](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Partage**: [partage avec d’autres personnes](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) au sein de votre organisation ou avec [d’autres personnes extérieures à votre organisation.](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- **Utilisation des fichiers de document**: en savoir plus sur le [chargement](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)de fichiers, le [Téléchargement](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)de fichiers, les [modifications](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)de fichiers et les [limitations de fichiers](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) actuelles
+- **Working with Document Files**: Learn more about file [upload,](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)file [download,](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)file [edits](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07), and current [file limitations](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- **Stockage**: Découvrez comment gérer l’espace de stockage OneDrive de vos utilisateurs, comme la </a> [gestion du stockage de site](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) pour votre abonnement et la compréhension de [toutes les limites](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Stockage**: découvrez comment gérer vos utilisateurs OneDrive stockage, par exemple la gestion du stockage de site pour votre abonnement et la compréhension de </a> toutes les [limites.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) [](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
 
-- Changement de **nom du client**: pour plus d’informations, consultez [la rubrique modifier votre nom de domaine SharePoint](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) .
+- **Changement de nom du client**: voir Modifier votre nom SharePoint domaine [pour](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) plus d’informations.
 
-- **Modernisation de SharePoint**: consultez le [Guide de l’expérience moderne dans SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) et [modernisation de vos sites SharePoint classiques](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) pour démarrer le déplacement.
+- **Moderniser SharePoint**: examinez le Guide sur l’expérience moderne dans [SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) et moderniser vos sites SharePoint [classiques](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) pour commencer le déplacement.
 
-**Remarque :** Pour obtenir une réponse plus spécifique à un problème SharePoint, reformulez brièvement votre question et incluez les erreurs que vous rencontrez ou les fonctionnalités que vous utilisez.
+**Remarque :** Pour obtenir une réponse plus spécifique sur un problème SharePoint, reformulez brièvement votre question et incluez les erreurs que vous voyez ou les fonctionnalités que vous utilisez.

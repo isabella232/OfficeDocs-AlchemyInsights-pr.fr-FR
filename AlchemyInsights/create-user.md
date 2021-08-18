@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118742"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896713"
 ---
 # <a name="create-user"></a>Créer un utilisateur
 
 **ANNONCE :**
 
-- L’arrêt de la prise en charge de la signature WebView à partir de Google commence [le 4 janvier 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testez si vos applications peuvent être affectées en suivant les [instructions](https://go.microsoft.com/fwlink/?linkid=2157323) de Google sur le test de compatibilité.
-- Veillez à utiliser la vue web système ou le navigateur système lors de la signature de vos utilisateurs avec des comptes Google grand public. Pour plus d'informations, voir [Questions relatives à la connexion à une ou plusieurs applications à l'aide du navigateur Chrome uniquement](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- L’arrêt de la prise en charge de la signature WebView à partir de Google commence [le 4 janvier 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testez si vos applications peuvent être affectées en suivant les [instructions](https://go.microsoft.com/fwlink/?linkid=2157323) de Google sur le test de compatibilité.
+- Veillez à utiliser la vue web système ou le navigateur système lors de la signature de vos utilisateurs avec des comptes Google grand public. Pour plus d'informations, voir [Questions relatives à la connexion à une ou plusieurs applications à l'aide du navigateur Chrome uniquement](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
 
 **Je ne peux pas créer un nouvel utilisateur dans mon annuaire Azure AD**
 
@@ -36,6 +36,6 @@ ms.locfileid: "54118742"
 1. Voir [les rôles et les administrateurs](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pour votre AD Azur.
 1. Voir les [noms de domaine](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pour votre AD azur.
 1. Consultez [les journaux d'audit](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) pour obtenir des informations plus détaillées sur un utilisateur récemment créé ou supprimé, comme l'identité de la personne qui a effectué l'action et la date de celle-ci.
-1. Pour plus d’informations sur l’ajout de nouveaux utilisateurs, voir Utiliser le portail Azure pour créer un utilisateur [dans votre Azure AD.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Rôles d’administrateur Azure AD](/azure/active-directory/active-directory-assign-admin-roles): autorisations de rôle d’administrateur dans Azure Active Directory
-1. Vous pouvez également [utiliser Azure AD PowerShell pour créer un utilisateur.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Pour plus d’informations sur l’ajout de nouveaux utilisateurs, voir Utiliser le portail Azure pour créer un utilisateur [dans votre Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+1. [Rôles d’administrateur Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): autorisations de rôle d’administrateur dans Azure Active Directory
+1. Vous pouvez également [utiliser Azure AD PowerShell pour créer un utilisateur.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

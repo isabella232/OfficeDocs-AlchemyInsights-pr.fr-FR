@@ -1,5 +1,5 @@
 ---
-title: Abonnements de messagerie Outlook.com
+title: Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672414"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111902"
 ---
-# <a name="email-subscriptions"></a>Abonnements de messagerie
+# <a name="email-subscriptions"></a>Abonnements aux e-mails
 
-Pourquoi les messages électroniques sont-ils répertoriés dans mes listes d’abonnements ?
+Pourquoi les e-mails s’y voient-ils dans mes listes d’abonnements ?
 
-Outlook.com a détecté que le message électronique contient des informations d’abonnement, notamment « se désabonner » dans le message. Outlook.com n’a pas automatiquement souscrit à un bulletin d’informations.
+Outlook.com a détecté que le message électronique contient des informations d’abonnement, notamment « Se désabonner » dans le message. Outlook.com ne vous a pas automatiquement abonné à des bulletins d’informations.
 
-Si vous ne souhaitez plus recevoir de bulletins d’informations ou de promotions, vous pouvez annuler l’abonnement à l’aide de Outlook.com de deux manières :
-1. Dans votre boîte de réception, sélectionnez un bulletin d’informations ou un courrier promotionnel. En haut du volet de lecture, sélectionnez **Annuler l’abonnement**.
-2. Ouvrez vos paramètres d' [abonnement Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) et sélectionnez **Annuler l’abonnement**.
+Si vous souhaitez arrêter de recevoir des bulletins d’informations ou des promotions, vous pouvez vous désabonner de deux façons à l’aide Outlook.com :
+1. Dans votre boîte de réception, sélectionnez un bulletin d’informations ou un e-mail promotionnel. En haut du volet de lecture, sélectionnez **Se désabonner.**
+2. Ouvrez [vos paramètres Outlook.com Subscriptions](https://go.microsoft.com/fwlink/?linkid=2110887) et sélectionnez **Se désabonner.**
 
-Remarques : cette fonctionnalité ne s’affiche que si vous avez reçu un e-mail de la part de la société qui envoie des courriels.
-Si votre requête concerne les abonnements payants Microsoft 365, accédez à [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   ou [en savoir plus sur Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Remarques : vous ne verrez cette fonctionnalité que si vous avez reçu un e-mail de la société envoyant des e-mails abonnés.
+Si votre requête est sur les abonnements Microsoft 365 payants, voir ou en savoir plus [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) [sur Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   
