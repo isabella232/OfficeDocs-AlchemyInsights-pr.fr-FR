@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Service d’importation dans le Centre Office 365 sécurité & et conformité
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312721"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418147"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Service d’importation
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Service d’importation dans le Centre Office 365 sécurité & et conformité
 
-Pour accéder au service d’importation et démarrer le processus d’importation :
+Office 365 Le service d’importation vous permet d’importer plusieurs fichiers PST dans les boîtes aux lettres Exchange Online utilisateurs. Utilisez le service d’importation pour importer en bloc  des fichiers PST dans votre organisation à l’aide de l’option Chargement réseau ou **Expédition de disque.**
 
-1. Go to the [M365 Compliance Center](https://compliance.microsoft.com/), and sign in using the credentials for an administrator account in your organization.
+Pour accéder au service d’importation et aux outils permettant d’importer plusieurs fichiers PST :
 
-1. Dans le volet gauche du Centre de conformité M365 sous **Solutions,** sélectionnez **Importer la gouvernance des**  >  **informations.**
+1. Go to [Office 365 Security & Compliance,](https://protection.office.com)and sign in with your Office 365 account.
+1. Sélectionnez **Gouvernance des données,** **Sélectionnez Importer** et suivez les étapes de l’Assistant. 
 
-1. Dans la page **Importer,** sélectionnez **Nouvelle tâche d’importation.** Entrez un nom de travail, puis sélectionnez **Suivant**.
+Pour plus d’informations et des instructions détaillées sur [l’importation](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)de plusieurs fichiers PST, voir Vue d’ensemble de l’importation des fichiers PST de votre organisation.
 
-1. Sélectionnez **Télécharger données pour utiliser** l’option de chargement réseau pour le type de tâche **d’importation.** Pour obtenir la procédure détaillée, voir Utiliser le chargement réseau pour importer les fichiers [PST](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)de votre organisation dans Microsoft 365 .
-
-Pour accéder  à la page d’importation, assurez-vous que les autorisations appropriées vous ont été attribuées. Pour plus d’informations, voir [Utilisation du chargement réseau pour importer des fichiers PST.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
-
-Si vous souhaitez importer un fichier PST dans votre boîte aux lettres, voir Importer le courrier électronique, les contacts et le calendrier à partir [d’Outlook fichier .pst.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
-
-Si vous avez un problème avec une importation, voir Problèmes qui affectent les [travaux d’importation PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Pour importer un fichier PST unique, voir Importer et exporter Outlook [courrier électronique, contacts et calendrier.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)
 

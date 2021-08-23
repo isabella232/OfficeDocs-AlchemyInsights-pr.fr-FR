@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: 98c2ba5283e9151bb3c01894e47e1541d0a35f23
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5e51a2d00ac9aa2f5d93a91036e69bc2218eacdb
+ms.sourcegitcommit: 4b92c2648ddba3ad3bc61a22771c59ed5fc76303
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324470"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58370201"
 ---
-# <a name="managing-review-dets-in-advanced-ediscovery"></a>Gestion des critères d'examen dans le cadre de l'eDiscovery avancée
+# <a name="managing-review-sets-in-advanced-ediscovery"></a>Gestion des ensembles de révision dans Advanced eDiscovery
 
 Pour gérer les ensembles de révision dans Advanced eDiscovery :
 
