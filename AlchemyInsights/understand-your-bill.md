@@ -1,8 +1,9 @@
 ---
 title: Comprendre votre facture
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 41fef2ca1d65b46e49b602b5cd03e19a4ab708fc
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796855"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451812"
 ---
 # <a name="understand-your-bill"></a>Comprendre votre facture
 
@@ -38,7 +40,7 @@ Si le montant facturé est différent de celui prévu, il peut y avoir plusieurs
 
 1. Des licences ont été ajoutées ou supprimées de votre abonnement ; si les licences sont modifiées avant la fin du terme, la facture suivante le mentionne.  Un crédit et une nouvelle facturation pour la période de service précédente peuvent apparaître en relation avec cette modification.
 
-2. L’abonnement a été annulé.  Vous recevez une facture après l’annulation présentant tout solde restant moins les crédits.
+2. L’abonnement a été annulé.  Vous recevrez une facture après l’annulation avec tout solde impayé moins les crédits éventuels.
 
 3. Votre abonnement est renouvelé pour un nouveau terme et le prix de la licence a changé.  
 
