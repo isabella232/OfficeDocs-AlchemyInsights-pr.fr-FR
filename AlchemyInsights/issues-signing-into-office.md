@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f8f2824cc4a575ab7d7c9adec5b75e5955ec9fb5
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087998"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744634"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problèmes de la signature Microsoft 365 Apps
+
+Remarque : si vous utilisez une version antérieure de Windows (par exemple, Windows 7 SP1, Windows Server 2008 R2), utilisez le correctif simple pour activer TLS 1.2 par défaut. [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Pour plus d’informations, consultez [Mise à jour pour activer TLS 1.1 et TLS 1.2 comme protocoles sécurisés par défaut dans WinHTTP dans Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 Pour résoudre les problèmes de connexion avec les applications Microsoft 365, essayez les options suivantes sur l’ordinateur concerné :  
 
@@ -28,7 +30,7 @@ Pour résoudre les problèmes de connexion avec les applications Microsoft 365,
 
 **Conseil** sur les ordinateurs Windows, nous pouvons diagnostiquer et résoudre automatiquement pour vous plusieurs problèmes courants liés à la connexion à Office. Téléchargez et exécutez **[L’Assistant Support et Récupération de Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** pour utiliser notre outil automatisé.
 
-**Remarque :** La désactivation de l’authentification moderne (ADAL) ou de la gestion des comptes Web (WAM) pour résoudre les problèmes de la signature ou de l’activation **n’est pas recommandée.** Si les erreurs se produisent lors de la connexion à Microsoft 365 à [](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) l’aide Office 2013, assurez-vous d’activer l’authentification moderne pour Office client.
+**Remarque :** La désactivation de l’authentification moderne (ADAL) ou de la gestion des comptes Web (WAM) pour résoudre les problèmes de la signature ou de l’activation **n’est pas recommandée.** Si les erreurs se produisent lors de la connexion à Microsoft 365 à [](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) l’aide de Office 2013, veillez à activer l’authentification moderne pour Office client.
 
 Pour des actions de dépannage spécifiques, voir :
 
