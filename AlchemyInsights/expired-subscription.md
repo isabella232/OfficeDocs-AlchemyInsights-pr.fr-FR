@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: c4ae498a31d8a4617fbdd340461e4c1564cfe3e0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325293"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845032"
 ---
 # <a name="expired-subscription"></a>Abonnement expiré
 
@@ -39,7 +39,7 @@ Pour en savoir plus, consultez l’article [Réactiver votre abonnement](https:/
 **Effectuer un nouvel achat**
   
 1. Dans le centre d’administration, accédez à la page **facturation** \> [Acheter des services](https://go.microsoft.com/fwlink/p/?linkid=868433).
-2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **Acheter**.
+2. Choisissez l’abonnement que vous souhaitez acheter, puis choisissez **Acheter.**
 3. Entrez le nombre de licences utilisateur dont vous avez besoin, puis choisissez si vous souhaitez régler de façon mensuelle ou annuelle. Choisissez si vous souhaiter attribuer automatiquement des licences à tous vos utilisateurs qui n’en ont pas actuellement. Ensuite, **sélectionnez Partir maintenant.**
 4. Suivez les étapes restantes pour terminer l’enregistrement.
 

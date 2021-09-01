@@ -3,7 +3,6 @@ title: Facturation et paiement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314914"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844960"
 ---
 # <a name="billing-and-payment"></a>Facturation et paiement
 
@@ -46,7 +46,7 @@ Si vous avez ajouté une nouvelle carte et que vous êtes toujours en train d’
 
 4. Pour utiliser un mode de paiement existant, choisissez-le dans la liste déroulante, puis sélectionnez **Remplacer**.
 
-    **Remarque**: si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte de crédit ou de débit pour les payer. Si vous avez des comptes bancaires répertoriés sur la page **Modes de paiement**, vous ne pouvez pas les sélectionner dans la liste déroulante.
+    **Note**: Si vous avez des abonnements associés à un profil de facturation, vous pouvez uniquement utiliser une carte de débit ou de crédit pour les régler. Si vous avez des comptes bancaires répertoriés sur la page **Modes de paiement**, vous ne pouvez pas les sélectionner dans la liste déroulante.
 
 5. Pour ajouter un nouveau mode de paiement, sélectionnez **Ajouter un mode de paiement**.
 
