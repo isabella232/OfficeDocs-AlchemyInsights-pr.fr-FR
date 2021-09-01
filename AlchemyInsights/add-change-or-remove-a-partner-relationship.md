@@ -14,18 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "3748"
-ms.openlocfilehash: 4a2c26c3850d99aeb19cc3c47116faffa879edfa
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 0f6e5cdfb678642b11c1375db47f0a988e4beb24
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450948"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842836"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Ajouter, modifier ou supprimer une relation de partenaire
 
 En tant qu’administrateur, vous pouvez travailler avec un partenaire pour acheter, activer et renouveler Microsoft 365 abonnements. 
 
-- Si vous souhaitez modifier votre relation de partenaire existante, voir Ajouter, modifier ou supprimer un partenaire de conseil [d’abonnement.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)
+- Si vous cherchez à modifier votre relation de partenaire existante, voir Ajouter, modifier ou supprimer un partenaire de conseil [d’abonnement.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)
 
 - Si vous recherchez un partenaire Microsoft, consultez Rechercher votre partenaire Microsoft 365 [ou revendeur.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
 

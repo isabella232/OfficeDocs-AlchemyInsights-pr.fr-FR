@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: 7c25c2b782bdffadd5239aeeb7e0aba5386aeef42a7b5236c7d282ac3ba26a55
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 7c3d346826f6ab0385fde20b97e36f1ef6febdc6
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029334"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843664"
 ---
 # <a name="how-to-cancel-a-subscription"></a>Comment annuler un abonnement
 
@@ -35,5 +36,5 @@ Une fois votre abonnement annulé, la facturation est arrêtée immédiatement. 
 
 Une fois annulés, vos services sont désactivés. Cela signifie que vos machines virtuelles sont arrêtées, les adresses IP temporaires sont libérées et le stockage est en lecture seule.
 
-Une fois votre abonnement annulé, Microsoft atend pendant une période de 30 à 90 jours avant de supprimer définitivement vos données, dans le cas où vous avez besoin d’y accéder ou si vous changez d’avis. Nous ne vous facturons pas la conservation des données. Pour plus d’informations, voir Centre de gestion de la relation de confiance [Microsoft - Comment nous gérons vos données](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Une fois votre abonnement annulé, Microsoft atend pendant une période de 30 à 90 jours avant de supprimer définitivement vos données, dans le cas où vous avez besoin d’y accéder ou si vous changez d’avis. Nous ne vous facturons pas la conservation des données. Pour plus d’informations, [consultez le Centre de gestion de la gestion](https://www.microsoft.com/trust-center/privacy/data-management#leave)de la gestion des données Microsoft .
 

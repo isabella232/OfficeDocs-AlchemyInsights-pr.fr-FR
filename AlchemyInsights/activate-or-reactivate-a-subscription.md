@@ -3,6 +3,7 @@ title: Activer ou réactiver un abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314310"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842872"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Activer ou réactiver un abonnement
 
@@ -39,7 +41,7 @@ Si votre abonnement expire, a été désactivé par Microsoft ou si vous l’ave
 
     **Important**: si vous  ne voyez pas Réactiver cet abonnement comme action [disponible,](https://go.microsoft.com/fwlink/p/?linkid=518322) appelez le support technique pour réactiver votre abonnement.
 
-4. Dans le **volet Réactiver cet** abonnement, sélectionnez un mode de paiement existant ou **ajoutez un mode de paiement.**
+4. Dans le **volet Réactiver ce volet** d’abonnement, sélectionnez un mode de paiement existant ou **sélectionnez Ajouter un mode de paiement.**
 5. Sélectionnez **Réactiver.**
 
 Pour plus d’informations, consultez l’article [Réactiver votre abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
