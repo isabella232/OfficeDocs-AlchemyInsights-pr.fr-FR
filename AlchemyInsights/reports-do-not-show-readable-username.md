@@ -1,5 +1,5 @@
 ---
-title: Les rapports du Centre d'administration Microsoft 365 n’indiquent pas le nom d’utilisateur de façon lisible
+title: Les rapports dans Centre d'administration Microsoft 365 n’indiquent pas le nom d’utilisateur lisible
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,23 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "13809"
+- "13810"
+- "13812"
 - "9008619"
-ms.openlocfilehash: 63a412155c654e3a0d7913de3ec8222982017045
-ms.sourcegitcommit: 744f03d1c3e6e22975fb96396686b112e385a82d
+ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
+ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58867029"
+ms.lasthandoff: 09/04/2021
+ms.locfileid: "58896346"
 ---
-# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Les rapports du Centre d'administration Microsoft 365 n’indiquent pas le nom d’utilisateur de façon lisible
+# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Les rapports dans Centre d'administration Microsoft 365 n’indiquent pas le nom d’utilisateur lisible
 
-Les rapports du Centre d'administration Microsoft 365 n’indiquent pas les noms d’utilisateur, mais plutôt les valeurs numériques alpha, telles que B2BC6C15BB9FCDEA71E5CD302D228CC8.
+Les rapports dans Centre d'administration Microsoft 365 n’indiquent pas les noms d’utilisateur, mais plutôt les valeurs numériques alpha, telles que B2BC6C15BB9FCDEA71E5CD302D228CC8.
 
-Ce comportement est attendu et a été communiqué dans le centre de messages (MC275344, publié le 3 août 2021). 
+This is expected behavior and has been communicated in the Message Center (MC275344, published Aug. 3, 2021). 
 
-Les administrateurs globaux peuvent inverser cette modification pour leur client et afficher des informations utilisateur identifiables si les pratiques de confidentialité de leur organisation le permettent. Pour inverser la modification pour le client :
+Les administrateurs globaux peuvent revenir sur cette modification pour leur locataire et afficher les informations identifiables de l'utilisateur si les pratiques de confidentialité de leur organisation le permettent. Pour annuler la modification pour le locataire :
 
-1. Dans le Centre d’administration, allez à **Paramètres** > **Paramètres de l’organisation** > **Services**, puis sélectionnez **Rapports**. 
-1. Sous **Choisir comment afficher les informations utilisateur,** sélectionnez **Afficher les informations utilisateur identifiables dans les rapports**, ré-exécuter le rapport.
+1. Dans le Centre d’administration, **Paramètres** Services de  >  **paramètres** d’organisation,  >  [](https://admin.microsoft.com/Adminportal/Home#/Settings/Services)puis sélectionnez **Rapports.** 
+1. Sous **Choisir comment afficher les informations utilisateur,** sélectionnez Afficher les informations utilisateur identifiables dans les **rapports,** puis ré-exécuter le rapport.
