@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978159"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923552"
 ---
 # <a name="endpoint-manager---security-baselines"></a>Endpoint Manager : base de référence de sécurité
 
@@ -37,6 +37,8 @@ Chaque base de référence est mise à jour périodiquement et publiée dans des
 Pour obtenir des instructions sur la modification efficace de la base de référence déployée, consultez [Gérer les profils d’une base de référence de sécurité dans Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Après avoir déployé une base de référence de sécurité, vous pouvez surveiller l’état du déploiement et passer en revue les paramètres de chaque appareil.
+
+Étant donné que les lignes de base de sécurité contiennent de nombreux paramètres, il est important de passer en revue les modifications de configuration et d’effectuer des tests pour vous assurer que tous les paramètres sont appropriés pour vos appareils et vos besoins métiers.
 
 **Remarque :** l’affichage du rapport des données de base de référence peut prendre jusqu’à 24 heures à partir du déploiement initial sur un appareil, et jusqu’à 6 heures pour des mises à jour supplémentaires. 
 
