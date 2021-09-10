@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58577706"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923516"
 ---
 # <a name="activating-office-365-applications-on-windows-365-pcs"></a>Activation des applications d’Office 365 sur PC Windows 365
+
+**Note**: ce problème n’est PAS applicable aux utilisateurs disposant de licences Windows 365 Enterprise.
 
 Images de PC Windows 365 qui incluent des copies installées d’applications Office 365, qui sont activées lors de l’ouverture de l’une des applications Office pour la première fois.
 
