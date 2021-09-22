@@ -12,13 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3545"
-ms.openlocfilehash: 6a4995ef309a9434c458fe3578a0048d1c67989781e09ee2018fda867c0b69f5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 24723b66d907947e35e5f0287305b6d25d65511e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54114998"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475179"
 ---
 # <a name="limit-sharing-in-microsoft-365"></a>Limiter le partage dans Microsoft 365
 
-Bien que vous ne pouvez pas désactiver entièrement le partage interne ou supprimer le bouton Partager des sites, il existe plusieurs façons de limiter le partage dans Microsoft 365 pour répondre aux besoins de votre organisation. Pour plus d’informations, voir [Limiter le partage dans Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).
+Bien que vous ne pouvez pas désactiver entièrement le partage interne ou supprimer le bouton Partager des sites, vous pouvez limiter le partage dans Microsoft 365 de nombreuses façons pour répondre aux besoins de votre organisation. 
+
+Pour plus d’informations, voir :
+
+- [Limiter le partage dans Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).
+- [Arrêter le partage OneDrive ou SharePoint fichiers ou dossiers](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Comment supprimer des utilisateurs d’SharePoint](https://docs.microsoft.com/sharepoint/remove-users)
