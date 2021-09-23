@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062870"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475215"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Mode de publication d’une étiquette de confidentialité
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062870"
 1. Si vous créez plusieurs stratégies d’étiquette pouvant entraîner un conflit pour un utilisateur ou un emplacement, vérifiez l’ordre des stratégies et, le cas échéant, déplacez-les vers le haut ou vers le haut. Pour modifier l'ordre d'une politique d'étiquetage, sélectionnez les trois points (autres actions), puis sélectionnez **Déplacer vers le haut** ou **Déplacer vers le bas**.
 
 La stratégie d’étiquette est publiée automatiquement dès la fin de l'Assistant.
+
+Pour plus d’informations, consultez [Créer et configurer des étiquettes de confidentialité et leurs stratégies](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
