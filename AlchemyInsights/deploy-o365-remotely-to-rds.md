@@ -1,5 +1,5 @@
 ---
-title: Déploiement de Applications Microsoft 365 pour les grandes entreprises pour une utilisation partagée sur RDS, Terminal Server ou VDI
+title: Déploiement de Microsoft 365 Apps pour une utilisation partagée sur RDS, Terminal Server ou VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041004"
+ms.locfileid: "60077248"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Déploiement de Applications Microsoft 365 pour les grandes entreprises pour une utilisation partagée sur RDS, Terminal Server ou VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Déploiement de Microsoft 365 Apps pour une utilisation partagée sur RDS, Terminal Server ou VDI
 
 Pour déployer Microsoft 365 Apps à l’aide des services Bureau à distance (RDS), anciennement services Terminal Services, vous devez :
 
@@ -28,7 +28,7 @@ Pour déployer Microsoft 365 Apps à l’aide des services Bureau à distance (R
 - Avoir un plan qui inclut Applications Microsoft 365 pour les grandes entreprises (précédemment Office 365 Plus). Par exemple, Office 365 E3 ou Microsoft 365 E5, ou tout plan qui inclut la version de bureau de Project ou de Visio, telle que Project (plan 3) ou Visio (plan 2), ou le plan Microsoft 365 Business Premium, qui inclut également Applications Microsoft 365 pour les PME.
 - Activer l’activation d’ordinateurs partagés. Pour plus d’informations, voir [Vue d’ensemble de l’activation d’ordinateurs Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Remarque**: pour installer les Microsoft 365 Apps en mode d’activation d’ordinateurs partagés, téléchargez et exécutez [l’application Microsoft Assistant Support et récupération](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Pour plus d’informations sur les conditions préalables, les instructions de configuration et les instructions de personnalisation des installations à l’aide de l’outil déploiement Office, voir [Déployer Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)à l’aide des services Bureau à distance.
+**Remarque**: pour installer les Microsoft 365 Apps en mode d’activation d’ordinateurs partagés, téléchargez et exécutez [l’application Microsoft Assistant Support et récupération](https://aka.ms/SaRA_OfficeSCA_M365Portal). Pour plus d’informations sur les conditions préalables, les instructions de configuration et les instructions de personnalisation des installations à l’aide de l’outil déploiement Office, voir [Déployer Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)à l’aide des services Bureau à distance.
 
 Pour corriger les erreurs liées à l’activation d’ordinateurs partagés, voir :
 
