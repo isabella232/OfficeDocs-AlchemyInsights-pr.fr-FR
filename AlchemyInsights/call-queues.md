@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103910"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131892"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Files d’attente d’appels Microsoft Teams et Skype Entreprise 
 
-Pour commencer à utiliser les files d’attente d’appels, reportez-vous aux liens suivants.
+Les files d’attente d’appels nécessitent des comptes de licence et de ressources spécifiques. Pour plus d’informations, voir [Plan for Teams auto attendants and call queues: Prerequisites]( https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
 
-- [Créer une file d’attente d’appels cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Répondre aux appels dans la file d’attente ou du standard automatique directement à partir de Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Pour en savoir plus sur la création et la configuration des files d’attente d’appels dans Microsoft Teams, voir [Créer une file d’attente d’appels.](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) 
+
+Pour plus d’informations, voir [Répondre aux appels de la file d’attente](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)et du service de répond automatique directement à partir Teams . 
